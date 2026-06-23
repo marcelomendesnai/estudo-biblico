@@ -14,22 +14,30 @@ window.ESTUDOS = [
    {
     "ref": "Hebreus 11:1",
     "ensino": "Repare nas duas palavras que o texto usa: a fé é “fundamento” e “prova”. Fundamento é a base que sustenta; prova é a certeza que convence. No dia a dia você já vive assim: senta numa cadeira confiando que ela aguenta antes de testá-la, e trabalha o mês inteiro contando com um salário que ainda não caiu na conta. A fé em Deus é esse mesmo movimento, levado ao nível mais alto: agir hoje firmado em promessas Dele que ainda não se cumpriram diante dos seus olhos.",
-    "text": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se vêem."
+    "text": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se vêem.",
+    "contexto": "Esta é a frase de abertura do chamado “capítulo da fé”, escrito a cristãos de origem judaica cansados e tentados a desistir. Antes de listar qualquer exemplo, o autor para e define o que é a fé.",
+    "reflexao": "Pergunte-se: em que área você está agindo hoje apenas pelo que enxerga? A fé convida a dar o passo confiando na promessa de Deus antes de ver o resultado na sua frente."
    },
    {
     "ref": "Romanos 10:17",
     "ensino": "A fé não nasce do nada, nem de tentar “forçar” a crença apertando os olhos. Ela cresce pelo ouvir a palavra de Cristo. É como a confiança numa pessoa: você passa a confiar à medida que a conhece e ouve o que ela diz. Por isso, quando a sua fé está fraca, o caminho não é se esforçar mais para sentir, e sim chegar mais perto da Palavra, onde a fé é alimentada e desperta de novo.",
-    "text": "Logo a fé é pelo ouvir, e o ouvir pela palavra de Cristo."
+    "text": "Logo a fé é pelo ouvir, e o ouvir pela palavra de Cristo.",
+    "contexto": "Paulo escreve por volta do ano 57 a uma igreja em Roma que ainda não conhecia pessoalmente. No capítulo 10 ele explica como a salvação chega às pessoas e insiste que ninguém pode crer em quem nunca ouviu falar.",
+    "reflexao": "Se a sua fé anda fraca, onde você tem buscado alimentá-la? O caminho não é se esforçar para sentir mais, e sim chegar mais perto da Palavra, onde a fé desperta."
    },
    {
     "ref": "Tiago 2:17",
     "ensino": "Aqui está o equilíbrio: a fé verdadeira não fica parada na cabeça, ela se move nas mãos. Dizer que confia no médico, mas não tomar o remédio que ele receitou, não é confiança de verdade. Crer em Deus e nunca dar um passo de obediência é uma fé só de palavra. As obras não compram nada diante de Deus, mas mostram que a fé está viva, assim como o fruto mostra que a árvore tem raiz.",
-    "text": "Assim também a fé, se não tiver obras, é morta em si mesma."
+    "text": "Assim também a fé, se não tiver obras, é morta em si mesma.",
+    "contexto": "Carta atribuída a Tiago, líder da igreja de Jerusalém, dirigida a cristãos judeus espalhados por perseguição. No capítulo 2 ele confronta uma fé só de palavras, que diz “ide em paz” ao faminto sem fazer nada por ele.",
+    "reflexao": "Qual passo de obediência a sua fé está pedindo e você ainda não deu? A fé viva sempre se mostra em alguma atitude concreta."
    },
    {
     "ref": "Mateus 17:20",
     "ensino": "Jesus não elogia o tamanho da fé, mas a sua direção. Uma fé do tamanho de um grão de mostarda já move montanhas, porque o poder não está na intensidade do seu sentimento, e sim em Quem você confia. Uma chave pequena abre uma porta enorme. Então não espere ter uma fé gigante para começar: traga a fé pequena que você tem e coloque-a no Deus grande a quem você serve.",
-    "text": "Disse-lhes ele: Por causa da vossa pouca fé; pois em verdade vos digo que, se tiverdes fé como um grão de mostarda direis a este monte: Passa daqui para acolá, e ele há de passar; e nada vos será impossível."
+    "text": "Disse-lhes ele: Por causa da vossa pouca fé; pois em verdade vos digo que, se tiverdes fé como um grão de mostarda direis a este monte: Passa daqui para acolá, e ele há de passar; e nada vos será impossível.",
+    "contexto": "Jesus diz isso logo após descer do monte da transfiguração, quando encontra os discípulos frustrados por não conseguirem libertar um menino atormentado.",
+    "reflexao": "Você tem esperado ter uma fé grande para então agir? Traga a fé pequena que já tem e coloque-a no Deus grande a quem você serve."
    }
   ],
   "interpretacao": {
@@ -37,32 +45,6 @@ window.ESTUDOS = [
     "A carta aos Hebreus foi escrita a cristãos cansados, pressionados e tentados a abandonar a fé e voltar atrás. O capítulo 11 é a resposta do autor: uma verdadeira galeria de pessoas comuns que confiaram em Deus sem ver o resultado de imediato.",
     "Antes de citar qualquer exemplo, porém, ele define o que é a fé. Não é um sentimento que vai e vem, nem otimismo: é confiança firme naquilo que Deus prometeu e convicção do que ainda não se vê.",
     "E o versículo 6 fecha o raciocínio: aproximar-se de Deus exige crer que Ele existe e que recompensa quem O busca. Fé, aqui, não é uma ideia parada na cabeça, é movimento em direção a Deus."
-   ],
-   "refs": [
-    {
-     "ref": "Hebreus 11:3",
-     "ctx": "Logo depois de definir a fé e de dizer que sem ela é impossível agradar a Deus, o autor começa a sua lista de exemplos. Mas, antes de citar qualquer pessoa, ele aponta para o ato mais antigo de todos: a própria criação. Escrevendo a cristãos judeus cansados e tentados a desistir, lembrá-los da fé desde a fundação do mundo era mostrar que confiar em Deus é mais antigo e mais firme do que as pressões do presente.",
-     "exp": "A fé enxerga a mão de Deus onde os olhos não alcançam: cremos que Ele formou o que vemos a partir do que não se via.",
-     "text": "Pela fé entendemos que os mundos foram criados pela palavra de Deus; de modo que o visível não foi feito daquilo que se vê."
-    },
-    {
-     "ref": "Efésios 2:8",
-     "ctx": "Paulo escreve a cristãos em Éfeso, uma cidade rica e muito religiosa, cheia de templos e de gente tentando agradar aos deuses pelo próprio mérito. Contra essa cultura de “merecer o favor divino”, ele afirma que a salvação é dom de Deus, recebido pela fé, e não algo conquistado por obras das quais alguém possa se gabar.",
-     "exp": "Mostra a natureza da fé que salva: ela não é mais uma obra para nos orgulharmos, é a mão vazia que se abre para receber o presente de Deus.",
-     "text": "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus;"
-    },
-    {
-     "ref": "2 Coríntios 5:7",
-     "ctx": "Paulo escreve a uma igreja conturbada em Corinto, defendendo o seu ministério em meio a muito sofrimento, prisões e perseguição. No capítulo 5 ele fala da esperança que há depois da morte e descreve o corpo atual como uma “tenda” provisória; é nesse contexto de fragilidade e de olhar para o eterno que ele resume o seu modo de viver.",
-     "exp": "Resume a vida de fé: caminhar confiando em Deus e na realidade que não se vê, e não apenas no que os olhos enxergam agora.",
-     "text": "{porque andamos por fé, e não por vista};"
-    },
-    {
-     "ref": "Romanos 4:20",
-     "ctx": "Para explicar a justificação pela fé, Paulo recorre a Abraão, o grande exemplo. Deus havia prometido a ele um filho quando já era idoso e a esposa, estéril; humanamente falando, impossível. Décadas se passaram entre a promessa e o cumprimento, e é a postura de Abraão nessa longa espera que Paulo destaca.",
-     "exp": "Mostra a fé madura: diante do impossível, Abraão não vacilou, mas se fortaleceu dando glória a Deus, convicto de que Ele é poderoso para cumprir o que promete.",
-     "text": "contudo, à vista da promessa de Deus, não vacilou por incredulidade, antes foi fortalecido na fé, dando glória a Deus,"
-    }
    ]
   },
   "aplicacao": [
