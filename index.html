@@ -104,7 +104,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .home-h .it{font-style:italic; color:var(--madeira)}
 .home-sub{font-size:9pt; color:var(--tinta-suave); margin-top:6px; margin-bottom:20px}
 .btn-sortear{display:flex; align-items:center; justify-content:center; gap:9px; width:100%; background:var(--madeira); color:#fff;
-  font-family:"DM Sans",sans-serif; font-weight:600; font-size:11pt; border:none; border-radius:14px; padding:15px; cursor:pointer;
+  font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:14pt; letter-spacing:.2px; border:none; border-radius:14px; padding:15px 16px; cursor:pointer;
   box-shadow:0 10px 26px rgba(122,82,48,.28); transition:.15s}
 .btn-sortear:active{transform:scale(.98)}
 .grid-titulo{font-size:7.5pt; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--nota); margin:24px 0 12px}
@@ -148,15 +148,16 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 #sessao{position:absolute; inset:0; z-index:100; display:none; flex-direction:column; background:#fff}
 .topo{position:absolute; top:0; left:0; right:0; z-index:10; display:flex; align-items:center; justify-content:space-between; padding:14px 18px; background:linear-gradient(to bottom, rgba(255,255,255,.9), rgba(255,255,255,0)); backdrop-filter:blur(2px)}
 .topo .voltar{background:none; border:none; color:var(--azul-inst); font-size:14pt; cursor:pointer; line-height:1}
-.tema-top{font-family:"DM Sans",sans-serif; font-weight:700; letter-spacing:.5px; text-transform:uppercase; font-size:9pt; color:var(--azul-inst)}
+.tema-top{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:13pt; color:var(--tinta); text-align:center; line-height:1.1; max-width:60%}
 .modo-tag{font-size:7pt; font-weight:700; color:#fff; background:var(--azul-inst); padding:3px 9px; border-radius:18px}
 .trilha-ctrl{position:absolute; top:52px; right:14px; z-index:11; display:flex; align-items:center; gap:6px; background:rgba(255,255,255,.8); border-radius:18px; padding:5px 10px; box-shadow:var(--sombra); backdrop-filter:blur(2px); cursor:pointer}
 .trilha-ctrl .ico{font-size:10pt; color:var(--azul-inst); width:12px; text-align:center}
 .trilha-ctrl small{font-size:6.5pt; color:var(--tinta-suave); font-weight:700}
 
 .trilho{display:flex; height:100%; width:100%; transition:transform .45s cubic-bezier(.4,0,.2,1)}
-.tela{min-width:100%; height:100%; padding:62px 18px 96px; overflow-y:auto; display:flex; flex-direction:column; gap:13px}
-.etapa-rotulo{font-size:7pt; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--azul-inst); opacity:.75}
+.tela{min-width:100%; height:100%; padding:62px 18px 96px; overflow-y:auto; -webkit-overflow-scrolling:touch; overscroll-behavior:contain; display:flex; flex-direction:column; gap:13px}
+.tela>*{flex-shrink:0}
+.etapa-rotulo{display:inline-block; align-self:flex-start; font-size:7.5pt; font-weight:700; letter-spacing:1.2px; text-transform:uppercase; color:#fff; background:var(--azul-inst); padding:4px 11px; border-radius:14px}
 .etapa-titulo{font-family:"Fraunces",Georgia,serif; font-size:16pt; font-weight:500; color:var(--tinta); line-height:1.2}
 .intro{font-size:9pt; line-height:1.5; color:var(--tinta-suave)}
 
@@ -406,7 +407,7 @@ function telaOracao(rot,titulo,texto){
 function telaTexto(e){
   let v=e.texto_base_text.map(t=>`<div class="ref">${t.ref}</div><div class="versiculo">${esc(t.text)}</div>`).join('');
   return `<section class="tela"><div class="etapa-rotulo">Texto base</div>
-    <div class="etapa-titulo">Leia com calma</div>
+    
     <div class="palavra"><div class="selo">&#10022; Palavra</div>${v}</div></section>`;
 }
 function telaObserva(e){
@@ -415,7 +416,7 @@ function telaObserva(e){
     <div class="a-verso"><div class="selo">&#10022; Palavra</div><div class="ref">${o.ref}</div><div class="v">${esc(o.ref_text)}</div></div></div></div>`).join('');
   return `<section class="tela"><div class="etapa-rotulo">Observação</div>
     <div class="etapa-titulo">O que o texto diz</div>
-    <div class="intro">Toque em cada pergunta para conferir e ver um versículo que reafirma.</div>${qa}</section>`;
+    ${qa}</section>`;
 }
 function vrefs(list){ return list.map(r=>`<div class="vref"><div class="selo">&#10022; Palavra</div><div class="ref">${r.ref}</div><div class="v">${esc(r.text)}</div></div>`).join(''); }
 function telaInterp(e){
@@ -446,7 +447,7 @@ function telaAplica(e){
     <div class="ap-orient"><span class="esel">&#9670; Orientação</span><span class="otxt">${esc(o.orient)}</span></div></div></div>`).join('');
   return `<section class="tela"><div class="etapa-rotulo">Aplicação</div>
     <div class="etapa-titulo">O que muda em mim</div>
-    <div class="intro">Responda com sinceridade. Depois toque em "Ver orientação".</div>${aps}</section>`;
+    ${aps}</section>`;
 }
 function telaFim(e){
   return `<section class="tela fim"><div class="em">${e.emoji}</div><h2>Estudo concluído</h2>
