@@ -2518,5 +2518,985 @@ window.ESTUDOS = [
     "text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
    }
   ]
+ },
+ {
+  "id": "trabalho",
+  "tema": "Trabalho",
+  "emoji": "💼",
+  "accent": "#6a7a8a",
+  "resumo": "Trabalhar como para Deus.",
+  "oracao_abertura": "Senhor, o meu trabalho ocupa boa parte da minha vida. Ensina-me a fazê-lo como para Ti, com excelência e sem idolatrá-lo. Dá-me propósito no que faço e equilíbrio entre o esforço e o descanso. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Colossenses 3:23",
+   "Provérbios 16:3"
+  ],
+  "observacao": [
+   {
+    "q": "Para quem, segundo Paulo, devemos trabalhar de coração?",
+    "a": "Para o Senhor, e não para os homens. Isso muda a motivação: até o trabalho comum vira serviço a Deus.",
+    "ref": "Colossenses 3:23-24",
+    "ref_text": "E tudo quanto fizerdes, fazei-o de coração, como ao Senhor, e não aos homens, sabendo que do Senhor recebereis como recompensa a herança; servi a Cristo, o Senhor."
+   },
+   {
+    "q": "O trabalho é castigo ou faz parte do plano de Deus?",
+    "a": "Faz parte do plano: Deus pôs o homem no jardim para o cultivar, antes mesmo da queda. Trabalhar é dignidade, não maldição.",
+    "ref": "Gênesis 2:15",
+    "ref_text": "Tomou, pois, o Senhor Deus o homem, e o pôs no jardim do Édem para o lavrar e guardar."
+   },
+   {
+    "q": "O que Provérbios diz que há em todo trabalho?",
+    "a": "Proveito; mas \"as meras palavras só encaminham à pobreza\". O esforço produz, a conversa sozinha não.",
+    "ref": "Provérbios 14:23",
+    "ref_text": "Em todo trabalho há proveito; meras palavras, porém, só encaminham para a penúria."
+   },
+   {
+    "q": "Como encomendar a obra ao Senhor afeta os planos?",
+    "a": "\"Confia ao Senhor as tuas obras, e teus pensamentos serão estabelecidos\". Trabalhar com Deus dá firmeza ao que se planeja.",
+    "ref": "Provérbios 16:3",
+    "ref_text": "Entrega ao Senhor as tuas obras, e teus desígnios serão estabelecidos."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Paulo escreve a trabalhadores, muitos deles escravos, e diz algo revolucionário: façam o trabalho \"de coração, como ao Senhor\". Isso dá dignidade a qualquer função.",
+    "A Bíblia coloca o trabalho como parte do bom plano de Deus desde o Éden, não como castigo. Mas também não o transforma em ídolo: há ritmo de trabalho E descanso.",
+    "O critério cristão para o trabalho é fazer tudo para a glória de Deus e com excelência, sabendo que a recompensa final vem Dele."
+   ],
+   "refs": [
+    {
+     "ref": "1 Coríntios 10:31",
+     "ctx": "Paulo orienta sobre como viver o dia a dia em Corinto.",
+     "exp": "\"Quer comais, quer bebais... fazei tudo para a glória de Deus\": inclui o trabalho na lista do que glorifica a Deus."
+    },
+    {
+     "ref": "Provérbios 22:29",
+     "ctx": "Provérbio sobre o valor da competência.",
+     "exp": "O homem diligente no seu trabalho \"perante reis será posto\": a excelência abre portas e honra a Deus."
+    },
+    {
+     "ref": "Êxodo 20:9",
+     "ctx": "Parte do mandamento do sábado.",
+     "exp": "\"Seis dias trabalharás\": Deus ordena tanto o trabalho quanto o descanso. Trabalhar sem parar não é virtude."
+    },
+    {
+     "ref": "Salmos 90:17",
+     "ctx": "Oração de Moisés sobre a brevidade da vida.",
+     "exp": "\"Confirma sobre nós a obra das nossas mãos\": pedir a Deus que dê sentido e fruto ao nosso trabalho."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você trabalha mais para impressionar pessoas ou como para o Senhor?",
+    "ref": "Colossenses 3:23",
+    "orient": "Trabalhar \"como ao Senhor\" muda tudo, mesmo num chefe injusto. Escolha hoje uma tarefa e faça-a com excelência como oferta a Deus.",
+    "ref_text": "E tudo quanto fizerdes, fazei-o de coração, como ao Senhor, e não aos homens,"
+   },
+   {
+    "q": "Seu trabalho virou um ídolo (rouba sua paz, família, descanso)?",
+    "ref": "Êxodo 20:9",
+    "orient": "Deus ordenou trabalho E descanso. Reserve de propósito um tempo de parada esta semana; depender só do trabalho é não confiar em Deus.",
+    "ref_text": "Seis dias trabalharás, e farás todo o teu trabalho;"
+   },
+   {
+    "q": "Você tem encomendado seus planos de trabalho a Deus, ou carregado tudo sozinho?",
+    "ref": "Provérbios 16:3",
+    "orient": "Entregue ao Senhor uma decisão ou projeto atual em oração. Trabalhar com Deus dá firmeza que o esforço sozinho não dá.",
+    "ref_text": "Entrega ao Senhor as tuas obras, e teus desígnios serão estabelecidos."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado por dar dignidade ao meu trabalho. Ajuda-me a fazê-lo como para Ti, com excelência, sem transformá-lo em ídolo. Confirma a obra das minhas mãos e dá-me sabedoria para trabalhar e descansar. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Colossenses 3:23",
+    "text": "E tudo quanto fizerdes, fazei-o de coração, como ao Senhor, e não aos homens,"
+   },
+   {
+    "ref": "Provérbios 16:3",
+    "text": "Entrega ao Senhor as tuas obras, e teus desígnios serão estabelecidos."
+   }
+  ]
+ },
+ {
+  "id": "dinheiro",
+  "tema": "Dinheiro",
+  "emoji": "💰",
+  "accent": "#6a8a5a",
+  "resumo": "Servo útil, senhor cruel.",
+  "oracao_abertura": "Senhor, o dinheiro mexe com o meu coração mais do que eu admito. Ensina-me a usá-lo sem ser usado por ele. Que ele seja servo nas minhas mãos, e não senhor do meu coração. Em nome de Jesus, amém.",
+  "texto_base": [
+   "1 Timóteo 6:10",
+   "Mateus 6:24"
+  ],
+  "observacao": [
+   {
+    "q": "O dinheiro em si é a raiz dos males?",
+    "a": "Não; o AMOR ao dinheiro é a raiz de todos os males. O problema não é o ter, mas o amar e confiar nele.",
+    "ref": "1 Timóteo 6:10",
+    "ref_text": "Porque o amor ao dinheiro é raiz de todos os males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores."
+   },
+   {
+    "q": "Dá para servir a Deus e ao dinheiro ao mesmo tempo?",
+    "a": "Não. \"Não podeis servir a Deus e a Mamom\". Um dos dois sempre será o senhor do coração.",
+    "ref": "Mateus 6:24",
+    "ref_text": "Ninguém pode servir a dois senhores; porque ou há de odiar a um e amar o outro, ou há de dedicar-se a um e desprezar o outro. Não podeis servir a Deus e às riquezas."
+   },
+   {
+    "q": "Quem ama o dinheiro chega a se satisfazer?",
+    "a": "Não; \"quem ama o dinheiro jamais dele se farta\". A ganância é um poço sem fundo.",
+    "ref": "Eclesiastes 5:10",
+    "ref_text": "Quem ama o dinheiro não se fartará de dinheiro; nem o que ama a riqueza se fartará do ganho; também isso é vaidade."
+   },
+   {
+    "q": "O que o devedor se torna, segundo Provérbios?",
+    "a": "Servo do credor. As dívidas tiram a liberdade; por isso a Bíblia alerta sobre elas.",
+    "ref": "Provérbios 22:7",
+    "ref_text": "O rico domina sobre os pobres; e o que toma emprestado é servo do que empresta."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia não condena o dinheiro nem o trabalho que o gera. Ela mira o coração: o perigo é AMAR o dinheiro e confiar nele em vez de em Deus.",
+    "Jesus é direto: dinheiro e Deus disputam o trono do coração. Por isso Ele fala tanto sobre onde guardamos o nosso tesouro, pois ali estará o coração.",
+    "O caminho cristão é contentamento, generosidade e confiar em Deus como provedor, em vez de na conta bancária como segurança."
+   ],
+   "refs": [
+    {
+     "ref": "Mateus 6:19-21",
+     "ctx": "Parte do Sermão do Monte sobre tesouros.",
+     "exp": "\"Onde estiver o teu tesouro, ali estará o teu coração\": o dinheiro revela e arrasta o coração."
+    },
+    {
+     "ref": "1 Timóteo 6:17-18",
+     "ctx": "Paulo orienta Timóteo sobre os ricos da igreja.",
+     "exp": "Não confiar nas riquezas (incertas), mas em Deus, e ser generoso: o antídoto da ganância é a generosidade."
+    },
+    {
+     "ref": "Lucas 12:15",
+     "ctx": "Jesus responde a um homem brigando por herança.",
+     "exp": "\"Acautelai-vos da avareza, porque a vida não consiste na abundância\": valor de vida não se mede por posses."
+    },
+    {
+     "ref": "Provérbios 3:9",
+     "ctx": "Provérbio sobre honrar a Deus com os bens.",
+     "exp": "\"Honra ao Senhor com a tua fazenda\": dar a Deus a primeira parte reordena a relação com o dinheiro."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Sinceramente: o dinheiro é seu servo ou tem virado seu senhor?",
+    "ref": "Mateus 6:24",
+    "orient": "O teste é onde está sua segurança e seu coração. Identifique um sinal de que o dinheiro está no trono (ansiedade, ganância) e entregue a Deus.",
+    "ref_text": "Ninguém pode servir a dois senhores; porque ou há de odiar a um e amar o outro, ou há de dedicar-se a um e desprezar o outro. Não podeis servir a Deus e às riquezas."
+   },
+   {
+    "q": "Você confia mais na sua conta ou em Deus como provedor?",
+    "ref": "Filipenses 4:19",
+    "orient": "\"Deus suprirá todas as vossas necessidades.\" Pratique a confiança: seja generoso com algo esta semana, mesmo que mexa no orçamento.",
+    "ref_text": "Meu Deus suprirá todas as vossas necessidades segundo as suas riquezas na glória em Cristo Jesus."
+   },
+   {
+    "q": "Há uma dívida ou hábito de consumo te escravizando?",
+    "ref": "Provérbios 22:7",
+    "orient": "O devedor é servo do credor. Dê um passo concreto: corte um gasto, faça um plano de quitação, busque liberdade nessa área.",
+    "ref_text": "O rico domina sobre os pobres; e o que toma emprestado é servo do que empresta."
+   }
+  ],
+  "oracao_fechamento": "Pai, tira do meu coração o amor ao dinheiro e a falsa segurança que ele promete. Ensina-me o contentamento e a generosidade. Que eu confie em Ti como provedor e use o dinheiro para o bem, sem ser escravo dele. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "1 Timóteo 6:10",
+    "text": "Porque o amor ao dinheiro é raiz de todos os males; e nessa cobiça alguns se desviaram da fé, e se traspassaram a si mesmos com muitas dores."
+   },
+   {
+    "ref": "Mateus 6:24",
+    "text": "Ninguém pode servir a dois senhores; porque ou há de odiar a um e amar o outro, ou há de dedicar-se a um e desprezar o outro. Não podeis servir a Deus e às riquezas."
+   }
+  ]
+ },
+ {
+  "id": "familia",
+  "tema": "Família",
+  "emoji": "👨‍👩‍👧",
+  "accent": "#b07a4a",
+  "resumo": "Casa edificada com Deus.",
+  "oracao_abertura": "Senhor, a minha família é um presente e também um desafio. Edifica a minha casa, porque sem Ti eu trabalho em vão. Dá-me paciência, amor e perdão para com os meus, e faze do nosso lar um lugar onde Tu habitas. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Josué 24:15",
+   "Salmos 127:1"
+  ],
+  "observacao": [
+   {
+    "q": "Quem precisa edificar a casa para o trabalho não ser em vão?",
+    "a": "O Senhor. \"Se o Senhor não edificar a casa, em vão trabalham os que a edificam\". A base da família é Deus.",
+    "ref": "Salmos 127:1",
+    "ref_text": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela."
+   },
+   {
+    "q": "Como a fé deve ser passada dentro de casa?",
+    "a": "Ensinando aos filhos de forma contínua, no dia a dia (ao deitar, ao levantar, no caminho). A família é a primeira escola da fé.",
+    "ref": "Deuteronômio 6:6-7",
+    "ref_text": "E estas palavras, que hoje te ordeno, estarão no teu coração; e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te."
+   },
+   {
+    "q": "Qual mandamento traz promessa ligada à família?",
+    "a": "Honrar pai e mãe, \"para que se prolonguem os teus dias\". O respeito na família tem bênção associada.",
+    "ref": "Êxodo 20:12",
+    "ref_text": "Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na terra que o Senhor teu Deus te dá."
+   },
+   {
+    "q": "O que a Bíblia diz de quem não cuida dos seus?",
+    "a": "Que negou a fé e é pior que o descrente. Cuidar da própria família é parte concreta de viver a fé.",
+    "ref": "1 Timóteo 5:8",
+    "ref_text": "Mas, se alguém não cuida dos seus, e especialmente dos da sua família, tem negado a fé, e é pior que um incrédulo."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Josué faz uma declaração de chefe de família: \"eu e a minha casa serviremos ao Senhor\". A fé tem um endereço: começa em casa.",
+    "O Salmo 127 dá a base: sem Deus edificando, todo o esforço pela família é em vão. Não basta prover; é preciso construir sobre Ele.",
+    "A Bíblia trata a família como o primeiro lugar de discipulado, cuidado e perdão. O amor de Deus se aprende e se pratica, antes de tudo, dentro de casa."
+   ],
+   "refs": [
+    {
+     "ref": "Provérbios 22:6",
+     "ctx": "Provérbio sobre formação dos filhos.",
+     "exp": "\"Instrui o menino no caminho em que deve andar\": a formação na infância marca a vida inteira."
+    },
+    {
+     "ref": "Efésios 6:1-3",
+     "ctx": "Paulo orienta as relações dentro da família cristã.",
+     "exp": "Filhos obedecem e honram; é o \"primeiro mandamento com promessa\". A ordem em casa traz bênção."
+    },
+    {
+     "ref": "Atos 16:31",
+     "ctx": "Paulo responde ao carcereiro de Filipos sobre salvação.",
+     "exp": "\"Crê... e serás salvo, tu e a tua casa\": o desejo de Deus alcança a família inteira."
+    },
+    {
+     "ref": "Romanos 12:10",
+     "ctx": "Paulo descreve o amor cristão na prática.",
+     "exp": "\"Amai-vos com afeto fraternal, preferindo-vos em honra\": vale especialmente dentro de casa, onde a convivência é diária."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Sua casa está sendo edificada por Deus ou só pelo seu esforço?",
+    "ref": "Salmos 127:1",
+    "orient": "Convide Deus para o centro da sua família. Comece algo simples: uma oração ou leitura juntos, entregando a casa a Ele.",
+    "ref_text": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela."
+   },
+   {
+    "q": "Com quem da sua família você precisa exercer mais paciência ou perdão?",
+    "ref": "Colossenses 3:14",
+    "orient": "O amor \"é o vínculo da perfeição\". Dê um passo concreto de reconciliação ou cuidado com essa pessoa esta semana.",
+    "ref_text": "E, sobre tudo isto, revestí-vos do amor, que é o vínculo da perfeição."
+   },
+   {
+    "q": "Você tem investido tempo real na sua família, ou só sobras?",
+    "ref": "Deuteronômio 6:7",
+    "orient": "A fé se passa no dia a dia, não em eventos raros. Reserve um tempo de qualidade e presença com os seus, sem telas.",
+    "ref_text": "e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te."
+   }
+  ],
+  "oracao_fechamento": "Pai, edifica a minha casa, porque sem Ti eu trabalho em vão. Ensina-me a amar, perdoar e ter paciência com os meus. Que a minha família sirva a Ti e que o nosso lar seja lugar da Tua presença. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Josué 24:15",
+    "text": "Mas, se vos parece mal o servirdes ao Senhor, escolhei hoje a quem haveis de servir; se aos deuses a quem serviram vossos pais, que estavam além do Rio, ou aos deuses dos amorreus, em cuja terra habitais. Porém eu e a minha casa serviremos ao Senhor."
+   },
+   {
+    "ref": "Salmos 127:1",
+    "text": "Se o Senhor não edificar a casa, em vão trabalham os que a edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela."
+   }
+  ]
+ },
+ {
+  "id": "casamento",
+  "tema": "Casamento",
+  "emoji": "💍",
+  "accent": "#b0556b",
+  "resumo": "Dois que se tornam um.",
+  "oracao_abertura": "Senhor, o casamento é Tua ideia e Teu presente, mas também exige entrega diária. Ensina-me a amar, ceder e perdoar. Une o que Tu juntaste e dá-me graça para construir, e não só cobrar. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Gênesis 2:24",
+   "Marcos 10:9"
+  ],
+  "observacao": [
+   {
+    "q": "O que acontece no casamento, segundo Gênesis?",
+    "a": "O homem deixa pai e mãe e se une à esposa, e os dois se tornam \"uma só carne\". É uma nova unidade, com prioridade.",
+    "ref": "Gênesis 2:24",
+    "ref_text": "Portanto deixará o homem a seu pai e a sua mãe, e unir-se-á à sua mulher, e serão uma só carne."
+   },
+   {
+    "q": "O que Jesus diz sobre o que Deus uniu?",
+    "a": "\"O que Deus ajuntou não o separe o homem\". O casamento é levado a sério por Deus, não é descartável.",
+    "ref": "Marcos 10:9",
+    "ref_text": "Porquanto o que Deus ajuntou, não o separe o homem."
+   },
+   {
+    "q": "Como o marido deve amar a esposa, segundo Paulo?",
+    "a": "Como Cristo amou a igreja e se entregou por ela. O amor conjugal é sacrifício, não só sentimento.",
+    "ref": "Efésios 5:25",
+    "ref_text": "Vós, maridos, amai a vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela,"
+   },
+   {
+    "q": "O que Provérbios diz de quem encontra uma boa esposa?",
+    "a": "\"Achou uma coisa boa e alcançou a benevolência do Senhor\". O cônjuge é apresentado como bênção de Deus.",
+    "ref": "Provérbios 18:22",
+    "ref_text": "Quem encontra uma esposa acha uma coisa boa; e alcança o favor do Senhor."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Desde o Éden, o casamento é apresentado como uma nova unidade: deixar, unir-se e tornar-se uma só carne. Não é só morar junto, é uma fusão de vidas.",
+    "Jesus reforça que é Deus quem une, dando seriedade e permanência ao vínculo, contra a cultura do descartável.",
+    "Paulo descreve o modelo: amor sacrificial do marido (como Cristo) e respeito mútuo. O casamento saudável é construído com entrega, perdão e paciência diários."
+   ],
+   "refs": [
+    {
+     "ref": "Efésios 5:33",
+     "ctx": "Paulo resume as orientações ao casal.",
+     "exp": "Cada um ame a esposa e a esposa respeite o marido: amor e respeito, as duas necessidades centrais do casal."
+    },
+    {
+     "ref": "Eclesiastes 4:9-10",
+     "ctx": "Reflexão sobre o valor da parceria.",
+     "exp": "\"Melhor é serem dois do que um... se um cair, o outro o levanta\": o casamento como apoio mútuo na vida."
+    },
+    {
+     "ref": "1 Pedro 3:7",
+     "ctx": "Pedro orienta os maridos.",
+     "exp": "Viver \"sabiamente\" com a esposa e honrá-la, \"para que não sejam impedidas as vossas orações\": o trato no casamento afeta a vida espiritual."
+    },
+    {
+     "ref": "Colossenses 3:13",
+     "ctx": "Paulo ensina sobre relações na comunidade, aplicável ao lar.",
+     "exp": "\"Suportando-vos e perdoando-vos\": nenhum casamento sobrevive sem perdão frequente."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tem amado/respeitado seu cônjuge mais por sentimento ou por decisão diária?",
+    "ref": "Efésios 5:25",
+    "orient": "O amor de Cristo é decisão e entrega. Escolha um gesto concreto de servir ou honrar seu cônjuge esta semana, independente do clima.",
+    "ref_text": "Vós, maridos, amai a vossas mulheres, como também Cristo amou a igreja, e a si mesmo se entregou por ela,"
+   },
+   {
+    "q": "Há mágoas acumuladas que precisam de perdão no seu casamento?",
+    "ref": "Colossenses 3:13",
+    "orient": "Casamento não sobrevive sem perdão. Identifique uma mágoa e dê o passo de conversar ou perdoar, em vez de guardar.",
+    "ref_text": "suportando-vos e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como o Senhor vos perdoou, assim fazei vós também."
+   },
+   {
+    "q": "Você tem priorizado seu cônjuge ou ele(a) ficou em último na fila?",
+    "ref": "Filipenses 2:4",
+    "orient": "\"Cada um olhe também pelo que é dos outros.\" Coloque o interesse do seu cônjuge à frente em algo concreto nesta semana.",
+    "ref_text": "não olhe cada um somente para o que é seu, mas cada qual também para o que é dos outros."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pelo presente do casamento. Ensina-me a amar como Cristo amou, a respeitar, perdoar e priorizar. Une o que Tu ajuntaste e dá-me graça para construir todos os dias. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Gênesis 2:24",
+    "text": "Portanto deixará o homem a seu pai e a sua mãe, e unir-se-á à sua mulher, e serão uma só carne."
+   },
+   {
+    "ref": "Marcos 10:9",
+    "text": "Porquanto o que Deus ajuntou, não o separe o homem."
+   }
+  ]
+ },
+ {
+  "id": "amizade",
+  "tema": "Amizade",
+  "emoji": "🤝",
+  "accent": "#5a8a7a",
+  "resumo": "Amigos que afiam e sustentam.",
+  "oracao_abertura": "Senhor, obrigado pelas amizades que Tu colocas na minha vida. Ensina-me a ser um amigo leal, presente nas horas difíceis e verdadeiro mesmo quando dói. Dá-me amigos que me aproximem de Ti. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Provérbios 17:17",
+   "Provérbios 18:24"
+  ],
+  "observacao": [
+   {
+    "q": "Quando, segundo Provérbios, o amigo verdadeiro ama?",
+    "a": "\"Em todo o tempo\", e o irmão nasce para a hora da angústia. Amizade real se prova na dificuldade.",
+    "ref": "Provérbios 17:17",
+    "ref_text": "O amigo ama em todo o tempo; e para a angústia nasce o irmão."
+   },
+   {
+    "q": "O que um amigo faz por outro, na imagem do ferro?",
+    "a": "Um afia o outro. A boa amizade nos torna melhores, não só nos agrada.",
+    "ref": "Provérbios 27:17",
+    "ref_text": "Afia-se o ferro com o ferro; assim o homem afia o rosto do seu amigo."
+   },
+   {
+    "q": "As feridas de quem são fiéis?",
+    "a": "As do amigo. Um amigo verdadeiro fala a verdade, mesmo quando dói, em vez de só agradar.",
+    "ref": "Provérbios 27:6",
+    "ref_text": "Fiéis são as feridas dum amigo; mas os beijos dum inimigo são enganosos."
+   },
+   {
+    "q": "Qual o maior amor, segundo Jesus?",
+    "a": "Dar a vida pelos amigos. O amor da amizade pode chegar ao sacrifício.",
+    "ref": "João 15:13",
+    "ref_text": "Ninguém tem maior amor do que este, de dar alguém a sua vida pelos seus amigos."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia tem uma visão alta da amizade. Não é só companhia agradável: é lealdade que permanece na crise e verdade que ajuda a crescer.",
+    "Provérbios mostra dois lados: o amigo afia (nos melhora) e fere com fidelidade (fala a verdade). Amizade que só elogia e nunca confronta é rasa.",
+    "O modelo máximo é Jesus, que chamou os discípulos de amigos e deu a vida por eles. A amizade cristã carrega cargas e aproxima de Deus."
+   ],
+   "refs": [
+    {
+     "ref": "1 Samuel 18:1",
+     "ctx": "Início da amizade entre Jônatas e Davi.",
+     "exp": "\"A alma de Jônatas se ligou à de Davi\": exemplo bíblico de amizade leal, que custou caro e permaneceu."
+    },
+    {
+     "ref": "Provérbios 13:20",
+     "ctx": "Provérbio sobre o efeito das companhias.",
+     "exp": "\"Quem anda com os sábios será sábio\": as amizades moldam quem nos tornamos. Escolher amigos é escolher rumo."
+    },
+    {
+     "ref": "Eclesiastes 4:12",
+     "ctx": "Reflexão sobre a força da parceria.",
+     "exp": "\"O cordão de três dobras não se quebra depressa\": amizade firme dá resistência diante da vida."
+    },
+    {
+     "ref": "Gálatas 6:2",
+     "ctx": "Paulo descreve a vida em comunidade.",
+     "exp": "\"Levai as cargas uns dos outros\": a amizade cristã se prova carregando o peso do outro."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tem sido o tipo de amigo que aparece na hora difícil?",
+    "ref": "Provérbios 17:17",
+    "orient": "Amizade se prova na crise. Procure um amigo que está passando por algo difícil e esteja presente de forma concreta esta semana.",
+    "ref_text": "O amigo ama em todo o tempo; e para a angústia nasce o irmão."
+   },
+   {
+    "q": "Suas amizades te aproximam ou te afastam de quem você quer ser?",
+    "ref": "Provérbios 13:20",
+    "orient": "As companhias moldam o rumo. Avalie suas amizades mais próximas e invista nas que te puxam para cima.",
+    "ref_text": "Quem anda com os sábios será sábio; mas o companheiro dos tolos sofre aflição."
+   },
+   {
+    "q": "Você fala a verdade aos amigos com amor, ou só os agrada?",
+    "ref": "Provérbios 27:6",
+    "orient": "O amigo fiel fere quando precisa. Onde você está calando uma verdade necessária por medo, fale com amor e cuidado.",
+    "ref_text": "Fiéis são as feridas dum amigo; mas os beijos dum inimigo são enganosos."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pelos amigos que Tu me deste. Faze de mim um amigo leal, presente e verdadeiro. Dá-me amizades que me afiem e me aproximem de Ti, e ajuda-me a carregar as cargas dos que amo. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Provérbios 17:17",
+    "text": "O amigo ama em todo o tempo; e para a angústia nasce o irmão."
+   },
+   {
+    "ref": "Provérbios 18:24",
+    "text": "O homem que tem muitos amigos, tem-nos para a sua ruína; mas há um amigo que é mais chegado do que um irmão."
+   }
+  ]
+ },
+ {
+  "id": "filhos",
+  "tema": "Criação dos filhos",
+  "emoji": "🧒",
+  "accent": "#8a7aa0",
+  "resumo": "Formar corações para Deus.",
+  "oracao_abertura": "Senhor, criar filhos é uma das tarefas mais altas e difíceis que me deste. Dá-me sabedoria para instruir sem ferir, disciplinar com amor e apontá-los para Ti. Que eu seja, antes de tudo, exemplo. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Provérbios 22:6",
+   "Efésios 6:4"
+  ],
+  "observacao": [
+   {
+    "q": "O que se promete a quem instrui o filho no caminho certo?",
+    "a": "Que, ainda quando velho, não se desviará dele. A formação na infância deixa marca para a vida.",
+    "ref": "Provérbios 22:6",
+    "ref_text": "Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+   },
+   {
+    "q": "Como os pais devem criar os filhos, segundo Paulo?",
+    "a": "Sem provocá-los à ira, mas \"na doutrina e admoestação do Senhor\". Disciplina sim, mas sem ferir nem exasperar.",
+    "ref": "Efésios 6:4",
+    "ref_text": "E vós, pais, não provoqueis à ira vossos filhos, mas criai-os na disciplina e admoestação do Senhor."
+   },
+   {
+    "q": "Os filhos são o quê, segundo o Salmo 127?",
+    "a": "Herança e galardão do Senhor. São presente e responsabilidade dados por Deus, não posse nossa.",
+    "ref": "Salmos 127:3",
+    "ref_text": "Eis que os filhos são herança da parte do Senhor, e o fruto do ventre o seu galardão."
+   },
+   {
+    "q": "Como a fé deve ser ensinada em casa?",
+    "a": "De forma contínua e diária, nas conversas comuns da vida. A formação espiritual é dia a dia, não só na igreja.",
+    "ref": "Deuteronômio 6:6-7",
+    "ref_text": "E estas palavras, que hoje te ordeno, estarão no teu coração; e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia trata os filhos como herança do Senhor, confiada aos pais. Criar não é moldar à nossa vontade, mas formar para Deus.",
+    "Há um equilíbrio: disciplina com amor (não ausência dela, nem dureza que fere) e instrução constante, principalmente pelo exemplo.",
+    "E o foco é o coração, não só o comportamento: ensinar a amar a Deus no dia a dia, com palavras e, sobretudo, com vida coerente."
+   ],
+   "refs": [
+    {
+     "ref": "Provérbios 13:24",
+     "ctx": "Provérbio sobre disciplina e amor.",
+     "exp": "Liga disciplina a amor: criar sem limites não é bondade. Mas a disciplina bíblica é correção com cuidado, não violência."
+    },
+    {
+     "ref": "2 Timóteo 1:5",
+     "ctx": "Paulo lembra a fé sincera de Timóteo.",
+     "exp": "A fé \"habitou primeiro na tua avó e na tua mãe\": exemplo de fé transmitida em casa por gerações."
+    },
+    {
+     "ref": "Colossenses 3:21",
+     "ctx": "Paulo orienta os pais.",
+     "exp": "\"Não irriteis os vossos filhos, para que não percam o ânimo\": disciplina não pode esmagar o coração da criança."
+    },
+    {
+     "ref": "Provérbios 20:11",
+     "ctx": "Provérbio sobre o caráter desde cedo.",
+     "exp": "\"Até a criança se dá a conhecer pelas suas ações\": o caráter se forma cedo, daí a importância da boa instrução."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tem ensinado a fé aos seus filhos no dia a dia ou terceirizado isso?",
+    "ref": "Deuteronômio 6:7",
+    "orient": "A fé se passa nas conversas comuns. Escolha um momento simples (refeição, hora de dormir) para falar de Deus naturalmente com eles.",
+    "ref_text": "e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te."
+   },
+   {
+    "q": "Sua disciplina tem corrigido com amor ou ferido/exasperado?",
+    "ref": "Efésios 6:4",
+    "orient": "O alvo é formar, não humilhar. Avalie seu tom e métodos; corrija de um jeito que preserve o ânimo e o coração do filho.",
+    "ref_text": "E vós, pais, não provoqueis à ira vossos filhos, mas criai-os na disciplina e admoestação do Senhor."
+   },
+   {
+    "q": "Você tem sido o exemplo que quer que eles sigam?",
+    "ref": "2 Timóteo 1:5",
+    "orient": "Filhos aprendem mais pelo que veem. Escolha uma atitude sua que você quer que eles imitem e viva-a de propósito esta semana.",
+    "ref_text": "trazendo à memória a fé não fingida que há em ti, a qual habitou primeiro em tua avó Loide, e em tua mãe Eunice e estou certo de que também habita em ti."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pelos filhos que me confiaste como herança Tua. Dá-me sabedoria para instruí-los com amor, disciplina sem feri-los e exemplo coerente. Aponta o coração deles para Ti, e a mim, ajuda a ser bom modelo. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Provérbios 22:6",
+    "text": "Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele."
+   },
+   {
+    "ref": "Efésios 6:4",
+    "text": "E vós, pais, não provoqueis à ira vossos filhos, mas criai-os na disciplina e admoestação do Senhor."
+   }
+  ]
+ },
+ {
+  "id": "lingua",
+  "tema": "A língua e as palavras",
+  "emoji": "🗣️",
+  "accent": "#b5783a",
+  "resumo": "Vida e morte no poder da fala.",
+  "oracao_abertura": "Senhor, a minha língua faz muito bem e muito estrago. Põe guarda à minha boca. Ensina-me a falar palavras que edificam, curam e abençoam, e a calar o que fere. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Provérbios 18:21",
+   "Tiago 3:5"
+  ],
+  "observacao": [
+   {
+    "q": "Que poder Provérbios atribui à língua?",
+    "a": "\"A morte e a vida estão no poder da língua\". As palavras constroem ou destroem; não são neutras.",
+    "ref": "Provérbios 18:21",
+    "ref_text": "A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto."
+   },
+   {
+    "q": "A língua é pequena, mas faz o quê, segundo Tiago?",
+    "a": "\"Grandes coisas\"; como um pequeno fogo que incendeia uma floresta. Pouco tamanho, muito impacto.",
+    "ref": "Tiago 3:5",
+    "ref_text": "Assim também a língua é um pequeno membro, e se gaba de grandes coisas. Vede quão grande bosque um tão pequeno fogo incendeia."
+   },
+   {
+    "q": "O que uma resposta branda faz?",
+    "a": "Desvia o furor; a palavra dura desperta a ira. O tom muda o rumo de um conflito.",
+    "ref": "Provérbios 15:1",
+    "ref_text": "A resposta branda desvia o furor, mas a palavra dura suscita a ira."
+   },
+   {
+    "q": "Que tipo de palavra deve sair da nossa boca, segundo Paulo?",
+    "a": "Nenhuma torpe, só a que edifica e dá graça aos ouvintes. A fala cristã serve para construir.",
+    "ref": "Efésios 4:29",
+    "ref_text": "Não saia da vossa boca nenhuma palavra torpe, mas ó a que seja boa para a necessária edificação, a fim de que ministre graça aos que a ouvem."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia leva a fala muito a sério: \"morte e vida\" estão na língua. Palavras curam ou ferem, abençoam ou destroem, às vezes para sempre.",
+    "Tiago compara a língua a um fogo: pequena, mas capaz de incendiar tudo. Por isso ele diz que ninguém a domina sozinho; é preciso a ajuda de Deus.",
+    "O padrão cristão não é só evitar o mau falar, mas usar a fala para edificar, dar graça e abençoar, refletindo o coração transformado por Deus."
+   ],
+   "refs": [
+    {
+     "ref": "Tiago 3:8-10",
+     "ctx": "Tiago expõe a incoerência da língua.",
+     "exp": "\"Com ela bendizemos a Deus e amaldiçoamos os homens\": ele aponta a contradição de louvar e ferir com a mesma boca."
+    },
+    {
+     "ref": "Mateus 12:36",
+     "ctx": "Jesus alerta sobre a responsabilidade pelas palavras.",
+     "exp": "Daremos conta de \"toda palavra ociosa\": a fala não é descartável diante de Deus."
+    },
+    {
+     "ref": "Provérbios 10:19",
+     "ctx": "Provérbio sobre o excesso de palavras.",
+     "exp": "\"Na multidão de palavras não falta transgressão\": falar menos e melhor é sabedoria."
+    },
+    {
+     "ref": "Salmos 141:3",
+     "ctx": "Oração de Davi sobre o autocontrole.",
+     "exp": "\"Põe, ó Senhor, uma guarda à minha boca\": reconhece que controlar a fala precisa da ajuda de Deus."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Suas palavras têm dado mais vida ou mais morte às pessoas ao seu redor?",
+    "ref": "Efésios 4:29",
+    "orient": "Faça um teste hoje: antes de falar algo, pergunte se edifica. Troque uma crítica por uma palavra que construa.",
+    "ref_text": "Não saia da vossa boca nenhuma palavra torpe, mas ó a que seja boa para a necessária edificação, a fim de que ministre graça aos que a ouvem."
+   },
+   {
+    "q": "Onde você mais escorrega: fofoca, ironia, explosão, exagero?",
+    "ref": "Provérbios 10:19",
+    "orient": "Identifique seu ponto fraco na fala e, hoje, fale menos nessa área. Às vezes a sabedoria é o silêncio.",
+    "ref_text": "Na multidão de palavras não falta transgressão; mas o que refreia os seus lábios é prudente."
+   },
+   {
+    "q": "Há alguém que você precisa abençoar com palavras, e tem deixado de fazer?",
+    "ref": "Provérbios 16:24",
+    "orient": "\"Palavras suaves são... doçura para a alma.\" Diga a alguém hoje algo de bom, sincero e específico.",
+    "ref_text": "Palavras suaves são como favos de mel, doçura para a alma e saúde para o corpo."
+   }
+  ],
+  "oracao_fechamento": "Pai, põe guarda à minha boca e enche o meu coração, de onde a boca fala. Ajuda-me a usar as palavras para edificar, curar e abençoar, e a calar o que fere. Que a minha fala revele a Tua graça. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Provérbios 18:21",
+    "text": "A morte e a vida estão no poder da língua; e aquele que a ama comerá do seu fruto."
+   },
+   {
+    "ref": "Tiago 3:5",
+    "text": "Assim também a língua é um pequeno membro, e se gaba de grandes coisas. Vede quão grande bosque um tão pequeno fogo incendeia."
+   }
+  ]
+ },
+ {
+  "id": "tempo",
+  "tema": "Tempo",
+  "emoji": "⏳",
+  "accent": "#7a8a9a",
+  "resumo": "Viver dias que passam rápido.",
+  "oracao_abertura": "Senhor, os meus dias passam depressa e nem sempre no que importa. Ensina-me a contar os meus dias e a usar bem o tempo que me deste. Tira de mim a pressa ansiosa e a procrastinação, e dá-me sabedoria para priorizar. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Salmos 90:12",
+   "Efésios 5:16"
+  ],
+  "observacao": [
+   {
+    "q": "O que devemos pedir a Deus sobre os nossos dias?",
+    "a": "Que Ele nos ensine a contá-los, para alcançarmos um coração sábio. Lembrar que o tempo é curto traz sabedoria.",
+    "ref": "Salmos 90:12",
+    "ref_text": "Ensina-nos a contar os nossos dias de tal maneira que alcancemos corações sábios."
+   },
+   {
+    "q": "O que Paulo manda fazer com o tempo?",
+    "a": "\"Remir o tempo\" (aproveitá-lo bem), porque os dias são maus. O tempo é um recurso a ser resgatado, não desperdiçado.",
+    "ref": "Efésios 5:16",
+    "ref_text": "usando bem cada oportunidade, porquanto os dias são maus."
+   },
+   {
+    "q": "O que Eclesiastes diz sobre os tempos da vida?",
+    "a": "\"Tudo tem o seu tempo determinado\". Há tempo para cada coisa; sabedoria é discernir o tempo certo.",
+    "ref": "Eclesiastes 3:1",
+    "ref_text": "Tudo tem a sua ocasião própria, e há tempo para todo propósito debaixo do céu."
+   },
+   {
+    "q": "Como Tiago descreve a duração da vida?",
+    "a": "Um vapor que aparece e logo se dissipa. A consciência da brevidade ajuda a viver o que importa.",
+    "ref": "Tiago 4:14",
+    "ref_text": "No entanto, não sabeis o que sucederá amanhã. Que é a vossa vida? Sois um vapor que aparece por um pouco, e logo se desvanece."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia é realista sobre o tempo: a vida é breve, um vapor. Não para nos deprimir, mas para nos despertar a viver com propósito.",
+    "\"Contar os nossos dias\" é encarar a finitude e, por isso, priorizar o que importa: Deus, pessoas, o que tem valor eterno.",
+    "Paulo fala em \"remir o tempo\": resgatá-lo do desperdício. Tempo bem usado não é correria ansiosa, é sabedoria para investir no essencial."
+   ],
+   "refs": [
+    {
+     "ref": "Salmos 39:4",
+     "ctx": "Oração de Davi sobre a brevidade da vida.",
+     "exp": "\"Faze-me saber... a medida dos meus dias\": pedir consciência da finitude é caminho de sabedoria, não de medo."
+    },
+    {
+     "ref": "Mateus 6:34",
+     "ctx": "Jesus ensina sobre ansiedade no Sermão do Monte.",
+     "exp": "\"Não vos inquieteis pelo dia de amanhã\": viver bem o tempo inclui não desperdiçar o hoje com a ansiedade do amanhã."
+    },
+    {
+     "ref": "Colossenses 4:5",
+     "ctx": "Paulo orienta sobre a vida diante dos de fora.",
+     "exp": "\"Andai com sabedoria... aproveitando o tempo\": o tempo é oportunidade, inclusive de fazer o bem e testemunhar."
+    },
+    {
+     "ref": "Eclesiastes 3:1",
+     "ctx": "Reflexão poética sobre os tempos da vida.",
+     "exp": "Há tempo para tudo: aceitar os tempos (de plantar, colher, chorar, rir) traz paz em vez de luta contra o relógio."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Onde o seu tempo está indo que não combina com o que você diz valorizar?",
+    "ref": "Efésios 5:16",
+    "orient": "Remir o tempo é resgatá-lo. Identifique um ralo de tempo (tela, distração) e troque por algo que importa esta semana.",
+    "ref_text": "usando bem cada oportunidade, porquanto os dias são maus."
+   },
+   {
+    "q": "Você vive mais na correria ansiosa ou na procrastinação?",
+    "ref": "Salmos 90:12",
+    "orient": "Os dois desperdiçam o tempo. Peça a Deus um coração sábio e escolha UMA prioridade real para hoje, dando-lhe o melhor do seu tempo.",
+    "ref_text": "Ensina-nos a contar os nossos dias de tal maneira que alcancemos corações sábios."
+   },
+   {
+    "q": "Se a vida é um vapor, o que você adiaria menos?",
+    "ref": "Tiago 4:14",
+    "orient": "A brevidade da vida reordena prioridades. Faça hoje uma coisa importante que você vem adiando (uma conversa, um perdão, um passo).",
+    "ref_text": "No entanto, não sabeis o que sucederá amanhã. Que é a vossa vida? Sois um vapor que aparece por um pouco, e logo se desvanece."
+   }
+  ],
+  "oracao_fechamento": "Pai, ensina-me a contar os meus dias para alcançar um coração sábio. Tira a pressa ansiosa e a procrastinação, e ajuda-me a investir o meu tempo no que tem valor eterno. Que eu viva bem o hoje que Tu me deste. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Salmos 90:12",
+    "text": "Ensina-nos a contar os nossos dias de tal maneira que alcancemos corações sábios."
+   },
+   {
+    "ref": "Efésios 5:16",
+    "text": "usando bem cada oportunidade, porquanto os dias são maus."
+   }
+  ]
+ },
+ {
+  "id": "generosidade",
+  "tema": "Generosidade",
+  "emoji": "🎁",
+  "accent": "#c97f3c",
+  "resumo": "Mais feliz em dar.",
+  "oracao_abertura": "Senhor, tudo o que eu tenho veio de Ti. Liberta-me do aperto da mão fechada e ensina-me a dar com alegria. Que eu use o que recebi para abençoar os outros e refletir a Tua generosidade comigo. Em nome de Jesus, amém.",
+  "texto_base": [
+   "2 Coríntios 9:7",
+   "Atos 20:35"
+  ],
+  "observacao": [
+   {
+    "q": "Como Deus quer que demos?",
+    "a": "Com alegria, não com tristeza nem por obrigação, \"porque Deus ama ao que dá com alegria\". O coração importa tanto quanto o gesto.",
+    "ref": "2 Coríntios 9:7",
+    "ref_text": "Cada um contribua segundo propôs no seu coração; não com tristeza, nem por constrangimento; porque Deus ama ao que dá com alegria."
+   },
+   {
+    "q": "O que Jesus disse sobre dar e receber?",
+    "a": "\"Mais bem-aventurado é dar do que receber\". A generosidade é fonte de alegria, não de perda.",
+    "ref": "Atos 20:35",
+    "ref_text": "Em tudo vos dei o exemplo de que assim trabalhando, é necessário socorrer os enfermos, recordando as palavras do Senhor Jesus, porquanto ele mesmo disse: Coisa mais bem-aventurada é dar do que receber."
+   },
+   {
+    "q": "O que acontece com a alma generosa, segundo Provérbios?",
+    "a": "\"A alma generosa prosperará\". Dar não esvazia; de algum modo enriquece quem dá.",
+    "ref": "Provérbios 11:25",
+    "ref_text": "A alma generosa prosperará, e o que regar também será regado."
+   },
+   {
+    "q": "A quem empresta quem se compadece do pobre?",
+    "a": "Ao próprio Senhor, que recompensará. Ajudar o necessitado é, na verdade, servir a Deus.",
+    "ref": "Provérbios 19:17",
+    "ref_text": "O que se compadece do pobre empresta ao Senhor, que lhe retribuirá o seu benefício."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A generosidade na Bíblia não é só sobre dinheiro, mas sobre o coração: a mão aberta reflete a confiança de que Deus é o provedor.",
+    "Paulo ensina que o jeito de dar importa: com alegria e por decisão, não por pressão. Deus se importa com o coração de quem dá.",
+    "E há uma inversão linda: dar é mais feliz que receber, e a alma generosa prospera. Quem dá com Deus nunca sai perdendo de verdade."
+   ],
+   "refs": [
+    {
+     "ref": "Lucas 6:38",
+     "ctx": "Jesus ensina sobre a medida que usamos com os outros.",
+     "exp": "\"Dai, e ser-vos-á dado... com a medida com que medirdes vos medirão\": a generosidade volta, transbordando."
+    },
+    {
+     "ref": "Mateus 6:3-4",
+     "ctx": "Jesus ensina sobre dar sem ostentar.",
+     "exp": "\"Não saiba a tua mão esquerda o que faz a direita\": a generosidade verdadeira não busca aplauso."
+    },
+    {
+     "ref": "2 Coríntios 9:6",
+     "ctx": "Paulo motiva a igreja a contribuir.",
+     "exp": "\"Quem semeia com fartura, com fartura também colherá\": a generosidade é semeadura, não desperdício."
+    },
+    {
+     "ref": "Hebreus 13:16",
+     "ctx": "Exortações finais aos cristãos.",
+     "exp": "\"Não vos esqueçais da beneficência... com tais sacrifícios Deus se agrada\": fazer o bem é uma forma de adoração."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você dá com alegria, por obrigação, ou tem segurado a mão?",
+    "ref": "2 Coríntios 9:7",
+    "orient": "Deus ama quem dá com alegria. Escolha dar algo esta semana (tempo, dinheiro, ajuda) de coração leve, sem ser cobrado.",
+    "ref_text": "Cada um contribua segundo propôs no seu coração; não com tristeza, nem por constrangimento; porque Deus ama ao que dá com alegria."
+   },
+   {
+    "q": "Quem ao seu redor precisa de ajuda que está ao seu alcance?",
+    "ref": "Provérbios 19:17",
+    "orient": "Ajudar o necessitado é emprestar ao Senhor. Identifique uma pessoa e faça um bem concreto a ela, sem alarde.",
+    "ref_text": "O que se compadece do pobre empresta ao Senhor, que lhe retribuirá o seu benefício."
+   },
+   {
+    "q": "Sua generosidade busca reconhecimento ou é discreta?",
+    "ref": "Mateus 6:3",
+    "orient": "O bem feito em segredo agrada a Deus. Faça algo bom esta semana que só Deus e você saberão.",
+    "ref_text": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a direita;"
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu és generoso comigo todos os dias. Abre a minha mão e o meu coração para dar com alegria. Que eu use o que tenho para abençoar os outros e refletir a Tua bondade. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "2 Coríntios 9:7",
+    "text": "Cada um contribua segundo propôs no seu coração; não com tristeza, nem por constrangimento; porque Deus ama ao que dá com alegria."
+   },
+   {
+    "ref": "Atos 20:35",
+    "text": "Em tudo vos dei o exemplo de que assim trabalhando, é necessário socorrer os enfermos, recordando as palavras do Senhor Jesus, porquanto ele mesmo disse: Coisa mais bem-aventurada é dar do que receber."
+   }
+  ]
+ },
+ {
+  "id": "oracao",
+  "tema": "Oração",
+  "emoji": "🙏",
+  "accent": "#5d8a6a",
+  "resumo": "Conversa constante com Deus.",
+  "oracao_abertura": "Senhor, ensina-me a orar. Não palavras bonitas para os outros ouvirem, mas conversa real Contigo. Tira de mim a pressa e a distração, e ajuda-me a buscar a Tua presença todos os dias. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Filipenses 4:6",
+   "1 Tessalonicenses 5:17"
+  ],
+  "observacao": [
+   {
+    "q": "Com que frequência devemos orar, segundo Paulo?",
+    "a": "\"Orai sem cessar\". A oração não é só um momento, é uma relação constante com Deus ao longo do dia.",
+    "ref": "1 Tessalonicenses 5:17",
+    "ref_text": "Orai sem cessar."
+   },
+   {
+    "q": "O que fazer com a ansiedade, em vez de carregá-la?",
+    "a": "Levar tudo a Deus em oração e súplica, com gratidão. A oração é o destino das preocupações.",
+    "ref": "Filipenses 4:6",
+    "ref_text": "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças;"
+   },
+   {
+    "q": "Como Jesus diz para orar, quanto ao lugar?",
+    "a": "Em secreto, no quarto, e o Pai que vê em secreto recompensará. Oração não é espetáculo, é intimidade.",
+    "ref": "Mateus 6:6",
+    "ref_text": "Mas tu, quando orares, entra no teu quarto e, fechando a porta, ora a teu Pai que está em secreto; e teu Pai, que vê em secreto, te recompensará."
+   },
+   {
+    "q": "O que Jesus ensina sobre persistência na oração, em Lucas 18?",
+    "a": "Que devemos \"orar sempre e nunca desfalecer\". A oração inclui insistência e paciência.",
+    "ref": "Lucas 18:1",
+    "ref_text": "Contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A oração, na Bíblia, é menos uma fórmula e mais uma relação: falar com Deus de verdade, com confiança de filho, em todo tempo.",
+    "Jesus corrige dois erros: orar para impressionar pessoas e usar repetições vazias. Ele ensina o \"Pai nosso\" como modelo de oração simples e sincera.",
+    "E ensina constância: orar sempre, não desistir, e pedir conforme a vontade de Deus. A oração molda a gente tanto quanto muda as situações."
+   ],
+   "refs": [
+    {
+     "ref": "Mateus 6:7",
+     "ctx": "Jesus ensina sobre como orar.",
+     "exp": "\"Não useis de vãs repetições\": oração não é quantidade de palavras nem fórmula mágica, é conversa sincera."
+    },
+    {
+     "ref": "João 15:7",
+     "ctx": "Jesus fala sobre permanecer Nele.",
+     "exp": "\"Se permanecerdes em mim... pedireis o que quiserdes\": oração eficaz nasce da comunhão constante com Cristo."
+    },
+    {
+     "ref": "1 João 5:14",
+     "ctx": "João escreve sobre a confiança na oração.",
+     "exp": "\"Se pedirmos segundo a sua vontade, Ele nos ouve\": orar é alinhar o coração à vontade de Deus, não dobrar a Dele à nossa."
+    },
+    {
+     "ref": "Marcos 1:35",
+     "ctx": "Jesus, no auge do ministério, busca um tempo a sós.",
+     "exp": "Ele se levantou de madrugada para orar num lugar deserto: se Jesus precisava desse tempo, nós também."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Sua oração é mais lista de pedidos ou também conversa e escuta?",
+    "ref": "Filipenses 4:6",
+    "orient": "Inclua gratidão e silêncio. Hoje, antes de pedir, agradeça três coisas e fique um instante em silêncio diante de Deus.",
+    "ref_text": "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças;"
+   },
+   {
+    "q": "Você tem um tempo e lugar reservados para orar, ou só ora quando aperta?",
+    "ref": "Marcos 1:35",
+    "orient": "Jesus reservava tempo a sós. Marque um horário simples e fixo de oração esta semana, mesmo que curto.",
+    "ref_text": "De madrugada, ainda bem escuro, levantou-se, saiu e foi a um lugar deserto, e ali orava."
+   },
+   {
+    "q": "Há algo pelo qual você desistiu de orar?",
+    "ref": "Lucas 18:1",
+    "orient": "Jesus ensina a não desfalecer. Retome essa oração, entregando o resultado a Deus e confiando no tempo Dele.",
+    "ref_text": "Contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer."
+   }
+  ],
+  "oracao_fechamento": "Pai, ensina-me a orar de verdade: com sinceridade, constância e confiança de filho. Que a oração não seja último recurso, mas o meu jeito de andar Contigo o dia todo. Obrigado porque Tu me ouves. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Filipenses 4:6",
+    "text": "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças;"
+   },
+   {
+    "ref": "1 Tessalonicenses 5:17",
+    "text": "Orai sem cessar."
+   }
+  ]
  }
 ];
