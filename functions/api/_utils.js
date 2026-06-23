@@ -27,5 +27,5 @@ export async function getUser(request, env) {
   if (row.expires < Date.now()) { await env.DB.prepare('DELETE FROM sessions WHERE token = ?').bind(token).run(); return null }
   return { id: row.id, email: row.email, tradicao: row.tradicao }
 }
-const TRADS = ['catolica','evangelica','adventista','todas']
+const TRADS = ['catolica','evangelica','ambos']
 export const tradOk = (t) => TRADS.includes(t)
