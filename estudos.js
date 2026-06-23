@@ -952,20 +952,396 @@ window.ESTUDOS = [
   ]
  },
  {
-  "id": "perdao",
-  "tema": "Perdão",
-  "emoji": "🕊",
-  "accent": "#8a6fa0",
-  "resumo": "Soltar o peso de quem nos feriu.",
-  "embreve": true
- },
- {
   "id": "esperanca",
   "tema": "Esperança",
   "emoji": "☀️",
   "accent": "#5d8a6a",
   "resumo": "Firmeza para o que ainda virá.",
-  "embreve": true
+  "oracao_abertura": "Senhor, quando o futuro parece fechado, lembra-me de que Tu seguras o amanhã. Enche o meu coração de esperança que não vem das circunstâncias, mas de Ti. Tira de mim o desânimo e ensina-me a esperar em Ti com confiança. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Romanos 15:13",
+   "Romanos 8:24"
+  ],
+  "observacao": [
+   {
+    "q": "De onde vem a esperança, segundo Paulo?",
+    "a": "Do \"Deus de esperança\", que enche de alegria e paz, e pelo poder do Espírito Santo. Não é otimismo humano: é dom de Deus.",
+    "ref": "Romanos 5:5",
+    "ref_text": "e a esperança não desaponta, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado."
+   },
+   {
+    "q": "A esperança bíblica se apoia no que se vê ou no que não se vê?",
+    "a": "No que não se vê. Por isso ela exige paciência: esperar com confiança aquilo que ainda não chegou.",
+    "ref": "Romanos 8:25",
+    "ref_text": "Mas, se esperamos o que não vemos, com paciência o aguardamos."
+   },
+   {
+    "q": "Que imagem Hebreus usa para descrever a esperança?",
+    "a": "Uma âncora da alma, segura e firme. A esperança ancora o coração mesmo na tempestade.",
+    "ref": "Hebreus 6:19",
+    "ref_text": "a qual temos como âncora da alma, segura e firme, e que penetra até o interior do véu;"
+   },
+   {
+    "q": "Por que a alma do salmista não precisa ficar abatida?",
+    "a": "Porque ele decide esperar em Deus e ainda O louvará. A esperança é uma escolha de para onde olhar.",
+    "ref": "Salmos 42:11",
+    "ref_text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro, e o meu Deus."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Paulo encerra a carta aos Romanos abençoando a igreja com esperança. Note: ele chama Deus de \"Deus de esperança\", como se a esperança fizesse parte de quem Ele é.",
+    "A esperança da Bíblia não é torcer para dar certo. É confiança baseada em promessas de Deus que ainda não se cumpriram, mas que são certas, ancoradas na ressurreição de Jesus.",
+    "Por isso ela convive com a espera e com a dor: o cristão espera \"com paciência\" o que não vê, sabendo Quem prometeu."
+   ],
+   "refs": [
+    {
+     "ref": "1 Pedro 1:3",
+     "ctx": "Pedro escreve a cristãos espalhados e perseguidos. Ele chama a esperança de \"viva\", porque nasce da ressurreição de Jesus.",
+     "exp": "Mostra a base da esperança: não um desejo, mas um fato (a ressurreição) que garante o futuro."
+    },
+    {
+     "ref": "Tito 2:13",
+     "ctx": "Paulo orienta Tito sobre a vida da igreja em Creta, apontando para a volta de Cristo.",
+     "exp": "Chama a volta de Jesus de \"bem-aventurada esperança\": o horizonte que orienta a vida cristã."
+    },
+    {
+     "ref": "Jeremias 29:11",
+     "ctx": "Deus fala a um povo no exílio, longe de casa e sem perspectiva. Mesmo ali, promete futuro.",
+     "exp": "Lembra que os planos de Deus são de paz e futuro, mesmo quando o presente é exílio."
+    },
+    {
+     "ref": "Lamentações de Jeremias 3:22",
+     "ctx": "Jeremias lamenta a destruição de Jerusalém; no meio da dor mais profunda, ele se agarra à fidelidade de Deus.",
+     "exp": "Esperança no fundo do poço: as misericórdias de Deus não acabam, se renovam a cada manhã."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Em que área da sua vida você está perdendo a esperança hoje?",
+    "ref": "Salmos 42:5",
+    "orient": "Seja qual for, faça como o salmista: fale com a própria alma e redirecione o olhar para Deus. Esperança é decisão de onde fixar os olhos, não negação da dor.",
+    "ref_text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei pela salvação que há na sua presença."
+   },
+   {
+    "q": "O que muda na sua semana se você viver \"alegre na esperança\" em vez de ansioso?",
+    "ref": "Romanos 12:12",
+    "orient": "O texto une esperança, paciência na dor e oração. Escolha uma situação difícil e leve-a a Deus em oração, em vez de remoer.",
+    "ref_text": "alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração;"
+   },
+   {
+    "q": "Você está tentando renovar suas forças sozinho ou esperando no Senhor?",
+    "ref": "Isaías 40:31",
+    "orient": "A promessa é clara: quem espera no Senhor renova as forças. Hoje, entregue a Ele o cansaço em vez de só apertar mais os dentes.",
+    "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque a minha esperança não depende de eu enxergar a saída, mas de Ti, que seguras o futuro. Renova as minhas forças, ancora o meu coração na Tua promessa e enche-me de alegria e paz no crer. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Romanos 15:13",
+    "text": "Ora, o Deus de esperança vos encha de todo o gozo e paz na vossa fé, para que abundeis na esperança pelo poder do Espírito Santo."
+   },
+   {
+    "ref": "Romanos 8:24",
+    "text": "Porque na esperança fomos salvos. Ora, a esperança que se vê não é esperança; pois o que alguém vê, como o espera?"
+   }
+  ]
+ },
+ {
+  "id": "amor",
+  "tema": "Amor",
+  "emoji": "❤️",
+  "accent": "#c0556b",
+  "resumo": "Amar como Deus nos amou.",
+  "oracao_abertura": "Senhor, Tu és amor, e tudo o que eu sei de amar verdadeiro vem de Ti. Tira de mim o egoísmo e o amor só de palavras. Enche-me do Teu amor para que eu ame as pessoas como Tu me amas, mesmo as difíceis. Em nome de Jesus, amém.",
+  "texto_base": [
+   "1 Coríntios 13:4",
+   "1 Coríntios 13:13"
+  ],
+  "observacao": [
+   {
+    "q": "Quais atitudes o texto diz que o amor TEM?",
+    "a": "É paciente e benigno. O amor começa não no sentimento, mas em como tratamos o outro.",
+    "ref": "1 Coríntios 13:5",
+    "ref_text": "não se porta inconvenientemente, não busca os seus próprios interesses, não se irrita, não suspeita mal;"
+   },
+   {
+    "q": "Qual o novo mandamento que Jesus dá?",
+    "a": "Que nos amemos uns aos outros como Ele nos amou. A medida do amor cristão é o amor de Cristo.",
+    "ref": "João 13:34",
+    "ref_text": "Um novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei a vós, que também vós vos ameis uns aos outros."
+   },
+   {
+    "q": "Como as pessoas saberão que somos discípulos de Jesus?",
+    "a": "Pelo amor que tivermos uns pelos outros. O amor é a marca, não o discurso.",
+    "ref": "João 13:35",
+    "ref_text": "Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros."
+   },
+   {
+    "q": "Por que conseguimos amar, segundo João?",
+    "a": "Porque Ele nos amou primeiro. Nosso amor é resposta, não iniciativa.",
+    "ref": "1 João 4:19",
+    "ref_text": "Nós amamos, porque ele nos amou primeiro."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Paulo escreve isso a uma igreja dividida e cheia de disputas por dons. No meio dessa briga, ele diz: sem amor, nada disso vale nada.",
+    "O \"amor\" aqui não é sentimento que vai e vem, mas decisão e ação: paciência, bondade, ausência de inveja e orgulho. É algo que se faz, não só que se sente.",
+    "E a fonte é Deus: \"Deus é amor\". Quem não ama mostra que não conhece a Deus de verdade, porque o amor define quem Ele é."
+   ],
+   "refs": [
+    {
+     "ref": "1 João 4:8",
+     "ctx": "João escreve para firmar cristãos contra falsos mestres, apontando o teste do amor.",
+     "exp": "Define a fonte: Deus é amor. Amar não é um extra da fé, é sinal de conhecer a Deus."
+    },
+    {
+     "ref": "Romanos 5:8",
+     "ctx": "Paulo explica o evangelho aos romanos: Cristo morreu por nós.",
+     "exp": "Mostra o tipo de amor de Deus: amou-nos quando ainda éramos pecadores, sem merecermos."
+    },
+    {
+     "ref": "Mateus 22:39",
+     "ctx": "Jesus responde qual o maior mandamento, resumindo toda a lei.",
+     "exp": "Liga amar a Deus e amar o próximo: o segundo brota do primeiro."
+    },
+    {
+     "ref": "1 João 4:18",
+     "ctx": "João contrasta amor e medo na vida do cristão.",
+     "exp": "O amor perfeito lança fora o medo: quem se sabe amado por Deus teme menos."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Tem alguém hoje que está difícil de amar? Como o amor-ação se aplica a essa pessoa?",
+    "ref": "1 Pedro 4:8",
+    "orient": "O amor \"cobre\" muitos pecados, ou seja, perdoa e suporta. Escolha um gesto concreto de paciência ou bondade com essa pessoa esta semana.",
+    "ref_text": "tendo antes de tudo ardente amor uns para com os outros, porque o amor cobre uma multidão de pecados;"
+   },
+   {
+    "q": "Seu amor pelas pessoas aparece mais em palavras ou em atitudes?",
+    "ref": "1 Coríntios 13:4",
+    "orient": "O amor de 1 Coríntios é todo feito de verbos. Pegue uma das marcas (paciente, benigno, não invejoso) e pratique-a hoje de propósito.",
+    "ref_text": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não se vangloria, não se ensoberbece,"
+   },
+   {
+    "q": "Você ama os outros esperando retorno, ou como Deus te amou (de graça)?",
+    "ref": "Mateus 22:37",
+    "orient": "Amar a Deus de todo coração transborda em amar sem cobrar troco. Faça hoje um bem a alguém que não pode te retribuir.",
+    "ref_text": "Respondeu-lhe Jesus: Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado por me amares primeiro, mesmo sem eu merecer. Enche-me do Teu amor para que ele transborde em paciência, bondade e perdão. Que as pessoas vejam Jesus pelo jeito como eu amo. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "1 Coríntios 13:4",
+    "text": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não se vangloria, não se ensoberbece,"
+   },
+   {
+    "ref": "1 Coríntios 13:13",
+    "text": "Agora, pois, permanecem a fé, a esperança, o amor, estes três; mas o maior destes é o amor."
+   }
+  ]
+ },
+ {
+  "id": "medo",
+  "tema": "Medo",
+  "emoji": "🦁",
+  "accent": "#6b7a9a",
+  "resumo": "Coragem na presença de Deus.",
+  "oracao_abertura": "Senhor, Tu conheces os meus medos, até os que eu não falo em voz alta. Lembra-me de que Tu estás comigo e que não me deixas. Troca o meu medo pela confiança na Tua presença, e dá-me coragem para o que eu preciso enfrentar. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Isaías 41:10",
+   "2 Timóteo 1:7"
+  ],
+  "observacao": [
+   {
+    "q": "Qual o motivo que Deus dá para não temermos, em Isaías?",
+    "a": "Porque Ele está conosco e é o nosso Deus; Ele fortalece, ajuda e sustenta. O antídoto do medo é a presença Dele.",
+    "ref": "Salmos 23:4",
+    "ref_text": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam."
+   },
+   {
+    "q": "Que tipo de espírito Deus nos deu, segundo Paulo?",
+    "a": "De poder, amor e moderação, não de covardia. O medo paralisante não vem de Deus.",
+    "ref": "2 Timóteo 1:7",
+    "ref_text": "Porque Deus não nos deu o espírito de covardia, mas de poder, de amor e de moderação."
+   },
+   {
+    "q": "Por que o salmista não teme, mesmo no vale da sombra da morte?",
+    "a": "Porque Deus está com ele. A companhia de Deus tira o medo até diante da morte.",
+    "ref": "Salmos 27:1",
+    "ref_text": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?"
+   },
+   {
+    "q": "A quem devemos temer mais do que aos homens?",
+    "a": "A Deus. O temor certo (reverência a Deus) cura o medo errado (das pessoas e circunstâncias).",
+    "ref": "Mateus 10:28",
+    "ref_text": "E não temais os que matam o corpo, e não podem matar a alma; temei antes aquele que pode fazer perecer no inferno tanto a alma como o corpo."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Isaías fala a um povo amedrontado, diante de inimigos e exílio. Deus não promete ausência de perigo, e sim presença no perigo: \"eu sou contigo\".",
+    "A Bíblia distingue dois medos: o terror que paralisa (que Deus quer tirar) e o temor reverente a Deus (que liberta dos outros medos).",
+    "Paulo lembra a Timóteo, um jovem tímido, que o medo covarde não vem de Deus; Ele dá poder, amor e domínio próprio."
+   ],
+   "refs": [
+    {
+     "ref": "João 14:27",
+     "ctx": "Jesus se despede dos discípulos antes da cruz, sabendo que eles vão ter medo.",
+     "exp": "Ele deixa a Sua paz, diferente da do mundo, justamente para o coração não se turbar nem atemorizar."
+    },
+    {
+     "ref": "Deuteronômio 31:6",
+     "ctx": "Moisés encoraja Israel a entrar numa terra cheia de inimigos.",
+     "exp": "\"Esforça-te e tem bom ânimo\": a coragem vem de saber que Deus não desampara."
+    },
+    {
+     "ref": "Provérbios 29:25",
+     "ctx": "Provérbio sobre o perigo de viver para agradar pessoas.",
+     "exp": "O \"temor dos homens\" arma um laço; confiar no Senhor liberta dessa prisão."
+    },
+    {
+     "ref": "Salmos 56:3",
+     "ctx": "Davi escreve perseguido e com medo real, fugindo de inimigos.",
+     "exp": "Modelo honesto: ele sente medo E decide confiar. Coragem não é não sentir medo, é confiar apesar dele."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Qual medo específico tem te paralisado ultimamente?",
+    "ref": "Salmos 56:3",
+    "orient": "Não importa qual seja: a saída do salmista serve. No momento do medo, transforme-o em oração: \"no dia em que eu temer, confiarei em Ti\".",
+    "ref_text": "No dia em que eu temer, hei de confiar em ti."
+   },
+   {
+    "q": "Você tem deixado o medo do que os outros pensam controlar suas decisões?",
+    "ref": "Provérbios 29:25",
+    "orient": "O medo das pessoas é um laço. Identifique uma decisão que você está adiando por medo de julgamento e dê o passo confiando em Deus.",
+    "ref_text": "O receio do homem lhe arma laços; mas o que confia no Senhor está seguro."
+   },
+   {
+    "q": "O que muda se, no lugar do medo, você lembrar que Deus está contigo?",
+    "ref": "Isaías 41:10",
+    "orient": "A presença de Deus é o antídoto. Antes de enfrentar o que te assusta, repita a promessa: \"não temas, porque eu sou contigo\".",
+    "ref_text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo e me sustentas com a Tua mão. Tira de mim o medo que paralisa e dá-me o espírito de poder, amor e equilíbrio que vem de Ti. Quando o medo voltar, ajuda-me a confiar em Ti. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Isaías 41:10",
+    "text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
+   },
+   {
+    "ref": "2 Timóteo 1:7",
+    "text": "Porque Deus não nos deu o espírito de covardia, mas de poder, de amor e de moderação."
+   }
+  ]
+ },
+ {
+  "id": "paz",
+  "tema": "Paz",
+  "emoji": "🕊️",
+  "accent": "#6a9aa0",
+  "resumo": "A paz que vem de Deus.",
+  "oracao_abertura": "Senhor, no meio do barulho e da pressa, eu busco a Tua paz. Aquieta o que está agitado dentro de mim. Que eu não corra atrás da paz que o mundo promete e não cumpre, mas receba a Tua, que guarda o coração. Em nome de Jesus, amém.",
+  "texto_base": [
+   "João 14:27",
+   "Filipenses 4:6"
+  ],
+  "observacao": [
+   {
+    "q": "A paz que Jesus dá é igual à do mundo?",
+    "a": "Não. A paz de Jesus não depende das circunstâncias; a do mundo, sim. Por isso a Dele permanece na tempestade.",
+    "ref": "João 16:33",
+    "ref_text": "Tenho-vos dito estas coisas, para que em mim tenhais paz. No mundo tereis tribulações; mas tende bom ânimo, eu venci o mundo."
+   },
+   {
+    "q": "Como, segundo Filipenses, trocar a ansiedade pela paz?",
+    "a": "Levando tudo a Deus em oração, com gratidão. A paz vem quando se entrega, não quando se controla tudo.",
+    "ref": "Filipenses 4:7",
+    "ref_text": "e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus."
+   },
+   {
+    "q": "Em quem Deus conserva em paz, segundo Isaías?",
+    "a": "Naquele cuja mente está firme Nele e que Nele confia. A paz acompanha a confiança.",
+    "ref": "Isaías 26:3",
+    "ref_text": "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti."
+   },
+   {
+    "q": "Como temos paz com Deus, segundo Romanos?",
+    "a": "Pela fé, por meio de Jesus. A paz interior nasce primeiro da paz com Deus.",
+    "ref": "Romanos 5:1",
+    "ref_text": "Justificados, pois, pela fé, tenhamos paz com Deus, por nosso Senhor Jesus Cristo,"
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Jesus promete paz na véspera da cruz, justamente quando tudo ia desabar para os discípulos. Logo, a paz Dele não é ausência de problemas.",
+    "Paulo, preso, escreve sobre paz a partir de uma cela. A receita não é mudar as circunstâncias, mas mudar para onde se leva a preocupação: à oração.",
+    "Há uma ordem: primeiro paz COM Deus (pela fé em Jesus), depois a paz DE Deus guardando o coração. Uma nasce da outra."
+   ],
+   "refs": [
+    {
+     "ref": "Colossenses 3:15",
+     "ctx": "Paulo orienta a vida em comunidade da igreja em Colossos.",
+     "exp": "A paz de Cristo deve \"arbitrar\" no coração, como um juiz que decide e acalma os conflitos internos."
+    },
+    {
+     "ref": "Salmos 4:8",
+     "ctx": "Salmo de Davi à noite, em meio a inimigos e aflição.",
+     "exp": "Ele dorme em paz porque confia: a segurança vem de Deus, não da ausência de ameaças."
+    },
+    {
+     "ref": "Romanos 8:6",
+     "ctx": "Paulo contrasta viver segundo a carne e segundo o Espírito.",
+     "exp": "A mente voltada para o Espírito é vida e paz; onde a mente se fixa muda o estado do coração."
+    },
+    {
+     "ref": "Mateus 5:9",
+     "ctx": "Parte das bem-aventuranças no Sermão do Monte.",
+     "exp": "Quem tem a paz de Deus se torna pacificador: a paz recebida transborda em fazer as pazes."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "O que mais tem roubado a sua paz nesta fase?",
+    "ref": "Filipenses 4:6",
+    "orient": "Seja o que for, o caminho é o mesmo: trocar a remoída por oração com gratidão. Leve isso a Deus agora, agradecendo algo no meio.",
+    "ref_text": "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças;"
+   },
+   {
+    "q": "Sua mente tem estado firme em Deus, ou presa no problema?",
+    "ref": "Isaías 26:3",
+    "orient": "A paz acompanha onde a mente se fixa. Escolha conscientemente lembrar de uma verdade sobre Deus quando a preocupação voltar.",
+    "ref_text": "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti."
+   },
+   {
+    "q": "Você é mais alguém que espalha paz ou tensão ao redor?",
+    "ref": "Mateus 5:9",
+    "orient": "A paz recebida vira paz dada. Identifique uma relação tensa e dê um passo de pacificação esta semana.",
+    "ref_text": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pela paz que Tu dás, que o mundo não pode dar nem tirar. Aquieta o meu coração, firma a minha mente em Ti e faze de mim alguém que leva paz aonde vai. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "João 14:27",
+    "text": "Deixo-vos a paz, a minha paz vos dou; eu não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize."
+   },
+   {
+    "ref": "Filipenses 4:6",
+    "text": "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças;"
+   }
+  ]
  },
  {
   "id": "paciencia",
@@ -973,6 +1349,390 @@ window.ESTUDOS = [
   "emoji": "🌱",
   "accent": "#b06a6a",
   "resumo": "Confiar no tempo de Deus.",
-  "embreve": true
+  "oracao_abertura": "Senhor, eu tenho pressa, mas Tu trabalhas no Teu tempo. Ensina-me a esperar sem desanimar e a suportar sem amargar. Produz em mim a paciência que confia em Ti mesmo quando a resposta demora. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Tiago 1:3",
+   "Romanos 12:12"
+  ],
+  "observacao": [
+   {
+    "q": "O que, segundo Tiago, produz a paciência (perseverança)?",
+    "a": "A prova da fé, as dificuldades. A paciência não nasce no conforto, mas no que nos testa.",
+    "ref": "Tiago 1:4",
+    "ref_text": "e a perseverança tenha a sua obra perfeita, para que sejais perfeitos e completos, não faltando em coisa alguma."
+   },
+   {
+    "q": "O que o cansado não deve fazer ao praticar o bem?",
+    "a": "Não desanimar; a seu tempo colherá. A paciência é continuar quando o resultado demora.",
+    "ref": "Gálatas 6:9",
+    "ref_text": "E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido."
+   },
+   {
+    "q": "Como o salmista descreve esperar em Deus?",
+    "a": "Descansar e esperar com paciência, sem se irritar com quem prospera no mal. Paciência é também não se comparar.",
+    "ref": "Salmos 37:7",
+    "ref_text": "Descansa no Senhor, e espera nele; não te enfades por causa daquele que prospera em seu caminho, por causa do homem que executa maus desígnios."
+   },
+   {
+    "q": "Por que é melhor o fim de uma coisa do que o seu princípio?",
+    "a": "Porque o paciente de espírito vale mais que o orgulhoso. O valor aparece em quem persevera até o fim.",
+    "ref": "Eclesiastes 7:8",
+    "ref_text": "Melhor é o fim duma coisa do que o princípio; melhor é o paciente do que o arrogante."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Tiago escreve a cristãos sob provações e diz algo difícil: tratem as dificuldades como matéria-prima. É nelas que a paciência amadurece.",
+    "A paciência bíblica tem dois lados: esperar (aguentar o tempo de Deus) e suportar (aguentar pessoas e situações) sem amargar.",
+    "E ela está ligada à esperança: espera-se com paciência aquilo que se crê que Deus fará, mesmo sem ver ainda."
+   ],
+   "refs": [
+    {
+     "ref": "Hebreus 10:36",
+     "ctx": "Carta a cristãos tentados a desistir sob pressão.",
+     "exp": "Liga paciência e promessa: é preciso perseverar para receber o que foi prometido."
+    },
+    {
+     "ref": "Lamentações de Jeremias 3:25",
+     "ctx": "Jeremias, no meio da ruína de Jerusalém, reafirma a bondade de Deus.",
+     "exp": "\"Bom é o Senhor para os que esperam por Ele\": a espera paciente não é tempo perdido, é confiança."
+    },
+    {
+     "ref": "Colossenses 1:11",
+     "ctx": "Paulo ora pela igreja em Colossos para que sejam fortalecidos.",
+     "exp": "Pede que tenham \"toda a paciência\": ela é fruto da força que Deus dá, não só do nosso esforço."
+    },
+    {
+     "ref": "Tiago 5:7",
+     "ctx": "Tiago compara a espera cristã à do agricultor.",
+     "exp": "O lavrador espera a colheita com paciência; a fé também planta e aguarda o tempo de Deus."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Em que situação você está perdendo a paciência por causa da espera?",
+    "ref": "Salmos 37:7",
+    "orient": "Descansar e esperar é ativo, não passivo. Entregue esse prazo a Deus e foque no que depende de você hoje, sem se irritar com o ritmo.",
+    "ref_text": "Descansa no Senhor, e espera nele; não te enfades por causa daquele que prospera em seu caminho, por causa do homem que executa maus desígnios."
+   },
+   {
+    "q": "Há um bem que você cansou de fazer porque não viu resultado?",
+    "ref": "Gálatas 6:9",
+    "orient": "A colheita vem \"a seu tempo\". Decida continuar mais um pouco aquilo que você sabe que é certo, mesmo sem ver fruto ainda.",
+    "ref_text": "E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido."
+   },
+   {
+    "q": "Com qual pessoa você precisa de mais paciência (suportar sem amargar)?",
+    "ref": "Colossenses 1:11",
+    "orient": "A paciência com pessoas é fruto da força que Deus dá. Peça essa força e escolha uma resposta mais calma nesse relacionamento.",
+    "ref_text": "corroborados com toda a fortaleza, segundo o poder da sua glória, para toda a perseverança e longanimidade com gozo;"
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu és bom para quem espera em Ti. Produz em mim paciência para esperar o Teu tempo e para suportar sem amargura. Que eu não desanime no bem, sabendo que a Teu tempo colherei. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Tiago 1:3",
+    "text": "sabendo que a aprovação da vossa fé produz a perseverança;"
+   },
+   {
+    "ref": "Romanos 12:12",
+    "text": "alegrai-vos na esperança, sede pacientes na tribulação, perseverai na oração;"
+   }
+  ]
+ },
+ {
+  "id": "perdao",
+  "tema": "Perdão",
+  "emoji": "🤲",
+  "accent": "#8a6fa0",
+  "resumo": "Soltar o peso de quem nos feriu.",
+  "oracao_abertura": "Senhor, perdoar é difícil quando a ferida é real. Lembra-me do quanto Tu já me perdoaste. Tira de mim o rancor que me aprisiona e dá-me coragem para soltar quem me feriu. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Efésios 4:32",
+   "Colossenses 3:13"
+  ],
+  "observacao": [
+   {
+    "q": "Qual a medida e o motivo do perdão, segundo Paulo?",
+    "a": "Perdoar como Deus, em Cristo, nos perdoou. O perdão recebido é a régua do perdão dado.",
+    "ref": "Colossenses 3:13",
+    "ref_text": "suportando-vos e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como o Senhor vos perdoou, assim fazei vós também."
+   },
+   {
+    "q": "O que Jesus liga ao perdoarmos os outros?",
+    "a": "Ao perdão que recebemos do Pai. Quem não perdoa, fecha a porta do próprio perdão.",
+    "ref": "Mateus 6:14",
+    "ref_text": "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós;"
+   },
+   {
+    "q": "Quantas vezes devemos perdoar?",
+    "a": "\"Setenta vezes sete\": ou seja, sem ficar contando. O perdão cristão não tem cota.",
+    "ref": "Mateus 18:22",
+    "ref_text": "Respondeu-lhe Jesus: Não te digo que até sete; mas até setenta vezes sete."
+   },
+   {
+    "q": "O que Deus faz com os nossos pecados perdoados?",
+    "a": "Afasta-os de nós quanto o Oriente do Ocidente. O perdão de Deus é completo e definitivo.",
+    "ref": "Salmos 103:12",
+    "ref_text": "Quanto o oriente está longe do ocidente, tanto tem ele afastado de nós as nossas transgressões."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Paulo escreve a comunidades onde havia atritos reais. A base do perdão não é a pessoa merecer, mas o quanto fomos perdoados por Deus.",
+    "Perdoar não é dizer que o erro não doeu ou não importou. É decidir não cobrar mais a dívida, entregando a Deus a justiça.",
+    "Jesus é direto: o perdão que recebemos e o que damos estão ligados. Guardar rancor é viver preso à dívida que Deus já quer cancelar."
+   ],
+   "refs": [
+    {
+     "ref": "Mateus 18:21",
+     "ctx": "Pedro pergunta a Jesus quantas vezes deve perdoar o irmão.",
+     "exp": "Pedro acha generoso perdoar 7 vezes; Jesus mostra que o perdão não se conta, se vive."
+    },
+    {
+     "ref": "Marcos 11:25",
+     "ctx": "Jesus ensina sobre oração e fé.",
+     "exp": "Liga oração e perdão: levar rancor para a oração trava a comunhão com Deus."
+    },
+    {
+     "ref": "Lucas 6:37",
+     "ctx": "Parte do ensino de Jesus sobre não julgar.",
+     "exp": "\"Perdoai, e sereis perdoados\": a medida que usamos com os outros volta para nós."
+    },
+    {
+     "ref": "Lucas 23:34",
+     "ctx": "Jesus na cruz, sendo executado injustamente.",
+     "exp": "O maior exemplo: Ele perdoa quem O mata. O perdão cristão alcança até a injustiça extrema."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Quem é a pessoa que hoje você tem dificuldade de perdoar?",
+    "ref": "Efésios 4:32",
+    "orient": "Perdoar não é sentir, é decidir. Lembre do quanto Deus te perdoou e dê o primeiro passo: entregue essa pessoa a Deus em oração.",
+    "ref_text": "Antes sede bondosos uns para com os outros, compassivos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo."
+   },
+   {
+    "q": "Você está confundindo perdoar com fingir que não doeu?",
+    "ref": "Romanos 12:19",
+    "orient": "Perdoar é parar de cobrar e entregar a justiça a Deus (\"minha é a vingança\"). Você pode reconhecer a dor E soltar a cobrança.",
+    "ref_text": "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança, eu retribuirei, diz o Senhor."
+   },
+   {
+    "q": "Tem algum rancor que você leva para a oração e ele a trava?",
+    "ref": "Marcos 11:25",
+    "orient": "Antes de orar hoje, nomeie o rancor e escolha perdoar. A comunhão com Deus respira melhor sem essa dívida pendurada.",
+    "ref_text": "Quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que também vosso Pai que está no céu, vos perdoe as vossas ofensas."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu afastaste de mim os meus pecados, longe como o Oriente do Ocidente. Dá-me coragem para perdoar como fui perdoado. Tira o rancor do meu coração e cura as feridas que ele guardou. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Efésios 4:32",
+    "text": "Antes sede bondosos uns para com os outros, compassivos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo."
+   },
+   {
+    "ref": "Colossenses 3:13",
+    "text": "suportando-vos e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como o Senhor vos perdoou, assim fazei vós também."
+   }
+  ]
+ },
+ {
+  "id": "perseveranca",
+  "tema": "Perseverança",
+  "emoji": "🏃",
+  "accent": "#b5783a",
+  "resumo": "Não desistir no meio do caminho.",
+  "oracao_abertura": "Senhor, é fácil começar e difícil terminar. Dá-me firmeza para não desistir quando cansar. Fixa os meus olhos em Jesus e ajuda-me a correr até o fim a corrida que Tu puseste diante de mim. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Hebreus 12:1",
+   "Tiago 1:12"
+  ],
+  "observacao": [
+   {
+    "q": "Para correr com perseverança, o que precisamos largar e onde olhar?",
+    "a": "Largar todo peso e o pecado que atrapalha, e olhar para Jesus. Perseverar exige soltar o que prende e focar Nele.",
+    "ref": "Hebreus 12:2",
+    "ref_text": "fitando os olhos em Jesus, autor e consumador da nossa fé, o qual, pelo gozo que lhe está proposto, suportou a cruz, desprezando a ignomínia, e está assentado à direita do trono de Deus."
+   },
+   {
+    "q": "O que recebe quem suporta a provação, segundo Tiago?",
+    "a": "A coroa da vida. A perseverança tem recompensa prometida por Deus.",
+    "ref": "Tiago 1:12",
+    "ref_text": "Bem-aventurado o homem que suporta a provação; porque, depois de aprovado, receberá a coroa da vida, que o Senhor prometeu aos que o amam."
+   },
+   {
+    "q": "Que sequência Paulo descreve a partir da tribulação?",
+    "a": "Tribulação produz paciência; paciência, experiência; experiência, esperança. A dificuldade, perseverada, amadurece a fé.",
+    "ref": "Romanos 5:4",
+    "ref_text": "e a perseverança a experiência, e a experiência a esperança;"
+   },
+   {
+    "q": "Quem será salvo, segundo Jesus, sobre o fim?",
+    "a": "Aquele que perseverar até o fim. A fé verdadeira se prova na constância, não só no começo.",
+    "ref": "Mateus 24:13",
+    "ref_text": "Mas quem perseverar até o fim, esse será salvo."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Hebreus usa a imagem de uma corrida com torcida (a \"nuvem de testemunhas\"). Perseverar é correr a SUA prova, no seu passo, sem desistir.",
+    "O segredo não é força de vontade pura, mas foco: \"olhando para Jesus\", o autor e consumador da fé, que também perseverou até a cruz.",
+    "E a perseverança tem direção: ela amadurece a fé (tribulação vira esperança) e termina em recompensa (a coroa da vida)."
+   ],
+   "refs": [
+    {
+     "ref": "Gálatas 6:9",
+     "ctx": "Paulo encerra Gálatas exortando à prática do bem.",
+     "exp": "\"Não desfaleçamos\": a colheita vem a seu tempo para quem não desiste."
+    },
+    {
+     "ref": "Filipenses 3:14",
+     "ctx": "Paulo, já maduro, fala de seguir adiante na fé.",
+     "exp": "Ele \"prossegue para o alvo\": perseverança é seguir em frente, esquecendo o que ficou para trás."
+    },
+    {
+     "ref": "1 Coríntios 15:58",
+     "ctx": "Paulo encerra o capítulo da ressurreição.",
+     "exp": "\"Firmes, inabaláveis\": o trabalho no Senhor não é em vão, o que sustenta a constância."
+    },
+    {
+     "ref": "Apocalipse 2:10",
+     "ctx": "Carta de Jesus à igreja de Esmirna, que sofria perseguição.",
+     "exp": "\"Sê fiel até a morte\": a perseverança até o fim recebe a coroa da vida."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "O que você está prestes a desistir e sabe que não deveria?",
+    "ref": "Gálatas 6:9",
+    "orient": "A colheita vem a seu tempo. Decida continuar mais um trecho, e quebre o objetivo em um passo pequeno e possível para hoje.",
+    "ref_text": "E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido."
+   },
+   {
+    "q": "Que \"peso\" você precisa largar para conseguir perseverar?",
+    "ref": "Hebreus 12:1",
+    "orient": "Pode ser um hábito, uma distração, uma culpa. Identifique um peso e tire-o do caminho para correr mais leve.",
+    "ref_text": "Portanto, nós também, pois estamos rodeados de tão grande nuvem de testemunhas, deixemos todo embaraço, e o pecado que tão de perto nos rodeia, e corramos com perseverança a carreira que nos está proposta,"
+   },
+   {
+    "q": "Para onde seus olhos estão: no problema ou em Jesus?",
+    "ref": "Hebreus 12:2",
+    "orient": "O foco sustenta a corrida. Quando bater o cansaço, lembre de Jesus, que perseverou por você, e dê o próximo passo.",
+    "ref_text": "fitando os olhos em Jesus, autor e consumador da nossa fé, o qual, pelo gozo que lhe está proposto, suportou a cruz, desprezando a ignomínia, e está assentado à direita do trono de Deus."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu sustentas quem persevera. Tira os pesos que me prendem, fixa os meus olhos em Jesus e dá-me firmeza para não desistir. Que eu corra até o fim a corrida que Tu puseste diante de mim. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Hebreus 12:1",
+    "text": "Portanto, nós também, pois estamos rodeados de tão grande nuvem de testemunhas, deixemos todo embaraço, e o pecado que tão de perto nos rodeia, e corramos com perseverança a carreira que nos está proposta,"
+   },
+   {
+    "ref": "Tiago 1:12",
+    "text": "Bem-aventurado o homem que suporta a provação; porque, depois de aprovado, receberá a coroa da vida, que o Senhor prometeu aos que o amam."
+   }
+  ]
+ },
+ {
+  "id": "humildade",
+  "tema": "Humildade",
+  "emoji": "🙇",
+  "accent": "#7a8a6a",
+  "resumo": "Menos de mim, mais de Deus.",
+  "oracao_abertura": "Senhor, o orgulho se esconde bem dentro de mim. Ensina-me a humildade verdadeira, que não é me diminuir, mas Te colocar no lugar certo. Dá-me um coração que serve e que aprende. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Filipenses 2:3",
+   "Tiago 4:6"
+  ],
+  "observacao": [
+   {
+    "q": "Como devemos considerar os outros, segundo Paulo?",
+    "a": "Como superiores a nós mesmos, cuidando também do interesse deles. Humildade é tirar o foco de si.",
+    "ref": "Filipenses 2:4",
+    "ref_text": "não olhe cada um somente para o que é seu, mas cada qual também para o que é dos outros."
+   },
+   {
+    "q": "A quem Deus resiste e a quem dá graça?",
+    "a": "Resiste aos soberbos e dá graça aos humildes. O orgulho fecha a porta que a humildade abre.",
+    "ref": "Tiago 4:6",
+    "ref_text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
+   },
+   {
+    "q": "O que acontece com quem se exalta e com quem se humilha?",
+    "a": "Quem se exalta será humilhado, e quem se humilha será exaltado. Deus inverte a lógica do orgulho.",
+    "ref": "Mateus 23:12",
+    "ref_text": "Qualquer, pois, que a si mesmo se exaltar, será humilhado; e qualquer que a si mesmo se humilhar, será exaltado."
+   },
+   {
+    "q": "O que o Senhor pede do ser humano, em Miquéias?",
+    "a": "Praticar a justiça, amar a misericórdia e andar humildemente com Deus. A humildade é caminho, não um momento.",
+    "ref": "Miquéias 6:8",
+    "ref_text": "Ele te declarou, ó homem, o que é bom; e que é o que o Senhor requer de ti, senão que pratiques a justiça, e ames a benevolência, e andes humildemente com o teu Deus?"
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Paulo escreve a uma igreja com algumas rivalidades e pede humildade, apontando para o maior exemplo: Jesus, que se esvaziou e serviu.",
+    "Humildade bíblica não é se achar um lixo nem fingir baixa autoestima. É ver a si mesmo com verdade e colocar Deus e o próximo no lugar certo.",
+    "Há uma promessa ligada a ela: Deus resiste ao orgulhoso, mas dá graça e levanta o humilde no tempo certo."
+   ],
+   "refs": [
+    {
+     "ref": "1 Pedro 5:6",
+     "ctx": "Pedro orienta cristãos sob pressão a confiarem em Deus.",
+     "exp": "\"Humilhai-vos... para que Ele vos exalte a seu tempo\": a humildade espera o tempo de Deus, sem se promover."
+    },
+    {
+     "ref": "Provérbios 11:2",
+     "ctx": "Provérbio que contrasta soberba e humildade.",
+     "exp": "Com a soberba vem a desonra; com a humildade, a sabedoria. O orgulho cega, a humildade ensina."
+    },
+    {
+     "ref": "Mateus 11:29",
+     "ctx": "Jesus convida os cansados a aprenderem Dele.",
+     "exp": "Ele se descreve como \"manso e humilde de coração\": a humildade é traço do próprio Cristo."
+    },
+    {
+     "ref": "Provérbios 22:4",
+     "ctx": "Provérbio que liga humildade e temor a Deus.",
+     "exp": "Humildade e temor do Senhor andam juntos e trazem vida; reconhecer a Deus nos põe no lugar certo."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Onde o orgulho mais aparece em você: em querer ter razão, ser visto ou não pedir ajuda?",
+    "ref": "Filipenses 2:3",
+    "orient": "Humildade é tirar o foco de si. Esta semana, em uma situação, ceda a razão ou deixe outro brilhar de propósito.",
+    "ref_text": "nada façais por contenda ou por vanglória, mas com humildade cada um considere os outros superiores a si mesmo;"
+   },
+   {
+    "q": "Há alguém de quem você precisa pedir desculpas ou pedir ajuda, mas o orgulho impede?",
+    "ref": "Tiago 4:10",
+    "orient": "Humilhar-se diante de Deus inclui humilhar-se diante de pessoas. Dê esse passo difícil; Deus levanta o humilde.",
+    "ref_text": "Humilhai-vos perante o Senhor, e ele vos exaltará."
+   },
+   {
+    "q": "Você tem servido esperando reconhecimento?",
+    "ref": "Mateus 11:29",
+    "orient": "Aprenda do manso e humilde de coração: sirva uma vez esta semana sem que ninguém saiba nem agradeça.",
+    "ref_text": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para as vossas almas."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu dás graça aos humildes. Tira de mim o orgulho escondido e ensina-me a servir e a aprender. Que eu ande humildemente Contigo, colocando-Te no lugar certo da minha vida. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Filipenses 2:3",
+    "text": "nada façais por contenda ou por vanglória, mas com humildade cada um considere os outros superiores a si mesmo;"
+   },
+   {
+    "ref": "Tiago 4:6",
+    "text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
+   }
+  ]
  }
 ];
