@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<!-- PWA estilo Garagem Inteligente: splash NATIVA via manifest + icone (acende e some sozinha) -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#faf6ef">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Estudo">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,400..600;1,500&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<title>Estudo Bíblico</title>
+<style>
+/* ===========================================================
+   APP de Estudos Bíblicos — M2Labs
+   - Splash IN-PAGE auto-dismiss 3s (espelha a splash nativa do PWA)
+   - Home com escolha de tema (sortear + grade)
+   - Sessão em carrossel data-driven (lê window.ESTUDOS)
+   PADRÕES: corpo Segoe UI; marca/títulos DM Sans + Fraunces;
+   GAVETA 1 (Palavra) card pergaminho; GAVETA 2 (Reflexão) card claro;
+   capitalização reverente só na Gaveta 2; texto bíblico intocável.
+   =========================================================== */
+:root{
+  --azul-inst:#3a4a6b; --tinta:#2b3242; --tinta-suave:#5a6275; --nota:#8b93a6;
+  --palavra-bg:#fbf6ec; --palavra-borda:#c9a227;
+  --reflexao-bg:#ffffff; --reflexao-borda:#cdd6e6; --chip-bg:#eef2f9;
+  --sombra:0 6px 22px rgba(58,74,107,.12);
+  --creme:#f1e5d2; --madeira:#9A6638; --madeira-esc:#7E5230; --carvao:#2D2A26; --m2:#A0673C;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; color:var(--tinta);
+  -webkit-font-smoothing:antialiased; font-variant-numeric:tabular-nums; background:#0e1320; overflow:hidden}
+.phone{position:relative; height:100vh; width:100%; max-width:430px; margin:0 auto; overflow:hidden; display:flex; flex-direction:column; background:#fff}
+
+/* ===== SPLASH (auto, sem botão) ===== */
+/* SPLASH = padrão nativo do PWA: fundo sólido (= background_color) + ícone centrado. Nada mais. */
+#splash{position:absolute; inset:0; z-index:200; background:#faf6ef;
+  display:flex; flex-direction:column; align-items:center; justify-content:center; gap:16px; transition:opacity .5s ease}
+#splash.sai{opacity:0; pointer-events:none}
+.sp-icon{width:104px; height:104px; border-radius:23px; box-shadow:0 12px 30px rgba(122,82,48,.20); animation:sp-in .5s ease}
+@keyframes sp-in{from{opacity:0; transform:scale(.96)} to{opacity:1; transform:none}}
+.sp-name{font-family:"DM Sans",sans-serif; font-weight:700; font-size:12pt; letter-spacing:.3px; color:var(--carvao)}
+.sp-name span{color:var(--m2)}
+
+/* ===== HOME ===== */
+#home{flex:1; overflow-y:auto; padding:30px 20px 30px; display:none; flex-direction:column; background:linear-gradient(170deg,#fcf8f1,#f3eadb)}
+.home-h{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:22pt; color:var(--tinta); line-height:1.15}
+.home-h .it{font-style:italic; color:var(--madeira)}
+.home-sub{font-size:9pt; color:var(--tinta-suave); margin-top:6px; margin-bottom:20px}
+.btn-sortear{display:flex; align-items:center; justify-content:center; gap:9px; width:100%; background:var(--madeira); color:#fff;
+  font-family:"DM Sans",sans-serif; font-weight:600; font-size:11pt; border:none; border-radius:14px; padding:15px; cursor:pointer;
+  box-shadow:0 10px 26px rgba(122,82,48,.28); transition:.15s}
+.btn-sortear:active{transform:scale(.98)}
+.grid-titulo{font-size:7.5pt; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--nota); margin:24px 0 12px}
+.grid{display:grid; grid-template-columns:1fr 1fr; gap:11px}
+.tema-card{background:#fff; border:1px solid #ece3d3; border-radius:14px; padding:15px 14px; cursor:pointer; box-shadow:var(--sombra);
+  transition:.15s; position:relative; overflow:hidden}
+.tema-card:active{transform:scale(.97)}
+.tema-card .em{font-size:21pt; line-height:1}
+.tema-card .nm{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:13pt; color:var(--tinta); margin-top:8px}
+.tema-card .rs{font-size:8pt; color:var(--tinta-suave); line-height:1.35; margin-top:3px}
+.tema-card .faixa{height:4px; border-radius:4px; width:34px; margin-top:10px}
+.tema-card.locked{opacity:.55}
+.tema-card .breve{position:absolute; top:10px; right:10px; font-size:6.5pt; font-weight:700; text-transform:uppercase; letter-spacing:.5px;
+  background:#efe7d8; color:#a98a63; padding:3px 7px; border-radius:10px}
+.btn-livre{margin-top:14px; width:100%; background:#fff; border:1px dashed #d8ccb6; color:var(--madeira-esc);
+  font-family:"DM Sans",sans-serif; font-weight:600; font-size:9.5pt; border-radius:14px; padding:14px; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:8px}
+.btn-livre small{display:block; font-weight:400; color:var(--nota); font-size:7.5pt}
+
+/* assinatura M2Labs (rodapé home) */
+.m2-foot{margin-top:30px; padding-top:18px; border-top:1px solid #e8ddc9; display:flex; flex-direction:column; align-items:center; gap:6px}
+.m2-row{display:flex; align-items:center; gap:8px}
+.m2-row img{width:26px; height:26px; border-radius:50%}
+.m2-row .w{font-family:"DM Sans",sans-serif; font-weight:700; font-size:11pt; color:var(--carvao)}
+.m2-row .w span{color:var(--m2)}
+.m2-by{font-family:"Fraunces",Georgia,serif; font-style:italic; font-size:8.5pt; color:#a98a63}
+
+/* ===== SELEÇÃO DE MODO ===== */
+#modo{position:absolute; inset:0; z-index:120; background:rgba(43,50,66,.5); backdrop-filter:blur(3px); display:none; align-items:flex-end}
+.modo-sheet{background:#fff; width:100%; border-radius:20px 20px 0 0; padding:22px 20px 28px; animation:subir .3s ease}
+@keyframes subir{from{transform:translateY(40px); opacity:.4} to{transform:none; opacity:1}}
+.modo-sheet h3{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:16pt; color:var(--tinta)}
+.modo-sheet .mt-sub{font-size:9pt; color:var(--tinta-suave); margin:4px 0 16px}
+.modo-opt{display:flex; gap:13px; align-items:flex-start; border:1px solid var(--reflexao-borda); border-radius:13px; padding:15px; cursor:pointer; margin-bottom:11px; transition:.15s}
+.modo-opt:active{transform:scale(.99)}
+.modo-opt .ic{font-size:17pt}
+.modo-opt .ti{font-family:"DM Sans",sans-serif; font-weight:600; font-size:11pt; color:var(--tinta)}
+.modo-opt .de{font-size:8.5pt; color:var(--tinta-suave); line-height:1.4; margin-top:2px}
+.modo-cancel{text-align:center; width:100%; background:none; border:none; color:var(--nota); font-family:inherit; font-size:9pt; font-weight:600; padding:8px; cursor:pointer; margin-top:4px}
+
+/* ===== SESSÃO (carrossel) ===== */
+#sessao{position:absolute; inset:0; z-index:100; display:none; flex-direction:column; background:#fff}
+.topo{position:absolute; top:0; left:0; right:0; z-index:10; display:flex; align-items:center; justify-content:space-between; padding:14px 18px; background:linear-gradient(to bottom, rgba(255,255,255,.9), rgba(255,255,255,0)); backdrop-filter:blur(2px)}
+.topo .voltar{background:none; border:none; color:var(--azul-inst); font-size:14pt; cursor:pointer; line-height:1}
+.tema-top{font-family:"DM Sans",sans-serif; font-weight:700; letter-spacing:.5px; text-transform:uppercase; font-size:9pt; color:var(--azul-inst)}
+.modo-tag{font-size:7pt; font-weight:700; color:#fff; background:var(--azul-inst); padding:3px 9px; border-radius:18px}
+.trilha-ctrl{position:absolute; top:52px; right:14px; z-index:11; display:flex; align-items:center; gap:6px; background:rgba(255,255,255,.8); border-radius:18px; padding:5px 10px; box-shadow:var(--sombra); backdrop-filter:blur(2px); cursor:pointer}
+.trilha-ctrl .ico{font-size:10pt; color:var(--azul-inst); width:12px; text-align:center}
+.trilha-ctrl small{font-size:6.5pt; color:var(--tinta-suave); font-weight:700}
+
+.trilho{display:flex; height:100%; width:100%; transition:transform .45s cubic-bezier(.4,0,.2,1)}
+.tela{min-width:100%; height:100%; padding:62px 18px 96px; overflow-y:auto; display:flex; flex-direction:column; gap:13px}
+.etapa-rotulo{font-size:7pt; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--azul-inst); opacity:.75}
+.etapa-titulo{font-family:"Fraunces",Georgia,serif; font-size:16pt; font-weight:500; color:var(--tinta); line-height:1.2}
+.intro{font-size:9pt; line-height:1.5; color:var(--tinta-suave)}
+
+.palavra{background:var(--palavra-bg); border-left:4px solid var(--palavra-borda); border-radius:8px; padding:16px; box-shadow:var(--sombra)}
+.palavra .selo{font-size:7pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--palavra-borda); display:flex; gap:5px; margin-bottom:10px}
+.palavra .ref{font-weight:700; color:var(--azul-inst); font-size:9pt; margin-bottom:3px}
+.palavra .versiculo{font-size:13pt; line-height:1.55; color:var(--tinta)}
+.palavra .versiculo+.ref{margin-top:14px}
+
+.reflexao{background:var(--reflexao-bg); border:1px solid var(--reflexao-borda); border-radius:8px; padding:15px 16px; box-shadow:var(--sombra)}
+.reflexao .selo{font-size:7pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--tinta-suave); margin-bottom:9px; display:flex; gap:5px}
+.reflexao p{font-size:9.5pt; line-height:1.6; color:var(--tinta-suave); font-style:italic}
+.reflexao p+p{margin-top:9px}
+.oracao p{font-style:italic; font-size:11.5pt; line-height:1.75; color:var(--tinta)}
+
+.qa{border:1px solid var(--reflexao-borda); border-radius:8px; overflow:hidden; background:#fff}
+.qa+.qa{margin-top:9px}
+.q{width:100%; text-align:left; background:#fff; border:none; cursor:pointer; font-family:inherit; font-size:9.5pt; line-height:1.45; color:var(--tinta); font-weight:600; padding:12px 14px 12px 32px; position:relative; display:flex; align-items:center; gap:8px}
+.q::before{content:"?"; position:absolute; left:14px; color:var(--azul-inst); font-weight:700}
+.q .seta{margin-left:auto; color:var(--nota); font-size:8pt; transition:.2s}
+.qa.aberto .q .seta{transform:rotate(180deg)}
+.a{display:none; padding:0 14px 13px}
+.qa.aberto .a{display:block; animation:fade .25s ease}
+@keyframes fade{from{opacity:0} to{opacity:1}}
+.a-txt{font-size:9pt; line-height:1.55; color:var(--tinta-suave); font-style:italic; margin-bottom:9px}
+.a-verso{background:var(--palavra-bg); border-left:3px solid var(--palavra-borda); border-radius:6px; padding:10px 12px}
+.a-verso .selo{font-size:6.5pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--palavra-borda); margin-bottom:4px}
+.a-verso .ref{font-weight:700; color:var(--azul-inst); font-size:8pt}
+.a-verso .v{font-size:10.5pt; line-height:1.5; margin-top:2px; color:var(--tinta)}
+
+.refs-titulo{font-size:7pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--tinta-suave); margin:4px 0 0}
+.chips{display:flex; flex-wrap:wrap; gap:8px}
+.chip{background:var(--chip-bg); color:var(--azul-inst); font-weight:700; border:1px solid var(--reflexao-borda); padding:7px 13px; border-radius:18px; font-size:8pt; cursor:pointer; transition:.15s}
+.chip:active{transform:scale(.96)}
+.chip.aberto{background:var(--azul-inst); color:#fff}
+.chip-texto{display:none; width:100%; background:var(--palavra-bg); border-left:3px solid var(--palavra-borda); border-radius:8px; padding:13px 15px; margin-top:4px; box-shadow:var(--sombra)}
+.chip-texto.aberto{display:block}
+.chip-texto .ref{font-weight:700; color:var(--azul-inst); font-size:8.5pt}
+.chip-texto .v{font-size:11.5pt; line-height:1.55; margin-top:4px; color:var(--tinta)}
+.chip-texto .exp{margin-top:11px; padding-top:10px; border-top:1px dashed var(--palavra-borda)}
+.chip-texto .exp .esel{font-size:6.5pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--tinta-suave); display:block; margin-bottom:4px}
+.chip-texto .exp .etxt{font-size:9pt; line-height:1.5; color:var(--tinta-suave); font-style:italic}
+.chip-texto .exp.ctxblock .esel{color:#9a7b2e}
+.chip-texto .exp.ctxblock .etxt{font-style:normal}
+
+/* interpretação comparativa (visões lado a lado) */
+.visao{background:#fff; border:1px solid var(--reflexao-borda); border-top:3px solid var(--azul-inst); border-radius:10px; padding:14px; box-shadow:var(--sombra)}
+.visao+.visao{margin-top:11px}
+.visao-h{font-family:"DM Sans",sans-serif; font-weight:700; font-size:10.5pt; color:var(--tinta); display:flex; align-items:center; gap:8px; margin-bottom:7px}
+.visao-num{background:var(--azul-inst); color:#fff; width:20px; height:20px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; font-size:8pt; flex:none}
+.visao-rs{font-size:9pt; line-height:1.5; color:var(--tinta-suave); margin-bottom:6px}
+.vref{background:var(--palavra-bg); border-left:3px solid var(--palavra-borda); border-radius:6px; padding:9px 11px; margin-top:7px}
+.vref .selo{font-size:6pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--palavra-borda); margin-bottom:3px}
+.vref .ref{font-weight:700; color:var(--azul-inst); font-size:7.5pt}
+.vref .v{font-size:10pt; line-height:1.45; margin-top:2px; color:var(--tinta)}
+.comum{background:#eef6ef; border:1px solid #cfe3d4; border-radius:10px; padding:14px; margin-top:12px}
+.comum .selo{font-size:7pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:#5d7d4f; margin-bottom:8px; display:flex; gap:5px}
+.comum p{font-size:9pt; line-height:1.55; color:var(--tinta); margin-bottom:4px}
+.neutro{font-size:8pt; line-height:1.45; color:var(--nota); font-style:italic; text-align:center; margin-top:12px; padding:0 10px}
+
+.ap{background:#fff; border:1px solid var(--reflexao-borda); border-radius:8px; padding:14px; box-shadow:var(--sombra)}
+.ap+.ap{margin-top:11px}
+.ap-q{font-size:9.5pt; line-height:1.45; color:var(--tinta); font-weight:600; padding-left:18px; position:relative; margin-bottom:9px}
+.ap-q::before{content:"?"; position:absolute; left:0; color:var(--azul-inst); font-weight:700}
+.ap-toggle{margin-top:9px; width:100%; background:var(--chip-bg); color:var(--azul-inst); border:1px solid var(--reflexao-borda); border-radius:7px; padding:8px; font-family:inherit; font-size:8pt; font-weight:700; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:6px}
+.ap-toggle .seta{transition:.2s}
+.ap.aberto .ap-toggle .seta{transform:rotate(180deg)}
+.ap-a{display:none; margin-top:10px}
+.ap.aberto .ap-a{display:block; animation:fade .25s ease}
+.ap-orient{margin-top:9px; background:#f3f7ff; border-radius:8px; padding:11px 13px}
+.ap-orient .esel{font-size:6.5pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--azul-inst); display:block; margin-bottom:4px}
+.ap-orient .otxt{font-size:9pt; line-height:1.55; color:var(--tinta)}
+.anota{width:100%; min-height:54px; resize:vertical; border:1px solid var(--reflexao-borda); border-radius:8px; padding:11px; font-family:inherit; font-size:9pt; color:var(--tinta); background:#fff}
+.anota:focus{outline:none; border-color:var(--azul-inst)}
+
+.fim{align-items:center; justify-content:center; text-align:center; gap:16px}
+.fim .em{font-size:40pt}
+.fim h2{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:18pt; color:var(--tinta)}
+.fim p{font-size:9.5pt; color:var(--tinta-suave); line-height:1.5; max-width:280px}
+.fim .btn-home{background:var(--madeira); color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:10pt; border:none; border-radius:24px; padding:12px 30px; cursor:pointer; box-shadow:0 10px 24px rgba(122,82,48,.28)}
+
+.rodape{position:absolute; bottom:0; left:0; right:0; z-index:10; padding:12px 18px 16px; background:linear-gradient(to top, rgba(255,255,255,.94), rgba(255,255,255,0))}
+.barra{height:3px; background:rgba(58,74,107,.15); border-radius:3px; overflow:hidden; margin-bottom:9px}
+.barra span{display:block; height:100%; background:var(--azul-inst); border-radius:3px; transition:width .45s}
+.passo-txt{font-size:7pt; color:var(--nota); font-weight:700; text-align:center; margin-bottom:6px}
+.nav{display:flex; align-items:center; justify-content:space-between; gap:10px}
+.dots{display:flex; gap:6px; align-items:center}
+.dot{width:7px; height:7px; border-radius:50%; background:rgba(58,74,107,.22)}
+.dot.on{background:var(--azul-inst); width:18px; border-radius:4px; transition:.3s}
+.btn{border:none; border-radius:20px; padding:9px 16px; font-family:"DM Sans",sans-serif; font-size:8pt; font-weight:700; cursor:pointer}
+.btn-prim{background:var(--azul-inst); color:#fff}
+.btn-sec{background:transparent; color:var(--azul-inst)}
+.btn:disabled{opacity:.3}
+
+.toast{position:absolute; bottom:90px; left:50%; transform:translateX(-50%) translateY(20px); z-index:300; background:var(--carvao); color:#fff; font-size:8.5pt; font-weight:600; padding:10px 18px; border-radius:22px; opacity:0; transition:.25s; pointer-events:none; white-space:nowrap}
+.toast.on{opacity:1; transform:translateX(-50%) translateY(0)}
+
+@media (min-width:768px){
+  body{font-size:9pt}
+  .palavra .versiculo{font-size:14pt}
+  .reflexao p,.ap-q,.anota{font-size:10pt}
+  .oracao p{font-size:13pt}
+  .tela{padding:70px 26px 100px}
+}
+</style>
+</head>
+<body>
+<div class="phone">
+
+  <!-- SPLASH (acende e some sozinha, sem botão) -->
+  <div id="splash">
+    <img class="sp-icon" src="icon-512.png" alt="">
+    <div class="sp-name">M<span>2</span>Labs</div>
+  </div>
+
+  <!-- HOME -->
+  <div id="home">
+    <div class="home-h">Um tempo na <span class="it">Palavra</span></div>
+    <div class="home-sub">Escolha um tema ou deixe a sorte decidir.</div>
+    <button class="btn-sortear" onclick="sortear()">🎲 Sortear um tema</button>
+    <div class="grid-titulo">Temas</div>
+    <div class="grid" id="grid"></div>
+    <button class="btn-livre" onclick="temaLivre()">✍️ Tema livre<small>digite qualquer assunto (em breve, requer API)</small></button>
+    <div class="m2-foot">
+      <div class="m2-row"><img src="icon-192.png" alt=""><span class="w">M<span>2</span>Labs</span></div>
+      <div class="m2-by">por Marcelo Mendes</div>
+    </div>
+  </div>
+
+  <!-- SELEÇÃO DE MODO -->
+  <div id="modo">
+    <div class="modo-sheet">
+      <h3 id="modo-tema">Tema</h3>
+      <div class="mt-sub">Como você quer estudar agora?</div>
+      <div class="modo-opt" onclick="iniciar('rapido')">
+        <div class="ic">⚡</div>
+        <div><div class="ti">Rápido</div><div class="de">5 a 7 min. Texto, uma reflexão e oração. Pro corre do dia.</div></div>
+      </div>
+      <div class="modo-opt" onclick="iniciar('profundo')">
+        <div class="ic">📖</div>
+        <div><div class="ti">Profundo</div><div class="de">Observação, interpretação com referências cruzadas e aplicação completa.</div></div>
+      </div>
+      <button class="modo-cancel" onclick="fecharModo()">Cancelar</button>
+    </div>
+  </div>
+
+  <!-- SESSÃO -->
+  <div id="sessao">
+    <div class="topo">
+      <button class="voltar" onclick="voltarHome()" title="Voltar">&#8592;</button>
+      <div class="tema-top" id="sessao-tema">Tema</div>
+      <div class="modo-tag" id="sessao-modo">Modo</div>
+    </div>
+    <div class="trilha-ctrl" id="trilhaBtn" title="Trilha de piano">
+      <span class="ico" id="trilhaIco">&#10074;&#10074;</span><small id="trilhaTxt">piano</small>
+    </div>
+    <div class="trilho" id="trilho"></div>
+    <div class="rodape">
+      <div class="barra"><span id="barra"></span></div>
+      <div class="passo-txt" id="passoTxt"></div>
+      <div class="nav">
+        <button class="btn btn-sec" id="btnPrev">&#8592; Voltar</button>
+        <div class="dots" id="dots"></div>
+        <button class="btn btn-prim" id="btnNext">Avançar &#8594;</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+  <audio id="trilha" src="trilha.mp3" loop preload="auto"></audio>
+</div>
+
+<script src="estudos.js"></script>
+<script>
+/* ===== util ===== */
+const $=s=>document.querySelector(s);
+function toast(t){const el=$('#toast');el.textContent=t;el.classList.add('on');setTimeout(()=>el.classList.remove('on'),2200);}
+function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;');}
+
+/* ===== SPLASH: some sozinha em 3s ===== */
+window.addEventListener('load',()=>{
+  setTimeout(()=>{
+    const sp=$('#splash'); sp.classList.add('sai');
+    setTimeout(()=>{ sp.style.display='none'; $('#home').style.display='flex'; },550);
+  },2200);
+});
+
+/* ===== HOME: monta a grade de temas ===== */
+function renderHome(){
+  const g=$('#grid'); g.innerHTML='';
+  ESTUDOS.forEach(e=>{
+    const card=document.createElement('div');
+    card.className='tema-card'+(e.embreve?' locked':'');
+    card.innerHTML=`${e.embreve?'<span class="breve">Em breve</span>':''}
+      <div class="em">${e.emoji}</div>
+      <div class="nm">${e.tema}</div>
+      <div class="rs">${e.resumo}</div>
+      <div class="faixa" style="background:${e.accent}"></div>`;
+    card.onclick=()=> e.embreve ? toast('Esse tema chega em breve 🙏') : abrirModo(e.id);
+    g.appendChild(card);
+  });
+}
+renderHome();
+
+function sortear(){
+  const livres=ESTUDOS.filter(e=>!e.embreve);
+  const e=livres[Math.floor(Math.random()*livres.length)];
+  abrirModo(e.id);
+}
+function temaLivre(){ toast('Tema livre chega na próxima fase (com API)'); }
+
+/* ===== MODO ===== */
+let temaSel=null;
+function abrirModo(id){ temaSel=ESTUDOS.find(e=>e.id===id); $('#modo-tema').textContent=temaSel.tema; $('#modo').style.display='flex'; }
+function fecharModo(){ $('#modo').style.display='none'; }
+function voltarHome(){ $('#sessao').style.display='none'; $('#home').style.display='flex'; pauseMusic(); }
+
+/* ===== SESSÃO: monta as telas conforme o modo ===== */
+let i=0, total=0;
+function iniciar(modo){
+  fecharModo();
+  const e=temaSel;
+  const telas=montarTelas(e,modo);
+  total=telas.length; i=0;
+  $('#trilho').innerHTML=telas.join('');
+  $('#sessao-tema').textContent=e.tema;
+  $('#sessao-modo').textContent= modo==='rapido'?'Rápido':'Profundo';
+  // dots
+  const dotsBox=$('#dots'); dotsBox.innerHTML='';
+  for(let k=0;k<total;k++){const d=document.createElement('span');d.className='dot';dotsBox.appendChild(d);}
+  ligarInterativos();
+  $('#home').style.display='none'; $('#sessao').style.display='flex';
+  render();
+  try{ startMusic(); }catch(err){}  // gesto do usuário (tocou no modo) libera o áudio
+}
+
+function telaOracao(rot,titulo,texto){
+  return `<section class="tela"><div class="etapa-rotulo">${rot}</div>
+    <div class="reflexao oracao"><div class="selo">&#9670; Reflexão</div><p>${esc(texto)}</p></div></section>`;
+}
+function telaTexto(e){
+  let v=e.texto_base_text.map(t=>`<div class="ref">${t.ref}</div><div class="versiculo">${esc(t.text)}</div>`).join('');
+  return `<section class="tela"><div class="etapa-rotulo">Texto base</div>
+    <div class="etapa-titulo">Leia com calma</div>
+    <div class="palavra"><div class="selo">&#10022; Palavra</div>${v}</div></section>`;
+}
+function telaObserva(e){
+  let qa=e.observacao.map(o=>`<div class="qa"><button class="q"><span>${esc(o.q)}</span><span class="seta">&#9662;</span></button>
+    <div class="a"><div class="a-txt">${esc(o.a)}</div>
+    <div class="a-verso"><div class="selo">&#10022; Palavra</div><div class="ref">${o.ref}</div><div class="v">${esc(o.ref_text)}</div></div></div></div>`).join('');
+  return `<section class="tela"><div class="etapa-rotulo">Observação</div>
+    <div class="etapa-titulo">O que o texto diz</div>
+    <div class="intro">Toque em cada pergunta para conferir e ver um versículo que reafirma.</div>${qa}</section>`;
+}
+function vrefs(list){ return list.map(r=>`<div class="vref"><div class="selo">&#10022; Palavra</div><div class="ref">${r.ref}</div><div class="v">${esc(r.text)}</div></div>`).join(''); }
+function telaInterp(e){
+  const it=e.interpretacao;
+  if(it.comparativo){
+    const vis=it.visoes.map((v,k)=>`<div class="visao"><div class="visao-h"><span class="visao-num">${k+1}</span>${esc(v.nome)}</div>
+      <div class="visao-rs">${esc(v.resumo)}</div>${vrefs(v.refs)}</div>`).join('');
+    const comum=`<div class="comum"><div class="selo">&#129309; Onde concordam</div><p>${esc(it.comum.resumo)}</p>${vrefs(it.comum.refs)}</div>`;
+    return `<section class="tela"><div class="etapa-rotulo">Interpretação · visões comparadas</div>
+      <div class="etapa-titulo">Como as tradições leem</div>
+      <div class="reflexao"><div class="selo">&#9670; Reflexão</div><p>${esc(it.intro)}</p></div>
+      ${vis}${comum}
+      <div class="neutro">O app não decide por você. Compare as bases bíblicas e leve ao texto e à oração.</div></section>`;
+  }
+  let com=it.comentario.map(p=>`<p>${esc(p)}</p>`).join('');
+  let chips=it.refs.map(r=>`<span class="chip" data-ref="${r.ref}" data-v="${esc(r.ref_text)}" data-ctx="${esc(r.ctx)}" data-exp="${esc(r.exp)}">${r.ref}</span>`).join('');
+  return `<section class="tela"><div class="etapa-rotulo">Interpretação</div>
+    <div class="etapa-titulo">O que significava</div>
+    <div class="reflexao"><div class="selo">&#9670; Reflexão</div>${com}</div>
+    <div class="refs-titulo">Referências cruzadas — toque para abrir</div>
+    <div class="chips">${chips}<div class="chip-texto"></div></div></section>`;
+}
+function telaAplica(e){
+  let aps=e.aplicacao.map(o=>`<div class="ap"><div class="ap-q">${esc(o.q)}</div>
+    <textarea class="anota" placeholder="Sua resposta (fica só no seu aparelho)..."></textarea>
+    <button class="ap-toggle">Ver orientação <span class="seta">&#9662;</span></button>
+    <div class="ap-a"><div class="a-verso"><div class="selo">&#10022; Palavra</div><div class="ref">${o.ref}</div><div class="v">${esc(o.ref_text)}</div></div>
+    <div class="ap-orient"><span class="esel">&#9670; Orientação</span><span class="otxt">${esc(o.orient)}</span></div></div></div>`).join('');
+  return `<section class="tela"><div class="etapa-rotulo">Aplicação</div>
+    <div class="etapa-titulo">O que muda em mim</div>
+    <div class="intro">Responda com sinceridade. Depois toque em "Ver orientação".</div>${aps}</section>`;
+}
+function telaFim(e){
+  return `<section class="tela fim"><div class="em">${e.emoji}</div><h2>Estudo concluído</h2>
+    <p>Que a Palavra de hoje sobre ${e.tema.toLowerCase()} caminhe com você. Volte quando quiser.</p>
+    <button class="btn-home" onclick="voltarHome()">Voltar ao início</button></section>`;
+}
+function montarTelas(e,modo){
+  if(modo==='rapido'){
+    return [
+      telaOracao('Oração de abertura','',e.oracao_abertura),
+      telaTexto(e),
+      telaAplica(e),
+      telaOracao('Oração de fechamento','',e.oracao_fechamento),
+      telaFim(e)
+    ];
+  }
+  return [
+    telaOracao('Oração de abertura','',e.oracao_abertura),
+    telaTexto(e),
+    telaObserva(e),
+    telaInterp(e),
+    telaAplica(e),
+    telaOracao('Oração de fechamento','',e.oracao_fechamento),
+    telaFim(e)
+  ];
+}
+
+/* ===== navegação do carrossel ===== */
+function render(){
+  $('#trilho').style.transform=`translateX(-${i*100}%)`;
+  [...$('#dots').children].forEach((d,k)=>d.classList.toggle('on',k===i));
+  $('#barra').style.width=((i+1)/total*100)+'%';
+  $('#passoTxt').textContent=`Etapa ${i+1} de ${total}`;
+  $('#btnPrev').disabled=(i===0);
+  $('#btnNext').style.visibility=(i===total-1)?'hidden':'visible';
+}
+$('#btnNext').onclick=()=>{ if(i<total-1){i++;render();} };
+$('#btnPrev').onclick=()=>{ if(i>0){i--;render();} };
+let x0=null;
+$('#trilho').addEventListener('touchstart',e=>x0=e.touches[0].clientX);
+$('#trilho').addEventListener('touchend',e=>{ if(x0===null)return; const dx=e.changedTouches[0].clientX-x0;
+  if(dx<-40&&i<total-1){i++;render();} if(dx>40&&i>0){i--;render();} x0=null;});
+
+/* ===== interativos (acordeões + refs) ligados após montar ===== */
+function ligarInterativos(){
+  document.querySelectorAll('#trilho .qa .q').forEach(q=> q.onclick=()=> q.parentElement.classList.toggle('aberto'));
+  document.querySelectorAll('#trilho .ap .ap-toggle').forEach(b=> b.onclick=()=> b.parentElement.classList.toggle('aberto'));
+  document.querySelectorAll('#trilho .chips').forEach(box=>{
+    const ct=box.querySelector('.chip-texto');
+    box.querySelectorAll('.chip').forEach(c=> c.onclick=()=>{
+      const ja=c.classList.contains('aberto');
+      box.querySelectorAll('.chip').forEach(x=>x.classList.remove('aberto'));
+      if(ja){ct.classList.remove('aberto');return;}
+      c.classList.add('aberto');
+      ct.innerHTML=`<div class="ref">${c.dataset.ref}</div><div class="v">${c.dataset.v}</div>`+
+        `<div class="exp ctxblock"><span class="esel">&#128220; Contexto — onde e a quem</span><span class="etxt">${c.dataset.ctx}</span></div>`+
+        `<div class="exp"><span class="esel">&#9670; Reflexão — por que entra aqui</span><span class="etxt">${c.dataset.exp}</span></div>`;
+      ct.classList.add('aberto');
+    });
+  });
+}
+
+/* ===== TRILHA DE PIANO (arquivo real trilha.mp3, composto p/ o app — sem copyright) ===== */
+const trilha=$('#trilha'); let running=false, fadeT=null; const V
