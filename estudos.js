@@ -2011,35 +2011,39 @@ window.ESTUDOS = [
   "emoji": "🌫️",
   "accent": "#7a7a8a",
   "resumo": "Forças renovadas em Deus.",
-  "oracao_abertura": "Senhor, eu cheguei aqui cansado e meio sem forças. Levanta o meu ânimo e renova a minha esperança. Lembra-me de que Tu estás comigo e que a Tua alegria é a minha força. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu cheguei aqui cansado e meio sem forças. Obrigado por me receberes assim, sem cobrança. Abre o meu entendimento e levanta o meu ânimo. Lembra-me de que Tu estás comigo e de que a Tua alegria é a minha força, mesmo quando a minha acaba. Em nome de Jesus, amém.",
   "texto_base": [
    "Josué 1:9",
    "Salmos 42:11"
   ],
   "observacao": [
    {
-    "q": "Qual o motivo do ânimo que Deus dá a Josué?",
-    "a": "\"Esforça-te e tem bom ânimo... porque o Senhor é contigo\". O ânimo nasce da presença de Deus, não das circunstâncias.",
-    "ref": "Josué 1:9",
-    "ref_text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares."
+    "ref": "1 Reis 19:4-5",
+    "text": "Ele, porém, entrou pelo deserto caminho de um dia, e foi sentar-se debaixo de um zimbro; e pediu para si a morte, dizendo: Já basta, ó Senhor; toma agora a minha vida, pois não sou melhor do que meus pais. E deitando-se debaixo do zimbro, dormiu; e eis que um anjo o tocou, e lhe disse: Levanta-te e come.",
+    "contexto": "Elias, exausto e com medo, pede para morrer debaixo de uma árvore.",
+    "ensino": "Elias, logo após uma grande vitória, quis morrer de cansaço — e Deus não o repreendeu: mandou-o dormir e comer. Às vezes o que parece crise espiritual é corpo exausto. Cuidar do básico (sono, comida, descanso) também é cuidado de Deus.",
+    "reflexao": "Deus cuida do desanimado de forma concreta: deixa-o dormir e o alimenta antes de qualquer cobrança. Cansaço também é espiritual."
    },
    {
-    "q": "O que acontece com quem espera no Senhor?",
-    "a": "Renova as forças, sobe como águia, corre sem se cansar. O descanso em Deus recarrega.",
-    "ref": "Isaías 40:31",
-    "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
+    "ref": "Salmos 42:5",
+    "text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei pela salvação que há na sua presença.",
+    "contexto": "O salmista conversa com a própria alma abatida.",
+    "ensino": "O salmista faz algo curioso: conversa com a própria alma — “por que estás abatida? espera em Deus”. Falar a verdade para si mesmo, em vez de só ouvir o desânimo, muda o astral. Pregar esperança ao próprio coração é remédio.",
+    "reflexao": "\"Por que estás abatida, ó minha alma? Espera em Deus\": falar a verdade para si mesmo combate o desânimo."
    },
    {
-    "q": "Mesmo com o corpo cansando, o que se renova?",
-    "a": "O homem interior se renova de dia em dia. O desânimo de fora não precisa vencer o interior.",
-    "ref": "2 Coríntios 4:16",
-    "ref_text": "Por isso não desfalecemos; mas ainda que o nosso homem exterior se esteja consumindo, o interior, contudo, se renova de dia em dia."
+    "ref": "Neemias 8:10",
+    "text": "Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque este dia é consagrado ao nosso Senhor. Portanto não vos entristeçais, pois a alegria do Senhor é a vossa força.",
+    "contexto": "O povo chora ao ouvir a Lei; Neemias os reanima.",
+    "ensino": "Quando o povo chora desanimado, Neemias diz “a alegria do Senhor é a vossa força”. A força para seguir não vem de você se animar sozinho, vem da alegria que está em Deus. É bateria externa, não interna.",
+    "reflexao": "\"A alegria do Senhor é a vossa força\": a força para seguir vem da alegria que está em Deus, não em nós."
    },
    {
-    "q": "O que o salmista manda a própria alma fazer no desânimo?",
-    "a": "Esperar em Deus e ainda louvá-Lo. Ele conversa com a própria alma e redireciona o olhar.",
-    "ref": "Salmos 42:11",
-    "ref_text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro, e o meu Deus."
+    "ref": "Filipenses 4:13",
+    "text": "Posso todas as coisas naquele que me fortalece.",
+    "contexto": "Paulo escreve preso, falando de contentamento em qualquer situação.",
+    "ensino": "“Tudo posso naquele que me fortalece” — Paulo escreve isso preso. Não é frase de autoajuda, é dependência. A capacidade de suportar vem de Cristo, não da sua energia. Quando a sua acaba, a Dele começa.",
+    "reflexao": "\"Tudo posso naquele que me fortalece\": a capacidade de suportar vem de Cristo, não da própria energia."
    }
   ],
   "interpretacao": {
@@ -2047,28 +2051,6 @@ window.ESTUDOS = [
     "O desânimo atinge até os fortes. Elias, logo após uma grande vitória, quis morrer de cansaço e medo. Deus não o repreendeu: deu-lhe comida e descanso.",
     "A Bíblia trata o desânimo com cuidado prático e espiritual: descanso, presença de Deus e redirecionamento do olhar (\"espera em Deus\").",
     "E aponta uma fonte de força que não depende do momento: \"a alegria do Senhor é a vossa força\". O ânimo vem de Deus para fora, não das circunstâncias para dentro."
-   ],
-   "refs": [
-    {
-     "ref": "1 Reis 19:4-5",
-     "ctx": "Elias, exausto e com medo, pede para morrer debaixo de uma árvore.",
-     "exp": "Deus cuida do desanimado de forma concreta: deixa-o dormir e o alimenta antes de qualquer cobrança. Cansaço também é espiritual."
-    },
-    {
-     "ref": "Salmos 42:5",
-     "ctx": "O salmista conversa com a própria alma abatida.",
-     "exp": "\"Por que estás abatida, ó minha alma? Espera em Deus\": falar a verdade para si mesmo combate o desânimo."
-    },
-    {
-     "ref": "Neemias 8:10",
-     "ctx": "O povo chora ao ouvir a Lei; Neemias os reanima.",
-     "exp": "\"A alegria do Senhor é a vossa força\": a força para seguir vem da alegria que está em Deus, não em nós."
-    },
-    {
-     "ref": "Filipenses 4:13",
-     "ctx": "Paulo escreve preso, falando de contentamento em qualquer situação.",
-     "exp": "\"Tudo posso naquele que me fortalece\": a capacidade de suportar vem de Cristo, não da própria energia."
-    }
    ]
   },
   "aplicacao": [
@@ -2091,7 +2073,7 @@ window.ESTUDOS = [
     "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu cuidas do cansado e renovas as forças de quem espera em Ti. Levanta o meu ânimo, lembra-me da Tua presença e enche-me da Tua alegria, que é a minha força. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu cuidas do cansado e renovas as forças de quem espera em Ti. Levanta o meu ânimo, lembra-me da Tua presença e enche-me da Tua alegria, que é a minha força. Quando eu quiser desistir, segura-me. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Josué 1:9",
@@ -2109,35 +2091,39 @@ window.ESTUDOS = [
   "emoji": "👑",
   "accent": "#9a7a4a",
   "resumo": "O perigo de confiar em si.",
-  "oracao_abertura": "Senhor, o orgulho me faz achar que não preciso de Ti nem de ninguém. Quebra essa autossuficiência em mim. Ensina-me a depender de Ti e a reconhecer os meus limites com humildade. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, o orgulho me faz achar que não preciso de Ti nem de ninguém. Obrigado por me suportares com paciência. Abre o meu entendimento e quebra essa autossuficiência em mim. Ensina-me a depender de Ti e a reconhecer os meus limites com humildade. Em nome de Jesus, amém.",
   "texto_base": [
    "Provérbios 16:18",
    "Tiago 4:6"
   ],
   "observacao": [
    {
-    "q": "O que vem antes da queda, segundo Provérbios?",
-    "a": "A soberba precede a ruína, e a altivez do espírito antecede a queda. O orgulho costuma ser o aviso da queda.",
-    "ref": "Provérbios 16:18",
-    "ref_text": "A soberba precede a destruição, e a altivez do espírito precede a queda."
+    "ref": "Daniel 4:30-31",
+    "text": "falou o rei, e disse: Não é esta a grande Babilônia que eu edifiquei para a morada real, pela força do meu poder, e para a glória da minha majestade? Ainda estava a palavra na boca do rei, quando caiu uma voz do céu: A ti se diz, ó rei Nabucodonosor: Passou de ti o reino.",
+    "contexto": "O rei Nabucodonosor se gaba do próprio poder no auge.",
+    "ensino": "No auge da arrogância — “olhem a minha grandeza” — veio a queda de Nabucodonosor. O orgulho que rouba de Deus o crédito do que deu certo é justo o ponto onde tropeçamos. Dar a Deus a glória é, também, proteção.",
+    "reflexao": "No instante da arrogância (\"a minha grandeza\"), vem o juízo. O orgulho que rouba de Deus a glória é confrontado."
    },
    {
-    "q": "A quem Deus resiste?",
-    "a": "Aos soberbos; e dá graça aos humildes. O orgulho fecha a porta que Deus quer abrir.",
-    "ref": "Tiago 4:6",
-    "ref_text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
+    "ref": "1 Coríntios 10:12",
+    "text": "Aquele, pois, que pensa estar em pé, olhe não caia.",
+    "contexto": "Paulo alerta os cristãos confiantes demais.",
+    "ensino": "“Quem pensa estar em pé, veja que não caia.” O ponto de maior risco não é a fraqueza que você vigia, é a área onde você se acha firme demais. Excesso de autoconfiança é onde o tombo costuma chegar.",
+    "reflexao": "\"Aquele que pensa estar em pé, veja que não caia\": a autoconfiança orgulhosa é justamente o ponto de risco."
    },
    {
-    "q": "O que acontece com quem se exalta?",
-    "a": "Será humilhado; e quem se humilha será exaltado. Deus inverte a conta do orgulho.",
-    "ref": "Mateus 23:12",
-    "ref_text": "Qualquer, pois, que a si mesmo se exaltar, será humilhado; e qualquer que a si mesmo se humilhar, será exaltado."
+    "ref": "Provérbios 3:7",
+    "text": "Não sejas sábio a teus próprios olhos; teme ao Senhor e aparta-te do mal.",
+    "contexto": "Provérbio sobre confiar em Deus e não em si.",
+    "ensino": "“Não sejas sábio aos teus próprios olhos.” O orgulho é confiar na própria sabedoria em vez de em Deus e nos conselhos. Quem acha que já sabe tudo para de ouvir — e quem para de ouvir erra mais.",
+    "reflexao": "\"Não sejas sábio aos teus próprios olhos\": o orgulho é confiar na própria sabedoria em vez de em Deus."
    },
    {
-    "q": "O que vem junto com a soberba, segundo Provérbios 11?",
-    "a": "A desonra; mas com os humildes está a sabedoria. O orgulho cega; a humildade aprende.",
-    "ref": "Provérbios 11:2",
-    "ref_text": "Quando vem a soberba, então vem a desonra; mas com os humildes está a sabedoria."
+    "ref": "Gálatas 6:3",
+    "text": "Pois, se alguém pensa ser alguma coisa, não sendo nada, engana-se a si mesmo.",
+    "contexto": "Paulo ensina sobre humildade entre irmãos.",
+    "ensino": "“Se alguém pensa ser alguma coisa, não sendo nada, engana-se.” O orgulho é, no fundo, um autoengano: a gente se vê maior do que é. A humildade não é se rebaixar, é se ver com verdade.",
+    "reflexao": "\"Se alguém pensa ser alguma coisa, não sendo nada, engana-se\": o orgulho é, no fundo, autoengano."
    }
   ],
   "interpretacao": {
@@ -2145,28 +2131,6 @@ window.ESTUDOS = [
     "O orgulho é traiçoeiro porque se esconde de quem o tem. Ele aparece como sempre ter razão, não pedir ajuda, não admitir erro, desprezar os outros.",
     "A Bíblia trata o orgulho como o pecado de raiz: a criatura querendo o lugar do Criador. Por isso Deus resiste a ele, não por antipatia, mas porque ele afasta de Deus.",
     "O exemplo de Nabucodonosor mostra o ciclo: exaltar a si mesmo, ser humilhado, e só então reconhecer a Deus. A humildade é o caminho mais curto para evitar isso."
-   ],
-   "refs": [
-    {
-     "ref": "Daniel 4:30-31",
-     "ctx": "O rei Nabucodonosor se gaba do próprio poder no auge.",
-     "exp": "No instante da arrogância (\"a minha grandeza\"), vem o juízo. O orgulho que rouba de Deus a glória é confrontado."
-    },
-    {
-     "ref": "1 Coríntios 10:12",
-     "ctx": "Paulo alerta os cristãos confiantes demais.",
-     "exp": "\"Aquele que pensa estar em pé, veja que não caia\": a autoconfiança orgulhosa é justamente o ponto de risco."
-    },
-    {
-     "ref": "Provérbios 3:7",
-     "ctx": "Provérbio sobre confiar em Deus e não em si.",
-     "exp": "\"Não sejas sábio aos teus próprios olhos\": o orgulho é confiar na própria sabedoria em vez de em Deus."
-    },
-    {
-     "ref": "Gálatas 6:3",
-     "ctx": "Paulo ensina sobre humildade entre irmãos.",
-     "exp": "\"Se alguém pensa ser alguma coisa, não sendo nada, engana-se\": o orgulho é, no fundo, autoengano."
-    }
    ]
   },
   "aplicacao": [
@@ -2189,7 +2153,7 @@ window.ESTUDOS = [
     "ref_text": "Aquele, pois, que pensa estar em pé, olhe não caia."
    }
   ],
-  "oracao_fechamento": "Pai, quebra em mim o orgulho que me faz confiar só em mim. Ensina-me a depender de Ti e a reconhecer os meus limites. Dá-me a graça que Tu dás aos humildes e guarda-me da queda que vem da soberba. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, quebra em mim o orgulho que me faz confiar só em mim. Ensina-me a depender de Ti, a ouvir e a dar-Te o crédito do que dá certo. Guarda-me da queda que vem da soberba e dá-me a graça que reservas aos humildes. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Provérbios 16:18",
@@ -2847,35 +2811,39 @@ window.ESTUDOS = [
   "emoji": "🎁",
   "accent": "#c97f3c",
   "resumo": "Mais feliz em dar.",
-  "oracao_abertura": "Senhor, tudo o que eu tenho veio de Ti. Liberta-me do aperto da mão fechada e ensina-me a dar com alegria. Que eu use o que recebi para abençoar os outros e refletir a Tua generosidade comigo. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, tudo o que eu tenho veio de Ti. Obrigado por seres generoso comigo todos os dias. Abre o meu entendimento e liberta-me do aperto da mão fechada. Ensina-me a dar com alegria e a usar o que recebi para abençoar os outros. Em nome de Jesus, amém.",
   "texto_base": [
    "2 Coríntios 9:7",
    "Atos 20:35"
   ],
   "observacao": [
    {
-    "q": "Como Deus quer que demos?",
-    "a": "Com alegria, não com tristeza nem por obrigação, \"porque Deus ama ao que dá com alegria\". O coração importa tanto quanto o gesto.",
-    "ref": "2 Coríntios 9:7",
-    "ref_text": "Cada um contribua segundo propôs no seu coração; não com tristeza, nem por constrangimento; porque Deus ama ao que dá com alegria."
+    "ref": "Lucas 6:38",
+    "text": "Dai, e ser-vos-á dado; boa medida, recalcada, sacudida e transbordando vos deitarão no regaço; porque com a mesma medida com que medis, vos medirão a vós.",
+    "contexto": "Jesus ensina sobre a medida que usamos com os outros.",
+    "ensino": "“Dai, e ser-vos-á dado”, com a medida transbordando. É como o agricultor: quanto mais semeia, mais colhe. Generosidade não esvazia, abre espaço para receber. Mão fechada não solta nada, mas também não pega nada.",
+    "reflexao": "\"Dai, e ser-vos-á dado... com a medida com que medirdes vos medirão\": a generosidade volta, transbordando."
    },
    {
-    "q": "O que Jesus disse sobre dar e receber?",
-    "a": "\"Mais bem-aventurado é dar do que receber\". A generosidade é fonte de alegria, não de perda.",
-    "ref": "Atos 20:35",
-    "ref_text": "Em tudo vos dei o exemplo de que assim trabalhando, é necessário socorrer os enfermos, recordando as palavras do Senhor Jesus, porquanto ele mesmo disse: Coisa mais bem-aventurada é dar do que receber."
+    "ref": "Mateus 6:3-4",
+    "text": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a direita; para que a tua esmola fique em secreto; e teu Pai, que vê em secreto, te recompensará.",
+    "contexto": "Jesus ensina sobre dar sem ostentar.",
+    "ensino": "“Não saiba a tua mão esquerda o que faz a direita.” A generosidade que busca aplauso já recebeu o seu pagamento. O bem feito em segredo, só Deus vê — e é o que Ele recompensa. Dar sem palco é dar de verdade.",
+    "reflexao": "\"Não saiba a tua mão esquerda o que faz a direita\": a generosidade verdadeira não busca aplauso."
    },
    {
-    "q": "O que acontece com a alma generosa, segundo Provérbios?",
-    "a": "\"A alma generosa prosperará\". Dar não esvazia; de algum modo enriquece quem dá.",
-    "ref": "Provérbios 11:25",
-    "ref_text": "A alma generosa prosperará, e o que regar também será regado."
+    "ref": "2 Coríntios 9:6",
+    "text": "Mas digo isto: Aquele que semeia pouco, pouco também ceifará; e aquele que semeia em abundância, em abundância também ceifará,",
+    "contexto": "Paulo motiva a igreja a contribuir.",
+    "ensino": "“Quem semeia com fartura, com fartura também colherá.” A generosidade é semeadura, não desperdício. Quem dá pouco por medo de faltar colhe pouco; quem dá com fé colhe com alegria. O medo segura a mão; a fé a abre.",
+    "reflexao": "\"Quem semeia com fartura, com fartura também colherá\": a generosidade é semeadura, não desperdício."
    },
    {
-    "q": "A quem empresta quem se compadece do pobre?",
-    "a": "Ao próprio Senhor, que recompensará. Ajudar o necessitado é, na verdade, servir a Deus.",
-    "ref": "Provérbios 19:17",
-    "ref_text": "O que se compadece do pobre empresta ao Senhor, que lhe retribuirá o seu benefício."
+    "ref": "Hebreus 13:16",
+    "text": "Mas não vos esqueçais de fazer o bem e de repartir com outros, porque com tais sacrifícios Deus se agrada.",
+    "contexto": "Exortações finais aos cristãos.",
+    "ensino": "“Não vos esqueçais da beneficência... com tais sacrifícios Deus se agrada.” Fazer o bem é uma forma de adoração tão real quanto cantar. Ajudar alguém em silêncio sobe a Deus como um louvor.",
+    "reflexao": "\"Não vos esqueçais da beneficência... com tais sacrifícios Deus se agrada\": fazer o bem é uma forma de adoração."
    }
   ],
   "interpretacao": {
@@ -2883,28 +2851,6 @@ window.ESTUDOS = [
     "A generosidade na Bíblia não é só sobre dinheiro, mas sobre o coração: a mão aberta reflete a confiança de que Deus é o provedor.",
     "Paulo ensina que o jeito de dar importa: com alegria e por decisão, não por pressão. Deus se importa com o coração de quem dá.",
     "E há uma inversão linda: dar é mais feliz que receber, e a alma generosa prospera. Quem dá com Deus nunca sai perdendo de verdade."
-   ],
-   "refs": [
-    {
-     "ref": "Lucas 6:38",
-     "ctx": "Jesus ensina sobre a medida que usamos com os outros.",
-     "exp": "\"Dai, e ser-vos-á dado... com a medida com que medirdes vos medirão\": a generosidade volta, transbordando."
-    },
-    {
-     "ref": "Mateus 6:3-4",
-     "ctx": "Jesus ensina sobre dar sem ostentar.",
-     "exp": "\"Não saiba a tua mão esquerda o que faz a direita\": a generosidade verdadeira não busca aplauso."
-    },
-    {
-     "ref": "2 Coríntios 9:6",
-     "ctx": "Paulo motiva a igreja a contribuir.",
-     "exp": "\"Quem semeia com fartura, com fartura também colherá\": a generosidade é semeadura, não desperdício."
-    },
-    {
-     "ref": "Hebreus 13:16",
-     "ctx": "Exortações finais aos cristãos.",
-     "exp": "\"Não vos esqueçais da beneficência... com tais sacrifícios Deus se agrada\": fazer o bem é uma forma de adoração."
-    }
    ]
   },
   "aplicacao": [
@@ -2927,7 +2873,7 @@ window.ESTUDOS = [
     "ref_text": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a direita;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu és generoso comigo todos os dias. Abre a minha mão e o meu coração para dar com alegria. Que eu use o que tenho para abençoar os outros e refletir a Tua bondade. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu és generoso comigo sem medida. Abre a minha mão e o meu coração para dar com alegria, sem buscar aplauso. Que eu use o que tenho para o bem e reflita a Tua bondade aos que precisam. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "2 Coríntios 9:7",
@@ -2945,35 +2891,39 @@ window.ESTUDOS = [
   "emoji": "🙏",
   "accent": "#5d8a6a",
   "resumo": "Conversa constante com Deus.",
-  "oracao_abertura": "Senhor, ensina-me a orar. Não palavras bonitas para os outros ouvirem, mas conversa real Contigo. Tira de mim a pressa e a distração, e ajuda-me a buscar a Tua presença todos os dias. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, ensina-me a orar — não palavras bonitas para os outros ouvirem, mas conversa real Contigo. Obrigado porque Tu me ouves. Abre o meu entendimento e tira de mim a pressa e a distração. Ajuda-me a buscar a Tua presença todos os dias. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 4:6",
    "1 Tessalonicenses 5:17"
   ],
   "observacao": [
    {
-    "q": "Com que frequência devemos orar, segundo Paulo?",
-    "a": "\"Orai sem cessar\". A oração não é só um momento, é uma relação constante com Deus ao longo do dia.",
-    "ref": "1 Tessalonicenses 5:17",
-    "ref_text": "Orai sem cessar."
+    "ref": "Mateus 6:7",
+    "text": "E, orando, não useis de vãs repetições, como os gentios; porque pensam que pelo seu muito falar serão ouvidos.",
+    "contexto": "Jesus ensina sobre como orar.",
+    "ensino": "“Não useis de vãs repetições.” Oração não é fórmula mágica nem quantidade de palavras; é conversa sincera com o Pai. Como falar com alguém que te ama: não precisa de roteiro decorado, precisa de verdade.",
+    "reflexao": "\"Não useis de vãs repetições\": oração não é quantidade de palavras nem fórmula mágica, é conversa sincera."
    },
    {
-    "q": "O que fazer com a ansiedade, em vez de carregá-la?",
-    "a": "Levar tudo a Deus em oração e súplica, com gratidão. A oração é o destino das preocupações.",
-    "ref": "Filipenses 4:6",
-    "ref_text": "Não andeis ansiosos por coisa alguma; antes em tudo sejam os vossos pedidos conhecidos diante de Deus pela oração e súplica com ações de graças;"
+    "ref": "João 15:7",
+    "text": "Se vós permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será feito.",
+    "contexto": "Jesus fala sobre permanecer Nele.",
+    "ensino": "“Se permanecerdes em mim... pedireis o que quiserdes.” Oração eficaz nasce da convivência, não do desespero de última hora. Quem anda perto de Deus pede diferente — já alinhado com o coração Dele.",
+    "reflexao": "\"Se permanecerdes em mim... pedireis o que quiserdes\": oração eficaz nasce da comunhão constante com Cristo."
    },
    {
-    "q": "Como Jesus diz para orar, quanto ao lugar?",
-    "a": "Em secreto, no quarto, e o Pai que vê em secreto recompensará. Oração não é espetáculo, é intimidade.",
-    "ref": "Mateus 6:6",
-    "ref_text": "Mas tu, quando orares, entra no teu quarto e, fechando a porta, ora a teu Pai que está em secreto; e teu Pai, que vê em secreto, te recompensará."
+    "ref": "1 João 5:14",
+    "text": "E esta é a confiança que temos nele, que se pedirmos alguma coisa segundo a sua vontade, ele nos ouve.",
+    "contexto": "João escreve sobre a confiança na oração.",
+    "ensino": "Orar “segundo a Sua vontade” não é dobrar Deus à nossa, é alinhar a nossa à Dele. A oração não muda só as situações; muda quem ora. Às vezes a melhor resposta é Ele mudando o nosso pedido.",
+    "reflexao": "\"Se pedirmos segundo a sua vontade, Ele nos ouve\": orar é alinhar o coração à vontade de Deus, não dobrar a Dele à nossa."
    },
    {
-    "q": "O que Jesus ensina sobre persistência na oração, em Lucas 18?",
-    "a": "Que devemos \"orar sempre e nunca desfalecer\". A oração inclui insistência e paciência.",
-    "ref": "Lucas 18:1",
-    "ref_text": "Contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer."
+    "ref": "Marcos 1:35",
+    "text": "De madrugada, ainda bem escuro, levantou-se, saiu e foi a um lugar deserto, e ali orava.",
+    "contexto": "Jesus, no auge do ministério, busca um tempo a sós.",
+    "ensino": "Jesus, no auge do ministério, levantou de madrugada para orar a sós. Se Ele, sendo o Filho, precisava reservar tempo, nós também. Oração não é o que sobra do dia; é prioridade que se separa.",
+    "reflexao": "Ele se levantou de madrugada para orar num lugar deserto: se Jesus precisava desse tempo, nós também."
    }
   ],
   "interpretacao": {
@@ -2981,28 +2931,6 @@ window.ESTUDOS = [
     "A oração, na Bíblia, é menos uma fórmula e mais uma relação: falar com Deus de verdade, com confiança de filho, em todo tempo.",
     "Jesus corrige dois erros: orar para impressionar pessoas e usar repetições vazias. Ele ensina o \"Pai nosso\" como modelo de oração simples e sincera.",
     "E ensina constância: orar sempre, não desistir, e pedir conforme a vontade de Deus. A oração molda a gente tanto quanto muda as situações."
-   ],
-   "refs": [
-    {
-     "ref": "Mateus 6:7",
-     "ctx": "Jesus ensina sobre como orar.",
-     "exp": "\"Não useis de vãs repetições\": oração não é quantidade de palavras nem fórmula mágica, é conversa sincera."
-    },
-    {
-     "ref": "João 15:7",
-     "ctx": "Jesus fala sobre permanecer Nele.",
-     "exp": "\"Se permanecerdes em mim... pedireis o que quiserdes\": oração eficaz nasce da comunhão constante com Cristo."
-    },
-    {
-     "ref": "1 João 5:14",
-     "ctx": "João escreve sobre a confiança na oração.",
-     "exp": "\"Se pedirmos segundo a sua vontade, Ele nos ouve\": orar é alinhar o coração à vontade de Deus, não dobrar a Dele à nossa."
-    },
-    {
-     "ref": "Marcos 1:35",
-     "ctx": "Jesus, no auge do ministério, busca um tempo a sós.",
-     "exp": "Ele se levantou de madrugada para orar num lugar deserto: se Jesus precisava desse tempo, nós também."
-    }
    ]
   },
   "aplicacao": [
@@ -3025,7 +2953,7 @@ window.ESTUDOS = [
     "ref_text": "Contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer."
    }
   ],
-  "oracao_fechamento": "Pai, ensina-me a orar de verdade: com sinceridade, constância e confiança de filho. Que a oração não seja último recurso, mas o meu jeito de andar Contigo o dia todo. Obrigado porque Tu me ouves. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, ensina-me a orar de verdade: com sinceridade, constância e confiança de filho. Que a oração não seja o último recurso, mas o meu jeito de andar Contigo o dia todo. Obrigado porque Tu sempre me ouves. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 4:6",
@@ -3043,35 +2971,39 @@ window.ESTUDOS = [
   "emoji": "🦉",
   "accent": "#6a7a9a",
   "resumo": "Pedir e viver com sabedoria.",
-  "oracao_abertura": "Senhor, eu tenho conhecimento, mas me falta sabedoria para viver bem. Dá-me o Teu discernimento para as escolhas de hoje. Ensina-me a temer-Te, porque aí começa o verdadeiro saber. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu tenho conhecimento, mas muitas vezes me falta sabedoria para viver bem. Obrigado porque Tu a dás a quem pede, de boa vontade. Abre o meu entendimento e dá-me o Teu discernimento para as escolhas de hoje. Ensina-me a Te temer, porque aí começa o verdadeiro saber. Em nome de Jesus, amém.",
   "texto_base": [
    "Tiago 1:5",
    "Provérbios 9:10"
   ],
   "observacao": [
    {
-    "q": "O que devemos fazer quando nos falta sabedoria?",
-    "a": "Pedi-la a Deus, que a dá a todos liberalmente e sem censurar. A sabedoria começa por reconhecer que não a temos sozinhos.",
-    "ref": "Tiago 1:5",
-    "ref_text": "Ora, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada."
+    "ref": "1 Reis 3:9",
+    "text": "Dá, pois, a teu servo um coração entendido para julgar o teu povo, para que prudentemente discirna entre o bem e o mal; porque, quem poderia julgar a este teu tão grande povo?",
+    "contexto": "Salomão, jovem rei, pode pedir o que quiser a Deus.",
+    "ensino": "Salomão podia pedir o que quisesse e pediu “um coração que discirna”. O pedido sábio é por sabedoria, não por riqueza ou fama. O que você pediria se pudesse pedir uma coisa só? A resposta revela o coração.",
+    "reflexao": "Ele pede \"um coração entendido\" para discernir, em vez de riqueza ou fama: o pedido sábio é por sabedoria."
    },
    {
-    "q": "Onde começa a verdadeira sabedoria?",
-    "a": "No temor do Senhor; conhecê-Lo é o princípio do entendimento. Sabedoria bíblica nasce de uma relação com Deus, não só de estudo.",
-    "ref": "Provérbios 9:10",
-    "ref_text": "O temor do Senhor é o princípio sabedoria; e o conhecimento do Santo é o entendimento."
+    "ref": "Provérbios 3:5-6",
+    "text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.",
+    "contexto": "Conselho central do livro de Provérbios.",
+    "ensino": "“Confia no Senhor de todo o coração e não te estribes no teu entendimento.” Sabedoria não é ter todas as respostas; é depender de Quem tem. Como o GPS: você dirige, mas confia na rota de quem vê o mapa inteiro.",
+    "reflexao": "Confiar no Senhor em vez de no próprio entendimento: a sabedoria é depender de Deus, não da própria cabeça."
    },
    {
-    "q": "De quem vem a sabedoria, segundo Provérbios 2?",
-    "a": "Do Senhor; da Sua boca vem o conhecimento e o entendimento. Ela é dom de Deus, não invenção humana.",
-    "ref": "Provérbios 2:6",
-    "ref_text": "Porque o Senhor dá a sabedoria; da sua boca procedem o conhecimento e o entendimento;"
+    "ref": "Colossenses 2:3",
+    "text": "no qual estão escondidos todos os tesouros da sabedoria e da ciência.",
+    "contexto": "Paulo aponta os cristãos para Cristo contra falsas filosofias.",
+    "ensino": "“Nele estão escondidos todos os tesouros da sabedoria.” A sabedoria máxima não é uma técnica, é uma Pessoa: conhecer Cristo. Quanto mais perto Dele, mais sábio o viver — porque a fonte é Ele.",
+    "reflexao": "\"Nele estão escondidos todos os tesouros da sabedoria\": a sabedoria máxima se encontra em conhecer Jesus."
    },
    {
-    "q": "Como é a sabedoria que vem do alto?",
-    "a": "Pura, pacífica, moderada, cheia de misericórdia e bons frutos. Sabedoria de Deus se reconhece pelo caráter que produz.",
-    "ref": "Tiago 3:17",
-    "ref_text": "Mas a sabedoria que vem do alto é, primeiramente, pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, sem parcialidade, e sem hipocrisia."
+    "ref": "Salmos 119:105",
+    "text": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho.",
+    "contexto": "Salmo sobre o valor da Palavra de Deus.",
+    "ensino": "“Lâmpada para os meus pés é a tua palavra.” A Bíblia não ilumina o caminho todo de uma vez, mas o próximo passo. Sabedoria é dar o passo que a Palavra mostra agora, confiando que o resto se clareia adiante.",
+    "reflexao": "\"Lâmpada para os meus pés é a tua palavra\": a Escritura é fonte prática de sabedoria para o caminho."
    }
   ],
   "interpretacao": {
@@ -3079,28 +3011,6 @@ window.ESTUDOS = [
     "A Bíblia separa conhecimento de sabedoria. Dá para saber muito e viver mal. Sabedoria é a arte de viver bem diante de Deus, aplicando a verdade à vida.",
     "Ela começa no \"temor do Senhor\": colocar Deus no lugar certo. Sem isso, a inteligência vira só esperteza.",
     "E é acessível: Tiago diz que basta pedir, e Deus dá de bom grado. A sabedoria não é prêmio para gênios, é dom para quem a busca com humildade."
-   ],
-   "refs": [
-    {
-     "ref": "1 Reis 3:9",
-     "ctx": "Salomão, jovem rei, pode pedir o que quiser a Deus.",
-     "exp": "Ele pede \"um coração entendido\" para discernir, em vez de riqueza ou fama: o pedido sábio é por sabedoria."
-    },
-    {
-     "ref": "Provérbios 3:5-6",
-     "ctx": "Conselho central do livro de Provérbios.",
-     "exp": "Confiar no Senhor em vez de no próprio entendimento: a sabedoria é depender de Deus, não da própria cabeça."
-    },
-    {
-     "ref": "Colossenses 2:3",
-     "ctx": "Paulo aponta os cristãos para Cristo contra falsas filosofias.",
-     "exp": "\"Nele estão escondidos todos os tesouros da sabedoria\": a sabedoria máxima se encontra em conhecer Jesus."
-    },
-    {
-     "ref": "Salmos 119:105",
-     "ctx": "Salmo sobre o valor da Palavra de Deus.",
-     "exp": "\"Lâmpada para os meus pés é a tua palavra\": a Escritura é fonte prática de sabedoria para o caminho."
-    }
    ]
   },
   "aplicacao": [
@@ -3123,7 +3033,7 @@ window.ESTUDOS = [
     "ref_text": "Quem dentre vós é sábio e entendido? Mostre pelo seu bom procedimento as suas obras em mansidão de sabedoria."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu dás sabedoria a quem pede. Ensina-me a Te temer, a confiar em Ti mais do que no meu entendimento e a viver com discernimento. Que a minha vida mostre a sabedoria que vem do alto. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu dás sabedoria a quem pede. Ensina-me a confiar em Ti mais do que no meu próprio entendimento e a buscar conselho. Que a minha vida mostre, nas atitudes, a sabedoria que vem do alto. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Tiago 1:5",
@@ -3141,35 +3051,39 @@ window.ESTUDOS = [
   "emoji": "✅",
   "accent": "#5d8a6a",
   "resumo": "Amar é obedecer.",
-  "oracao_abertura": "Senhor, é fácil Te chamar de Senhor e difícil fazer o que Tu dizes. Ensina-me a obedecer não por medo, mas por amor. Dá-me um coração disposto a praticar a Tua Palavra, e não só ouvi-la. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é fácil Te chamar de Senhor e difícil fazer o que Tu dizes. Obrigado por seres paciente comigo. Abre o meu entendimento e ensina-me a obedecer não por medo, mas por amor. Dá-me um coração disposto a praticar a Tua Palavra, e não só ouvi-la. Em nome de Jesus, amém.",
   "texto_base": [
    "João 14:15",
    "1 Samuel 15:22"
   ],
   "observacao": [
    {
-    "q": "Qual a relação que Jesus faz entre amor e obediência?",
-    "a": "\"Se me amais, guardareis os meus mandamentos\". A obediência é a prova prática do amor a Deus, não substituto dele.",
-    "ref": "João 14:15",
-    "ref_text": "Se me amardes, guardareis os meus mandamentos."
+    "ref": "Mateus 7:24",
+    "text": "Todo aquele, pois, que ouve estas minhas palavras e as põe em prática, será comparado a um homem prudente, que edificou a casa sobre a rocha.",
+    "contexto": "Conclusão do Sermão do Monte.",
+    "ensino": "Quem ouve E pratica é a casa sobre a rocha; quem só ouve, sobre a areia. A diferença não aparece no sol, mas na tempestade. Obedecer é construir a vida num chão que aguenta quando a chuva vem.",
+    "reflexao": "Quem ouve E pratica é a casa sobre a rocha; ouvir sem fazer é casa sobre a areia, que cai na tempestade."
    },
    {
-    "q": "O que Deus prefere: sacrifício ou obediência?",
-    "a": "\"O obedecer é melhor do que o sacrificar\". Deus quer o coração que obedece, não só rituais religiosos.",
-    "ref": "1 Samuel 15:22",
-    "ref_text": "Samuel, porém, disse: Tem, porventura, o Senhor tanto prazer em holocaustos e sacrifícios, como em que se obedeça à voz do Senhor? Eis que o obedecer é melhor do que o sacrificar, e o atender, do que a gordura de carneiros"
+    "ref": "1 João 5:3",
+    "text": "Porque este é o amor de Deus, que guardemos os seus mandamentos; e os seus mandamentos não são penosos;",
+    "contexto": "João explica o que é amar a Deus.",
+    "ensino": "“Os seus mandamentos não são pesados.” Obedecer por amor é diferente de obedecer por medo. O mesmo ato muda de peso conforme o motivo: o que se faz por amor a alguém não esmaga, liberta.",
+    "reflexao": "\"O amor de Deus é este: que guardemos os seus mandamentos, e os seus mandamentos não são pesados\". Obedecer por amor não esmaga."
    },
    {
-    "q": "O que Jesus questiona em Lucas 6?",
-    "a": "Chamá-Lo de \"Senhor, Senhor\" e não fazer o que Ele diz. Chamar Jesus de Senhor sem obedecer é contradição.",
-    "ref": "Lucas 6:46",
-    "ref_text": "E por que me chamais: Senhor, Senhor, e não fazeis o que eu vos digo?"
+    "ref": "Hebreus 5:8",
+    "text": "ainda que era Filho, aprendeu a obediência por meio daquilo que sofreu;",
+    "contexto": "O autor fala da humanidade de Jesus.",
+    "ensino": "“Ainda que era Filho, aprendeu a obediência.” Se o próprio Jesus viveu a obediência, ela não é humilhação, é caminho. Ele não pediu nada que não tenha andado primeiro.",
+    "reflexao": "\"Ainda que era Filho, aprendeu a obediência\": o próprio Cristo viveu a obediência, dando exemplo."
    },
    {
-    "q": "O que somos se ouvimos a Palavra mas não praticamos?",
-    "a": "Enganamos a nós mesmos. A fé verdadeira coloca em prática, não só concorda.",
-    "ref": "Tiago 1:22",
-    "ref_text": "E sede cumpridores da palavra e não somente ouvintes, enganando-vos a vós mesmos."
+    "ref": "João 13:17",
+    "text": "Se sabeis estas coisas, bem-aventurados sois se as praticardes.",
+    "contexto": "Jesus depois de lavar os pés dos discípulos.",
+    "ensino": "“Se sabeis estas coisas, bem-aventurados sois se as praticardes.” A bênção não está em saber, está em fazer. Conhecimento sem prática é como receita sem cozinhar: não alimenta ninguém.",
+    "reflexao": "\"Se sabeis estas coisas, bem-aventurados sois se as praticardes\": a bênção está em fazer, não só em saber."
    }
   ],
   "interpretacao": {
@@ -3177,28 +3091,6 @@ window.ESTUDOS = [
     "A obediência bíblica não é submissão de escravo amedrontado, mas resposta de amor: \"se me amais, guardareis\". O motivo muda tudo.",
     "Deus deixa claro com Saul que prefere obediência a sacrifício. Dá para fazer muita religião e ainda assim desobedecer no essencial.",
     "E Jesus mostra que ouvir sem praticar é construir na areia. A fé que salva é a que obedece, não a que só sabe a teoria."
-   ],
-   "refs": [
-    {
-     "ref": "Mateus 7:24",
-     "ctx": "Conclusão do Sermão do Monte.",
-     "exp": "Quem ouve E pratica é a casa sobre a rocha; ouvir sem fazer é casa sobre a areia, que cai na tempestade."
-    },
-    {
-     "ref": "1 João 5:3",
-     "ctx": "João explica o que é amar a Deus.",
-     "exp": "\"O amor de Deus é este: que guardemos os seus mandamentos, e os seus mandamentos não são pesados\". Obedecer por amor não esmaga."
-    },
-    {
-     "ref": "Hebreus 5:8",
-     "ctx": "O autor fala da humanidade de Jesus.",
-     "exp": "\"Ainda que era Filho, aprendeu a obediência\": o próprio Cristo viveu a obediência, dando exemplo."
-    },
-    {
-     "ref": "João 13:17",
-     "ctx": "Jesus depois de lavar os pés dos discípulos.",
-     "exp": "\"Se sabeis estas coisas, bem-aventurados sois se as praticardes\": a bênção está em fazer, não só em saber."
-    }
    ]
   },
   "aplicacao": [
@@ -3221,7 +3113,7 @@ window.ESTUDOS = [
     "ref_text": "E por que me chamais: Senhor, Senhor, e não fazeis o que eu vos digo?"
    }
   ],
-  "oracao_fechamento": "Pai, ensina-me a obedecer por amor, não por medo. Dá-me um coração que pratica a Tua Palavra e não só a ouve. Que eu construa a minha vida sobre a rocha de fazer o que Tu dizes. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, ensina-me a obedecer por amor, não por obrigação. Dá-me um coração que pratica a Tua Palavra e não só a aprova. Que eu construa a minha vida sobre a rocha de fazer o que Tu dizes. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "João 14:15",
@@ -3239,35 +3131,39 @@ window.ESTUDOS = [
   "emoji": "🔄",
   "accent": "#b07a4a",
   "resumo": "Voltar para Deus de coração.",
-  "oracao_abertura": "Senhor, eu erro e muitas vezes só sinto culpa, sem mudar. Ensina-me o verdadeiro arrependimento: reconhecer, voltar para Ti e mudar de caminho. Cria em mim um coração quebrantado e disposto. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu erro e muitas vezes só sinto culpa, sem mudar de verdade. Obrigado porque Tu recebes quem volta. Abre o meu entendimento e ensina-me o verdadeiro arrependimento: reconhecer, voltar para Ti e mudar de caminho. Cria em mim um coração quebrantado e disposto. Em nome de Jesus, amém.",
   "texto_base": [
    "Atos 3:19",
    "2 Crônicas 7:14"
   ],
   "observacao": [
    {
-    "q": "O que o arrependimento traz, segundo Pedro em Atos 3?",
-    "a": "Que os pecados sejam apagados e venham tempos de refrigério da presença de Deus. Arrepender-se leva a alívio e renovo, não só a culpa.",
-    "ref": "Atos 3:19",
-    "ref_text": "Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, de sorte que venham os tempos de refrigério, da presença do Senhor,"
+    "ref": "2 Coríntios 7:10",
+    "text": "Porque a tristeza segundo Deus opera arrependimento para a salvação, o qual não traz pesar; mas a tristeza do mundo opera a morte.",
+    "contexto": "Paulo distingue dois tipos de tristeza pelo pecado.",
+    "ensino": "Há a tristeza que leva a Deus (arrependimento e vida) e a que só afunda em remorso (morte). A diferença é o destino: uma levanta e muda; a outra senta e se castiga. Arrependimento verdadeiro caminha, não só lamenta.",
+    "reflexao": "A \"tristeza segundo Deus\" produz arrependimento para a salvação; a do mundo produz morte. O alvo é mudar, não só se culpar."
    },
    {
-    "q": "O que Deus pede ao povo em 2 Crônicas 7?",
-    "a": "Humilhar-se, orar, buscar a face Dele e converter-se dos maus caminhos; então Ele ouve, perdoa e sara. Arrependimento envolve voltar, não só lamentar.",
-    "ref": "2 Crônicas 7:14",
-    "ref_text": "e se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se desviar dos seus maus caminhos, então eu ouvirei do céu, e perdoarei os seus pecados, e sararei a sua terra."
+    "ref": "Lucas 15:18-20",
+    "text": "Levantar-me-ei, irei ter com meu pai e dir-lhe-ei: Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado teu filho; trata-me como um dos teus empregados. Levantou-se, pois, e foi para seu pai. Estando ele ainda longe, seu pai o viu, encheu-se de compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou.",
+    "contexto": "O filho pródigo decide voltar para o pai.",
+    "ensino": "O filho pródigo não só sentiu — ele levantou e voltou. E o pai correu ao seu encontro. Arrependimento completo tem três tempos: reconhecer, levantar e voltar. E sempre encontra um Pai que corre, não que cobra.",
+    "reflexao": "Arrependimento completo: ele reconhece, levanta-se e volta; e o pai corre ao seu encontro. A volta é recebida com festa."
    },
    {
-    "q": "Qual sacrifício Deus não despreza, segundo o Salmo 51?",
-    "a": "O espírito quebrantado e o coração contrito. Deus valoriza o coração arrependido mais que qualquer ritual.",
-    "ref": "Salmos 51:17",
-    "ref_text": "O sacrifício aceitável a Deus é o espírito quebrantado; ao coração quebrantado e contrito não desprezarás, ó Deus."
+    "ref": "Joel 2:13",
+    "text": "E rasgai o vosso coração, e não as vossas vestes; e convertei-vos ao Senhor vosso Deus; porque ele é misericordioso e compassivo, tardio em irar-se e grande em benignidade, e se arrepende do mal.",
+    "contexto": "O profeta chama o povo ao arrependimento.",
+    "ensino": "“Rasgai o vosso coração, e não as vossas vestes.” Deus não quer drama externo, quer mudança interna. Dá para parecer arrependido por fora e seguir igual por dentro. Ele olha o coração, não a encenação.",
+    "reflexao": "\"Rasgai o vosso coração, e não as vossas vestes\": Deus quer mudança interior, não gesto externo de fachada."
    },
    {
-    "q": "O que o céu faz por um pecador que se arrepende?",
-    "a": "Há alegria diante dos anjos por um só pecador que se arrepende. O arrependimento é celebrado por Deus.",
-    "ref": "Lucas 15:7",
-    "ref_text": "Digo-vos que assim haverá maior alegria no céu por um pecador que se arrepende, do que por noventa e nove justos que não necessitam de arrependimento."
+    "ref": "Provérbios 28:13",
+    "text": "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia.",
+    "contexto": "Provérbio sobre encobrir versus confessar.",
+    "ensino": "“Quem confessa e deixa os pecados alcançará misericórdia.” Repare nos dois verbos: confessar E deixar. Pedir perdão e continuar no mesmo erro é meio arrependimento. O outro meio é virar as costas para o que se confessou.",
+    "reflexao": "\"Quem confessa e deixa os pecados alcançará misericórdia\": confessar E deixar, os dois lados do arrependimento."
    }
   ],
   "interpretacao": {
@@ -3275,28 +3171,6 @@ window.ESTUDOS = [
     "Arrependimento bíblico não é só sentir culpa: é uma virada. A palavra tem o sentido de mudar de mente e de direção, voltando para Deus.",
     "Por isso a Bíblia distingue dois tipos de tristeza: a que leva ao arrependimento e à vida, e a que só afunda em remorso sem mudança.",
     "E o arrependimento sempre encontra um Deus que corre ao encontro, como o pai do filho pródigo. A porta da volta está sempre aberta."
-   ],
-   "refs": [
-    {
-     "ref": "2 Coríntios 7:10",
-     "ctx": "Paulo distingue dois tipos de tristeza pelo pecado.",
-     "exp": "A \"tristeza segundo Deus\" produz arrependimento para a salvação; a do mundo produz morte. O alvo é mudar, não só se culpar."
-    },
-    {
-     "ref": "Lucas 15:18-20",
-     "ctx": "O filho pródigo decide voltar para o pai.",
-     "exp": "Arrependimento completo: ele reconhece, levanta-se e volta; e o pai corre ao seu encontro. A volta é recebida com festa."
-    },
-    {
-     "ref": "Joel 2:13",
-     "ctx": "O profeta chama o povo ao arrependimento.",
-     "exp": "\"Rasgai o vosso coração, e não as vossas vestes\": Deus quer mudança interior, não gesto externo de fachada."
-    },
-    {
-     "ref": "Provérbios 28:13",
-     "ctx": "Provérbio sobre encobrir versus confessar.",
-     "exp": "\"Quem confessa e deixa os pecados alcançará misericórdia\": confessar E deixar, os dois lados do arrependimento."
-    }
    ]
   },
   "aplicacao": [
@@ -3319,7 +3193,7 @@ window.ESTUDOS = [
     "ref_text": "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao Senhor, que se compadecerá dele; e para o nosso Deus, porque é generoso em perdoar."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu recebes quem volta. Dá-me um arrependimento verdadeiro, que não só lamenta, mas muda de direção. Cria em mim um coração quebrantado e ajuda-me a deixar o que Te entristece. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu recebes quem se volta para Ti e corres ao meu encontro. Dá-me um arrependimento que não só lamenta, mas muda de direção. Ajuda-me a confessar e a deixar o que Te entristece. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Atos 3:19",
@@ -3337,35 +3211,39 @@ window.ESTUDOS = [
   "emoji": "🕊️",
   "accent": "#c0759a",
   "resumo": "O favor que não se merece.",
-  "oracao_abertura": "Senhor, eu vivo tentando merecer o que Tu já me dás de graça. Ajuda-me a entender e descansar na Tua graça. Que ela não vire desculpa para o pecado, mas força para viver uma vida nova. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu vivo tentando merecer o que Tu já me dás de graça. Obrigado por me amares antes de eu fazer por merecer. Abre o meu entendimento e ajuda-me a descansar na Tua graça. Que ela não vire desculpa para o pecado, mas força para uma vida nova. Em nome de Jesus, amém.",
   "texto_base": [
    "Efésios 2:8",
    "2 Coríntios 12:9"
   ],
   "observacao": [
    {
-    "q": "Como somos salvos, segundo Efésios 2?",
-    "a": "Pela graça, por meio da fé; é dom de Deus, não de obras, para que ninguém se glorie. A salvação é presente, não pagamento.",
-    "ref": "Efésios 2:8-9",
-    "ref_text": "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie."
+    "ref": "Romanos 5:20",
+    "text": "Sobreveio, porém, a lei para que a ofensa abundasse; mas, onde o pecado abundou, superabundou a graça;",
+    "contexto": "Paulo explica o efeito da graça diante do pecado.",
+    "ensino": "“Onde o pecado abundou, superabundou a graça.” Não existe buraco tão fundo que a graça não alcance. Por pior que tenha sido, o perdão de Deus é maior. A graça sempre tem a última palavra sobre o pecado.",
+    "reflexao": "\"Onde o pecado abundou, superabundou a graça\": não existe pecado maior que a graça de Deus."
    },
    {
-    "q": "A graça depende do nosso esforço ou é gratuita?",
-    "a": "É gratuita: somos \"justificados gratuitamente pela sua graça\". Graça, por definição, é favor não merecido.",
-    "ref": "Romanos 3:24",
-    "ref_text": "sendo justificados gratuitamente pela sua graça, mediante a redenção que há em Cristo Jesus,"
+    "ref": "Hebreus 4:16",
+    "text": "Cheguemo-nos, pois, confiadamente ao trono da graça, para que recebamos misericórdia e achemos graça, a fim de sermos socorridos no momento oportuno.",
+    "contexto": "O autor convida a buscar a Deus com confiança.",
+    "ensino": "“Cheguemos com confiança ao trono da graça.” Por causa de Jesus, dá para se aproximar de Deus sem medo, como filho que entra na sala do pai, e não como réu diante do juiz. A graça troca o tribunal pelo abraço.",
+    "reflexao": "\"Cheguemos com confiança ao trono da graça\": por causa da graça, podemos nos achegar a Deus sem medo."
    },
    {
-    "q": "O que a graça de Deus diz a Paulo na fraqueza?",
-    "a": "\"A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza\". A graça sustenta justamente onde somos fracos.",
-    "ref": "2 Coríntios 12:9",
-    "ref_text": "e ele me disse: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. Por isso, de boa vontade antes me gloriarei nas minhas fraquezas, a fim de que repouse sobre mim o poder de Cristo."
+    "ref": "João 1:16",
+    "text": "Pois todos nós recebemos da sua plenitude, e graça sobre graça.",
+    "contexto": "João descreve o que recebemos de Cristo.",
+    "ensino": "“Da sua plenitude recebemos graça sobre graça.” A graça de Deus não é gota contada, é cachoeira contínua. Não acaba quando você erra de novo; vem em ondas, sempre nova. É abundância, não racionamento.",
+    "reflexao": "\"Da sua plenitude recebemos graça sobre graça\": a graça de Deus é abundante e contínua, não escassa."
    },
    {
-    "q": "A quem a graça que salva apareceu?",
-    "a": "A todos os homens, ensinando a viver de modo justo. A graça não só perdoa: ela também educa.",
-    "ref": "Tito 2:11",
-    "ref_text": "Porque a graça de Deus se manifestou, trazendo salvação a todos os homens,"
+    "ref": "Romanos 6:1-2",
+    "text": "Que diremos, pois? Permaneceremos no pecado, para que abunde a graça? De modo nenhum. Nós, que já morremos para o pecado, como viveremos ainda nele?",
+    "contexto": "Paulo responde a quem distorcia a graça.",
+    "ensino": "“Continuaremos no pecado para que a graça abunde? De modo nenhum.” A graça que perdoa também transforma; não é licença para errar, é força para mudar. Quem entende a graça não a usa de desculpa, usa de combustível.",
+    "reflexao": "\"Permaneceremos no pecado para que a graça abunde? De modo nenhum\": a graça liberta do pecado, não autoriza a ele."
    }
   ],
   "interpretacao": {
@@ -3373,28 +3251,6 @@ window.ESTUDOS = [
     "Graça é o coração do evangelho: favor de Deus que não se merece nem se compra. Não recebemos o que merecíamos (juízo) e recebemos o que não merecíamos (perdão e vida).",
     "Ela liberta de duas prisões: a de tentar merecer a Deus pelo esforço e a do desespero por nunca ser bom o bastante. A graça basta.",
     "Mas a graça não é licença para pecar. Ela perdoa E transforma: ensina a viver uma vida nova, por gratidão, não por obrigação."
-   ],
-   "refs": [
-    {
-     "ref": "Romanos 5:20",
-     "ctx": "Paulo explica o efeito da graça diante do pecado.",
-     "exp": "\"Onde o pecado abundou, superabundou a graça\": não existe pecado maior que a graça de Deus."
-    },
-    {
-     "ref": "Hebreus 4:16",
-     "ctx": "O autor convida a buscar a Deus com confiança.",
-     "exp": "\"Cheguemos com confiança ao trono da graça\": por causa da graça, podemos nos achegar a Deus sem medo."
-    },
-    {
-     "ref": "João 1:16",
-     "ctx": "João descreve o que recebemos de Cristo.",
-     "exp": "\"Da sua plenitude recebemos graça sobre graça\": a graça de Deus é abundante e contínua, não escassa."
-    },
-    {
-     "ref": "Romanos 6:1-2",
-     "ctx": "Paulo responde a quem distorcia a graça.",
-     "exp": "\"Permaneceremos no pecado para que a graça abunde? De modo nenhum\": a graça liberta do pecado, não autoriza a ele."
-    }
    ]
   },
   "aplicacao": [
@@ -3417,7 +3273,7 @@ window.ESTUDOS = [
     "ref_text": "De modo nenhum. Nós, que já morremos para o pecado, como viveremos ainda nele?"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pela Tua graça que eu não mereço e não consigo pagar. Ajuda-me a descansar nela e a não vivê-la como desculpa, mas como força para uma vida nova. A Tua graça me basta. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pela Tua graça, que eu não mereço e não consigo pagar. Ajuda-me a descansar nela e a não vivê-la como desculpa, mas como força para mudar. A Tua graça me basta. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Efésios 2:8",
