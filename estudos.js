@@ -619,7 +619,7 @@ window.ESTUDOS = [
    "visoes": [
     {
      "nome": "Pela fé, obras como fruto",
-     "resumo": "Ênfase protestante: somos justificados pela fé, à parte das obras da lei. As boas obras são fruto e consequência da salvação, não a causa dela.",
+     "resumo": "As boas obras são fruto e consequência da salvação, não a causa dela.",
      "refs": [
       {
        "ref": "Efésios 2:8-9",
@@ -640,7 +640,7 @@ window.ESTUDOS = [
     },
     {
      "nome": "Fé que se completa em obras",
-     "resumo": "Ênfase católica/ortodoxa e de parte do cristianismo: a fé é viva quando coopera com as obras e os meios da graça; fé e obras caminham juntas.",
+     "resumo": "",
      "refs": [
       {
        "ref": "Tiago 2:24",
@@ -733,7 +733,7 @@ window.ESTUDOS = [
    "visoes": [
     {
      "nome": "Distinção e cuidado permanecem",
-     "resumo": "Ênfase (forte entre adventistas e outros) de que princípios de saúde e certas distinções alimentares seguem relevantes; o corpo como templo pede disciplina, como Daniel que se absteve.",
+     "resumo": "",
      "refs": [
       {
        "ref": "Levítico 11:2",
@@ -752,7 +752,7 @@ window.ESTUDOS = [
     },
     {
      "nome": "Alimentos declarados puros / liberdade",
-     "resumo": "Ênfase de que, no Novo Testamento, Jesus e a visão de Pedro declararam puros todos os alimentos; o reino de Deus não é comida e bebida, e há liberdade com consciência.",
+     "resumo": "",
      "refs": [
       {
        "ref": "Marcos 7:19",
@@ -850,7 +850,7 @@ window.ESTUDOS = [
    "visoes": [
     {
      "nome": "Soberania / eleição (reformada)",
-     "resumo": "Ênfase de que a salvação depende fundamentalmente da escolha soberana de Deus, que elege e atrai; sem essa ação, ninguém viria.",
+     "resumo": "",
      "refs": [
       {
        "ref": "Romanos 9:16",
@@ -869,7 +869,7 @@ window.ESTUDOS = [
     },
     {
      "nome": "Livre resposta (arminiana)",
-     "resumo": "Ênfase de que Deus deseja salvar a todos e oferece a graça, mas o ser humano pode aceitar ou recusar livremente; o convite é genuíno.",
+     "resumo": "",
      "refs": [
       {
        "ref": "1 Timóteo 2:4",
@@ -4017,7 +4017,7 @@ window.ESTUDOS = [
    "visoes": [
     {
      "nome": "Sono / inconsciência até a ressurreição",
-     "resumo": "A morte é como um sono sem consciência; o morto \"descansa\" e a próxima coisa que perceberá é a ressurreição, no retorno de Cristo. Ênfase forte entre adventistas e outros.",
+     "resumo": "A morte é como um sono sem consciência; o morto \"descansa\" e a próxima coisa que perceberá é a ressurreição, no retorno de Cristo.",
      "refs": [
       {
        "ref": "Eclesiastes 9:5",
@@ -4040,7 +4040,7 @@ window.ESTUDOS = [
     },
     {
      "nome": "Consciência imediata com o Senhor",
-     "resumo": "Ao morrer, o crente está consciente na presença de Cristo, aguardando a ressurreição do corpo. Ênfase da maior parte das tradições cristãs.",
+     "resumo": "Ao morrer, o crente está consciente na presença de Cristo, aguardando a ressurreição do corpo.",
      "refs": [
       {
        "ref": "2 Coríntios 5:8",
@@ -4158,7 +4158,7 @@ window.ESTUDOS = [
    "visoes": [
     {
      "nome": "Batismo de quem crê, por imersão",
-     "resumo": "O batismo segue a fé pessoal: batizam-se os que creem e se arrependem, geralmente por imersão, simbolizando morte e ressurreição com Cristo. Ênfase batista, adventista, pentecostal e outras.",
+     "resumo": "O batismo segue a fé pessoal: batizam-se os que creem e se arrependem, geralmente por imersão, simbolizando morte e ressurreição com Cristo.",
      "refs": [
       {
        "ref": "Atos 2:38",
@@ -4183,7 +4183,7 @@ window.ESTUDOS = [
     },
     {
      "nome": "Batismo também de infantes, como sinal da aliança",
-     "resumo": "Além de quem crê, batizam-se também filhos de crentes, como sinal da aliança de Deus com a família, semelhante à circuncisão. Ênfase católica, ortodoxa, luterana, reformada e outras.",
+     "resumo": "Além de quem crê, batizam-se também filhos de crentes, como sinal da aliança de Deus com a família, semelhante à circuncisão.",
      "refs": [
       {
        "ref": "Atos 16:33",
@@ -4296,7 +4296,7 @@ window.ESTUDOS = [
    "visoes": [
     {
      "nome": "A lei moral permanece, guiada pela graça",
-     "resumo": "A salvação é pela graça, mas a lei moral de Deus (resumida nos Dez Mandamentos) continua válida como guia de vida para o cristão. Ênfase forte entre adventistas e reformados.",
+     "resumo": "A salvação é pela graça, mas a lei moral de Deus (resumida nos Dez Mandamentos) continua válida como guia de vida para o cristão.",
      "refs": [
       {
        "ref": "Mateus 5:17",
@@ -4321,7 +4321,7 @@ window.ESTUDOS = [
     },
     {
      "nome": "Vivemos sob a graça, a lei cumprida em Cristo",
-     "resumo": "Cristo cumpriu a lei e o cristão vive guiado pelo Espírito e pelo amor, que é o cumprimento da lei, não mais sob o sistema legal. Ênfase de boa parte do cristianismo evangélico.",
+     "resumo": "Cristo cumpriu a lei e o cristão vive guiado pelo Espírito e pelo amor, que é o cumprimento da lei, não mais sob o sistema legal.",
      "refs": [
       {
        "ref": "Romanos 10:4",
