@@ -1734,5 +1734,789 @@ window.ESTUDOS = [
     "text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
    }
   ]
+ },
+ {
+  "id": "tristeza",
+  "tema": "Tristeza e luto",
+  "emoji": "🌧️",
+  "accent": "#5a6b8a",
+  "resumo": "Deus perto de quem chora.",
+  "oracao_abertura": "Senhor, Tu vês a minha dor e contas as minhas lágrimas. Não me peças para fingir que está tudo bem. Chega perto do meu coração quebrado e segura-me enquanto eu atravesso isto. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Salmos 34:18",
+   "Mateus 5:4"
+  ],
+  "observacao": [
+   {
+    "q": "De quem Deus está perto, segundo o Salmo?",
+    "a": "Dos que têm o coração quebrantado e o espírito oprimido. Deus não foge da dor: Ele se aproxima dela.",
+    "ref": "Salmos 147:3",
+    "ref_text": "sara os quebrantados de coração, e cura-lhes as feridas;"
+   },
+   {
+    "q": "O que Jesus mesmo fez diante da morte de um amigo?",
+    "a": "Chorou. O próprio Filho de Deus chorou; lamentar não é falta de fé.",
+    "ref": "João 11:35",
+    "ref_text": "Jesus chorou."
+   },
+   {
+    "q": "O choro é para sempre?",
+    "a": "Não. \"O choro pode durar uma noite, mas a alegria vem pela manhã\". A dor é real, mas não é o fim.",
+    "ref": "Salmos 30:5",
+    "ref_text": "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite; pela manhã, porém, vem o cântico de júbilo."
+   },
+   {
+    "q": "O que Deus promete fazer um dia com as lágrimas?",
+    "a": "Enxugar toda lágrima; não haverá mais morte, nem pranto. Há um horizonte sem dor.",
+    "ref": "Apocalipse 21:4",
+    "ref_text": "Ele enxugará de seus olhos toda lágrima; e não haverá mais morte, nem haverá mais pranto, nem lamento, nem dor; porque já as primeiras coisas são passadas."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia não manda o enlutado ser forte e seguir em frente. Ela diz o contrário: Deus está PERTO do coração quebrado, não distante dele.",
+    "Jesus chorou diante do túmulo de Lázaro, mesmo sabendo que o ressuscitaria. Isso mostra que lamentar e crer cabem juntos.",
+    "E a tristeza cristã tem esperança: choramos, mas não como os que não têm esperança, porque cremos na ressurreição e no reencontro."
+   ],
+   "refs": [
+    {
+     "ref": "1 Tessalonicenses 4:13",
+     "ctx": "Paulo conforta cristãos que perderam pessoas amadas e temiam não revê-las.",
+     "exp": "Ele não proíbe a tristeza, mas a distingue: o cristão sofre COM esperança, por causa da ressurreição."
+    },
+    {
+     "ref": "2 Coríntios 1:3-4",
+     "ctx": "Paulo, que sofreu muito, escreve sobre o consolo de Deus.",
+     "exp": "Deus é o \"Pai das misericórdias\" que nos consola na dor, e depois nos torna capazes de consolar outros."
+    },
+    {
+     "ref": "João 16:22",
+     "ctx": "Jesus prepara os discípulos para a dor de O perderem.",
+     "exp": "Promete que a tristeza deles se converterá em alegria que ninguém poderá tirar."
+    },
+    {
+     "ref": "Salmos 23:4",
+     "ctx": "Salmo de Davi sobre Deus como pastor.",
+     "exp": "Mesmo no \"vale da sombra da morte\", a presença de Deus (\"Tu estás comigo\") tira o medo da travessia."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Que perda ou tristeza você está carregando agora?",
+    "ref": "Salmos 62:8",
+    "orient": "Não esconda de Deus. \"Derramai perante Ele o vosso coração\": leve a dor crua a Deus em oração, sem maquiar.",
+    "ref_text": "Confiai nele, ó povo, em todo o tempo; derramai perante ele o vosso coração; Deus é o nosso refúgio."
+   },
+   {
+    "q": "Você tem se cobrado para \"superar logo\" e fingir que está bem?",
+    "ref": "Mateus 5:4",
+    "orient": "Jesus chama de bem-aventurado o que chora, pois será consolado. Dê-se permissão para lamentar; o consolo é promessa, não pressa.",
+    "ref_text": "Bem-aventurados os que choram, porque eles serão consolados."
+   },
+   {
+    "q": "A quem você pode recorrer (Deus e pessoas) em vez de se isolar na dor?",
+    "ref": "Mateus 11:28",
+    "orient": "Jesus convida os cansados e oprimidos a virem a Ele para descanso. Hoje, vá a Ele e também a alguém de confiança.",
+    "ref_text": "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei."
+   }
+  ],
+  "oracao_fechamento": "Pai das misericórdias, obrigado por estares perto do meu coração quebrado. Consola-me na minha dor e segura-me até a manhã chegar. Eu choro, mas não sem esperança, porque creio em Ti. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Salmos 34:18",
+    "text": "Perto está o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito."
+   },
+   {
+    "ref": "Mateus 5:4",
+    "text": "Bem-aventurados os que choram, porque eles serão consolados."
+   }
+  ]
+ },
+ {
+  "id": "solidao",
+  "tema": "Solidão",
+  "emoji": "🏝️",
+  "accent": "#7a8a9a",
+  "resumo": "Nunca realmente sozinho.",
+  "oracao_abertura": "Senhor, às vezes me sinto só mesmo cercado de gente. Lembra-me de que Tu nunca me deixas e estás comigo agora. Cura a minha solidão com a Tua presença e me dá pessoas para caminhar junto. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Deuteronômio 31:6",
+   "Salmos 139:7-10"
+  ],
+  "observacao": [
+   {
+    "q": "Existe algum lugar onde Deus não esteja, segundo o Salmo 139?",
+    "a": "Não. Em qualquer lugar Ele está e Sua mão nos guia. A solidão sente ausência onde há presença.",
+    "ref": "Salmos 139:7-10",
+    "ref_text": "Para onde me irei do teu Espírito, ou para onde fugirei da tua presença? Se subir ao céu, tu aí estás; se fizer no Seol a minha cama, eis que tu ali estás também. Se tomar as asas da alva, se habitar nas extremidades do mar, ainda ali a tua mão me guiará e a tua destra me susterá."
+   },
+   {
+    "q": "O que Deus promete sobre nos deixar?",
+    "a": "\"Não te deixarei, nem te desampararei\". A companhia de Deus não depende do nosso sentimento.",
+    "ref": "Hebreus 13:5",
+    "ref_text": "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei."
+   },
+   {
+    "q": "O que Deus faz pelos solitários, segundo o Salmo 68?",
+    "a": "Faz habitar em família. Deus não só está perto: Ele também nos coloca em comunidade.",
+    "ref": "Salmos 68:6",
+    "ref_text": "Deus faz que o solitário viva em família; liberta os presos e os faz prosperar; mas os rebeldes habitam em terra árida."
+   },
+   {
+    "q": "Até quando Jesus prometeu estar conosco?",
+    "a": "Todos os dias, até o fim. A presença Dele é constante, não ocasional.",
+    "ref": "Mateus 28:20",
+    "ref_text": "ensinando-os a observar todas as coisas que eu vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação dos séculos."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A solidão é um sentimento real, mas nem sempre é um fato. O Salmo 139 mostra que não existe canto do universo onde Deus não esteja com a gente.",
+    "A Bíblia trata a solidão de dois jeitos: lembra que Deus está presente E que Ele nos coloca em comunidade (família, igreja). Os dois andam juntos.",
+    "Jesus, que conheceu o abandono dos amigos e até o silêncio na cruz, prometeu nunca nos deixar órfãos. Ele entende a solidão por dentro."
+   ],
+   "refs": [
+    {
+     "ref": "Salmos 27:10",
+     "ctx": "Davi escreve sobre confiar em Deus mesmo no abandono.",
+     "exp": "\"Ainda que meu pai e minha mãe me desamparem, o Senhor me recolherá\": Deus acolhe quem foi deixado."
+    },
+    {
+     "ref": "João 14:18",
+     "ctx": "Jesus consola os discípulos antes de partir.",
+     "exp": "\"Não vos deixarei órfãos\": Ele promete voltar e enviar o Espírito, presença constante."
+    },
+    {
+     "ref": "Gênesis 28:15",
+     "ctx": "Jacó foge sozinho e tem um sonho com Deus.",
+     "exp": "Deus aparece ao fugitivo solitário: \"estou contigo... não te deixarei\". Ele encontra quem está só na estrada."
+    },
+    {
+     "ref": "Salmos 25:16",
+     "ctx": "Oração de Davi em aflição.",
+     "exp": "Modelo de oração honesta na solidão: \"estou solitário e aflito\" dito direto a Deus, sem disfarce."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Em que momentos a solidão te pega mais forte?",
+    "ref": "Salmos 73:23",
+    "orient": "Lembre que mesmo aí \"estou continuamente Contigo; Tu me seguras pela mão\". Quando bater, fale com Deus em voz alta como quem tem companhia.",
+    "ref_text": "Todavia estou sempre contigo; tu me seguras a mão direita."
+   },
+   {
+    "q": "Você tem se isolado quando deveria se aproximar das pessoas?",
+    "ref": "Hebreus 10:25",
+    "orient": "A Bíblia valoriza a comunidade. Dê um passo contra o isolamento: procure alguém, vá a um grupo, reate um contato esta semana.",
+    "ref_text": "não abandonando a nossa congregação, como é costume de alguns, antes admoestando-nos uns aos outros; e tanto mais, quanto vedes que se vai aproximando aquele dia."
+   },
+   {
+    "q": "Há alguém solitário ao seu redor a quem você poderia ser presença?",
+    "ref": "Provérbios 18:24",
+    "orient": "Às vezes a cura da nossa solidão começa quebrando a de outro. Procure uma pessoa só e ofereça companhia.",
+    "ref_text": "O homem que tem muitos amigos, tem-nos para a sua ruína; mas há um amigo que é mais chegado do que um irmão."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo em todo lugar e nunca me abandonas. Cura o meu sentimento de solidão com a Tua presença e me coloca em comunidade. Faze de mim também presença para quem está só. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Deuteronômio 31:6",
+    "text": "Sede fortes e corajosos; não temais, nem vos atemorizeis diante deles; porque o Senhor vosso Deus é quem vai convosco. Não vos deixará, nem vos desamparará."
+   },
+   {
+    "ref": "Salmos 139:7-10",
+    "text": "Para onde me irei do teu Espírito, ou para onde fugirei da tua presença? Se subir ao céu, tu aí estás; se fizer no Seol a minha cama, eis que tu ali estás também. Se tomar as asas da alva, se habitar nas extremidades do mar, ainda ali a tua mão me guiará e a tua destra me susterá."
+   }
+  ]
+ },
+ {
+  "id": "raiva",
+  "tema": "Raiva",
+  "emoji": "🔥",
+  "accent": "#b5553a",
+  "resumo": "Domínio sobre a ira.",
+  "oracao_abertura": "Senhor, a raiva sobe rápido em mim e às vezes me domina. Ensina-me a ser tardio para a ira e dono das minhas reações. Tira a amargura do meu coração e dá-me domínio próprio. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Tiago 1:19",
+   "Efésios 4:26"
+  ],
+  "observacao": [
+   {
+    "q": "Qual a ordem que Tiago dá sobre ouvir, falar e a ira?",
+    "a": "Pronto para ouvir, tardio para falar, tardio para se irar. A raiva costuma vir de falar antes de ouvir.",
+    "ref": "Tiago 1:19",
+    "ref_text": "Sabei isto, meus amados irmãos: Todo homem seja pronto para ouvir, tardio para falar e tardio para se irar."
+   },
+   {
+    "q": "A ira do homem produz o quê, segundo Tiago?",
+    "a": "Não produz a justiça de Deus. A raiva raramente resolve; geralmente estraga.",
+    "ref": "Tiago 1:20",
+    "ref_text": "Porque a ira do homem não opera a justiça de Deus."
+   },
+   {
+    "q": "O que uma resposta branda faz, segundo Provérbios?",
+    "a": "Desvia o furor; a palavra dura, porém, suscita a ira. O tom muda o rumo do conflito.",
+    "ref": "Provérbios 15:1",
+    "ref_text": "A resposta branda desvia o furor, mas a palavra dura suscita a ira."
+   },
+   {
+    "q": "Como Efésios diz para lidar com a ira sem pecar?",
+    "a": "\"Irai-vos e não pequeis; não se ponha o sol sobre a vossa ira\". Sentir não é pecado; alimentar e descontar, sim.",
+    "ref": "Efésios 4:26",
+    "ref_text": "Irai-vos, e não pequeis; não se ponha o sol sobre a vossa ira;"
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia não proíbe sentir raiva (até Jesus se indignou), mas trata o que fazemos com ela. O alvo é o domínio próprio, não a explosão nem o recalque.",
+    "Tiago dá uma sequência prática: ouvir mais, falar menos, irar-se devagar. Muita raiva nasce de reagir antes de entender.",
+    "E há um prazo: \"não se ponha o sol sobre a vossa ira\". Resolver no mesmo dia evita que a raiva vire rancor."
+   ],
+   "refs": [
+    {
+     "ref": "Provérbios 29:11",
+     "ctx": "Provérbio que contrasta o tolo e o sábio.",
+     "exp": "O tolo derrama toda a sua ira; o sábio a contém. Conter não é reprimir, é dominar."
+    },
+    {
+     "ref": "Eclesiastes 7:9",
+     "ctx": "Reflexão sobre o agir sábio.",
+     "exp": "\"Não te apresses a irar-te, porque a ira repousa no íntimo dos tolos\": pressa na raiva é marca de insensatez."
+    },
+    {
+     "ref": "Provérbios 16:32",
+     "ctx": "Provérbio sobre o verdadeiro forte.",
+     "exp": "Quem domina o seu espírito é melhor que quem conquista cidades. Autocontrole é força, não fraqueza."
+    },
+    {
+     "ref": "Colossenses 3:8",
+     "ctx": "Paulo lista o que o cristão deve \"despir\".",
+     "exp": "Manda largar a ira, o furor e a maledicência: tratar a raiva é parte de vestir o novo homem."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "O que mais aciona a sua raiva (pessoas, trânsito, injustiça, cansaço)?",
+    "ref": "Tiago 1:19",
+    "orient": "Identificar o gatilho é meio caminho. Na próxima vez, aplique a ordem: ouça primeiro, fale depois, e demore para reagir.",
+    "ref_text": "Sabei isto, meus amados irmãos: Todo homem seja pronto para ouvir, tardio para falar e tardio para se irar."
+   },
+   {
+    "q": "Você costuma descontar a raiva nos outros ou guardá-la como rancor?",
+    "ref": "Efésios 4:26",
+    "orient": "Nem explodir nem deixar o sol se pôr sobre ela. Resolva no mesmo dia: converse com calma ou entregue a Deus antes de dormir.",
+    "ref_text": "Irai-vos, e não pequeis; não se ponha o sol sobre a vossa ira;"
+   },
+   {
+    "q": "Há uma raiva antiga que virou amargura em você?",
+    "ref": "Romanos 12:19",
+    "orient": "Entregue a justiça a Deus (\"minha é a vingança\"). Soltar a vingança não é fraqueza, é confiar que Deus cuida do que é justo.",
+    "ref_text": "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança, eu retribuirei, diz o Senhor."
+   }
+  ],
+  "oracao_fechamento": "Pai, dá-me domínio sobre a minha ira. Ajuda-me a ouvir mais e reagir menos, a resolver no mesmo dia e a não guardar amargura. Que eu seja forte de verdade, dominando o meu próprio espírito. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Tiago 1:19",
+    "text": "Sabei isto, meus amados irmãos: Todo homem seja pronto para ouvir, tardio para falar e tardio para se irar."
+   },
+   {
+    "ref": "Efésios 4:26",
+    "text": "Irai-vos, e não pequeis; não se ponha o sol sobre a vossa ira;"
+   }
+  ]
+ },
+ {
+  "id": "inveja",
+  "tema": "Inveja",
+  "emoji": "👁️",
+  "accent": "#6a8a5a",
+  "resumo": "Contentar-se em vez de cobiçar.",
+  "oracao_abertura": "Senhor, é fácil olhar para o outro e querer o que ele tem. Cura em mim a inveja que rouba a minha paz. Ensina-me a me alegrar com o bem dos outros e a contentar-me com o que Tu me deste. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Tiago 3:16",
+   "Provérbios 14:30"
+  ],
+  "observacao": [
+   {
+    "q": "O que a inveja traz junto, segundo Tiago?",
+    "a": "Onde há inveja e sentimento faccioso, há confusão e toda obra perversa. A inveja envenena o ambiente.",
+    "ref": "Tiago 3:16",
+    "ref_text": "Porque onde há ciúme e sentimento faccioso, aí há confusão e toda obra má."
+   },
+   {
+    "q": "O que a inveja faz ao corpo/ossos, segundo Provérbios?",
+    "a": "\"A inveja é a podridão dos ossos\". Ela corrói por dentro quem a sente, antes de afetar o outro.",
+    "ref": "Provérbios 14:30",
+    "ref_text": "O coração tranqüilo é a vida da carne; a inveja, porém, é a podridão dos ossos."
+   },
+   {
+    "q": "O amor verdadeiro é invejoso?",
+    "a": "Não; \"o amor não é invejoso\". Inveja e amor não cabem no mesmo lugar do coração.",
+    "ref": "1 Coríntios 13:4",
+    "ref_text": "O amor é sofredor, é benigno; o amor não é invejoso; o amor não se vangloria, não se ensoberbece,"
+   },
+   {
+    "q": "O que o salmista diz sobre se incomodar com os que prosperam no mal?",
+    "a": "\"Não te indignes... nem tenhas inveja dos que praticam a iniquidade\". A inveja muitas vezes mira quem nem merece ser imitado.",
+    "ref": "Salmos 37:1",
+    "ref_text": "Não te enfades por causa dos malfeitores, nem tenhas inveja dos que praticam a iniqüidade."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A inveja parece mirar o outro, mas quem ela destrói primeiro é a gente: \"podridão dos ossos\". É um veneno que se toma esperando que o outro adoeça.",
+    "A Bíblia mostra a inveja como raiz de conflito e até de violência (Caim e Abel). Ela transforma o bem do próximo na nossa dor.",
+    "O antídoto não é ter mais, é querer diferente: contentamento com o que Deus deu e alegria genuína com o bem alheio."
+   ],
+   "refs": [
+    {
+     "ref": "Gênesis 4:5-7",
+     "ctx": "Caim inveja a aceitação da oferta de Abel.",
+     "exp": "Mostra aonde a inveja leva quando não é dominada: do ciúme ao ódio e à violência. Deus alerta: \"domina-o\"."
+    },
+    {
+     "ref": "Salmos 73:3",
+     "ctx": "O salmista Asafe confessa ter invejado os arrogantes que prosperavam.",
+     "exp": "Honestidade rara: ele quase tropeça invejando os ímpios, até entender o fim deles diante de Deus."
+    },
+    {
+     "ref": "Gálatas 5:26",
+     "ctx": "Paulo descreve a vida no Espírito versus na carne.",
+     "exp": "\"Não sejamos... invejosos uns dos outros\": a inveja entre irmãos quebra a comunidade."
+    },
+    {
+     "ref": "1 Pedro 2:1",
+     "ctx": "Pedro lista o que o cristão deve abandonar.",
+     "exp": "Coloca a inveja na lista do que deve ser \"deixado\", como malícia e engano: algo a despir, não administrar."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "De quem ou do quê você tem sentido inveja ultimamente?",
+    "ref": "Filipenses 4:11",
+    "orient": "O contrário da inveja é o contentamento, que Paulo diz ter \"aprendido\". Nomeie uma coisa boa que você já tem e agradeça por ela hoje.",
+    "ref_text": "Não digo isto por causa de necessidade, porque já aprendi a contentar-me com as circunstâncias em que me encontre."
+   },
+   {
+    "q": "Você consegue se alegrar de verdade quando algo bom acontece com outro?",
+    "ref": "Romanos 12:15",
+    "orient": "\"Alegrai-vos com os que se alegram.\" Pratique: parabenize sinceramente alguém pelo bem que recebeu, mesmo que você quisesse o mesmo.",
+    "ref_text": "alegrai-vos com os que se alegram; chorai com os que choram;"
+   },
+   {
+    "q": "A comparação tem roubado a sua paz nas redes ou na vida?",
+    "ref": "Hebreus 13:5",
+    "orient": "\"Contentai-vos com o que tendes\", porque Deus não te deixa. Reduza o que alimenta a comparação e foque no que Deus te confiou.",
+    "ref_text": "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei."
+   }
+  ],
+  "oracao_fechamento": "Pai, tira de mim a inveja que me corrói por dentro. Ensina-me a contentar com o que Tu me deste e a alegrar-me com o bem dos outros. Que o meu olhar pare de comparar e volte para a Tua bondade comigo. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Tiago 3:16",
+    "text": "Porque onde há ciúme e sentimento faccioso, aí há confusão e toda obra má."
+   },
+   {
+    "ref": "Provérbios 14:30",
+    "text": "O coração tranqüilo é a vida da carne; a inveja, porém, é a podridão dos ossos."
+   }
+  ]
+ },
+ {
+  "id": "culpa",
+  "tema": "Culpa",
+  "emoji": "⛓️",
+  "accent": "#8a7a6a",
+  "resumo": "Do peso da culpa ao perdão.",
+  "oracao_abertura": "Senhor, eu carrego culpas que me acusam por dentro. Algumas verdadeiras, outras que já perdoaste mas eu insisto em pagar. Lava o meu coração e ajuda-me a receber o perdão que Tu já ofereces. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Salmos 32:5",
+   "1 João 1:9"
+  ],
+  "observacao": [
+   {
+    "q": "O que acontece quando confessamos, segundo o Salmo 32?",
+    "a": "Deus perdoa a iniquidade do pecado. Esconder adoece; confessar liberta.",
+    "ref": "Salmos 32:5",
+    "ref_text": "Confessei-te o meu pecado, e a minha iniqüidade não encobri. Disse eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado."
+   },
+   {
+    "q": "O que Deus é fiel para fazer quando confessamos?",
+    "a": "Perdoar os pecados e nos purificar de toda injustiça. O perdão Dele é completo, não pela metade.",
+    "ref": "1 João 1:9",
+    "ref_text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
+   },
+   {
+    "q": "Há condenação para quem está em Cristo?",
+    "a": "\"Nenhuma condenação há para os que estão em Cristo Jesus\". A culpa perdoada não tem mais poder de condenar.",
+    "ref": "Romanos 8:1",
+    "ref_text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus."
+   },
+   {
+    "q": "Até onde Deus afasta de nós os pecados perdoados?",
+    "a": "Quanto o Oriente do Ocidente. Ele não fica relembrando o que já perdoou.",
+    "ref": "Salmos 103:12",
+    "ref_text": "Quanto o oriente está longe do ocidente, tanto tem ele afastado de nós as nossas transgressões."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A culpa tem duas faces. A verdadeira aponta um erro real e nos leva ao arrependimento e ao perdão. A falsa fica acusando o que Deus já perdoou.",
+    "A Bíblia mostra o caminho da culpa saudável: reconhecer, confessar, receber o perdão e seguir. Esconder o pecado só aumenta o peso.",
+    "O perdão de Deus é radical: Ele lança os pecados no fundo do mar e os afasta para longe. Continuar se punindo é não crer no tamanho desse perdão."
+   ],
+   "refs": [
+    {
+     "ref": "Salmos 32:1",
+     "ctx": "Davi escreve depois de um grande pecado e do perdão recebido.",
+     "exp": "\"Bem-aventurado aquele cujo pecado é coberto\": o alívio de quem para de esconder e é perdoado."
+    },
+    {
+     "ref": "Miquéias 7:19",
+     "ctx": "O profeta exalta o perdão de Deus a um povo culpado.",
+     "exp": "Deus \"lança os pecados nas profundezas do mar\": imagem do perdão que tira a dívida de vista."
+    },
+    {
+     "ref": "2 Coríntios 7:10",
+     "ctx": "Paulo distingue dois tipos de tristeza pelo pecado.",
+     "exp": "A \"tristeza segundo Deus\" leva ao arrependimento e à vida; a do mundo só afunda em culpa sem saída."
+    },
+    {
+     "ref": "Isaías 1:18",
+     "ctx": "Deus chama um povo culpado para a reconciliação.",
+     "exp": "\"Ainda que os vossos pecados sejam como a escarlata, se tornarão brancos como a neve\": o perdão transforma."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Há uma culpa real que você precisa confessar e largar?",
+    "ref": "Salmos 32:5",
+    "orient": "Esconder pesa mais. Confesse a Deus de forma específica (e, se for o caso, repare com quem você feriu). O perdão está garantido.",
+    "ref_text": "Confessei-te o meu pecado, e a minha iniqüidade não encobri. Disse eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado."
+   },
+   {
+    "q": "Você tem se punido por algo que Deus já perdoou?",
+    "ref": "Romanos 8:1",
+    "orient": "Se está em Cristo, não há condenação. Recuse a voz acusadora: o que Deus perdoou, você não precisa continuar cobrando de si.",
+    "ref_text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus."
+   },
+   {
+    "q": "Seu coração te acusa mais do que Deus?",
+    "ref": "1 João 3:20",
+    "orient": "\"Deus é maior que o nosso coração.\" Quando a culpa gritar, lembre que a palavra de Deus sobre o seu perdão vale mais que o seu sentimento.",
+    "ref_text": "porque se o coração nos condena, maior é Deus do que o nosso coração, e conhece todas as coisas."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu és fiel para perdoar e purificar. Eu confesso o que pesa em mim e recebo o Teu perdão. Ajuda-me a parar de pagar o que Tu já cancelaste, e a viver livre da condenação. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Salmos 32:5",
+    "text": "Confessei-te o meu pecado, e a minha iniqüidade não encobri. Disse eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a culpa do meu pecado."
+   },
+   {
+    "ref": "1 João 1:9",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
+   }
+  ]
+ },
+ {
+  "id": "tentacao",
+  "tema": "Tentação",
+  "emoji": "⚠️",
+  "accent": "#b08a3a",
+  "resumo": "Vencer a hora da queda.",
+  "oracao_abertura": "Senhor, Tu conheces as minhas fraquezas e onde sou mais tentado. Dá-me forças para resistir e a saída que Tu prometes. Guarda o meu coração e ajuda-me a fugir do que me faz cair. Em nome de Jesus, amém.",
+  "texto_base": [
+   "1 Coríntios 10:13",
+   "Tiago 1:14"
+  ],
+  "observacao": [
+   {
+    "q": "Deus promete o quê junto com a tentação, segundo Paulo?",
+    "a": "Que não seremos tentados além das forças e que haverá uma saída. Nenhuma tentação é obrigatoriamente vitoriosa.",
+    "ref": "1 Coríntios 10:13",
+    "ref_text": "Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar."
+   },
+   {
+    "q": "De onde vem a tentação, segundo Tiago?",
+    "a": "Da própria cobiça, que atrai e seduz. Deus não tenta ninguém; a isca pega no nosso desejo.",
+    "ref": "Tiago 1:13",
+    "ref_text": "Ninguém, sendo tentado, diga: Sou tentado por Deus; porque Deus não pode ser tentado pelo mal e ele a ninguém tenta."
+   },
+   {
+    "q": "O que Jesus mandou fazer para não cair em tentação?",
+    "a": "\"Vigiai e orai\". A oração e a atenção são defesa; o descuido é a porta.",
+    "ref": "Mateus 26:41",
+    "ref_text": "Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca."
+   },
+   {
+    "q": "Jesus entende a tentação?",
+    "a": "Sim; Ele foi tentado em tudo, mas sem pecar. Temos um Salvador que sabe por dentro o que é ser tentado.",
+    "ref": "Hebreus 4:15",
+    "ref_text": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém um que, como nós, em tudo foi tentado, mas sem pecado."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Ser tentado não é pecado: o próprio Jesus foi tentado. O pecado começa quando a gente alimenta a cobiça em vez de resistir.",
+    "Paulo dá uma promessa libertadora: sempre há uma saída. A tentação tenta convencer que não tem escolha; isso é mentira.",
+    "A defesa bíblica é prática: vigiar (conhecer os próprios gatilhos), orar, usar a Palavra (como Jesus fez) e, às vezes, simplesmente fugir."
+   ],
+   "refs": [
+    {
+     "ref": "Mateus 4:4",
+     "ctx": "Jesus é tentado no deserto e responde ao tentador.",
+     "exp": "Ele vence citando a Escritura: \"está escrito\". A Palavra guardada é arma na hora da tentação."
+    },
+    {
+     "ref": "Gênesis 39:12",
+     "ctx": "José é assediado pela esposa de Potifar.",
+     "exp": "A resposta dele à tentação foi fugir, literalmente. Às vezes vencer é sair de perto, não negociar."
+    },
+    {
+     "ref": "Tiago 4:7",
+     "ctx": "Tiago ensina sobre submissão a Deus e resistência.",
+     "exp": "\"Resisti ao diabo, e ele fugirá\": a resistência ativa, ligada a se achegar a Deus, faz a tentação recuar."
+    },
+    {
+     "ref": "Salmos 119:11",
+     "ctx": "Salmo sobre o valor da Palavra de Deus.",
+     "exp": "\"Escondi a tua palavra no coração, para não pecar contra ti\": prevenção, não só reação."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Qual é a sua tentação mais recorrente, e qual costuma ser o gatilho dela?",
+    "ref": "1 Coríntios 10:13",
+    "orient": "Identifique o gatilho e a \"saída\" que Deus oferece (sair do lugar, ligar para alguém, orar). Planeje a saída ANTES de ser tentado.",
+    "ref_text": "Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar."
+   },
+   {
+    "q": "Há um ambiente/situação que você precisa simplesmente evitar?",
+    "ref": "2 Timóteo 2:22",
+    "orient": "Às vezes a vitória é fugir, como José. \"Foge das paixões da mocidade.\" Corte de propósito o acesso fácil ao que te faz cair.",
+    "ref_text": "Foge também das paixões da mocidade, e segue a justiça, a fé, o amor, a paz com os que, de coração puro, invocam o Senhor."
+   },
+   {
+    "q": "Você tem usado a oração e a Palavra como defesa, ou só a força de vontade?",
+    "ref": "Mateus 26:41",
+    "orient": "Força de vontade sozinha cansa. Memorize um versículo para a sua tentação específica e ore antes do momento de risco.",
+    "ref_text": "Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque com a tentação Tu sempre dás a saída. Dá-me olhos para enxergá-la e coragem para tomá-la. Guarda o meu coração, e que a Tua Palavra esteja em mim na hora da queda. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "1 Coríntios 10:13",
+    "text": "Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus, o qual não deixará que sejais tentados acima do que podeis resistir, antes com a tentação dará também o meio de saída, para que a possais suportar."
+   },
+   {
+    "ref": "Tiago 1:14",
+    "text": "Cada um, porém, é tentado, quando atraído e engodado pela sua própria concupiscência;"
+   }
+  ]
+ },
+ {
+  "id": "desanimo",
+  "tema": "Desânimo",
+  "emoji": "🌫️",
+  "accent": "#7a7a8a",
+  "resumo": "Forças renovadas em Deus.",
+  "oracao_abertura": "Senhor, eu cheguei aqui cansado e meio sem forças. Levanta o meu ânimo e renova a minha esperança. Lembra-me de que Tu estás comigo e que a Tua alegria é a minha força. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Josué 1:9",
+   "Salmos 42:11"
+  ],
+  "observacao": [
+   {
+    "q": "Qual o motivo do ânimo que Deus dá a Josué?",
+    "a": "\"Esforça-te e tem bom ânimo... porque o Senhor é contigo\". O ânimo nasce da presença de Deus, não das circunstâncias.",
+    "ref": "Josué 1:9",
+    "ref_text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares."
+   },
+   {
+    "q": "O que acontece com quem espera no Senhor?",
+    "a": "Renova as forças, sobe como águia, corre sem se cansar. O descanso em Deus recarrega.",
+    "ref": "Isaías 40:31",
+    "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
+   },
+   {
+    "q": "Mesmo com o corpo cansando, o que se renova?",
+    "a": "O homem interior se renova de dia em dia. O desânimo de fora não precisa vencer o interior.",
+    "ref": "2 Coríntios 4:16",
+    "ref_text": "Por isso não desfalecemos; mas ainda que o nosso homem exterior se esteja consumindo, o interior, contudo, se renova de dia em dia."
+   },
+   {
+    "q": "O que o salmista manda a própria alma fazer no desânimo?",
+    "a": "Esperar em Deus e ainda louvá-Lo. Ele conversa com a própria alma e redireciona o olhar.",
+    "ref": "Salmos 42:11",
+    "ref_text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro, e o meu Deus."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "O desânimo atinge até os fortes. Elias, logo após uma grande vitória, quis morrer de cansaço e medo. Deus não o repreendeu: deu-lhe comida e descanso.",
+    "A Bíblia trata o desânimo com cuidado prático e espiritual: descanso, presença de Deus e redirecionamento do olhar (\"espera em Deus\").",
+    "E aponta uma fonte de força que não depende do momento: \"a alegria do Senhor é a vossa força\". O ânimo vem de Deus para fora, não das circunstâncias para dentro."
+   ],
+   "refs": [
+    {
+     "ref": "1 Reis 19:4-5",
+     "ctx": "Elias, exausto e com medo, pede para morrer debaixo de uma árvore.",
+     "exp": "Deus cuida do desanimado de forma concreta: deixa-o dormir e o alimenta antes de qualquer cobrança. Cansaço também é espiritual."
+    },
+    {
+     "ref": "Salmos 42:5",
+     "ctx": "O salmista conversa com a própria alma abatida.",
+     "exp": "\"Por que estás abatida, ó minha alma? Espera em Deus\": falar a verdade para si mesmo combate o desânimo."
+    },
+    {
+     "ref": "Neemias 8:10",
+     "ctx": "O povo chora ao ouvir a Lei; Neemias os reanima.",
+     "exp": "\"A alegria do Senhor é a vossa força\": a força para seguir vem da alegria que está em Deus, não em nós."
+    },
+    {
+     "ref": "Filipenses 4:13",
+     "ctx": "Paulo escreve preso, falando de contentamento em qualquer situação.",
+     "exp": "\"Tudo posso naquele que me fortalece\": a capacidade de suportar vem de Cristo, não da própria energia."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "O seu desânimo de agora é mais cansaço físico, emocional ou espiritual?",
+    "ref": "1 Reis 19:5",
+    "orient": "Como Elias, talvez você precise primeiro de descanso e cuidado básico. Cuide do corpo e leve o coração a Deus, sem culpa.",
+    "ref_text": "E deitando-se debaixo do zimbro, dormiu; e eis que um anjo o tocou, e lhe disse: Levanta-te e come."
+   },
+   {
+    "q": "Que verdade sobre Deus você precisa falar para a sua própria alma hoje?",
+    "ref": "Salmos 42:11",
+    "orient": "Faça como o salmista: em voz alta, diga à sua alma para esperar em Deus. Pregar a verdade a si mesmo muda o ânimo.",
+    "ref_text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro, e o meu Deus."
+   },
+   {
+    "q": "De onde você tem buscado força: em você mesmo ou no Senhor?",
+    "ref": "Isaías 40:31",
+    "orient": "Esperar no Senhor renova as forças. Hoje, em vez de só apertar os dentes, pare e entregue o cansaço a Deus.",
+    "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu cuidas do cansado e renovas as forças de quem espera em Ti. Levanta o meu ânimo, lembra-me da Tua presença e enche-me da Tua alegria, que é a minha força. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Josué 1:9",
+    "text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares."
+   },
+   {
+    "ref": "Salmos 42:11",
+    "text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro, e o meu Deus."
+   }
+  ]
+ },
+ {
+  "id": "orgulho",
+  "tema": "Orgulho",
+  "emoji": "👑",
+  "accent": "#9a7a4a",
+  "resumo": "O perigo de confiar em si.",
+  "oracao_abertura": "Senhor, o orgulho me faz achar que não preciso de Ti nem de ninguém. Quebra essa autossuficiência em mim. Ensina-me a depender de Ti e a reconhecer os meus limites com humildade. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Provérbios 16:18",
+   "Tiago 4:6"
+  ],
+  "observacao": [
+   {
+    "q": "O que vem antes da queda, segundo Provérbios?",
+    "a": "A soberba precede a ruína, e a altivez do espírito antecede a queda. O orgulho costuma ser o aviso da queda.",
+    "ref": "Provérbios 16:18",
+    "ref_text": "A soberba precede a destruição, e a altivez do espírito precede a queda."
+   },
+   {
+    "q": "A quem Deus resiste?",
+    "a": "Aos soberbos; e dá graça aos humildes. O orgulho fecha a porta que Deus quer abrir.",
+    "ref": "Tiago 4:6",
+    "ref_text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
+   },
+   {
+    "q": "O que acontece com quem se exalta?",
+    "a": "Será humilhado; e quem se humilha será exaltado. Deus inverte a conta do orgulho.",
+    "ref": "Mateus 23:12",
+    "ref_text": "Qualquer, pois, que a si mesmo se exaltar, será humilhado; e qualquer que a si mesmo se humilhar, será exaltado."
+   },
+   {
+    "q": "O que vem junto com a soberba, segundo Provérbios 11?",
+    "a": "A desonra; mas com os humildes está a sabedoria. O orgulho cega; a humildade aprende.",
+    "ref": "Provérbios 11:2",
+    "ref_text": "Quando vem a soberba, então vem a desonra; mas com os humildes está a sabedoria."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "O orgulho é traiçoeiro porque se esconde de quem o tem. Ele aparece como sempre ter razão, não pedir ajuda, não admitir erro, desprezar os outros.",
+    "A Bíblia trata o orgulho como o pecado de raiz: a criatura querendo o lugar do Criador. Por isso Deus resiste a ele, não por antipatia, mas porque ele afasta de Deus.",
+    "O exemplo de Nabucodonosor mostra o ciclo: exaltar a si mesmo, ser humilhado, e só então reconhecer a Deus. A humildade é o caminho mais curto para evitar isso."
+   ],
+   "refs": [
+    {
+     "ref": "Daniel 4:30-31",
+     "ctx": "O rei Nabucodonosor se gaba do próprio poder no auge.",
+     "exp": "No instante da arrogância (\"a minha grandeza\"), vem o juízo. O orgulho que rouba de Deus a glória é confrontado."
+    },
+    {
+     "ref": "1 Coríntios 10:12",
+     "ctx": "Paulo alerta os cristãos confiantes demais.",
+     "exp": "\"Aquele que pensa estar em pé, veja que não caia\": a autoconfiança orgulhosa é justamente o ponto de risco."
+    },
+    {
+     "ref": "Provérbios 3:7",
+     "ctx": "Provérbio sobre confiar em Deus e não em si.",
+     "exp": "\"Não sejas sábio aos teus próprios olhos\": o orgulho é confiar na própria sabedoria em vez de em Deus."
+    },
+    {
+     "ref": "Gálatas 6:3",
+     "ctx": "Paulo ensina sobre humildade entre irmãos.",
+     "exp": "\"Se alguém pensa ser alguma coisa, não sendo nada, engana-se\": o orgulho é, no fundo, autoengano."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Onde o orgulho mais se esconde em você: ter razão, ser visto, ou não pedir ajuda?",
+    "ref": "Romanos 12:3",
+    "orient": "Não pense de si \"mais do que convém\". Esta semana, numa situação, admita que pode estar errado ou peça ajuda de propósito.",
+    "ref_text": "Porque pela graça que me foi dada, digo a cada um dentre vós que não tenha de si mesmo mais alto conceito do que convém; mas que pense de si sobriamente, conforme a medida da fé que Deus, repartiu a cada um."
+   },
+   {
+    "q": "Você tem dado a Deus o crédito pelo que dá certo, ou ficado com ele?",
+    "ref": "Daniel 4:30",
+    "orient": "O orgulho rouba de Deus a glória, como Nabucodonosor. Reconheça hoje, em oração, que o que você tem veio Dele.",
+    "ref_text": "falou o rei, e disse: Não é esta a grande Babilônia que eu edifiquei para a morada real, pela força do meu poder, e para a glória da minha majestade?"
+   },
+   {
+    "q": "Há uma área onde você se acha tão firme que parou de vigiar?",
+    "ref": "1 Coríntios 10:12",
+    "orient": "\"Quem pensa estar em pé, veja que não caia.\" Identifique esse ponto de excesso de confiança e volte a depender de Deus nele.",
+    "ref_text": "Aquele, pois, que pensa estar em pé, olhe não caia."
+   }
+  ],
+  "oracao_fechamento": "Pai, quebra em mim o orgulho que me faz confiar só em mim. Ensina-me a depender de Ti e a reconhecer os meus limites. Dá-me a graça que Tu dás aos humildes e guarda-me da queda que vem da soberba. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Provérbios 16:18",
+    "text": "A soberba precede a destruição, e a altivez do espírito precede a queda."
+   },
+   {
+    "ref": "Tiago 4:6",
+    "text": "Todavia, dá maior graça. Portanto diz: Deus resiste aos soberbos; dá, porém, graça aos humildes."
+   }
+  ]
  }
 ];
