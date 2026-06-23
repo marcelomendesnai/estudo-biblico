@@ -15,28 +15,28 @@ window.ESTUDOS = [
     "ref": "Hebreus 11:1",
     "ensino": "Repare nas duas palavras que o texto usa: a fé é “fundamento” e “prova”. Fundamento é a base que sustenta; prova é a certeza que convence. No dia a dia você já vive assim: senta numa cadeira confiando que ela aguenta antes de testá-la, e trabalha o mês inteiro contando com um salário que ainda não caiu na conta. A fé em Deus é esse mesmo movimento, levado ao nível mais alto: agir hoje firmado em promessas Dele que ainda não se cumpriram diante dos seus olhos.",
     "text": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se vêem.",
-    "contexto": "Esta é a frase de abertura do chamado “capítulo da fé”, escrito a cristãos de origem judaica cansados e tentados a desistir. Antes de listar qualquer exemplo, o autor para e define o que é a fé.",
+    "contexto": "A Carta aos Hebreus foi escrita por volta dos anos 60, a cristãos de origem judaica que viviam sob perseguição e pressão para abandonar Jesus e voltar ao judaísmo. O autor vinha mostrando a superioridade de Cristo sobre tudo; aqui ele abre o famoso “capítulo da fé”, definindo o que ela é antes de listar os heróis que confiaram em Deus sem ver o cumprimento das promessas.",
     "reflexao": "Pergunte-se: em que área você está agindo hoje apenas pelo que enxerga? A fé convida a dar o passo confiando na promessa de Deus antes de ver o resultado na sua frente."
    },
    {
     "ref": "Romanos 10:17",
     "ensino": "A fé não nasce do nada, nem de tentar “forçar” a crença apertando os olhos. Ela cresce pelo ouvir a palavra de Cristo. É como a confiança numa pessoa: você passa a confiar à medida que a conhece e ouve o que ela diz. Por isso, quando a sua fé está fraca, o caminho não é se esforçar mais para sentir, e sim chegar mais perto da Palavra, onde a fé é alimentada e desperta de novo.",
     "text": "Logo a fé é pelo ouvir, e o ouvir pela palavra de Cristo.",
-    "contexto": "Paulo escreve por volta do ano 57 a uma igreja em Roma que ainda não conhecia pessoalmente. No capítulo 10 ele explica como a salvação chega às pessoas e insiste que ninguém pode crer em quem nunca ouviu falar.",
+    "contexto": "Paulo escreve a Carta aos Romanos por volta do ano 57, provavelmente de Corinto, a uma igreja que ele ainda não conhecia, formada por judeus e gentios. No capítulo 10 trata da salvação oferecida a todos e da necessidade da pregação: o argumento é que ninguém crê em quem nunca ouviu, e é nesse raciocínio que ele aponta de onde nasce a fé.",
     "reflexao": "Se a sua fé anda fraca, onde você tem buscado alimentá-la? O caminho não é se esforçar para sentir mais, e sim chegar mais perto da Palavra, onde a fé desperta."
    },
    {
     "ref": "Tiago 2:17",
     "ensino": "Aqui está o equilíbrio: a fé verdadeira não fica parada na cabeça, ela se move nas mãos. Dizer que confia no médico, mas não tomar o remédio que ele receitou, não é confiança de verdade. Crer em Deus e nunca dar um passo de obediência é uma fé só de palavra. As obras não compram nada diante de Deus, mas mostram que a fé está viva, assim como o fruto mostra que a árvore tem raiz.",
     "text": "Assim também a fé, se não tiver obras, é morta em si mesma.",
-    "contexto": "Carta atribuída a Tiago, líder da igreja de Jerusalém, dirigida a cristãos judeus espalhados por perseguição. No capítulo 2 ele confronta uma fé só de palavras, que diz “ide em paz” ao faminto sem fazer nada por ele.",
+    "contexto": "A carta é atribuída a Tiago, irmão de Jesus e líder da igreja de Jerusalém, dirigida a cristãos judeus espalhados pelo Império por causa da perseguição. O tom é bem prático, voltado à conduta. No capítulo 2 ele confronta a hipocrisia de honrar o rico e desprezar o pobre, e de desejar “bom proveito” a um faminto sem nada fazer — e é aí que conclui sobre fé e obras.",
     "reflexao": "Qual passo de obediência a sua fé está pedindo e você ainda não deu? A fé viva sempre se mostra em alguma atitude concreta."
    },
    {
     "ref": "Mateus 17:20",
     "ensino": "Jesus não elogia o tamanho da fé, mas a sua direção. Uma fé do tamanho de um grão de mostarda já move montanhas, porque o poder não está na intensidade do seu sentimento, e sim em Quem você confia. Uma chave pequena abre uma porta enorme. Então não espere ter uma fé gigante para começar: traga a fé pequena que você tem e coloque-a no Deus grande a quem você serve.",
     "text": "Disse-lhes ele: Por causa da vossa pouca fé; pois em verdade vos digo que, se tiverdes fé como um grão de mostarda direis a este monte: Passa daqui para acolá, e ele há de passar; e nada vos será impossível.",
-    "contexto": "Jesus diz isso logo após descer do monte da transfiguração, quando encontra os discípulos frustrados por não conseguirem libertar um menino atormentado.",
+    "contexto": "Mateus escreve a um público judeu, apresentando Jesus como o Messias prometido. Esta cena vem logo após a transfiguração: ao descer do monte, Jesus encontra os outros discípulos frustrados por não conseguirem libertar um menino atormentado, diante de uma multidão. É respondendo ao “por que nós não conseguimos?” que Ele fala do tamanho da fé.",
     "reflexao": "Você tem esperado ter uma fé grande para então agir? Traga a fé pequena que já tem e coloque-a no Deus grande a quem você serve."
    }
   ],
@@ -85,7 +85,7 @@ window.ESTUDOS = [
   "emoji": "🕊️",
   "accent": "#5a8a9a",
   "resumo": "Trocar a preocupação pela paz de Deus.",
-  "oracao_abertura": "Pai, eu chego com a mente cheia e o peito apertado, e Tu já conheces cada preocupação antes mesmo de eu falar. Obrigado porque posso vir assim, sem precisar fingir que está tudo bem. Acalma o que está agitado dentro de mim e abre o meu entendimento para ouvir a Tua voz acima do barulho do medo. Ensina-me, neste tempo, a entregar a Ti aquilo que eu não consigo controlar, e a confiar que Tu cuidas de mim. Em nome de Jesus, amém.",
+  "oracao_abertura": "Pai, eu chego à Tua presença com a mente cheia e o peito apertado, e Tu já conheces cada preocupação que me ocupa antes mesmo de eu colocar em palavras. Obrigado porque posso vir assim, do jeito que estou, sem precisar fingir que está tudo bem. Aquieta o que está agitado dentro de mim e abre o meu entendimento para ouvir a Tua voz acima do barulho do medo. Ensina-me, neste tempo, a diferença entre aquilo que eu posso cuidar e aquilo que só Tu podes carregar. E dá-me a coragem de soltar nas Tuas mãos o que está fora do meu controle, confiando que Tu cuidas de mim com amor de Pai. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 4:6",
    "Filipenses 4:7"
@@ -94,28 +94,28 @@ window.ESTUDOS = [
    {
     "ref": "Salmos 55:22",
     "text": "Lança o teu fardo sobre o Senhor, e ele te susterá; nunca permitirá que o justo seja abalado.",
-    "contexto": "Salmo de Davi em meio a traição e perigo. Ele escreve perseguido, com o coração em tormento, e mesmo assim aconselha.",
+    "contexto": "Salmo de Davi escrito num momento de traição e perigo: perseguido e ferido por um amigo próximo, com o coração em tormento, ele chega a desejar “asas de pomba” para fugir. É desse fundo de angústia real, e não de um dia tranquilo, que ele aconselha a lançar o fardo sobre o Senhor.",
     "ensino": "Pense numa mochila pesada nas costas o dia inteiro: a dor só passa quando você a tira, não quando aperta mais as alças. A ansiedade é assim — Deus te convida a tirar o fardo e entregá-lo a Ele, em vez de carregá-lo sozinho até cansar.",
     "reflexao": "Dá a imagem central: lançar o fardo sobre o Senhor, que sustenta. A ansiedade é um peso para entregar, não para carregar."
    },
    {
     "ref": "Mateus 6:25",
     "text": "Por isso vos digo: Não estejais ansiosos quanto à vossa vida, pelo que haveis de comer, ou pelo que haveis de beber; nem, quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o alimento, e o corpo mais do que o vestuário?",
-    "contexto": "Parte do Sermão do Monte, Jesus falando a uma multidão simples, muitos preocupados com comida e roupa do dia a dia.",
+    "contexto": "Parte do Sermão do Monte, o grande discurso de Jesus a uma multidão simples da Galileia — gente pobre, preocupada com o básico de comer e vestir. Logo depois de dizer que não se pode servir a Deus e às riquezas, Jesus ataca a raiz da ansiedade material, lembrando que a vida vale muito mais do que essas coisas.",
     "ensino": "Repare que a preocupação nunca pagou uma conta nem adiantou um problema; ela só rouba o sono de hoje por causa de um amanhã que talvez nem aconteça. Jesus aponta o exagero: a vida vale muito mais do que aquilo que tanto nos aflige.",
     "reflexao": "Jesus ataca a raiz: a vida vale mais que aquilo que nos preocupa. A ansiedade perde de vista o que importa."
    },
    {
     "ref": "Isaías 41:10",
     "text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.",
-    "contexto": "Deus fala a um povo amedrontado, diante de ameaça e exílio, prometendo presença.",
+    "contexto": "Isaías profetiza a um povo de Judá amedrontado diante de impérios poderosos e da ameaça do exílio. Aqui Deus fala como quem segura a mão de alguém apavorado, prometendo presença, força e ajuda. Não é promessa de ausência de perigo, e sim de companhia dentro dele.",
     "ensino": "Criança no escuro tem menos medo quando sente a mão do pai. Deus não promete apagar o escuro, e sim segurar a sua mão dentro dele: “eu sou contigo” é a presença que acalma antes mesmo de a situação mudar.",
     "reflexao": "O antídoto do medo é a presença: \"eu sou contigo\". Não é ausência de perigo, é companhia no perigo."
    },
    {
     "ref": "Salmos 94:19",
     "text": "Quando os cuidados do meu coração se multiplicam, as tuas consolações recreiam a minha alma.",
-    "contexto": "Salmo que clama por justiça em tempos de opressão, reconhecendo o consolo de Deus no meio da angústia.",
+    "contexto": "Salmo que clama a Deus por justiça em tempo de opressão, quando os perversos pareciam vencer e esmagar os fracos. No meio dessa aflição, o salmista reconhece que, quando os cuidados se multiplicam por dentro, é o consolo de Deus que recompõe a alma.",
     "ensino": "Quando os pensamentos se multiplicam de madrugada, é como uma sala cheia de vozes falando ao mesmo tempo. O consolo de Deus é a voz que abaixa o volume das outras e devolve a paz à alma.",
     "reflexao": "Reconhece que os cuidados se multiplicam, mas as consolações de Deus recreiam a alma. Ele encontra a pessoa na ansiedade."
    }
@@ -147,7 +147,7 @@ window.ESTUDOS = [
     "ref_text": "Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algum louvor, nisso pensai."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu cuidas de mim de verdade e me convidas a lançar sobre Ti todo o meu fardo. Eu entrego agora nas Tuas mãos as preocupações que eu vinha carregando sozinho. Guarda o meu coração e a minha mente com a Tua paz, essa que não depende de tudo dar certo. Quando o medo voltar a gritar, lembra-me de que Tu estás comigo e não me soltas. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu cuidas de mim de verdade e me convidas a lançar sobre Ti todo o meu fardo, em vez de carregá-lo sozinho até desabar. Eu entrego agora, conscientemente, nas Tuas mãos as preocupações que eu vinha segurando. Guarda o meu coração e a minha mente com a Tua paz, essa que excede o entendimento e não depende de tudo dar certo. Ensina-me a transformar cada ansiedade em oração, e cada oração em confiança. E quando o medo voltar a gritar, lembra-me de que Tu estás comigo e nunca me soltas. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 4:6",
@@ -165,7 +165,7 @@ window.ESTUDOS = [
   "emoji": "🙌",
   "accent": "#c97f3c",
   "resumo": "Enxergar e agradecer o que já se tem.",
-  "oracao_abertura": "Senhor, é tão fácil reparar no que falta e esquecer o quanto Tu já me deste. Obrigado por mais este dia e por esta oportunidade de parar diante de Ti. Abre os meus olhos neste tempo para enxergar a Tua bondade nas coisas que eu já nem percebo. Ensina o meu coração a agradecer não só quando tudo vai bem, mas como um jeito de viver. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é tão fácil o meu olhar se prender no que falta e esquecer o quanto Tu já me deste. Obrigado por mais este dia, pelo fôlego de vida e por esta oportunidade de parar diante de Ti. Abre os meus olhos, neste tempo, para enxergar a Tua bondade até nas coisas pequenas que eu já nem percebo. Tira de mim o coração reclamão e ensina-me a agradecer não só quando tudo vai bem, mas como um jeito constante de viver. Que a gratidão reordene o meu olhar e me aproxime de Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Tessalonicenses 5:18",
    "Salmos 100:4"
@@ -174,28 +174,28 @@ window.ESTUDOS = [
    {
     "ref": "Salmos 103:2",
     "text": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum dos seus benefícios.",
-    "contexto": "Salmo de Davi de louvor pessoal, em que ele fala consigo mesmo, com a própria alma.",
+    "contexto": "Salmo de Davi, um dos mais amados de louvor pessoal: ele conversa com a própria alma, ordenando a si mesmo que bendiga ao Senhor. Foi escrito como exercício deliberado de memória — listar os benefícios de Deus (perdão, cura, redenção) para não cair no esquecimento natural do coração.",
     "ensino": "O coração é como peneira: a reclamação fica, a bênção escorre. Por isso o salmista precisa MANDAR a própria alma “não esquecer”. Gratidão é um esforço de memória — lembrar de propósito do bem que já recebemos.",
     "reflexao": "Mostra o esforço da gratidão: lembrar de propósito. \"Não te esqueças\" assume que esquecer os benefícios é o padrão."
    },
    {
     "ref": "Lucas 17:15",
     "text": "Um deles, vendo que fora curado, voltou glorificando a Deus em alta voz;",
-    "contexto": "Jesus cura dez leprosos, mas só um volta para agradecer. Cena de estrada, a caminho de Jerusalém.",
+    "contexto": "Lucas, médico e companheiro de Paulo, registra esta cena na viagem de Jesus rumo a Jerusalém. Dez leprosos — excluídos sociais, obrigados a viver longe de todos — são curados a caminho dos sacerdotes; mas só um, e ainda por cima um samaritano (estrangeiro desprezado), volta para agradecer em alta voz.",
     "ensino": "Dez foram curados, só um voltou para agradecer. É o retrato da vida: receber é comum, agradecer é decisão rara. Vale a pergunta — quantas vezes você foi um dos nove que seguiram em frente sem olhar para trás?",
     "reflexao": "Ilustra o quanto a gratidão é rara: nove receberam e seguiram; um voltou. Receber é comum, agradecer é decisão."
    },
    {
     "ref": "Colossenses 2:7",
     "text": "arraigados e edificados nele, e confirmados na fé, assim como fostes ensinados, abundando em ação de graças.",
-    "contexto": "Paulo escreve a cristãos tentados por filosofias estranhas, lembrando a base da fé deles.",
+    "contexto": "Paulo escreve aos cristãos de Colossos, igreja que ele não fundou e que estava sendo seduzida por filosofias e regras estranhas. Para firmá-los, usa a imagem de uma árvore e de uma construção: “arraigados e edificados” em Cristo, deviam permanecer firmes na fé e transbordar em ação de graças.",
     "ensino": "Árvore de raiz firme dá fruto o ano todo, não só na primavera. Quem está “arraigado” em Cristo abunda em gratidão até nos meses secos: ela vira fruto constante, e não humor que depende do dia.",
     "reflexao": "Liga gratidão a maturidade: quem está firme na fé \"abunda em ação de graças\". É fruto de raiz, não de humor."
    },
    {
     "ref": "Salmos 136:1",
     "text": "Dai graças ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre.",
-    "contexto": "Salmo cantado de forma responsiva, repetindo o refrão da bondade de Deus por toda a história do povo.",
+    "contexto": "Salmo litúrgico, cantado de forma responsiva no culto de Israel: o líder dizia uma linha e o povo repetia o refrão “porque a sua benignidade dura para sempre”. Ele percorre toda a história — criação, libertação do Egito, cuidado no deserto — para fundamentar a gratidão na bondade constante de Deus.",
     "ensino": "Agradecemos a Deus não só pelo que Ele dá, mas por quem Ele é: bom, de uma bondade que “dura para sempre”. Presentes acabam; o caráter de Deus, não. Essa é a base mais firme da gratidão.",
     "reflexao": "Fundamenta o motivo da gratidão: a benignidade de Deus que dura para sempre. Agradecemos por quem Ele é, não só pelo que dá."
    }
@@ -227,7 +227,7 @@ window.ESTUDOS = [
     "ref_text": "Um deles, vendo que fora curado, voltou glorificando a Deus em alta voz;"
    }
   ],
-  "oracao_fechamento": "Pai, perdoa-me por tantas vezes só reparar no que falta. Obrigado por tudo o que Tu já fizeste e por aquilo que eu nem percebo todos os dias. Ensina-me a viver agradecendo, em qualquer circunstância, e a expressar a gratidão que muitas vezes fica só por dentro. Que o agradecer mude o meu olhar e me aproxime mais de Ti. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, perdoa-me pelas tantas vezes em que só reparei no que faltava e deixei passar tudo o que Tu fazes por mim todos os dias. Obrigado pela Tua bondade, que não depende do meu humor nem das minhas circunstâncias. Ensina-me a viver agradecendo, em qualquer situação, e a expressar a gratidão que muitas vezes fica presa só por dentro. Faze de mim alguém que reconhece a Tua mão e que diz obrigado, a Ti e às pessoas. Que o agradecer transforme o meu coração. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Tessalonicenses 5:18",
@@ -936,7 +936,7 @@ window.ESTUDOS = [
   "emoji": "☀️",
   "accent": "#5d8a6a",
   "resumo": "Firmeza para o que ainda virá.",
-  "oracao_abertura": "Senhor, quando o futuro parece fechado, eu me esqueço de que Tu seguras o amanhã. Obrigado porque a minha esperança não depende das circunstâncias, mas de Ti. Abre o meu entendimento e enche o meu coração de uma esperança que não vem do otimismo, e sim da Tua fidelidade. Tira de mim o desânimo e ensina-me a esperar em Ti com confiança. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, quando o futuro parece fechado e o caminho some na minha frente, eu me esqueço de que Tu já estás no amanhã, segurando tudo. Obrigado porque a minha esperança não precisa se apoiar nas circunstâncias, mas em Ti, que és fiel. Abre o meu entendimento e enche o meu coração de uma esperança que não é otimismo ingênuo, e sim confiança nas Tuas promessas. Tira de mim o desânimo e o pessimismo que me paralisam. E ensina-me a esperar em Ti com paciência e firmeza, mesmo sem ver ainda o cumprimento. Em nome de Jesus, amém.",
   "texto_base": [
    "Romanos 15:13",
    "Romanos 8:24"
@@ -945,28 +945,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Pedro 1:3",
     "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos regenerou para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,",
-    "contexto": "Pedro escreve a cristãos espalhados e perseguidos. Ele chama a esperança de \"viva\", porque nasce da ressurreição de Jesus.",
+    "contexto": "Pedro escreve a cristãos espalhados pela Ásia Menor, perseguidos e tratados como estrangeiros por causa da fé. Logo na abertura da carta, em meio ao sofrimento deles, ele rompe em louvor: Deus os regenerou “para uma esperança viva”, e a base disso é um fato concreto — a ressurreição de Jesus dentre os mortos.",
     "ensino": "Há esperança morta (só torcer pra dar certo) e esperança viva (apoiada num fato). A nossa se apoia na ressurreição de Jesus: é como confiar numa ponte que já foi testada e aguentou. Não é torcida, é certeza fundamentada.",
     "reflexao": "Mostra a base da esperança: não um desejo, mas um fato (a ressurreição) que garante o futuro."
    },
    {
     "ref": "Tito 2:13",
     "text": "aguardando a bem-aventurada esperança e o aparecimento da glória do nosso grande Deus e Salvador Cristo Jesus,",
-    "contexto": "Paulo orienta Tito sobre a vida da igreja em Creta, apontando para a volta de Cristo.",
+    "contexto": "Paulo escreve a Tito, deixado para organizar as igrejas na ilha de Creta, lugar de má fama moral. Ao ensinar como o povo de Deus deve viver enquanto espera, ele aponta o horizonte que orienta tudo: a “bem-aventurada esperança”, a manifestação gloriosa de Jesus Cristo.",
     "ensino": "Quem espera uma visita querida arruma a casa com alegria. A volta de Cristo é a “bem-aventurada esperança” que organiza a vida do cristão: vivemos olhando para esse encontro, e isso muda o que fazemos hoje.",
     "reflexao": "Chama a volta de Jesus de \"bem-aventurada esperança\": o horizonte que orienta a vida cristã."
    },
    {
     "ref": "Jeremias 29:11",
     "text": "Pois eu bem sei os planos que estou projetando para vós, diz o Senhor; planos de paz, e não de mal, para vos dar um futuro e uma esperança.",
-    "contexto": "Deus fala a um povo no exílio, longe de casa e sem perspectiva. Mesmo ali, promete futuro.",
+    "contexto": "Jeremias escreve uma carta aos judeus levados cativos para a Babilônia — gente que perdeu casa, templo e país, longe de tudo e sem perspectiva. Contra os falsos profetas que prometiam volta rápida, Deus diz que o exílio duraria, mas que os Seus planos para aquele povo eram de paz e futuro, não de mal.",
     "ensino": "Deus disse isso a um povo no exílio, longe de casa e sem perspectiva — não num dia de festa. A esperança bíblica não nega o exílio; ela afirma que, mesmo ali, os planos de Deus para você são de paz e futuro.",
     "reflexao": "Lembra que os planos de Deus são de paz e futuro, mesmo quando o presente é exílio."
    },
    {
     "ref": "Lamentações de Jeremias 3:22",
     "text": "A benignidade do Senhor jamais acaba, as suas misericórdias não têm fim;",
-    "contexto": "Jeremias lamenta a destruição de Jerusalém; no meio da dor mais profunda, ele se agarra à fidelidade de Deus.",
+    "contexto": "O livro de Lamentações reúne poemas de luto pela destruição de Jerusalém e do templo pelos babilônios — a maior catástrofe da história de Israel. Bem no meio desse lamento profundo, o autor faz uma pausa e se agarra a uma certeza: as misericórdias do Senhor não se esgotam e se renovam a cada manhã.",
     "ensino": "No meio da pior dor, com a cidade destruída, Jeremias acha um chão firme: as misericórdias de Deus “se renovam a cada manhã”. Como o nascer do sol que volta todo dia, a bondade de Deus chega nova depois da noite mais escura.",
     "reflexao": "Esperança no fundo do poço: as misericórdias de Deus não acabam, se renovam a cada manhã."
    }
@@ -998,7 +998,7 @@ window.ESTUDOS = [
     "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque a minha esperança não depende de eu enxergar a saída, mas de Ti, que conduzes o futuro. Renova as minhas forças quando eu canso e ancora o meu coração na Tua promessa quando tudo balança. Lembra-me, nos dias difíceis, de que as Tuas misericórdias se renovam a cada manhã. Enche-me de alegria e paz no crer. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a minha esperança não depende de eu enxergar a saída, mas de Ti, que conduzes a história e o meu futuro. Renova as minhas forças quando eu canso de esperar e ancora o meu coração na Tua promessa quando tudo ao redor balança. Lembra-me, nos dias mais escuros, de que as Tuas misericórdias se renovam a cada manhã. Enche-me da alegria e da paz que vêm de crer em Ti. E que essa esperança transborde para quem estiver perdendo a sua. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Romanos 15:13",
@@ -1016,7 +1016,7 @@ window.ESTUDOS = [
   "emoji": "❤️",
   "accent": "#c0556b",
   "resumo": "Amar como Deus nos amou.",
-  "oracao_abertura": "Senhor, Tu és amor, e tudo o que eu sei de amar verdadeiro vem de Ti. Obrigado por me amares primeiro, mesmo quando eu não tinha nada a oferecer. Abre o meu entendimento e tira de mim o egoísmo e o amor só de palavras. Enche-me do Teu amor, para que eu ame as pessoas como Tu me amas, inclusive as difíceis. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, Tu és a própria fonte do amor, e tudo o que eu sei de amar de verdade vem de Ti. Obrigado por me amares primeiro, quando eu ainda não tinha nada a oferecer e nem Te procurava. Abre o meu entendimento, neste tempo, e tira de mim o egoísmo, o orgulho e o amor que só existe em palavras. Enche o meu coração do Teu amor, para que ele transborde nas pessoas ao meu redor, inclusive nas difíceis de amar. Ensina-me a amar não pelo que eu recebo, mas como Tu amas. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Coríntios 13:4",
    "1 Coríntios 13:13"
@@ -1025,28 +1025,28 @@ window.ESTUDOS = [
    {
     "ref": "1 João 4:8",
     "text": "Aquele que não ama não conhece a Deus; porque Deus é amor.",
-    "contexto": "João escreve para firmar cristãos contra falsos mestres, apontando o teste do amor.",
+    "contexto": "O apóstolo João, já idoso, escreve para firmar cristãos contra falsos mestres que dividiam a igreja. Ele insiste num teste simples e profundo: o amor. Aqui faz a afirmação mais radical sobre Deus em toda a Bíblia — não apenas que Deus ama, mas que “Deus é amor”, de modo que quem não ama mostra não conhecê-Lo.",
     "ensino": "Não é só que Deus “tem” amor; Ele “é” amor. Tudo o que sabemos de amar de verdade é reflexo Dele, como a luz da lua é reflexo do sol. Por isso, quem não ama mostra que ainda não conheceu de fato quem Deus é.",
     "reflexao": "Define a fonte: Deus é amor. Amar não é um extra da fé, é sinal de conhecer a Deus."
    },
    {
     "ref": "Romanos 5:8",
     "text": "Mas Deus dá prova do seu amor para conosco, em que, quando éramos ainda pecadores, Cristo morreu por nós.",
-    "contexto": "Paulo explica o evangelho aos romanos: Cristo morreu por nós.",
+    "contexto": "Paulo, explicando o evangelho aos romanos, mostra a grandeza do amor de Deus por contraste: as pessoas, no máximo, morreriam por alguém muito bom. Deus fez o impensável — Cristo morreu por nós quando ainda éramos pecadores e inimigos, sem nada a oferecer e sem termos mudado primeiro.",
     "ensino": "O amor humano costuma esperar o outro merecer. O de Deus fez o contrário: Cristo morreu por nós quando ainda éramos pecadores, sem nada a oferecer. É amor que dá o primeiro passo, antes de qualquer mudança nossa.",
     "reflexao": "Mostra o tipo de amor de Deus: amou-nos quando ainda éramos pecadores, sem merecermos."
    },
    {
     "ref": "Mateus 22:39",
     "text": "E o segundo, semelhante a este, é: Amarás ao teu próximo como a ti mesmo.",
-    "contexto": "Jesus responde qual o maior mandamento, resumindo toda a lei.",
+    "contexto": "Jesus está em Jerusalém, na última semana antes da cruz, sendo testado por especialistas na lei que queriam pegá-Lo numa cilada. Perguntado qual é o maior mandamento, Ele resume toda a Lei e os Profetas em dois amores inseparáveis: amar a Deus acima de tudo e amar o próximo como a si mesmo.",
     "ensino": "Jesus une amar a Deus e amar o próximo como duas faces da mesma moeda. Dizer que ama a Deus (que não se vê) e tratar mal o próximo (que se vê) é como cuidar da raiz e pisar no fruto. Um amor prova o outro.",
     "reflexao": "Liga amar a Deus e amar o próximo: o segundo brota do primeiro."
    },
    {
     "ref": "1 João 4:18",
     "text": "No amor não há medo antes o perfeito amor lança fora o medo; porque o medo envolve castigo; e quem tem medo não está aperfeiçoado no amor.",
-    "contexto": "João contrasta amor e medo na vida do cristão.",
+    "contexto": "Ainda na carta sobre o amor, João trata da segurança do cristão diante de Deus. Para uma comunidade insegura e amedrontada, ele afirma que “o perfeito amor lança fora o medo”: quem se sabe amado por Deus deixa de viver no temor do castigo.",
     "ensino": "Medo e amor disputam o mesmo espaço no coração. Quem se sabe amado por Deus teme menos: é como a criança que dorme tranquila sabendo que o pai está em casa. Saber-se amado é o antídoto do medo.",
     "reflexao": "O amor perfeito lança fora o medo: quem se sabe amado por Deus teme menos."
    }
@@ -1078,7 +1078,7 @@ window.ESTUDOS = [
     "ref_text": "Respondeu-lhe Jesus: Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado por me amares antes de eu merecer e por me ensinares o que é amar de verdade. Enche-me do Teu amor para que ele transborde em paciência, bondade e perdão com as pessoas ao meu redor. Tira de mim o medo, porque o Teu amor o lança fora. Que as pessoas vejam Jesus pelo jeito como eu amo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado por me amares antes de eu merecer e por me mostrares, em Jesus, o que é amor de verdade. Enche-me do Teu amor para que ele se traduza em paciência, bondade e perdão no meu dia a dia. Tira de mim o medo, porque o Teu amor perfeito o lança fora. Ajuda-me a amar a Ti acima de tudo e ao próximo como a mim mesmo, não só em teoria, mas em atitudes concretas. Que as pessoas vejam Jesus pelo jeito como eu amo. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Coríntios 13:4",
