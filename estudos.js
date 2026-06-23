@@ -290,6 +290,10 @@ window.ESTUDOS = [
        "ref": "Lucas 10:18",
        "text": "Respondeu-lhes ele: Eu via Satanás, como raio, cair do céu."
       }
+     ],
+     "trad": [
+      "catolica",
+      "evangelica"
      ]
     },
     {
@@ -312,7 +316,8 @@ window.ESTUDOS = [
        "ref": "Romanos 5:12",
        "text": "Portanto, assim como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim também a morte passou a todos os homens, porquanto todos pecaram."
       }
-     ]
+     ],
+     "trad": []
     }
    ],
    "comum": {
@@ -402,6 +407,10 @@ window.ESTUDOS = [
        "ref": "Mateus 24:30",
        "text": "Então aparecerá no céu o sinal do Filho do homem, e todas as tribos da terra se lamentarão, e verão vir o Filho do homem sobre as nuvens do céu, com poder e grande glória."
       }
+     ],
+     "trad": [
+      "catolica",
+      "evangelica"
      ]
     },
     {
@@ -416,7 +425,8 @@ window.ESTUDOS = [
        "ref": "Mateus 16:28",
        "text": "Em verdade vos digo, alguns dos que aqui estão de modo nenhum provarão a morte até que vejam vir o Filho do homem no seu reino."
       }
-     ]
+     ],
+     "trad": []
     }
    ],
    "comum": {
@@ -502,6 +512,9 @@ window.ESTUDOS = [
        "ref": "1 Tessalonicenses 4:16",
        "text": "Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro."
       }
+     ],
+     "trad": [
+      "evangelica"
      ]
     },
     {
@@ -516,6 +529,9 @@ window.ESTUDOS = [
        "ref": "João 5:28",
        "text": "Não vos admireis disso, porque vem a hora em que todos os que estão nos sepulcros ouvirão a sua voz e sairão:"
       }
+     ],
+     "trad": [
+      "catolica"
      ]
     },
     {
@@ -530,7 +546,8 @@ window.ESTUDOS = [
        "ref": "Daniel 2:44",
        "text": "Mas, nos dias desses reis, o Deus do céu suscitará um reino que não será jamais destruído; nem passará a soberania deste reino a outro povo; mas esmiuçará e consumirá todos esses reinos, e subsistirá para sempre."
       }
-     ]
+     ],
+     "trad": []
     }
    ],
    "comum": {
@@ -616,6 +633,9 @@ window.ESTUDOS = [
        "ref": "Gálatas 2:16",
        "text": "sabendo, contudo, que o homem não é justificado por obras da lei, mas sim, pela fé em Cristo Jesus, temos também crido em Cristo Jesus para sermos justificados pela fé em Cristo, e não por obras da lei; pois por obras da lei nenhuma carne será justificada."
       }
+     ],
+     "trad": [
+      "evangelica"
      ]
     },
     {
@@ -634,6 +654,9 @@ window.ESTUDOS = [
        "ref": "Filipenses 2:12",
        "text": "De sorte que, meus amados, do modo como sempre obedecestes, não como na minha presença somente, mas muito mais agora na minha ausência, efetuai a vossa salvação com temor e tremor;"
       }
+     ],
+     "trad": [
+      "catolica"
      ]
     }
    ],
@@ -724,7 +747,8 @@ window.ESTUDOS = [
        "ref": "1 Coríntios 6:19",
        "text": "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual possuís da parte de Deus, e que não sois de vós mesmos?"
       }
-     ]
+     ],
+     "trad": []
     },
     {
      "nome": "Alimentos declarados puros / liberdade",
@@ -746,6 +770,10 @@ window.ESTUDOS = [
        "ref": "1 Timóteo 4:4",
        "text": "pois todas as coisas criadas por Deus são boas, e nada deve ser rejeitado se é recebido com ações de graças;"
       }
+     ],
+     "trad": [
+      "catolica",
+      "evangelica"
      ]
     }
    ],
@@ -836,7 +864,8 @@ window.ESTUDOS = [
        "ref": "João 6:44",
        "text": "Ninguém pode vir a mim, se o Pai que me enviou não o trouxer; e eu o ressuscitarei no último dia."
       }
-     ]
+     ],
+     "trad": []
     },
     {
      "nome": "Livre resposta (arminiana)",
@@ -854,6 +883,10 @@ window.ESTUDOS = [
        "ref": "Josué 24:15",
        "text": "Mas, se vos parece mal o servirdes ao Senhor, escolhei hoje a quem haveis de servir; se aos deuses a quem serviram vossos pais, que estavam além do Rio, ou aos deuses dos amorreus, em cuja terra habitais. Porém eu e a minha casa serviremos ao Senhor."
       }
+     ],
+     "trad": [
+      "catolica",
+      "evangelica"
      ]
     }
    ],
@@ -4002,7 +4035,8 @@ window.ESTUDOS = [
        "ref": "1 Tessalonicenses 4:13-16",
        "text": "Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança. Porque, se cremos que Jesus morreu e ressurgiu, assim também aos que dormem, Deus, mediante Jesus, os tornará a trazer juntamente com ele. Dizemo-vos, pois, isto pela palavra do Senhor: que nós, os que ficarmos vivos para a vinda do Senhor, de modo algum precederemos os que já dormem. Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro."
       }
-     ]
+     ],
+     "trad": []
     },
     {
      "nome": "Consciência imediata com o Senhor",
@@ -4024,6 +4058,10 @@ window.ESTUDOS = [
        "ref": "Lucas 16:22-23",
        "text": "Veio a morrer o mendigo, e foi levado pelos anjos para o seio de Abraão; morreu também o rico, e foi sepultado. No inferno, ergueu os olhos, estando em tormentos, e viu ao longe a Abraão, e a Lázaro no seu seio."
       }
+     ],
+     "trad": [
+      "catolica",
+      "evangelica"
      ]
     }
    ],
@@ -4138,6 +4176,9 @@ window.ESTUDOS = [
        "ref": "Marcos 16:16",
        "text": "Quem crer e for batizado será salvo; mas quem não crer será condenado."
       }
+     ],
+     "trad": [
+      "evangelica"
      ]
     },
     {
@@ -4156,6 +4197,9 @@ window.ESTUDOS = [
        "ref": "Atos 2:39",
        "text": "Porque a promessa vos pertence a vós, a vossos filhos, e a todos os que estão longe: a quantos o Senhor nosso Deus chamar."
       }
+     ],
+     "trad": [
+      "catolica"
      ]
     }
    ],
@@ -4270,6 +4314,9 @@ window.ESTUDOS = [
        "ref": "Êxodo 20:8",
        "text": "Lembra-te do dia do sábado, para o santificar."
       }
+     ],
+     "trad": [
+      "catolica"
      ]
     },
     {
@@ -4292,6 +4339,9 @@ window.ESTUDOS = [
        "ref": "Colossenses 2:14",
        "text": "e havendo riscado o escrito de dívida que havia contra nós nas suas ordenanças, o qual nos era contrário, removeu-o do meio de nós, cravando-o na cruz;"
       }
+     ],
+     "trad": [
+      "evangelica"
      ]
     }
    ],
