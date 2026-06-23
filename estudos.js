@@ -245,23 +245,25 @@ window.ESTUDOS = [
   "emoji": "🐍",
   "accent": "#6b5b95",
   "resumo": "Onde o pecado começou.",
-  "oracao_abertura": "Senhor, este é um tema que ultrapassa a minha mente. Guarda-me de respostas fáceis e de acusar a Ti pelo mal que vejo. Dá-me humildade para aceitar o que a Tua Palavra revela e paz diante do que ela deixa em mistério. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, este é um tema que ultrapassa a minha mente, e eu me aproximo dele com humildade. Obrigado porque, mesmo diante do mistério do mal, Tu não és o seu autor e em Ti há perdão e vitória. Abre o meu entendimento e guarda-me das respostas fáceis e de Te acusar pela dor que vejo no mundo. Dá-me coragem para reconhecer a minha própria parte e paz diante do que a Tua Palavra deixa em mistério. Em nome de Jesus, amém.",
   "texto_base": [
    "Romanos 5:12",
    "Tiago 1:14"
   ],
   "observacao": [
    {
-    "q": "Por quem, segundo Romanos, o pecado entrou no mundo?",
-    "a": "Por um homem (Adão); e com o pecado veio a morte, que passou a todos. O foco aqui é a entrada do pecado na humanidade.",
     "ref": "Gênesis 3:6",
-    "ref_text": "Então, vendo a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento, tomou do seu fruto, comeu, e deu a seu marido, e ele também comeu."
+    "text": "Então, vendo a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento, tomou do seu fruto, comeu, e deu a seu marido, e ele também comeu.",
+    "contexto": "É a cena da primeira desobediência humana, no Éden. A serpente questiona Deus, e a mulher vê que o fruto era “bom para comer e agradável aos olhos”.",
+    "ensino": "Repare a sequência da queda: olhar, desejar, pegar. É o mesmo caminho de quase toda tentação hoje — o olho demora no que não devia, o desejo cresce, e então a mão age. O pecado raramente começa grande; começa num olhar que não foi desviado a tempo.",
+    "reflexao": "Onde, na sua vida, o seu olhar tem demorado no que faz mal? Cortar cedo, no olhar, é mais fácil que depois da queda."
    },
    {
-    "q": "Segundo Tiago, de onde nasce a tentação em nós?",
-    "a": "Da própria cobiça, que atrai e seduz. O mal não é atribuído a Deus, mas à vontade que se desvia.",
     "ref": "Tiago 1:13",
-    "ref_text": "Ninguém, sendo tentado, diga: Sou tentado por Deus; porque Deus não pode ser tentado pelo mal e ele a ninguém tenta."
+    "text": "Ninguém, sendo tentado, diga: Sou tentado por Deus; porque Deus não pode ser tentado pelo mal e ele a ninguém tenta.",
+    "contexto": "Tiago corrige uma desculpa antiga: jogar em Deus a culpa do pecado (“foi Ele que permitiu”). Ele afirma que Deus não tenta ninguém para o mal.",
+    "ensino": "É cômodo terceirizar a culpa — em Deus, no diabo, nas circunstâncias. Mas Tiago aponta para dentro: a tentação “pega” na nossa própria cobiça. O mal encontra porta no que a gente já deseja. Assumir a própria parte é o começo de qualquer mudança real.",
+    "reflexao": "Em que você tem culpado Deus ou os outros por escolhas que, no fundo, foram suas?"
    }
   ],
   "interpretacao": {
@@ -341,7 +343,7 @@ window.ESTUDOS = [
     "ref_text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque, mesmo diante do mistério do mal, Tu não és o seu autor, e em Ti há perdão e vitória. Ajuda-me a não brincar com a semente do pecado e a correr para Ti quando eu errar. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque, mesmo diante do mistério do mal, Tu permaneces bom e ofereces perdão e vitória em Cristo. Ajuda-me a não brincar com a semente do pecado, a não terceirizar a minha culpa e a correr para Ti quando eu errar. Liberta-me do mal e firma o meu coração na Tua bondade. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Romanos 5:12",
@@ -359,23 +361,25 @@ window.ESTUDOS = [
   "emoji": "☁️",
   "accent": "#4a7a9a",
   "resumo": "A promessa do retorno de Jesus.",
-  "oracao_abertura": "Senhor Jesus, Tu prometeste voltar. Que este estudo reacenda em mim a esperança e não o medo. Ensina-me a viver hoje como quem Te espera de verdade. Em Teu nome, amém.",
+  "oracao_abertura": "Senhor Jesus, Tu prometeste voltar, e eu venho a Ti com expectativa. Obrigado por essa esperança que sustenta o Teu povo há séculos. Abre o meu entendimento e reacende em mim a esperança, e não o medo. Ensina-me a viver hoje como quem Te espera de verdade, com o coração pronto. Em Teu nome, amém.",
   "texto_base": [
    "Atos 1:11",
    "João 14:3"
   ],
   "observacao": [
    {
-    "q": "Como os anjos dizem que Jesus voltará?",
-    "a": "Da mesma maneira como subiu ao céu: de forma pessoal e visível, não apenas simbólica.",
     "ref": "Apocalipse 1:7",
-    "ref_text": "Eis que vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão sobre ele. Sim. Amém."
+    "text": "Eis que vem com as nuvens, e todo olho o verá, até mesmo aqueles que o traspassaram; e todas as tribos da terra se lamentarão sobre ele. Sim. Amém.",
+    "contexto": "João abre o Apocalipse anunciando o tema central do livro: a volta de Cristo. Ele escreve a igrejas perseguidas, que precisavam de esperança.",
+    "ensino": "“Todo olho o verá” — não é evento escondido nem só espiritual. Diferente da primeira vinda, num curral discreto de Belém, a segunda será pública e inconfundível. Para quem espera, é alívio; e o aviso é claro o bastante para ninguém precisar adivinhar.",
+    "reflexao": "Se a volta de Cristo é certa e visível, como isso muda o jeito que você vive hoje?"
    },
    {
-    "q": "Para que Jesus disse que voltaria, em João 14?",
-    "a": "Para levar os seus consigo; a volta tem um propósito de reunião, não só de juízo.",
     "ref": "1 Tessalonicenses 4:16",
-    "ref_text": "Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro."
+    "text": "Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro.",
+    "contexto": "Paulo consola cristãos que perderam pessoas amadas e temiam que elas “perdessem” a volta de Cristo. Ele descreve o retorno com ressurreição.",
+    "ensino": "A volta de Jesus não é só sobre o futuro do planeta; é reencontro. “Os mortos em Cristo ressuscitarão” transforma a despedida em “até logo”. Por isso este tema, longe de assustar, era consolo para quem chorava.",
+    "reflexao": "Você encara a volta de Cristo mais como medo ou como reencontro esperado?"
    }
   ],
   "interpretacao": {
@@ -443,7 +447,7 @@ window.ESTUDOS = [
     "ref_text": "Ora, uma vez que todas estas coisas hão de ser assim dissolvidas, que pessoas não deveis ser em santidade e piedade,"
    }
   ],
-  "oracao_fechamento": "Senhor Jesus, obrigado pela promessa de que Tu voltarás. Tira de mim o medo e enche-me de esperança. Que eu Te espere vivendo bem, não parado. Vem, Senhor Jesus. Amém.",
+  "oracao_fechamento": "Senhor Jesus, obrigado pela promessa de que Tu voltarás e nos buscarás. Tira de mim o medo e enche-me de esperança. Que eu Te espere vivendo bem e fazendo a minha parte, e não parado. Prepara o meu coração para o reencontro. Vem, Senhor Jesus. Amém.",
   "texto_base_text": [
    {
     "ref": "Atos 1:11",
@@ -461,23 +465,25 @@ window.ESTUDOS = [
   "emoji": "🔭",
   "accent": "#3a6a8a",
   "resumo": "Milênio, ressurreição, juízo: as visões.",
-  "oracao_abertura": "Senhor, aqui entro num terreno onde gente fiel discorda há séculos. Guarda-me da arrogância de achar que tenho tudo decifrado. Que eu aprenda as visões com respeito e mantenha os olhos no essencial: Tu reinarás. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, aqui eu entro num terreno onde gente fiel discorda há séculos. Obrigado por me dares a Tua Palavra e o Teu Espírito. Abre o meu entendimento e guarda-me da arrogância de achar que decifrei tudo. Que eu aprenda as visões com respeito e mantenha os olhos no essencial: Tu reinarás. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Tessalonicenses 4:16-17",
    "Apocalipse 20:6"
   ],
   "observacao": [
    {
-    "q": "O que acontece com os que morreram em Cristo, segundo Paulo?",
-    "a": "Ressuscitam primeiro, e depois os vivos são arrebatados juntos para o encontro com o Senhor.",
     "ref": "1 Coríntios 15:51-52",
-    "ref_text": "Eis aqui vos digo um mistério: Nem todos dormiremos mas todos seremos transformados, num momento, num abrir e fechar de olhos, ao som da última trombeta; porque a trombeta soará, e os mortos serão ressuscitados incorruptíveis, e nós seremos transformados."
+    "text": "Eis aqui vos digo um mistério: Nem todos dormiremos mas todos seremos transformados, num momento, num abrir e fechar de olhos, ao som da última trombeta; porque a trombeta soará, e os mortos serão ressuscitados incorruptíveis, e nós seremos transformados.",
+    "contexto": "Paulo encerra o grande capítulo da ressurreição respondendo “como” os mortos ressuscitam. Ele revela um “mistério”: a transformação final.",
+    "ensino": "“Num abrir e fechar de olhos” — o momento decisivo será instantâneo, não um processo demorado. A nossa esperança não é virar fantasma, é receber um corpo transformado, sem dor nem morte. A fé cristã não despreza o corpo; espera a sua redenção.",
+    "reflexao": "Viver esperando a transformação final muda o valor que você dá ao que é só temporário?"
    },
    {
-    "q": "O que Apocalipse 20 associa ao período de mil anos?",
-    "a": "Uma \"primeira ressurreição\" e um reinado com Cristo. É justamente a interpretação desse milênio que separa as visões.",
     "ref": "Apocalipse 20:4",
-    "ref_text": "Então vi uns tronos; e aos que se assentaram sobre eles foi dado o poder de julgar; e vi as almas daqueles que foram degolados por causa do testemunho de Jesus e da palavra de Deus, e que não adoraram a besta nem a sua imagem, e não receberam o sinal na fronte nem nas mãos; e reviveram, e reinaram com Cristo durante mil anos."
+    "text": "Então vi uns tronos; e aos que se assentaram sobre eles foi dado o poder de julgar; e vi as almas daqueles que foram degolados por causa do testemunho de Jesus e da palavra de Deus, e que não adoraram a besta nem a sua imagem, e não receberam o sinal na fronte nem nas mãos; e reviveram, e reinaram com Cristo durante mil anos.",
+    "contexto": "No capítulo 20, João vê um período de mil anos ligado a uma “primeira ressurreição” e a um reinado com Cristo. É justamente este texto que separa as três grandes visões do fim.",
+    "ensino": "Cristãos fiéis leem este “milênio” de modos diferentes — literal ou simbólico. O importante é o que o texto garante a todos: os que são de Cristo reinam com Ele; a história não termina no caos, mas no reinado de Deus. O detalhe divide; a esperança une.",
+    "reflexao": "Você consegue sustentar a sua leitura do fim sem romper com quem entende diferente?"
    }
   ],
   "interpretacao": {
@@ -551,7 +557,7 @@ window.ESTUDOS = [
     "ref_text": "Vigiai pois, porque não sabeis nem o dia nem a hora."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque o futuro está nas Tuas mãos, não nas minhas teorias. Ajuda-me a estudar com humildade, viver vigiando e amar os que pensam diferente. Que eu esteja pronto, aconteça como acontecer. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque o futuro está nas Tuas mãos, e não nas minhas teorias. Ajuda-me a estudar com humildade, a viver vigiando e a amar os que pensam diferente. Que eu esteja pronto para o encontro Contigo, aconteça como acontecer. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Tessalonicenses 4:16-17",
@@ -569,23 +575,25 @@ window.ESTUDOS = [
   "emoji": "✝️",
   "accent": "#b5783a",
   "resumo": "O que a Bíblia diz sobre ser salvo.",
-  "oracao_abertura": "Senhor, não há tema mais importante que este. Tira de mim tanto o orgulho de achar que me salvo sozinho quanto o descuido de quem trata a graça como pouca coisa. Mostra-me o que a Tua Palavra ensina. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, não há tema mais importante que este. Obrigado pela graça que me alcançou. Abre o meu entendimento e tira de mim tanto o orgulho de achar que me salvo sozinho quanto o descuido de quem trata a graça como pouca coisa. Mostra-me o que a Tua Palavra ensina sobre ser salvo. Em nome de Jesus, amém.",
   "texto_base": [
    "Efésios 2:8-9",
    "João 3:16"
   ],
   "observacao": [
    {
-    "q": "Qual é a condição de todos, segundo Romanos?",
-    "a": "Todos pecaram e carecem da glória de Deus; o salário do pecado é a morte. Ninguém parte de um saldo positivo.",
     "ref": "Romanos 3:23",
-    "ref_text": "Porque todos pecaram e destituídos estão da glória de Deus;"
+    "text": "Porque todos pecaram e destituídos estão da glória de Deus;",
+    "contexto": "Paulo constrói, nos primeiros capítulos de Romanos, o argumento de que ninguém — nem religioso nem pagão — escapa: todos pecaram.",
+    "ensino": "“Todos pecaram” nivela a humanidade: ninguém parte de um saldo positivo diante de Deus. É como uma corrida em que todos, uns mais, outros menos, ficaram aquém da linha. Reconhecer isso tira o orgulho — quem se acha bom o bastante nunca sente que precisa ser salvo.",
+    "reflexao": "Você se vê como alguém que precisa de salvação, ou que “quase” dá conta sozinho?"
    },
    {
-    "q": "A salvação, em Efésios, vem de nós ou é dom?",
-    "a": "É dom de Deus, pela graça mediante a fé, para que ninguém se glorie. O ponto de partida é a iniciativa de Deus.",
     "ref": "Romanos 6:23",
-    "ref_text": "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor."
+    "text": "Porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor.",
+    "contexto": "Paulo contrasta dois destinos com duas palavras-chave: “salário” e “dom”. Um se recebe por merecimento; o outro, de graça.",
+    "ensino": "Repare na escolha das palavras: o pecado paga “salário” (você merece o que vem), mas a vida eterna é “dom” (você recebe sem merecer). É a diferença entre o que se ganha trabalhando e o presente que cai no colo. A salvação não é pagamento, é presente.",
+    "reflexao": "Você tem tratado a salvação como algo a merecer, ou como presente a receber pela fé?"
    }
   ],
   "interpretacao": {
@@ -657,7 +665,7 @@ window.ESTUDOS = [
     "ref_text": "Porque, se com a tua boca confessares a Jesus como Senhor, e em teu coração creres que Deus o ressuscitou dentre os mortos, será salvo;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado por me amares antes de eu merecer. Eu descanso na Tua graça e não no meu esforço. Que a minha fé seja real, viva e visível na forma como eu vivo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado por me amares antes de eu merecer e por oferecer a salvação como dom em Cristo. Eu descanso na Tua graça e não no meu esforço. Que a minha fé seja real, viva e visível na forma como eu vivo. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Efésios 2:8-9",
@@ -675,23 +683,25 @@ window.ESTUDOS = [
   "emoji": "🍎",
   "accent": "#6a9a5a",
   "resumo": "Como o que ingerimos afeta a vida.",
-  "oracao_abertura": "Senhor, obrigado por este corpo que Tu me deste. Ensina-me a cuidar dele sem virar escravo de regras nem descuidado por liberdade. Que tudo o que eu faça, até no comer e beber, seja para a Tua glória. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, obrigado por este corpo que Tu me deste. Abre o meu entendimento e ensina-me a cuidar dele sem virar escravo de regras nem descuidado por liberdade. Que tudo o que eu faça, até no comer e no beber, seja para a Tua glória. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Coríntios 6:19-20",
    "1 Coríntios 10:31"
   ],
   "observacao": [
    {
-    "q": "De quem é o corpo do cristão, segundo Paulo?",
-    "a": "É templo do Espírito Santo; não pertence a si mesmo, foi comprado por preço. Isso dá peso ao cuidado com ele.",
     "ref": "1 Coríntios 6:19-20",
-    "ref_text": "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual possuís da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço; glorificai pois a Deus no vosso corpo."
+    "text": "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que habita em vós, o qual possuís da parte de Deus, e que não sois de vós mesmos? Porque fostes comprados por preço; glorificai pois a Deus no vosso corpo.",
+    "contexto": "Paulo escreve a uma igreja numa cidade marcada por excessos. Ele lembra que o corpo do cristão é “templo do Espírito Santo” e foi “comprado por preço”.",
+    "ensino": "Se o corpo é templo, o que eu coloco e faço nele tem peso espiritual, não só de saúde. Ele não é meu para destruir como eu quiser: “fostes comprados por preço”. Como um carro alugado que se devolve cuidado, o corpo é mordomia, não posse absoluta.",
+    "reflexao": "Você cuida do seu corpo como algo que pertence a Deus, ou só conforme a vontade do momento?"
    },
    {
-    "q": "Qual o critério que Paulo dá para o comer e o beber?",
-    "a": "Fazer tudo para a glória de Deus. O foco sai da regra e vai para o propósito.",
     "ref": "1 Coríntios 10:31",
-    "ref_text": "Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus."
+    "text": "Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus.",
+    "contexto": "Tratando de comida e liberdade, Paulo dá um critério que vale para tudo: fazer tudo “para a glória de Deus”.",
+    "ensino": "O critério cristão não é só “pode ou não pode”, mas “isto glorifica a Deus e me ajuda?”. Tira o foco da regra fria e o coloca no propósito. A mesma refeição pode ser gratidão ou gula, conforme o coração. Comer e beber também podem ser adoração.",
+    "reflexao": "Como o seu jeito de consumir (comida, bebida, telas) poderia, esta semana, glorificar mais a Deus?"
    }
   ],
   "interpretacao": {
@@ -767,7 +777,7 @@ window.ESTUDOS = [
     "ref_text": "Bom é não comer carne, nem beber vinho, nem fazer outra coisa em que teu irmão tropece."
    }
   ],
-  "oracao_fechamento": "Pai, este corpo é Teu templo. Ajuda-me a cuidar dele com equilíbrio, livre do legalismo e do descuido. Que até no que eu como e bebo eu Te glorifique. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, este corpo é Teu templo. Ajuda-me a cuidar dele com equilíbrio, livre do legalismo e do descuido. Que até no que eu como e bebo eu Te glorifique e tenha domínio próprio. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Coríntios 6:19-20",
@@ -785,23 +795,25 @@ window.ESTUDOS = [
   "emoji": "⚖️",
   "accent": "#8a6a4a",
   "resumo": "Escolha humana e soberania de Deus.",
-  "oracao_abertura": "Senhor, este tema tem dividido pessoas sábias e fiéis. Guarda-me de transformar mistério em briga. Ajuda-me a segurar com firmeza tanto a Tua soberania quanto a minha responsabilidade, mesmo sem amarrar tudo. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, este tema tem dividido pessoas sábias e fiéis há muito tempo. Obrigado por me chamares de verdade. Abre o meu entendimento e guarda-me de transformar mistério em briga. Ajuda-me a segurar com firmeza tanto a Tua soberania quanto a minha responsabilidade, mesmo sem amarrar tudo. Em nome de Jesus, amém.",
   "texto_base": [
    "João 6:44",
    "Apocalipse 22:17"
   ],
   "observacao": [
    {
-    "q": "Em João 6, quem dá o primeiro passo para alguém vir a Cristo?",
-    "a": "O Pai, que atrai. Há uma iniciativa divina antes da resposta humana.",
     "ref": "Efésios 1:4",
-    "ref_text": "como também nos elegeu nele antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor;"
+    "text": "como também nos elegeu nele antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor;",
+    "contexto": "Paulo abre Efésios louvando a Deus por bênçãos espirituais, entre elas a eleição “antes da fundação do mundo”. É um dos textos centrais da visão da soberania.",
+    "ensino": "Há um lado da salvação que começa em Deus, antes de você existir: Ele te “escolheu”. Isso tira o peso de achar que tudo depende da sua força e traz segurança — não foi acaso você ter sido alcançado. A iniciativa é de Deus.",
+    "reflexao": "Saber que Deus te escolheu antes de você nascer traz a você mais segurança ou mais perguntas?"
    },
    {
-    "q": "Em Apocalipse 22, a quem o convite da salvação é dirigido?",
-    "a": "A \"quem quiser\": há um chamado aberto e uma resposta a ser dada. Os dois lados aparecem na Escritura.",
     "ref": "1 Timóteo 2:4",
-    "ref_text": "o qual deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade."
+    "text": "o qual deseja que todos os homens sejam salvos e cheguem ao pleno conhecimento da verdade.",
+    "contexto": "Paulo orienta Timóteo a orar por todos, fundamentando que Deus “deseja que todos os homens sejam salvos”. É um dos textos centrais da visão do livre-arbítrio.",
+    "ensino": "Há também o lado em que a salvação é oferecida a todos e pede resposta: Deus “quer que todos se salvem”. Isso afasta a ideia de um Deus que escolhe arbitrariamente uns para perder. O convite é real e largo. Soberania e resposta convivem na Escritura.",
+    "reflexao": "Como você equilibra confiar na soberania de Deus e, ao mesmo tempo, responder ao Seu chamado?"
    }
   ],
   "interpretacao": {
@@ -873,7 +885,7 @@ window.ESTUDOS = [
     "ref_text": "enquanto se diz: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações, como na provocação;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque a salvação é Tua obra de graça, e porque Tu me chamas de verdade. Não me deixa usar o mistério como desculpa. Hoje eu respondo ao Teu chamado e abro a porta. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a salvação é Tua obra de graça e porque Tu me chamas de verdade. Não me deixes usar o mistério como desculpa. Hoje eu respondo ao Teu chamado e abro a porta do meu coração. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "João 6:44",
@@ -3931,35 +3943,39 @@ window.ESTUDOS = [
   "emoji": "🌅",
   "accent": "#6b6b8a",
   "resumo": "O que há entre a morte e a ressurreição.",
-  "oracao_abertura": "Senhor, a morte assusta e levanta perguntas que eu não consigo responder sozinho. Guarda-me da arrogância e do medo. Ensina-me o que a Tua Palavra revela e firma a minha esperança na ressurreição que Tu prometeste. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a morte assusta e levanta perguntas que eu não consigo responder sozinho. Obrigado pela esperança da ressurreição. Abre o meu entendimento e guarda-me da arrogância e do medo. Ensina-me o que a Tua Palavra revela e firma a minha esperança naquilo que Tu prometeste. Em nome de Jesus, amém.",
   "texto_base": [
    "Eclesiastes 9:5",
    "João 11:25"
   ],
   "observacao": [
    {
-    "q": "Como a Bíblia muitas vezes se refere à morte do crente?",
-    "a": "Como um \"dormir\". Jesus disse que Lázaro \"dorme\", e Paulo fala dos que \"dormem\" em Jesus.",
     "ref": "João 11:11",
-    "ref_text": "E, tendo assim falado, acrescentou: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono."
+    "text": "E, tendo assim falado, acrescentou: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono.",
+    "contexto": "Antes de ressuscitar Lázaro, Jesus diz que o amigo “dorme”, e os discípulos entendem mal. Ele esclarece que falava da morte.",
+    "ensino": "Jesus chama a morte do crente de “sono”. Não é negar a realidade da morte, mas dizer que, para Deus, ela é temporária e reversível — como acordar alguém. Quem dorme, espera-se que acorde. A imagem tira parte do terror da morte.",
+    "reflexao": "Encarar a morte do crente como “sono” do qual se acorda muda o seu medo dela?"
    },
    {
-    "q": "O que Eclesiastes diz sobre o que os mortos sabem?",
-    "a": "\"Os mortos não sabem coisa nenhuma\". É um dos textos centrais do debate sobre o estado dos mortos.",
     "ref": "Eclesiastes 9:5",
-    "ref_text": "Pois os vivos sabem que morrerão, mas os mortos não sabem coisa nenhuma, nem tampouco têm eles daí em diante recompensa; porque a sua memória ficou entregue ao esquecimento."
+    "text": "Pois os vivos sabem que morrerão, mas os mortos não sabem coisa nenhuma, nem tampouco têm eles daí em diante recompensa; porque a sua memória ficou entregue ao esquecimento.",
+    "contexto": "O Pregador observa a vida “debaixo do sol” e constata que “os mortos não sabem coisa nenhuma”. É um dos textos centrais do debate sobre o estado dos mortos.",
+    "ensino": "Este texto é lido de modos diferentes por cristãos fiéis — uns veem inconsciência até a ressurreição, outros o entendem dentro da perspectiva “debaixo do sol” do livro. O ponto que une: a sabedoria está em viver bem agora, pois a morte interrompe o que se faz nesta vida.",
+    "reflexao": "Independente da sua visão, você está vivendo hoje o que importa, sem deixar para “depois”?"
    },
    {
-    "q": "Como Paulo consola sobre os que morreram?",
-    "a": "Pedindo que não nos entristeçamos como os que não têm esperança, porque haverá ressurreição. O foco do consolo é a ressurreição.",
     "ref": "1 Tessalonicenses 4:13-14",
-    "ref_text": "Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança. Porque, se cremos que Jesus morreu e ressurgiu, assim também aos que dormem, Deus, mediante Jesus, os tornará a trazer juntamente com ele."
+    "text": "Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança. Porque, se cremos que Jesus morreu e ressurgiu, assim também aos que dormem, Deus, mediante Jesus, os tornará a trazer juntamente com ele.",
+    "contexto": "Paulo conforta cristãos enlutados, distinguindo a tristeza deles da dos que não creem na ressurreição.",
+    "ensino": "Seja qual for a sua leitura do que há entre a morte e a ressurreição, a âncora é a mesma: ressurreição. Paulo não tira a tristeza, ele a redireciona — chora-se, mas “não como os que não têm esperança”. A morte vira vírgula, não ponto final.",
+    "reflexao": "A sua esperança diante da morte está na ressurreição, ou em outra coisa?"
    },
    {
-    "q": "O que acontece aos planos do homem quando ele morre, no Salmo 146?",
-    "a": "\"Perecem os seus pensamentos\". Outro texto usado para descrever a morte como inconsciência.",
     "ref": "Salmos 146:4",
-    "ref_text": "Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos."
+    "text": "Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos.",
+    "contexto": "O salmo contrasta confiar em homens (que morrem) com confiar em Deus (que permanece). Diz que, ao morrer, “perecem os seus pensamentos”.",
+    "ensino": "O salmo usa a fragilidade humana para um fim prático: não ponha a sua confiança final em pessoas, por mais poderosas, porque elas morrem e seus planos acabam. Só Deus permanece. Mais que um debate técnico, o texto chama a confiar no que não morre.",
+    "reflexao": "Em quem ou no que você tem colocado a sua confiança final?"
    }
   ],
   "interpretacao": {
@@ -4063,35 +4079,39 @@ window.ESTUDOS = [
   "emoji": "💧",
   "accent": "#4a8aa0",
   "resumo": "O sinal público da fé.",
-  "oracao_abertura": "Senhor, o batismo é uma ordem Tua e um sinal cheio de significado. Ajuda-me a entender o que ele representa: morte para o velho e vida nova em Ti. Guarda-me da briga e do orgulho, e ensina-me com a Tua Palavra. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, o batismo é uma ordem Tua e um sinal cheio de significado. Obrigado por me chamares a seguir-Te. Abre o meu entendimento e ajuda-me a entender o que ele representa: morte para o velho e vida nova em Ti. Guarda-me da briga e do orgulho, e ensina-me com a Tua Palavra. Em nome de Jesus, amém.",
   "texto_base": [
    "Mateus 28:19",
    "Romanos 6:4"
   ],
   "observacao": [
    {
-    "q": "O que Jesus ordenou quanto ao batismo, na Grande Comissão?",
-    "a": "Fazer discípulos, batizando-os em nome do Pai, do Filho e do Espírito Santo. O batismo é parte do mandato de Jesus.",
     "ref": "Mateus 28:19",
-    "ref_text": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo;"
+    "text": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo;",
+    "contexto": "São as últimas instruções de Jesus aos discípulos, a “Grande Comissão”: fazer discípulos de todas as nações, batizando-os.",
+    "ensino": "O batismo não é invenção da igreja; é ordem direta de Jesus, ligada a fazer discípulos. Faz parte de seguir a Cristo, não é um extra opcional. É como o anel no casamento: não cria o vínculo, mas o expressa publicamente.",
+    "reflexao": "Se você crê em Jesus, já deu esse passo público de obediência que Ele pediu?"
    },
    {
-    "q": "O que o batismo representa, segundo Romanos 6?",
-    "a": "Fomos \"sepultados com Ele... no batismo\" para andarmos em novidade de vida. É símbolo de morte para o velho e ressurreição com Cristo.",
     "ref": "Romanos 6:4",
-    "ref_text": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim andemos nós também em novidade de vida."
+    "text": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim andemos nós também em novidade de vida.",
+    "contexto": "Paulo explica o significado do batismo: identificação com a morte e a ressurreição de Cristo, para “andar em novidade de vida”.",
+    "ensino": "O batismo conta uma história em gesto: o velho eu é “sepultado” e um novo emerge. É como uma certidão visível de uma morte e um nascimento internos. Mas o gesto cobra coerência: “andar em novidade de vida” é viver a mudança que o batismo anunciou.",
+    "reflexao": "Que “velho” hábito ou atitude precisa, na prática, ficar sepultado na sua vida nova?"
    },
    {
-    "q": "O que Pedro liga ao batismo em Atos 2?",
-    "a": "\"Arrependei-vos, e cada um... seja batizado\". Arrependimento e batismo aparecem juntos na pregação dos apóstolos.",
     "ref": "Atos 2:38",
-    "ref_text": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo."
+    "text": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo.",
+    "contexto": "No dia de Pentecostes, tocados pela pregação de Pedro, as pessoas perguntam o que fazer. A resposta liga arrependimento e batismo.",
+    "ensino": "Repare a ordem na pregação dos apóstolos: primeiro a virada do coração (arrependimento), depois o sinal externo (batismo). O rito sem a mudança interior é só água; a mudança verdadeira busca naturalmente o sinal. Coração e gesto caminham juntos.",
+    "reflexao": "O seu interior (arrependimento, fé) acompanha aquilo que você professa por fora?"
    },
    {
-    "q": "O que somos, segundo Gálatas, quando nos batizamos em Cristo?",
-    "a": "\"Revestidos de Cristo\". O batismo expressa a união com Cristo e a nova identidade.",
     "ref": "Gálatas 3:27",
-    "ref_text": "Porque todos quantos fostes batizados em Cristo vos revestistes de Cristo."
+    "text": "Porque todos quantos fostes batizados em Cristo vos revestistes de Cristo.",
+    "contexto": "Paulo afirma que todos os que foram batizados em Cristo dele se “revestiram”, fazendo parte de uma só família na fé.",
+    "ensino": "“Revestir-se de Cristo” é como vestir um uniforme que diz a quem você pertence. O batismo declara publicamente uma nova identidade e uma nova família. Você deixa de andar “à paisana” e assume de Quem é.",
+    "reflexao": "A sua vida tem mostrado, no dia a dia, de Quem você é?"
    }
   ],
   "interpretacao": {
@@ -4173,7 +4193,7 @@ window.ESTUDOS = [
     "ref_text": "um só Senhor, uma só fé, um só batismo;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pelo batismo, sinal de morte para o velho e vida nova em Ti. Ajuda-me a viver de fato essa novidade de vida e a obedecer-Te. Guarda-me do orgulho ao tratar deste tema com outros irmãos. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pelo batismo, sinal de morte para o velho e de vida nova em Ti. Ajuda-me a viver de fato essa novidade de vida e a obedecer-Te com alegria. Guarda-me do orgulho ao tratar deste tema com outros irmãos. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Mateus 28:19",
