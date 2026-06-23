@@ -120,6 +120,10 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .m2-user{font-size:7.5pt; color:var(--nota); margin-top:4px}
 .m2-user a{color:var(--madeira-esc); font-weight:700}
 #home{flex:1; overflow-y:auto; padding:30px 20px 30px; display:none; flex-direction:column; background:linear-gradient(170deg,#fcf8f1,#f3eadb)}
+.home-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:16px}
+.home-trad{font-size:8pt; color:var(--tinta-suave); font-weight:600}
+.home-sair{background:#fff; border:1px solid #e0d5c2; color:var(--madeira-esc); font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; padding:7px 15px; border-radius:18px; cursor:pointer}
+.home-sair:active{transform:scale(.97)}
 .home-h{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:22pt; color:var(--tinta); line-height:1.15}
 .home-h .it{font-style:italic; color:var(--madeira)}
 .home-sub{font-size:9pt; color:var(--tinta-suave); margin-top:6px; margin-bottom:20px}
@@ -345,6 +349,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 
   <!-- HOME -->
   <div id="home">
+    <div class="home-top"><span class="home-trad" id="home-trad"></span><button class="home-sair" onclick="logout()">Sair ↪</button></div>
     <div class="home-h">Um tempo na <span class="it">Palavra</span></div>
     <div class="home-sub">Escolha um tema ou deixe a sorte decidir.</div>
     <button class="btn-sortear" onclick="sortear()">🎲 Sortear um tema</button>
@@ -414,7 +419,7 @@ function pickTrad(b){tradSel=b.dataset.t;document.querySelectorAll('.trad-opt').
 async function authSubmit(){var email=document.getElementById('auth-email').value.trim();var password=document.getElementById('auth-pass').value;var err=document.getElementById('auth-err');err.textContent='';if(!email||!password){err.textContent='Preencha e-mail e senha.';return;}var go=document.getElementById('auth-go');go.disabled=true;var lbl=authMode==='signup'?'Criar conta':'Entrar';go.textContent='...';try{var body={email:email,password:password},url='/api/login';if(authMode==='signup'){if(!tradSel){err.textContent='Escolha uma tradição.';go.disabled=false;go.textContent=lbl;return;}body.tradicao=tradSel;url='/api/signup';}var r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});var j=await r.json();if(!r.ok){err.textContent=j.error||'Erro.';go.disabled=false;go.textContent=lbl;return;}localStorage.setItem('eb_token',j.token);window.USER=j.user;showHome();}catch(e){err.textContent='Falha de conexão.';}go.disabled=false;go.textContent=lbl;}
 async function bootApp(){var token=localStorage.getItem('eb_token');if(token){try{var r=await fetch('/api/me',{headers:{Authorization:'Bearer '+token}});if(r.ok){var j=await r.json();window.USER=j.user;showHome();return;}}catch(e){}localStorage.removeItem('eb_token');}showAuth();}
 function showAuth(){document.getElementById('auth').style.display='flex';document.getElementById('home').style.display='none';}
-function showHome(){document.getElementById('auth').style.display='none';renderHome();document.getElementById('home').style.display='flex';var u=document.getElementById('user-info');if(u&&window.USER)u.textContent=window.USER.email+' · '+({catolica:'Católico',evangelica:'Evangélico',ambos:'Ambos'}[window.USER.tradicao]||window.USER.tradicao);}
+function showHome(){document.getElementById('auth').style.display='none';renderHome();document.getElementById('home').style.display='flex';var lbl=window.USER?(({catolica:'Católico',evangelica:'Evangélico',ambos:'Ambos'}[window.USER.tradicao])||window.USER.tradicao):'';var u=document.getElementById('user-info');if(u&&window.USER)u.textContent=window.USER.email+' · '+lbl;var ht=document.getElementById('home-trad');if(ht&&window.USER)ht.textContent='Tradição: '+lbl;}
 function logout(){var t=localStorage.getItem('eb_token');if(t)fetch('/api/logout',{method:'POST',headers:{Authorization:'Bearer '+t}}).catch(function(){});localStorage.removeItem('eb_token');window.USER=null;showAuth();}
 function toast(t){const el=$('#toast');el.textContent=t;el.classList.add('on');setTimeout(()=>el.classList.remove('on'),2200);}
 function esc(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;');}
