@@ -3498,5 +3498,1573 @@ window.ESTUDOS = [
     "text": "Orai sem cessar."
    }
   ]
+ },
+ {
+  "id": "sabedoria",
+  "tema": "Sabedoria",
+  "emoji": "🦉",
+  "accent": "#6a7a9a",
+  "resumo": "Pedir e viver com sabedoria.",
+  "oracao_abertura": "Senhor, eu tenho conhecimento, mas me falta sabedoria para viver bem. Dá-me o Teu discernimento para as escolhas de hoje. Ensina-me a temer-Te, porque aí começa o verdadeiro saber. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Tiago 1:5",
+   "Provérbios 9:10"
+  ],
+  "observacao": [
+   {
+    "q": "O que devemos fazer quando nos falta sabedoria?",
+    "a": "Pedi-la a Deus, que a dá a todos liberalmente e sem censurar. A sabedoria começa por reconhecer que não a temos sozinhos.",
+    "ref": "Tiago 1:5",
+    "ref_text": "Ora, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada."
+   },
+   {
+    "q": "Onde começa a verdadeira sabedoria?",
+    "a": "No temor do Senhor; conhecê-Lo é o princípio do entendimento. Sabedoria bíblica nasce de uma relação com Deus, não só de estudo.",
+    "ref": "Provérbios 9:10",
+    "ref_text": "O temor do Senhor é o princípio sabedoria; e o conhecimento do Santo é o entendimento."
+   },
+   {
+    "q": "De quem vem a sabedoria, segundo Provérbios 2?",
+    "a": "Do Senhor; da Sua boca vem o conhecimento e o entendimento. Ela é dom de Deus, não invenção humana.",
+    "ref": "Provérbios 2:6",
+    "ref_text": "Porque o Senhor dá a sabedoria; da sua boca procedem o conhecimento e o entendimento;"
+   },
+   {
+    "q": "Como é a sabedoria que vem do alto?",
+    "a": "Pura, pacífica, moderada, cheia de misericórdia e bons frutos. Sabedoria de Deus se reconhece pelo caráter que produz.",
+    "ref": "Tiago 3:17",
+    "ref_text": "Mas a sabedoria que vem do alto é, primeiramente, pura, depois pacífica, moderada, tratável, cheia de misericórdia e de bons frutos, sem parcialidade, e sem hipocrisia."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia separa conhecimento de sabedoria. Dá para saber muito e viver mal. Sabedoria é a arte de viver bem diante de Deus, aplicando a verdade à vida.",
+    "Ela começa no \"temor do Senhor\": colocar Deus no lugar certo. Sem isso, a inteligência vira só esperteza.",
+    "E é acessível: Tiago diz que basta pedir, e Deus dá de bom grado. A sabedoria não é prêmio para gênios, é dom para quem a busca com humildade."
+   ],
+   "refs": [
+    {
+     "ref": "1 Reis 3:9",
+     "ctx": "Salomão, jovem rei, pode pedir o que quiser a Deus.",
+     "exp": "Ele pede \"um coração entendido\" para discernir, em vez de riqueza ou fama: o pedido sábio é por sabedoria."
+    },
+    {
+     "ref": "Provérbios 3:5-6",
+     "ctx": "Conselho central do livro de Provérbios.",
+     "exp": "Confiar no Senhor em vez de no próprio entendimento: a sabedoria é depender de Deus, não da própria cabeça."
+    },
+    {
+     "ref": "Colossenses 2:3",
+     "ctx": "Paulo aponta os cristãos para Cristo contra falsas filosofias.",
+     "exp": "\"Nele estão escondidos todos os tesouros da sabedoria\": a sabedoria máxima se encontra em conhecer Jesus."
+    },
+    {
+     "ref": "Salmos 119:105",
+     "ctx": "Salmo sobre o valor da Palavra de Deus.",
+     "exp": "\"Lâmpada para os meus pés é a tua palavra\": a Escritura é fonte prática de sabedoria para o caminho."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Que decisão você está enfrentando que pede sabedoria de Deus, não só sua?",
+    "ref": "Tiago 1:5",
+    "orient": "Antes de decidir, peça. Leve essa escolha a Deus em oração, sem vergonha; Ele dá sabedoria de bom grado a quem pede.",
+    "ref_text": "Ora, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada."
+   },
+   {
+    "q": "Você tem buscado conselho de pessoas sábias, ou decidido sozinho?",
+    "ref": "Provérbios 11:14",
+    "orient": "\"Na multidão de conselheiros há segurança.\" Procure uma ou duas pessoas maduras e tementes a Deus para essa decisão.",
+    "ref_text": "Quando não há sábia direção, o povo cai; mas na multidão de conselheiros há segurança."
+   },
+   {
+    "q": "Sua sabedoria aparece na conduta ou só no falar?",
+    "ref": "Tiago 3:13",
+    "orient": "Sabedoria se mostra \"pela boa conduta\". Escolha uma situação para responder com mansidão e bom senso, em vez de reagir.",
+    "ref_text": "Quem dentre vós é sábio e entendido? Mostre pelo seu bom procedimento as suas obras em mansidão de sabedoria."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu dás sabedoria a quem pede. Ensina-me a Te temer, a confiar em Ti mais do que no meu entendimento e a viver com discernimento. Que a minha vida mostre a sabedoria que vem do alto. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Tiago 1:5",
+    "text": "Ora, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente e não censura, e ser-lhe-á dada."
+   },
+   {
+    "ref": "Provérbios 9:10",
+    "text": "O temor do Senhor é o princípio sabedoria; e o conhecimento do Santo é o entendimento."
+   }
+  ]
+ },
+ {
+  "id": "obediencia",
+  "tema": "Obediência",
+  "emoji": "✅",
+  "accent": "#5d8a6a",
+  "resumo": "Amar é obedecer.",
+  "oracao_abertura": "Senhor, é fácil Te chamar de Senhor e difícil fazer o que Tu dizes. Ensina-me a obedecer não por medo, mas por amor. Dá-me um coração disposto a praticar a Tua Palavra, e não só ouvi-la. Em nome de Jesus, amém.",
+  "texto_base": [
+   "João 14:15",
+   "1 Samuel 15:22"
+  ],
+  "observacao": [
+   {
+    "q": "Qual a relação que Jesus faz entre amor e obediência?",
+    "a": "\"Se me amais, guardareis os meus mandamentos\". A obediência é a prova prática do amor a Deus, não substituto dele.",
+    "ref": "João 14:15",
+    "ref_text": "Se me amardes, guardareis os meus mandamentos."
+   },
+   {
+    "q": "O que Deus prefere: sacrifício ou obediência?",
+    "a": "\"O obedecer é melhor do que o sacrificar\". Deus quer o coração que obedece, não só rituais religiosos.",
+    "ref": "1 Samuel 15:22",
+    "ref_text": "Samuel, porém, disse: Tem, porventura, o Senhor tanto prazer em holocaustos e sacrifícios, como em que se obedeça à voz do Senhor? Eis que o obedecer é melhor do que o sacrificar, e o atender, do que a gordura de carneiros"
+   },
+   {
+    "q": "O que Jesus questiona em Lucas 6?",
+    "a": "Chamá-Lo de \"Senhor, Senhor\" e não fazer o que Ele diz. Chamar Jesus de Senhor sem obedecer é contradição.",
+    "ref": "Lucas 6:46",
+    "ref_text": "E por que me chamais: Senhor, Senhor, e não fazeis o que eu vos digo?"
+   },
+   {
+    "q": "O que somos se ouvimos a Palavra mas não praticamos?",
+    "a": "Enganamos a nós mesmos. A fé verdadeira coloca em prática, não só concorda.",
+    "ref": "Tiago 1:22",
+    "ref_text": "E sede cumpridores da palavra e não somente ouvintes, enganando-vos a vós mesmos."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A obediência bíblica não é submissão de escravo amedrontado, mas resposta de amor: \"se me amais, guardareis\". O motivo muda tudo.",
+    "Deus deixa claro com Saul que prefere obediência a sacrifício. Dá para fazer muita religião e ainda assim desobedecer no essencial.",
+    "E Jesus mostra que ouvir sem praticar é construir na areia. A fé que salva é a que obedece, não a que só sabe a teoria."
+   ],
+   "refs": [
+    {
+     "ref": "Mateus 7:24",
+     "ctx": "Conclusão do Sermão do Monte.",
+     "exp": "Quem ouve E pratica é a casa sobre a rocha; ouvir sem fazer é casa sobre a areia, que cai na tempestade."
+    },
+    {
+     "ref": "1 João 5:3",
+     "ctx": "João explica o que é amar a Deus.",
+     "exp": "\"O amor de Deus é este: que guardemos os seus mandamentos, e os seus mandamentos não são pesados\". Obedecer por amor não esmaga."
+    },
+    {
+     "ref": "Hebreus 5:8",
+     "ctx": "O autor fala da humanidade de Jesus.",
+     "exp": "\"Ainda que era Filho, aprendeu a obediência\": o próprio Cristo viveu a obediência, dando exemplo."
+    },
+    {
+     "ref": "João 13:17",
+     "ctx": "Jesus depois de lavar os pés dos discípulos.",
+     "exp": "\"Se sabeis estas coisas, bem-aventurados sois se as praticardes\": a bênção está em fazer, não só em saber."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Há uma área onde você sabe o que Deus quer, mas tem adiado obedecer?",
+    "ref": "Tiago 1:22",
+    "orient": "Ser \"praticante\" começa por um passo. Escolha essa área e dê hoje o primeiro passo concreto de obediência, sem esperar sentir vontade.",
+    "ref_text": "E sede cumpridores da palavra e não somente ouvintes, enganando-vos a vós mesmos."
+   },
+   {
+    "q": "Sua obediência tem sido por amor ou por medo/obrigação?",
+    "ref": "João 14:15",
+    "orient": "Obedecer por amor sustenta mais que por medo. Lembre do amor de Deus por você e deixe isso motivar a sua obediência hoje.",
+    "ref_text": "Se me amardes, guardareis os meus mandamentos."
+   },
+   {
+    "q": "Em que ponto você chama Jesus de Senhor mas vive diferente?",
+    "ref": "Lucas 6:46",
+    "orient": "Onde há essa distância, alinhe. Identifique uma incoerência entre o que você crê e como vive, e corrija um detalhe nesta semana.",
+    "ref_text": "E por que me chamais: Senhor, Senhor, e não fazeis o que eu vos digo?"
+   }
+  ],
+  "oracao_fechamento": "Pai, ensina-me a obedecer por amor, não por medo. Dá-me um coração que pratica a Tua Palavra e não só a ouve. Que eu construa a minha vida sobre a rocha de fazer o que Tu dizes. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "João 14:15",
+    "text": "Se me amardes, guardareis os meus mandamentos."
+   },
+   {
+    "ref": "1 Samuel 15:22",
+    "text": "Samuel, porém, disse: Tem, porventura, o Senhor tanto prazer em holocaustos e sacrifícios, como em que se obedeça à voz do Senhor? Eis que o obedecer é melhor do que o sacrificar, e o atender, do que a gordura de carneiros"
+   }
+  ]
+ },
+ {
+  "id": "arrependimento",
+  "tema": "Arrependimento",
+  "emoji": "🔄",
+  "accent": "#b07a4a",
+  "resumo": "Voltar para Deus de coração.",
+  "oracao_abertura": "Senhor, eu erro e muitas vezes só sinto culpa, sem mudar. Ensina-me o verdadeiro arrependimento: reconhecer, voltar para Ti e mudar de caminho. Cria em mim um coração quebrantado e disposto. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Atos 3:19",
+   "2 Crônicas 7:14"
+  ],
+  "observacao": [
+   {
+    "q": "O que o arrependimento traz, segundo Pedro em Atos 3?",
+    "a": "Que os pecados sejam apagados e venham tempos de refrigério da presença de Deus. Arrepender-se leva a alívio e renovo, não só a culpa.",
+    "ref": "Atos 3:19",
+    "ref_text": "Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, de sorte que venham os tempos de refrigério, da presença do Senhor,"
+   },
+   {
+    "q": "O que Deus pede ao povo em 2 Crônicas 7?",
+    "a": "Humilhar-se, orar, buscar a face Dele e converter-se dos maus caminhos; então Ele ouve, perdoa e sara. Arrependimento envolve voltar, não só lamentar.",
+    "ref": "2 Crônicas 7:14",
+    "ref_text": "e se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se desviar dos seus maus caminhos, então eu ouvirei do céu, e perdoarei os seus pecados, e sararei a sua terra."
+   },
+   {
+    "q": "Qual sacrifício Deus não despreza, segundo o Salmo 51?",
+    "a": "O espírito quebrantado e o coração contrito. Deus valoriza o coração arrependido mais que qualquer ritual.",
+    "ref": "Salmos 51:17",
+    "ref_text": "O sacrifício aceitável a Deus é o espírito quebrantado; ao coração quebrantado e contrito não desprezarás, ó Deus."
+   },
+   {
+    "q": "O que o céu faz por um pecador que se arrepende?",
+    "a": "Há alegria diante dos anjos por um só pecador que se arrepende. O arrependimento é celebrado por Deus.",
+    "ref": "Lucas 15:7",
+    "ref_text": "Digo-vos que assim haverá maior alegria no céu por um pecador que se arrepende, do que por noventa e nove justos que não necessitam de arrependimento."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Arrependimento bíblico não é só sentir culpa: é uma virada. A palavra tem o sentido de mudar de mente e de direção, voltando para Deus.",
+    "Por isso a Bíblia distingue dois tipos de tristeza: a que leva ao arrependimento e à vida, e a que só afunda em remorso sem mudança.",
+    "E o arrependimento sempre encontra um Deus que corre ao encontro, como o pai do filho pródigo. A porta da volta está sempre aberta."
+   ],
+   "refs": [
+    {
+     "ref": "2 Coríntios 7:10",
+     "ctx": "Paulo distingue dois tipos de tristeza pelo pecado.",
+     "exp": "A \"tristeza segundo Deus\" produz arrependimento para a salvação; a do mundo produz morte. O alvo é mudar, não só se culpar."
+    },
+    {
+     "ref": "Lucas 15:18-20",
+     "ctx": "O filho pródigo decide voltar para o pai.",
+     "exp": "Arrependimento completo: ele reconhece, levanta-se e volta; e o pai corre ao seu encontro. A volta é recebida com festa."
+    },
+    {
+     "ref": "Joel 2:13",
+     "ctx": "O profeta chama o povo ao arrependimento.",
+     "exp": "\"Rasgai o vosso coração, e não as vossas vestes\": Deus quer mudança interior, não gesto externo de fachada."
+    },
+    {
+     "ref": "Provérbios 28:13",
+     "ctx": "Provérbio sobre encobrir versus confessar.",
+     "exp": "\"Quem confessa e deixa os pecados alcançará misericórdia\": confessar E deixar, os dois lados do arrependimento."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Há um pecado que você lamenta, mas não largou de verdade?",
+    "ref": "Provérbios 28:13",
+    "orient": "Arrependimento é confessar E deixar. Nomeie esse pecado a Deus e tome uma atitude concreta para se afastar dele, não só sentir pena.",
+    "ref_text": "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia."
+   },
+   {
+    "q": "Seu arrependimento costuma virar remorso paralisante ou mudança?",
+    "ref": "2 Coríntios 7:10",
+    "orient": "A tristeza segundo Deus leva à vida. Em vez de só se punir, volte-se para Deus, receba o perdão e dê um passo de mudança.",
+    "ref_text": "Porque a tristeza segundo Deus opera arrependimento para a salvação, o qual não traz pesar; mas a tristeza do mundo opera a morte."
+   },
+   {
+    "q": "Que área da sua vida precisa de uma 'virada' de direção hoje?",
+    "ref": "Isaías 55:7",
+    "orient": "\"Deixe o ímpio o seu caminho... e volte-se para o Senhor.\" Identifique o caminho a deixar e o passo de volta a Deus que você dará.",
+    "ref_text": "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao Senhor, que se compadecerá dele; e para o nosso Deus, porque é generoso em perdoar."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu recebes quem volta. Dá-me um arrependimento verdadeiro, que não só lamenta, mas muda de direção. Cria em mim um coração quebrantado e ajuda-me a deixar o que Te entristece. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Atos 3:19",
+    "text": "Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, de sorte que venham os tempos de refrigério, da presença do Senhor,"
+   },
+   {
+    "ref": "2 Crônicas 7:14",
+    "text": "e se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se desviar dos seus maus caminhos, então eu ouvirei do céu, e perdoarei os seus pecados, e sararei a sua terra."
+   }
+  ]
+ },
+ {
+  "id": "graca",
+  "tema": "Graça",
+  "emoji": "🕊️",
+  "accent": "#c0759a",
+  "resumo": "O favor que não se merece.",
+  "oracao_abertura": "Senhor, eu vivo tentando merecer o que Tu já me dás de graça. Ajuda-me a entender e descansar na Tua graça. Que ela não vire desculpa para o pecado, mas força para viver uma vida nova. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Efésios 2:8",
+   "2 Coríntios 12:9"
+  ],
+  "observacao": [
+   {
+    "q": "Como somos salvos, segundo Efésios 2?",
+    "a": "Pela graça, por meio da fé; é dom de Deus, não de obras, para que ninguém se glorie. A salvação é presente, não pagamento.",
+    "ref": "Efésios 2:8-9",
+    "ref_text": "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus; não vem das obras, para que ninguém se glorie."
+   },
+   {
+    "q": "A graça depende do nosso esforço ou é gratuita?",
+    "a": "É gratuita: somos \"justificados gratuitamente pela sua graça\". Graça, por definição, é favor não merecido.",
+    "ref": "Romanos 3:24",
+    "ref_text": "sendo justificados gratuitamente pela sua graça, mediante a redenção que há em Cristo Jesus,"
+   },
+   {
+    "q": "O que a graça de Deus diz a Paulo na fraqueza?",
+    "a": "\"A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza\". A graça sustenta justamente onde somos fracos.",
+    "ref": "2 Coríntios 12:9",
+    "ref_text": "e ele me disse: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. Por isso, de boa vontade antes me gloriarei nas minhas fraquezas, a fim de que repouse sobre mim o poder de Cristo."
+   },
+   {
+    "q": "A quem a graça que salva apareceu?",
+    "a": "A todos os homens, ensinando a viver de modo justo. A graça não só perdoa: ela também educa.",
+    "ref": "Tito 2:11",
+    "ref_text": "Porque a graça de Deus se manifestou, trazendo salvação a todos os homens,"
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Graça é o coração do evangelho: favor de Deus que não se merece nem se compra. Não recebemos o que merecíamos (juízo) e recebemos o que não merecíamos (perdão e vida).",
+    "Ela liberta de duas prisões: a de tentar merecer a Deus pelo esforço e a do desespero por nunca ser bom o bastante. A graça basta.",
+    "Mas a graça não é licença para pecar. Ela perdoa E transforma: ensina a viver uma vida nova, por gratidão, não por obrigação."
+   ],
+   "refs": [
+    {
+     "ref": "Romanos 5:20",
+     "ctx": "Paulo explica o efeito da graça diante do pecado.",
+     "exp": "\"Onde o pecado abundou, superabundou a graça\": não existe pecado maior que a graça de Deus."
+    },
+    {
+     "ref": "Hebreus 4:16",
+     "ctx": "O autor convida a buscar a Deus com confiança.",
+     "exp": "\"Cheguemos com confiança ao trono da graça\": por causa da graça, podemos nos achegar a Deus sem medo."
+    },
+    {
+     "ref": "João 1:16",
+     "ctx": "João descreve o que recebemos de Cristo.",
+     "exp": "\"Da sua plenitude recebemos graça sobre graça\": a graça de Deus é abundante e contínua, não escassa."
+    },
+    {
+     "ref": "Romanos 6:1-2",
+     "ctx": "Paulo responde a quem distorcia a graça.",
+     "exp": "\"Permaneceremos no pecado para que a graça abunde? De modo nenhum\": a graça liberta do pecado, não autoriza a ele."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tenta merecer o amor de Deus pelo esforço, ou descansa na graça?",
+    "ref": "Efésios 2:8",
+    "orient": "A salvação é dom, não conquista. Onde você se cobra para ser aceito por Deus, troque o esforço por gratidão e confiança hoje.",
+    "ref_text": "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus;"
+   },
+   {
+    "q": "Em que fraqueza sua você precisa ouvir 'a minha graça te basta'?",
+    "ref": "2 Coríntios 12:9",
+    "orient": "A graça age na fraqueza. Entregue a Deus aquela limitação que te envergonha e deixe o poder Dele agir ali, sem fingir que é forte.",
+    "ref_text": "e ele me disse: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. Por isso, de boa vontade antes me gloriarei nas minhas fraquezas, a fim de que repouse sobre mim o poder de Cristo."
+   },
+   {
+    "q": "Você já usou a graça como desculpa para continuar em algo errado?",
+    "ref": "Romanos 6:2",
+    "orient": "Graça liberta do pecado, não para ele. Se há uma área assim, peça que a graça que perdoa também te dê força para mudar.",
+    "ref_text": "De modo nenhum. Nós, que já morremos para o pecado, como viveremos ainda nele?"
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pela Tua graça que eu não mereço e não consigo pagar. Ajuda-me a descansar nela e a não vivê-la como desculpa, mas como força para uma vida nova. A Tua graça me basta. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Efésios 2:8",
+    "text": "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus;"
+   },
+   {
+    "ref": "2 Coríntios 12:9",
+    "text": "e ele me disse: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. Por isso, de boa vontade antes me gloriarei nas minhas fraquezas, a fim de que repouse sobre mim o poder de Cristo."
+   }
+  ]
+ },
+ {
+  "id": "santidade",
+  "tema": "Santidade",
+  "emoji": "✨",
+  "accent": "#9a8ac0",
+  "resumo": "Separado para Deus.",
+  "oracao_abertura": "Senhor, Tu és santo e me chamas a ser santo também. Isso me parece grande demais. Purifica o meu coração e separa a minha vida para Ti. Não pela minha força, mas pela Tua, que opera em mim. Em nome de Jesus, amém.",
+  "texto_base": [
+   "1 Pedro 1:15-16",
+   "Hebreus 12:14"
+  ],
+  "observacao": [
+   {
+    "q": "Qual o motivo do chamado à santidade, segundo Pedro?",
+    "a": "\"Sede santos, porque eu sou santo\". A santidade do cristão reflete o caráter do próprio Deus.",
+    "ref": "1 Pedro 1:15-16",
+    "ref_text": "mas, como é santo aquele que vos chamou, sede vós também santos em todo o vosso procedimento; porquanto está escrito: Sereis santos, porque eu sou santo."
+   },
+   {
+    "q": "O que devemos seguir, junto com a paz?",
+    "a": "A santificação, sem a qual ninguém verá o Senhor. A santidade não é opcional na vida cristã.",
+    "ref": "Hebreus 12:14",
+    "ref_text": "Segui a paz com todos, e a santificação, sem a qual ninguém verá o Senhor,"
+   },
+   {
+    "q": "A santificação é vontade de quem?",
+    "a": "De Deus: \"esta é a vontade de Deus: a vossa santificação\". É o que Ele deseja e está fazendo em nós.",
+    "ref": "1 Tessalonicenses 4:3",
+    "ref_text": "Porque esta é a vontade de Deus, a saber, a vossa santificação: que vos abstenhais da prostituição,"
+   },
+   {
+    "q": "O que Paulo pede que apresentemos a Deus, em Romanos 12?",
+    "a": "O nosso corpo como sacrifício vivo, santo e agradável. Santidade envolve a vida toda, não só a alma.",
+    "ref": "Romanos 12:1",
+    "ref_text": "Rogo-vos pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos como um sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Santidade quer dizer \"separado\". Ser santo é ser separado para Deus, pertencer a Ele e refletir o Seu caráter no dia a dia.",
+    "Não é perfeccionismo nem cara fechada; é uma vida cada vez mais limpa e dedicada a Deus, em contraste com o pecado.",
+    "E o mais importante: a santidade é obra de Deus em nós, que nos capacita a querer e fazer. Buscamos, mas é Ele quem santifica."
+   ],
+   "refs": [
+    {
+     "ref": "Filipenses 2:13",
+     "ctx": "Paulo encoraja a igreja a viver a salvação.",
+     "exp": "\"Deus é o que opera em vós tanto o querer como o efetuar\": a santidade é parceria, mas a força vem de Deus."
+    },
+    {
+     "ref": "1 João 3:3",
+     "ctx": "João fala da esperança de ver a Cristo.",
+     "exp": "\"Todo o que nele tem esta esperança purifica-se\": a esperança em Jesus motiva uma vida mais limpa."
+    },
+    {
+     "ref": "Romanos 12:2",
+     "ctx": "Paulo apela por transformação de vida.",
+     "exp": "\"Não vos conformeis com este mundo, mas transformai-vos\": santidade é não copiar o mundo, mas ser renovado por Deus."
+    },
+    {
+     "ref": "Mateus 5:8",
+     "ctx": "Parte das bem-aventuranças.",
+     "exp": "\"Bem-aventurados os limpos de coração, porque verão a Deus\": a santidade é, no fundo, do coração para fora."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Há uma área da sua vida que você ainda não 'separou' para Deus?",
+    "ref": "Romanos 12:1",
+    "orient": "Santidade abrange a vida toda. Entregue a Deus uma área específica (tempo, corpo, hábito) como sacrifício vivo, de propósito.",
+    "ref_text": "Rogo-vos pois, irmãos, pela compaixão de Deus, que apresenteis os vossos corpos como um sacrifício vivo, santo e agradável a Deus, que é o vosso culto racional."
+   },
+   {
+    "q": "Onde você tem se conformado ao mundo em vez de ser transformado?",
+    "ref": "Romanos 12:2",
+    "orient": "Identifique um padrão do mundo que entrou em você sem perceber e dê um passo para renovar a mente nesse ponto.",
+    "ref_text": "E não vos conformeis a este mundo, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus."
+   },
+   {
+    "q": "Você tem tentado ser santo só pela força de vontade?",
+    "ref": "Filipenses 2:13",
+    "orient": "A santidade é obra de Deus em você. Em vez de só apertar os dentes, peça a Ele o querer e o fazer naquela luta específica.",
+    "ref_text": "porque Deus é o que opera em vós tanto o querer como o efetuar, segundo a sua boa vontade."
+   }
+  ],
+  "oracao_fechamento": "Pai santo, separa a minha vida para Ti. Purifica o meu coração e ajuda-me a não copiar o mundo, mas a ser transformado por Ti. Opera em mim o querer e o fazer, porque sozinho eu não consigo. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "1 Pedro 1:15-16",
+    "text": "mas, como é santo aquele que vos chamou, sede vós também santos em todo o vosso procedimento; porquanto está escrito: Sereis santos, porque eu sou santo."
+   },
+   {
+    "ref": "Hebreus 12:14",
+    "text": "Segui a paz com todos, e a santificação, sem a qual ninguém verá o Senhor,"
+   }
+  ]
+ },
+ {
+  "id": "proposito",
+  "tema": "Propósito",
+  "emoji": "🎯",
+  "accent": "#b5783a",
+  "resumo": "Para que Deus me criou.",
+  "oracao_abertura": "Senhor, às vezes me pergunto se a minha vida tem sentido e para onde vai. Lembra-me de que Tu me criaste de propósito e tens planos para mim. Ajuda-me a viver para aquilo que importa de verdade. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Efésios 2:10",
+   "Jeremias 29:11"
+  ],
+  "observacao": [
+   {
+    "q": "Para que fomos criados, segundo Efésios 2?",
+    "a": "Somos \"feitura de Deus, criados para boas obras, que Ele preparou\". Há um propósito preparado por Deus para a nossa vida.",
+    "ref": "Efésios 2:10",
+    "ref_text": "Porque somos feitura sua, criados em Cristo Jesus para boas obras, as quais Deus antes preparou para que andássemos nelas."
+   },
+   {
+    "q": "Que tipo de planos Deus tem, segundo Jeremias?",
+    "a": "Planos de paz e não de mal, para dar futuro e esperança. O propósito de Deus para nós é bom.",
+    "ref": "Jeremias 29:11",
+    "ref_text": "Pois eu bem sei os planos que estou projetando para vós, diz o Senhor; planos de paz, e não de mal, para vos dar um futuro e uma esperança."
+   },
+   {
+    "q": "O que Deus faz com todas as coisas, para quem O ama?",
+    "a": "Faz cooperarem para o bem. Mesmo o que dói pode entrar no propósito de Deus.",
+    "ref": "Romanos 8:28",
+    "ref_text": "E sabemos que todas as coisas concorrem para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."
+   },
+   {
+    "q": "Entre os planos do homem e o conselho de Deus, qual prevalece?",
+    "a": "\"Muitos propósitos há no coração do homem, mas o conselho do Senhor permanecerá\". O propósito de Deus é o que firma.",
+    "ref": "Provérbios 19:21",
+    "ref_text": "Muitos são os planos no coração do homem; mas o desígnio do Senhor, esse prevalecerá."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "A Bíblia responde à pergunta do sentido: não somos acaso. Somos \"feitura de Deus\", criados de propósito e para boas obras já preparadas.",
+    "O propósito maior é comum a todos (conhecer, amar e glorificar a Deus, fazer o bem) e há um chamado particular para cada um, dentro do plano de Deus.",
+    "E esse propósito não depende de tudo dar certo: até o que dói pode cooperar para o bem nas mãos de Deus. Ele escreve certo por linhas tortas."
+   ],
+   "refs": [
+    {
+     "ref": "Filipenses 1:6",
+     "ctx": "Paulo expressa confiança na obra de Deus na igreja.",
+     "exp": "\"Aquele que começou a boa obra a aperfeiçoará\": Deus não desiste do propósito que iniciou em você."
+    },
+    {
+     "ref": "Eclesiastes 12:13",
+     "ctx": "Conclusão do livro que buscou o sentido da vida.",
+     "exp": "\"Teme a Deus e guarda os seus mandamentos: este é o dever de todo homem\": o propósito de base, comum a todos."
+    },
+    {
+     "ref": "Colossenses 1:16",
+     "ctx": "Paulo descreve a supremacia de Cristo.",
+     "exp": "\"Tudo foi criado por Ele e para Ele\": o propósito último de tudo, inclusive da nossa vida, aponta para Cristo."
+    },
+    {
+     "ref": "Provérbios 16:9",
+     "ctx": "Provérbio sobre planos e direção.",
+     "exp": "\"O homem propõe... mas o Senhor lhe dirige os passos\": planejamos, mas é Deus quem conduz ao propósito."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tem vivido com sensação de propósito ou só passando os dias?",
+    "ref": "Efésios 2:10",
+    "orient": "Você foi criado para boas obras preparadas por Deus. Pergunte: que bem eu posso fazer hoje com o que tenho? E faça-o.",
+    "ref_text": "Porque somos feitura sua, criados em Cristo Jesus para boas obras, as quais Deus antes preparou para que andássemos nelas."
+   },
+   {
+    "q": "Há um sonho ou chamado que você abandonou por medo ou desânimo?",
+    "ref": "Filipenses 1:6",
+    "orient": "Deus aperfeiçoa o que começou. Retome um passo em direção àquilo que você sente que Deus pôs no seu coração.",
+    "ref_text": "tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até o dia de Cristo Jesus,"
+   },
+   {
+    "q": "Seus planos estão entregues a Deus, ou você tenta forçar tudo sozinho?",
+    "ref": "Provérbios 16:9",
+    "orient": "Planeje, mas entregue a direção a Deus. Apresente a Ele um plano atual e peça que dirija os seus passos.",
+    "ref_text": "O coração do homem propõe o seu caminho; mas o Senhor lhe dirige os passos."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu me criaste de propósito e tens planos bons para mim. Mostra-me as boas obras que preparaste e dá-me coragem de andar nelas. Dirige os meus passos, porque o Teu propósito é o que permanece. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Efésios 2:10",
+    "text": "Porque somos feitura sua, criados em Cristo Jesus para boas obras, as quais Deus antes preparou para que andássemos nelas."
+   },
+   {
+    "ref": "Jeremias 29:11",
+    "text": "Pois eu bem sei os planos que estou projetando para vós, diz o Senhor; planos de paz, e não de mal, para vos dar um futuro e uma esperança."
+   }
+  ]
+ },
+ {
+  "id": "identidade",
+  "tema": "Identidade em Cristo",
+  "emoji": "🪞",
+  "accent": "#5a8a9a",
+  "resumo": "Quem eu sou em Cristo.",
+  "oracao_abertura": "Senhor, eu busco valor em tantas coisas que não me sustentam: desempenho, opinião dos outros, conquistas. Lembra-me de quem eu sou em Cristo: amado, perdoado, filho. Firma a minha identidade em Ti. Em nome de Jesus, amém.",
+  "texto_base": [
+   "2 Coríntios 5:17",
+   "João 1:12"
+  ],
+  "observacao": [
+   {
+    "q": "O que quem está em Cristo se torna?",
+    "a": "Uma nova criatura: as coisas velhas passaram, tudo se fez novo. Em Cristo, ganhamos uma identidade nova.",
+    "ref": "2 Coríntios 5:17",
+    "ref_text": "Pelo que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo."
+   },
+   {
+    "q": "O que recebem os que creem em Jesus, segundo João 1?",
+    "a": "O poder de se tornarem filhos de Deus. A nossa identidade central passa a ser: filho de Deus.",
+    "ref": "João 1:12",
+    "ref_text": "Mas, a todos quantos o receberam, aos que crêem no seu nome, deu-lhes o poder de se tornarem filhos de Deus;"
+   },
+   {
+    "q": "Como Paulo descreve sua vida em Gálatas 2?",
+    "a": "\"Já não vivo eu, mas Cristo vive em mim\". A identidade cristã é definida por Cristo, não pelo próprio ego.",
+    "ref": "Gálatas 2:20",
+    "ref_text": "Já estou crucificado com Cristo; e vivo, não mais eu, mas Cristo vive em mim; e a vida que agora vivo na carne, vivo-a na fé no filho de Deus, o qual me amou, e se entregou a si mesmo por mim."
+   },
+   {
+    "q": "Que amor João destaca em 1 João 3?",
+    "a": "O amor de sermos chamados filhos de Deus, e de fato o sermos. Não é só título: é realidade.",
+    "ref": "1 João 3:1",
+    "ref_text": "Vede que grande amor nos tem concedido o Pai: que fôssemos chamados filhos de Deus; e nós o somos. Por isso o mundo não nos conhece; porque não conheceu a ele."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Vivemos buscando identidade no que fazemos, no que temos e no que os outros dizem. Tudo isso é instável. A Bíblia oferece uma base firme: quem somos em Cristo.",
+    "Em Cristo, recebemos uma nova identidade: nova criatura, filho de Deus, amado, perdoado, escolhido. Isso não depende do desempenho de hoje.",
+    "Saber quem se é em Cristo muda como vivemos: agimos a partir da aceitação, não para conquistá-la. Já somos amados antes de fazer qualquer coisa."
+   ],
+   "refs": [
+    {
+     "ref": "Efésios 1:4-5",
+     "ctx": "Paulo descreve as bênçãos do cristão em Cristo.",
+     "exp": "Fomos \"escolhidos\" e \"adotados como filhos\": a identidade vem da escolha e do amor de Deus, não do nosso mérito."
+    },
+    {
+     "ref": "Romanos 8:16-17",
+     "ctx": "Paulo fala da ação do Espírito no crente.",
+     "exp": "O Espírito testifica que somos filhos, e \"se filhos, também herdeiros\": identidade e herança garantidas por Deus."
+    },
+    {
+     "ref": "1 Pedro 2:9",
+     "ctx": "Pedro descreve quem os cristãos são.",
+     "exp": "\"Geração eleita, sacerdócio real, nação santa, povo adquirido\": uma identidade de altíssimo valor diante de Deus."
+    },
+    {
+     "ref": "Romanos 8:1",
+     "ctx": "Paulo conclui sobre a vida em Cristo.",
+     "exp": "\"Nenhuma condenação há para os que estão em Cristo Jesus\": a identidade em Cristo é livre da condenação."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Onde você tem buscado seu valor (trabalho, aparência, opinião dos outros)?",
+    "ref": "2 Coríntios 5:17",
+    "orient": "Essas bases balançam. Quando a autocrítica vier, lembre: em Cristo você é nova criatura. Repita uma verdade da sua identidade hoje.",
+    "ref_text": "Pelo que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo."
+   },
+   {
+    "q": "Você age para ser aceito por Deus, ou a partir de já ser aceito?",
+    "ref": "Efésios 1:5",
+    "orient": "Você já é filho adotado e amado. Hoje, faça o bem por gratidão, não para merecer amor que já é seu.",
+    "ref_text": "e nos predestinou para sermos filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade,"
+   },
+   {
+    "q": "Que voz acusadora sobre quem você é precisa ser silenciada pela verdade?",
+    "ref": "Romanos 8:1",
+    "orient": "Em Cristo não há condenação. Quando a acusação vier (\"você não presta\"), responda com a Palavra: \"sou filho amado, perdoado\".",
+    "ref_text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado por me fazeres nova criatura e Teu filho em Cristo. Firma a minha identidade em Ti, e não no que eu faço ou nos outros pensam. Que eu viva a partir do Teu amor, e não para merecê-lo. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "2 Coríntios 5:17",
+    "text": "Pelo que, se alguém está em Cristo, nova criatura é; as coisas velhas já passaram; eis que tudo se fez novo."
+   },
+   {
+    "ref": "João 1:12",
+    "text": "Mas, a todos quantos o receberam, aos que crêem no seu nome, deu-lhes o poder de se tornarem filhos de Deus;"
+   }
+  ]
+ },
+ {
+  "id": "servico",
+  "tema": "Serviço",
+  "emoji": "🧺",
+  "accent": "#8a8a5a",
+  "resumo": "Grandeza é servir.",
+  "oracao_abertura": "Senhor, eu prefiro ser servido a servir. Quebra esse orgulho em mim. Ensina-me, como Jesus, a usar o que tenho para abençoar os outros, sem buscar reconhecimento. Dá-me um coração de servo. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Marcos 10:45",
+   "Gálatas 5:13"
+  ],
+  "observacao": [
+   {
+    "q": "Para que o Filho do Homem veio, segundo Marcos 10?",
+    "a": "Não para ser servido, mas para servir e dar a Sua vida. O próprio Jesus definiu a Sua vida pelo serviço.",
+    "ref": "Marcos 10:45",
+    "ref_text": "Pois também o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate de muitos."
+   },
+   {
+    "q": "Para que fomos chamados à liberdade, segundo Paulo?",
+    "a": "Para servir uns aos outros pelo amor. A liberdade cristã não é egoísmo, é liberdade para servir.",
+    "ref": "Gálatas 5:13",
+    "ref_text": "Porque vós, irmãos, fostes chamados à liberdade. Mas não useis da liberdade para dar ocasião à carne, antes pelo amor servi-vos uns aos outros."
+   },
+   {
+    "q": "O que Jesus fez para ensinar sobre servir?",
+    "a": "Lavou os pés dos discípulos, tarefa de escravo. Ele ensinou servindo, não só falando.",
+    "ref": "João 13:14",
+    "ref_text": "Ora, se eu, o Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns aos outros."
+   },
+   {
+    "q": "Como Jesus mesmo assumiu a condição de servo?",
+    "a": "Esvaziou-se, tomando a forma de servo. A grandeza Dele se mostrou em descer, não em subir.",
+    "ref": "Filipenses 2:7",
+    "ref_text": "mas esvaziou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens;"
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Jesus inverteu a lógica do mundo: grandeza não é ser servido, é servir. O maior, no Reino, é o que serve mais.",
+    "Ele não só ensinou: lavou pés, curou, acolheu, e por fim deu a vida. O serviço cristão nasce de imitar esse Cristo que se esvaziou.",
+    "Servir é usar o que temos (tempo, dons, recursos) para o bem do outro, muitas vezes sem reconhecimento. É amor em ação."
+   ],
+   "refs": [
+    {
+     "ref": "Mateus 20:26-28",
+     "ctx": "Os discípulos disputavam quem seria o maior.",
+     "exp": "\"Quem quiser ser grande... seja vosso servo\": Jesus redefine grandeza como serviço, apontando para Si mesmo."
+    },
+    {
+     "ref": "1 Pedro 4:10",
+     "ctx": "Pedro orienta sobre o uso dos dons.",
+     "exp": "\"Cada um administre aos outros o dom que recebeu\": todos receberam algo para servir, ninguém está de fora."
+    },
+    {
+     "ref": "Mateus 25:40",
+     "ctx": "Jesus descreve o juízo final e o cuidado com os necessitados.",
+     "exp": "\"O que fizestes a um destes pequeninos, a mim o fizestes\": servir o necessitado é servir o próprio Cristo."
+    },
+    {
+     "ref": "Filipenses 2:7",
+     "ctx": "Paulo descreve a humilhação de Cristo.",
+     "exp": "Ele \"tomou a forma de servo\": o modelo do serviço é o próprio Deus que se fez servo por amor."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tem usado seus dons e tempo para servir, ou só para si?",
+    "ref": "1 Pedro 4:10",
+    "orient": "Cada um recebeu algo para servir. Identifique um dom seu (cozinhar, ouvir, ensinar, organizar) e use-o para abençoar alguém esta semana.",
+    "ref_text": "servindo uns aos outros conforme o dom que cada um recebeu, como bons despenseiros da multiforme graça de Deus."
+   },
+   {
+    "q": "Há alguém necessitado por perto que você poderia servir?",
+    "ref": "Mateus 25:40",
+    "orient": "Servir o pequenino é servir a Cristo. Escolha uma pessoa em necessidade e faça um bem concreto a ela, sem alarde.",
+    "ref_text": "O Rei responderá: Em verdade vos digo que quantas vezes o fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes."
+   },
+   {
+    "q": "Você serve buscando reconhecimento, ou por amor?",
+    "ref": "Gálatas 5:13",
+    "orient": "Servir pelo amor não cobra retorno. Faça um serviço escondido esta semana, que só Deus saberá.",
+    "ref_text": "Porque vós, irmãos, fostes chamados à liberdade. Mas não useis da liberdade para dar ocasião à carne, antes pelo amor servi-vos uns aos outros."
+   }
+  ],
+  "oracao_fechamento": "Pai, quebra em mim o orgulho que prefere ser servido. Dá-me, como Jesus, um coração de servo, que usa o que tem para abençoar os outros. Que eu encontre grandeza em servir, e não em ser reconhecido. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Marcos 10:45",
+    "text": "Pois também o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate de muitos."
+   },
+   {
+    "ref": "Gálatas 5:13",
+    "text": "Porque vós, irmãos, fostes chamados à liberdade. Mas não useis da liberdade para dar ocasião à carne, antes pelo amor servi-vos uns aos outros."
+   }
+  ]
+ },
+ {
+  "id": "alegria",
+  "tema": "Alegria",
+  "emoji": "😊",
+  "accent": "#d0a93a",
+  "resumo": "Alegria que não depende de tudo dar certo.",
+  "oracao_abertura": "Senhor, a minha alegria sobe e desce conforme o dia. Ensina-me a alegria que vem de Ti e não das circunstâncias. Que eu encontre em Ti uma fonte que não seca, mesmo nos dias difíceis. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Filipenses 4:4",
+   "Neemias 8:10"
+  ],
+  "observacao": [
+   {
+    "q": "Com que frequência Paulo manda nos alegrarmos?",
+    "a": "\"Regozijai-vos sempre no Senhor; outra vez digo: regozijai-vos\". A alegria cristã é constante porque está \"no Senhor\", não nas circunstâncias.",
+    "ref": "Filipenses 4:4",
+    "ref_text": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos."
+   },
+   {
+    "q": "O que a alegria do Senhor é, segundo Neemias?",
+    "a": "A nossa força. A alegria que vem de Deus dá energia para seguir, mesmo no cansaço.",
+    "ref": "Neemias 8:10",
+    "ref_text": "Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque este dia é consagrado ao nosso Senhor. Portanto não vos entristeçais, pois a alegria do Senhor é a vossa força."
+   },
+   {
+    "q": "Onde há plenitude de alegria, segundo o Salmo 16?",
+    "a": "Na presença de Deus. A fonte mais profunda de alegria é estar com Ele.",
+    "ref": "Salmos 16:11",
+    "ref_text": "Tu me farás conhecer a vereda da vida; na tua presença há plenitude de alegria; à tua mão direita há delícias perpetuamente."
+   },
+   {
+    "q": "Por que Jesus nos ensina, segundo João 15?",
+    "a": "Para que a alegria Dele esteja em nós e seja completa. Jesus quer a nossa alegria cheia, não pela metade.",
+    "ref": "João 15:11",
+    "ref_text": "Estas coisas vos tenho dito, para que o meu gozo permaneça em vós, e o vosso gozo seja completo."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Paulo escreve \"alegrai-vos sempre\" de dentro de uma prisão. Isso já mostra: a alegria cristã não depende de tudo ir bem, mas de Quem está com a gente.",
+    "Ela é diferente da felicidade que depende do que acontece. É \"no Senhor\": uma alegria ancorada em Deus, que permanece até na dor.",
+    "E é fonte de força (Neemias) e fruto do Espírito (Gálatas). Não é algo que produzimos apertando os dentes, mas que recebemos da presença de Deus."
+   ],
+   "refs": [
+    {
+     "ref": "Tiago 1:2",
+     "ctx": "Tiago escreve a cristãos sob provações.",
+     "exp": "\"Tende grande gozo quando cairdes em várias tentações\": a alegria cristã consegue conviver até com a dificuldade."
+    },
+    {
+     "ref": "Habacuque 3:17-18",
+     "ctx": "O profeta diante da ruína econômica iminente.",
+     "exp": "\"Ainda que a figueira não floresça... eu me alegrarei no Senhor\": alegria que decide louvar mesmo sem nada dar certo."
+    },
+    {
+     "ref": "Gálatas 5:22",
+     "ctx": "Paulo lista o fruto do Espírito.",
+     "exp": "A alegria é fruto do Espírito: não a fabricamos sozinhos, ela cresce da vida com Deus."
+    },
+    {
+     "ref": "Salmos 30:5",
+     "ctx": "Salmo de Davi sobre a fidelidade de Deus.",
+     "exp": "\"O choro pode durar uma noite, mas a alegria vem pela manhã\": a tristeza é real, mas não tem a última palavra."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Sua alegria tem dependido das circunstâncias ou do Senhor?",
+    "ref": "Filipenses 4:4",
+    "orient": "A alegria \"no Senhor\" não some quando o dia vira. Hoje, em vez de esperar tudo melhorar, busque alegria na presença de Deus, que não muda.",
+    "ref_text": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos."
+   },
+   {
+    "q": "Mesmo no que está difícil, qual motivo de alegria em Deus você pode achar?",
+    "ref": "Habacuque 3:18",
+    "orient": "Como Habacuque, decida se alegrar no Senhor apesar da circunstância. Aponte uma verdade sobre Deus que permanece boa hoje.",
+    "ref_text": "todavia eu me alegrarei no Senhor, exultarei no Deus da minha salvação."
+   },
+   {
+    "q": "O que tem secado a sua alegria, e onde você pode buscar a fonte certa?",
+    "ref": "Salmos 16:11",
+    "orient": "A plenitude de alegria está na presença de Deus. Reserve um tempo com Ele hoje (oração, louvor) e beba dessa fonte.",
+    "ref_text": "Tu me farás conhecer a vereda da vida; na tua presença há plenitude de alegria; à tua mão direita há delícias perpetuamente."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque a alegria que vem de Ti não depende de tudo dar certo. Que ela seja a minha força nos dias difíceis. Enche-me da Tua presença, onde há plenitude de alegria. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Filipenses 4:4",
+    "text": "Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos."
+   },
+   {
+    "ref": "Neemias 8:10",
+    "text": "Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque este dia é consagrado ao nosso Senhor. Portanto não vos entristeçais, pois a alegria do Senhor é a vossa força."
+   }
+  ]
+ },
+ {
+  "id": "coragem",
+  "tema": "Coragem",
+  "emoji": "🦁",
+  "accent": "#b5553a",
+  "resumo": "Firmeza para enfrentar.",
+  "oracao_abertura": "Senhor, há coisas que eu preciso enfrentar e me falta coragem. Lembra-me de que Tu estás comigo e vais à minha frente. Dá-me ânimo para dar o passo que tenho evitado, confiando em Ti. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Josué 1:9",
+   "Salmos 27:14"
+  ],
+  "observacao": [
+   {
+    "q": "Qual a base da coragem que Deus pede a Josué?",
+    "a": "\"Esforça-te e tem bom ânimo... porque o Senhor é contigo por onde quer que andares\". A coragem se apoia na presença de Deus.",
+    "ref": "Josué 1:9",
+    "ref_text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares."
+   },
+   {
+    "q": "O que o salmista manda fazer enquanto espera no Senhor?",
+    "a": "\"Espera no Senhor, anima-te, e Ele fortalecerá o teu coração\". Coragem cresce na espera confiante em Deus.",
+    "ref": "Salmos 27:14",
+    "ref_text": "Espera tu pelo Senhor; anima-te, e fortalece o teu coração; espera, pois, pelo Senhor."
+   },
+   {
+    "q": "Que tipo de espírito Deus nos deu?",
+    "a": "De poder, amor e moderação, não de covardia. A timidez paralisante não vem de Deus.",
+    "ref": "2 Timóteo 1:7",
+    "ref_text": "Porque Deus não nos deu o espírito de covardia, mas de poder, de amor e de moderação."
+   },
+   {
+    "q": "Por que o salmista não teme, no Salmo 27?",
+    "a": "Porque o Senhor é a sua luz e fortaleza: \"de quem terei medo?\". A coragem nasce de saber Quem está do nosso lado.",
+    "ref": "Salmos 27:1",
+    "ref_text": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?"
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Coragem na Bíblia não é ausência de medo nem confiança em si mesmo. É agir confiando que Deus está conosco e vai à nossa frente.",
+    "Por isso o mandamento a Josué se repete com um motivo: \"porque o Senhor é contigo\". A coragem se apoia na presença, não na própria força.",
+    "E ela cresce na espera em Deus e na oração: muitas vezes pedimos a Deus não que tire o desafio, mas que nos dê ousadia para enfrentá-lo."
+   ],
+   "refs": [
+    {
+     "ref": "Deuteronômio 31:6",
+     "ctx": "Moisés encoraja Israel antes de uma terra cheia de inimigos.",
+     "exp": "\"Esforçai-vos... não temais, porque o Senhor é o que vai contigo\": coragem baseada na companhia de Deus."
+    },
+    {
+     "ref": "1 Coríntios 16:13",
+     "ctx": "Paulo encerra a carta com exortações.",
+     "exp": "\"Vigiai, estai firmes na fé, portai-vos varonilmente\": a coragem cristã é firmeza na fé, não bravata."
+    },
+    {
+     "ref": "Atos 4:29",
+     "ctx": "Os apóstolos, ameaçados, oram a Deus.",
+     "exp": "Eles não pedem segurança, mas ousadia: \"concede que falemos com toda a confiança\". Coragem é fruto de oração."
+    },
+    {
+     "ref": "Isaías 41:10",
+     "ctx": "Deus fala a um povo amedrontado.",
+     "exp": "\"Não temas... eu te fortaleço, e te ajudo\": a coragem vem da promessa da presença e ajuda de Deus."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "O que você tem evitado enfrentar por falta de coragem?",
+    "ref": "Josué 1:9",
+    "orient": "Lembre que Deus vai com você. Dê hoje o primeiro passo naquilo que você tem adiado, confiando na presença Dele.",
+    "ref_text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares."
+   },
+   {
+    "q": "Você tem buscado coragem em si mesmo ou na presença de Deus?",
+    "ref": "Salmos 27:1",
+    "orient": "A coragem cristã se apoia em Deus, não no ego. Antes de enfrentar o que assusta, lembre Quem está do seu lado.",
+    "ref_text": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?"
+   },
+   {
+    "q": "Há um momento em que você precisa de ousadia para falar ou agir certo?",
+    "ref": "Atos 4:29",
+    "orient": "Peça ousadia, como os apóstolos. Ore por coragem para esse momento específico e dê o passo confiando que Deus ajuda.",
+    "ref_text": "Agora pois, ó Senhor, olha para as suas ameaças, e concede aos teus servos que falem com toda a intrepidez a tua palavra,"
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu vais à minha frente e estás comigo. Tira de mim a covardia e dá-me poder, amor e equilíbrio. Anima o meu coração e dá-me coragem para enfrentar o que preciso. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Josué 1:9",
+    "text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não te atemorizes, nem te espantes; porque o Senhor teu Deus está contigo, por onde quer que andares."
+   },
+   {
+    "ref": "Salmos 27:14",
+    "text": "Espera tu pelo Senhor; anima-te, e fortalece o teu coração; espera, pois, pelo Senhor."
+   }
+  ]
+ },
+ {
+  "id": "contentamento",
+  "tema": "Contentamento",
+  "emoji": "🌾",
+  "accent": "#9a8a5a",
+  "resumo": "Paz com o que se tem.",
+  "oracao_abertura": "Senhor, eu vivo querendo mais e raramente me sinto satisfeito. Ensina-me o contentamento que Paulo aprendeu, que não depende de ter muito ou pouco. Que a minha satisfação esteja em Ti, e não nas coisas. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Filipenses 4:11",
+   "1 Timóteo 6:6"
+  ],
+  "observacao": [
+   {
+    "q": "O contentamento de Paulo dependia das circunstâncias?",
+    "a": "Não; ele aprendeu a contentar-se tanto na fartura quanto na pobreza. O contentamento é aprendido, não automático.",
+    "ref": "Filipenses 4:11-12",
+    "ref_text": "Não digo isto por causa de necessidade, porque já aprendi a contentar-me com as circunstâncias em que me encontre. Sei passar falta, e sei também ter abundância; em toda maneira e em todas as coisas estou experimentado, tanto em ter fartura, como em passar fome; tanto em ter abundância, como em padecer necessidade."
+   },
+   {
+    "q": "O que é \"grande ganho\", segundo Paulo a Timóteo?",
+    "a": "A piedade com contentamento. Viver perto de Deus, satisfeito, vale mais que acumular.",
+    "ref": "1 Timóteo 6:6",
+    "ref_text": "e, de fato, é grande fonte de lucro a piedade com o contentamento."
+   },
+   {
+    "q": "Com que devemos nos contentar, segundo Hebreus?",
+    "a": "Com o que temos, porque Deus prometeu nunca nos deixar. O contentamento se apoia na presença de Deus, não nas posses.",
+    "ref": "Hebreus 13:5",
+    "ref_text": "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei."
+   },
+   {
+    "q": "Do que basta nos contentarmos, segundo 1 Timóteo 6?",
+    "a": "Tendo sustento e com que nos cobrir, estejamos contentes. O essencial já é motivo de gratidão.",
+    "ref": "1 Timóteo 6:8",
+    "ref_text": "tendo, porém, alimento e vestuário, estaremos com isso contentes."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Contentamento não é preguiça nem falta de ambição saudável. É uma paz interior que não fica refém do ter mais para ser feliz.",
+    "Paulo diz que \"aprendeu\" a se contentar, tanto tendo muito quanto pouco. Logo, é algo que se desenvolve, contra a cultura do nunca ser suficiente.",
+    "A chave é a fonte: a satisfação dele vinha de Cristo (\"tudo posso naquele que me fortalece\") e da presença de Deus, não das circunstâncias."
+   ],
+   "refs": [
+    {
+     "ref": "Filipenses 4:13",
+     "ctx": "Conclusão do trecho de Paulo sobre contentamento.",
+     "exp": "\"Tudo posso naquele que me fortalece\": no contexto, é poder se contentar em qualquer situação pela força de Cristo."
+    },
+    {
+     "ref": "Salmos 23:1",
+     "ctx": "Salmo de Davi sobre Deus como pastor.",
+     "exp": "\"O Senhor é o meu pastor; nada me faltará\": o contentamento nasce de ter a Deus como provedor."
+    },
+    {
+     "ref": "Eclesiastes 5:10",
+     "ctx": "Reflexão sobre o vazio da ganância.",
+     "exp": "\"Quem ama o dinheiro jamais dele se farta\": o oposto do contentamento é um poço sem fundo."
+    },
+    {
+     "ref": "Salmos 37:16",
+     "ctx": "Salmo que contrasta o justo e o ímpio.",
+     "exp": "\"Vale mais o pouco que tem o justo do que a riqueza de muitos ímpios\": contentamento com Deus vale mais que abundância sem Ele."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "O que você sente que precisa ter para finalmente estar satisfeito?",
+    "ref": "1 Timóteo 6:6",
+    "orient": "O contentamento não vem de conseguir esse \"algo\", mas da piedade. Pratique gratidão hoje por três coisas que já tem.",
+    "ref_text": "e, de fato, é grande fonte de lucro a piedade com o contentamento."
+   },
+   {
+    "q": "A comparação (com outros, com redes) tem roubado seu contentamento?",
+    "ref": "Hebreus 13:5",
+    "orient": "\"Contentai-vos com o que tendes\", pois Deus está com você. Reduza o que alimenta a comparação e foque na presença Dele.",
+    "ref_text": "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei."
+   },
+   {
+    "q": "Você confia em Deus como provedor ou na quantidade do que possui?",
+    "ref": "Salmos 23:1",
+    "orient": "\"Nada me faltará\" porque o Senhor é o pastor. Hoje, agradeça pelo sustento que tem e descanse na provisão de Deus.",
+    "ref_text": "O Senhor é o meu pastor; nada me faltará."
+   }
+  ],
+  "oracao_fechamento": "Pai, ensina-me o contentamento que não depende de ter muito ou pouco. Tira de mim a ganância e a comparação, e firma a minha satisfação em Ti. Obrigado porque, Contigo, nada me faltará. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Filipenses 4:11",
+    "text": "Não digo isto por causa de necessidade, porque já aprendi a contentar-me com as circunstâncias em que me encontre."
+   },
+   {
+    "ref": "1 Timóteo 6:6",
+    "text": "e, de fato, é grande fonte de lucro a piedade com o contentamento."
+   }
+  ]
+ },
+ {
+  "id": "descanso",
+  "tema": "Descanso",
+  "emoji": "😴",
+  "accent": "#6a8a9a",
+  "resumo": "Parar e confiar.",
+  "oracao_abertura": "Senhor, eu vivo cansado e com dificuldade de parar. Ensina-me a descansar de verdade: no corpo, na mente e na alma. Que eu encontre em Ti o descanso que o mundo não dá. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Mateus 11:28",
+   "Salmos 23:2"
+  ],
+  "observacao": [
+   {
+    "q": "A quem Jesus chama para descansar?",
+    "a": "Aos cansados e oprimidos: \"vinde a mim... e eu vos aliviarei\". O descanso mais profundo começa indo a Jesus.",
+    "ref": "Mateus 11:28-29",
+    "ref_text": "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para as vossas almas."
+   },
+   {
+    "q": "O que o pastor faz pela ovelha, no Salmo 23?",
+    "a": "Faz repousar em pastos verdes e guia a águas tranquilas. Deus cuida do nosso descanso, não só do nosso trabalho.",
+    "ref": "Salmos 23:2",
+    "ref_text": "Deitar-me faz em pastos verdejantes; guia-me mansamente a águas tranqüilas."
+   },
+   {
+    "q": "O que Deus mesmo fez no sétimo dia?",
+    "a": "Descansou e santificou o dia. O descanso faz parte do ritmo que Deus criou, não é fraqueza.",
+    "ref": "Gênesis 2:2-3",
+    "ref_text": "Ora, havendo Deus completado no dia sétimo a obra que tinha feito, descansou nesse dia de toda a obra que fizera. Abençoou Deus o sétimo dia, e o santificou; porque nele descansou de toda a sua obra que criara e fizera."
+   },
+   {
+    "q": "O que o mandamento do sábado pede?",
+    "a": "Lembrar do dia de descanso e separá-lo. Deus ordena o trabalho E a parada; ignorar o descanso é desobedecer ao ritmo dele.",
+    "ref": "Êxodo 20:8",
+    "ref_text": "Lembra-te do dia do sábado, para o santificar."
+   }
+  ],
+  "interpretacao": {
+   "comentario": [
+    "Deus criou um ritmo de trabalho e descanso, e Ele mesmo \"descansou\" no sétimo dia. Parar não é preguiça: é obediência e confiança.",
+    "Há um descanso físico (o corpo precisa) e um descanso da alma, que só Jesus dá: alívio para os cansados e oprimidos que vão a Ele.",
+    "No fundo, descansar é um ato de fé: é dizer que o mundo não depende de mim, que Deus cuida enquanto eu durmo. Quem não para, no fundo, não confia."
+   ],
+   "refs": [
+    {
+     "ref": "Hebreus 4:9-10",
+     "ctx": "O autor fala do repouso de Deus para o povo.",
+     "exp": "\"Resta um repouso para o povo de Deus\": além do descanso físico, há um descanso espiritual em cessar de confiar nas próprias obras."
+    },
+    {
+     "ref": "Salmos 127:2",
+     "ctx": "Salmo sobre depender de Deus.",
+     "exp": "\"Inútil vos será levantar de madrugada... pois Ele dá aos seus amados o sono\": o excesso ansioso de trabalho é desconfiança."
+    },
+    {
+     "ref": "Marcos 6:31",
+     "ctx": "Jesus cuida dos discípulos exaustos do ministério.",
+     "exp": "\"Vinde... a um lugar deserto, e repousai um pouco\": o próprio Jesus mandou os seus descansarem."
+    },
+    {
+     "ref": "Salmos 46:10",
+     "ctx": "Salmo sobre a soberania de Deus em meio ao caos.",
+     "exp": "\"Aquietai-vos e sabei que eu sou Deus\": o descanso da alma vem de reconhecer que Deus está no controle."
+    }
+   ]
+  },
+  "aplicacao": [
+   {
+    "q": "Você tem respeitado um ritmo de descanso, ou vive no limite do cansaço?",
+    "ref": "Êxodo 20:8",
+    "orient": "Deus ordenou a parada. Reserve de propósito um tempo de descanso real esta semana, sem culpa; faz parte de obedecer a Ele.",
+    "ref_text": "Lembra-te do dia do sábado, para o santificar."
+   },
+   {
+    "q": "Seu cansaço é mais do corpo ou da alma?",
+    "ref": "Mateus 11:28",
+    "orient": "Para a alma, o descanso começa indo a Jesus. Leve a Ele o que te pesa hoje, em oração, e receba o alívio que Ele oferece.",
+    "ref_text": "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei."
+   },
+   {
+    "q": "Você consegue parar, ou parar te dá ansiedade (como se tudo dependesse de você)?",
+    "ref": "Salmos 46:10",
+    "orient": "Descansar é confiar que Deus cuida. Pratique: pare alguns minutos hoje, em silêncio, lembrando que Ele é Deus e você não precisa segurar tudo.",
+    "ref_text": "Aquietai-vos, e sabei que eu sou Deus; sou exaltado entre as nações, sou exaltado na terra."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque Tu ofereces descanso para o corpo e para a alma. Ensina-me a parar, a confiar que Tu cuidas, e a achar em Ti o alívio que o mundo não dá. Aquieta o meu coração. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Mateus 11:28",
+    "text": "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei."
+   },
+   {
+    "ref": "Salmos 23:2",
+    "text": "Deitar-me faz em pastos verdejantes; guia-me mansamente a águas tranqüilas."
+   }
+  ]
+ },
+ {
+  "id": "estado-mortos",
+  "tema": "O estado dos mortos",
+  "emoji": "🌅",
+  "accent": "#6b6b8a",
+  "resumo": "O que há entre a morte e a ressurreição.",
+  "oracao_abertura": "Senhor, a morte assusta e levanta perguntas que eu não consigo responder sozinho. Guarda-me da arrogância e do medo. Ensina-me o que a Tua Palavra revela e firma a minha esperança na ressurreição que Tu prometeste. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Eclesiastes 9:5",
+   "João 11:25"
+  ],
+  "observacao": [
+   {
+    "q": "Como a Bíblia muitas vezes se refere à morte do crente?",
+    "a": "Como um \"dormir\". Jesus disse que Lázaro \"dorme\", e Paulo fala dos que \"dormem\" em Jesus.",
+    "ref": "João 11:11",
+    "ref_text": "E, tendo assim falado, acrescentou: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono."
+   },
+   {
+    "q": "O que Eclesiastes diz sobre o que os mortos sabem?",
+    "a": "\"Os mortos não sabem coisa nenhuma\". É um dos textos centrais do debate sobre o estado dos mortos.",
+    "ref": "Eclesiastes 9:5",
+    "ref_text": "Pois os vivos sabem que morrerão, mas os mortos não sabem coisa nenhuma, nem tampouco têm eles daí em diante recompensa; porque a sua memória ficou entregue ao esquecimento."
+   },
+   {
+    "q": "Como Paulo consola sobre os que morreram?",
+    "a": "Pedindo que não nos entristeçamos como os que não têm esperança, porque haverá ressurreição. O foco do consolo é a ressurreição.",
+    "ref": "1 Tessalonicenses 4:13-14",
+    "ref_text": "Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança. Porque, se cremos que Jesus morreu e ressurgiu, assim também aos que dormem, Deus, mediante Jesus, os tornará a trazer juntamente com ele."
+   },
+   {
+    "q": "O que acontece aos planos do homem quando ele morre, no Salmo 146?",
+    "a": "\"Perecem os seus pensamentos\". Outro texto usado para descrever a morte como inconsciência.",
+    "ref": "Salmos 146:4",
+    "ref_text": "Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos."
+   }
+  ],
+  "interpretacao": {
+   "comparativo": true,
+   "intro": "O que acontece entre a morte e a ressurreição é um dos pontos onde cristãos fiéis divergem. Veja as duas leituras principais, cada uma com sua base.",
+   "visoes": [
+    {
+     "nome": "Sono / inconsciência até a ressurreição",
+     "resumo": "A morte é como um sono sem consciência; o morto \"descansa\" e a próxima coisa que perceberá é a ressurreição, no retorno de Cristo. Ênfase forte entre adventistas e outros.",
+     "refs": [
+      {
+       "ref": "Eclesiastes 9:5",
+       "text": "Pois os vivos sabem que morrerão, mas os mortos não sabem coisa nenhuma, nem tampouco têm eles daí em diante recompensa; porque a sua memória ficou entregue ao esquecimento."
+      },
+      {
+       "ref": "Salmos 146:4",
+       "text": "Sai-lhe o espírito, e ele volta para a terra; naquele mesmo dia perecem os seus pensamentos."
+      },
+      {
+       "ref": "João 11:11-14",
+       "text": "E, tendo assim falado, acrescentou: Lázaro, o nosso amigo, dorme, mas vou despertá-lo do sono. Disseram-lhe, pois, os discípulos: Senhor, se dorme, ficará bom. Mas Jesus falara da sua morte; eles, porém, entenderam que falava do repouso do sono. Então Jesus lhes disse claramente: Lázaro morreu;"
+      },
+      {
+       "ref": "1 Tessalonicenses 4:13-16",
+       "text": "Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança. Porque, se cremos que Jesus morreu e ressurgiu, assim também aos que dormem, Deus, mediante Jesus, os tornará a trazer juntamente com ele. Dizemo-vos, pois, isto pela palavra do Senhor: que nós, os que ficarmos vivos para a vinda do Senhor, de modo algum precederemos os que já dormem. Porque o Senhor mesmo descerá do céu com grande brado, à voz do arcanjo, ao som da trombeta de Deus, e os que morreram em Cristo ressuscitarão primeiro."
+      }
+     ]
+    },
+    {
+     "nome": "Consciência imediata com o Senhor",
+     "resumo": "Ao morrer, o crente está consciente na presença de Cristo, aguardando a ressurreição do corpo. Ênfase da maior parte das tradições cristãs.",
+     "refs": [
+      {
+       "ref": "2 Coríntios 5:8",
+       "text": "temos bom ânimo, mas desejamos antes estar ausentes deste corpo, para estarmos presentes com o Senhor."
+      },
+      {
+       "ref": "Filipenses 1:23",
+       "text": "Mas de ambos os lados estou em aperto, tendo desejo de partir e estar com Cristo, porque isto é ainda muito melhor;"
+      },
+      {
+       "ref": "Lucas 23:43",
+       "text": "Respondeu-lhe Jesus: Em verdade te digo que hoje estarás comigo no paraíso."
+      },
+      {
+       "ref": "Lucas 16:22-23",
+       "text": "Veio a morrer o mendigo, e foi levado pelos anjos para o seio de Abraão; morreu também o rico, e foi sepultado. No inferno, ergueu os olhos, estando em tormentos, e viu ao longe a Abraão, e a Lázaro no seu seio."
+      }
+     ]
+    }
+   ],
+   "comum": {
+    "resumo": "As duas concordam no essencial: a morte não é o fim, a esperança central é a RESSURREIÇÃO em Cristo, e o crente está seguro nas mãos de Deus. O detalhe do \"intervalo\" não deve roubar essa esperança.",
+    "refs": [
+     {
+      "ref": "João 11:25",
+      "text": "Declarou-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que morra, viverá;"
+     },
+     {
+      "ref": "1 Coríntios 15:22",
+      "text": "Pois como em Adão todos morrem, do mesmo modo em Cristo todos serão vivificados."
+     }
+    ]
+   }
+  },
+  "aplicacao": [
+   {
+    "q": "O medo da morte (sua ou de quem ama) tem pesado em você?",
+    "ref": "João 11:25",
+    "orient": "Qualquer que seja sua leitura do intervalo, a âncora é a mesma: Jesus é a ressurreição e a vida. Entregue esse medo a Ele hoje.",
+    "ref_text": "Declarou-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que morra, viverá;"
+   },
+   {
+    "q": "Você consegue conversar sobre esse tema sem brigar com quem pensa diferente?",
+    "ref": "1 Tessalonicenses 4:18",
+    "orient": "O propósito do texto é \"consolai-vos uns aos outros\", não vencer debate. Sustente sua visão sem quebrar a comunhão.",
+    "ref_text": "Portanto, consolai-vos uns aos outros com estas palavras."
+   },
+   {
+    "q": "Onde você tem colocado a sua esperança diante da morte?",
+    "ref": "1 Coríntios 15:58",
+    "orient": "A ressurreição torna firme o nosso trabalho \"no Senhor\". Viva hoje com a esperança de que, em Cristo, a morte não tem a última palavra.",
+    "ref_text": "Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor."
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado porque a morte não é o fim para quem está em Cristo. Tira de mim o medo e firma a minha esperança na ressurreição. Ajuda-me a estudar este tema com humildade e a amar quem pensa diferente. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Eclesiastes 9:5",
+    "text": "Pois os vivos sabem que morrerão, mas os mortos não sabem coisa nenhuma, nem tampouco têm eles daí em diante recompensa; porque a sua memória ficou entregue ao esquecimento."
+   },
+   {
+    "ref": "João 11:25",
+    "text": "Declarou-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que morra, viverá;"
+   }
+  ]
+ },
+ {
+  "id": "batismo",
+  "tema": "Batismo",
+  "emoji": "💧",
+  "accent": "#4a8aa0",
+  "resumo": "O sinal público da fé.",
+  "oracao_abertura": "Senhor, o batismo é uma ordem Tua e um sinal cheio de significado. Ajuda-me a entender o que ele representa: morte para o velho e vida nova em Ti. Guarda-me da briga e do orgulho, e ensina-me com a Tua Palavra. Em nome de Jesus, amém.",
+  "texto_base": [
+   "Mateus 28:19",
+   "Romanos 6:4"
+  ],
+  "observacao": [
+   {
+    "q": "O que Jesus ordenou quanto ao batismo, na Grande Comissão?",
+    "a": "Fazer discípulos, batizando-os em nome do Pai, do Filho e do Espírito Santo. O batismo é parte do mandato de Jesus.",
+    "ref": "Mateus 28:19",
+    "ref_text": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo;"
+   },
+   {
+    "q": "O que o batismo representa, segundo Romanos 6?",
+    "a": "Fomos \"sepultados com Ele... no batismo\" para andarmos em novidade de vida. É símbolo de morte para o velho e ressurreição com Cristo.",
+    "ref": "Romanos 6:4",
+    "ref_text": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim andemos nós também em novidade de vida."
+   },
+   {
+    "q": "O que Pedro liga ao batismo em Atos 2?",
+    "a": "\"Arrependei-vos, e cada um... seja batizado\". Arrependimento e batismo aparecem juntos na pregação dos apóstolos.",
+    "ref": "Atos 2:38",
+    "ref_text": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo."
+   },
+   {
+    "q": "O que somos, segundo Gálatas, quando nos batizamos em Cristo?",
+    "a": "\"Revestidos de Cristo\". O batismo expressa a união com Cristo e a nova identidade.",
+    "ref": "Gálatas 3:27",
+    "ref_text": "Porque todos quantos fostes batizados em Cristo vos revestistes de Cristo."
+   }
+  ],
+  "interpretacao": {
+   "comparativo": true,
+   "intro": "Todas as tradições cristãs praticam o batismo como ordem de Jesus. A divergência é sobre QUEM batizar e COMO. Veja as duas grandes leituras.",
+   "visoes": [
+    {
+     "nome": "Batismo de quem crê, por imersão",
+     "resumo": "O batismo segue a fé pessoal: batizam-se os que creem e se arrependem, geralmente por imersão, simbolizando morte e ressurreição com Cristo. Ênfase batista, adventista, pentecostal e outras.",
+     "refs": [
+      {
+       "ref": "Atos 2:38",
+       "text": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo."
+      },
+      {
+       "ref": "Atos 8:36-38",
+       "text": "E indo eles caminhando, chegaram a um lugar onde havia água, e disse o eunuco: Eis aqui água; que impede que eu seja batizado? {E disse Felipe: é lícito, se crês de todo o coração. E, respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.} mandou parar o carro, e desceram ambos à água, tanto Filipe como o eunuco, e Filipe o batizou."
+      },
+      {
+       "ref": "Romanos 6:4",
+       "text": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim andemos nós também em novidade de vida."
+      },
+      {
+       "ref": "Marcos 16:16",
+       "text": "Quem crer e for batizado será salvo; mas quem não crer será condenado."
+      }
+     ]
+    },
+    {
+     "nome": "Batismo também de infantes, como sinal da aliança",
+     "resumo": "Além de quem crê, batizam-se também filhos de crentes, como sinal da aliança de Deus com a família, semelhante à circuncisão. Ênfase católica, ortodoxa, luterana, reformada e outras.",
+     "refs": [
+      {
+       "ref": "Atos 16:33",
+       "text": "Tomando-os ele consigo naquela mesma hora da noite, lavou-lhes as feridas; e logo foi batizado, ele e todos os seus."
+      },
+      {
+       "ref": "Colossenses 2:11-12",
+       "text": "no qual também fostes circuncidados com a circuncisão não feita por mãos no despojar do corpo da carne, a saber, a circuncisão de Cristo; tendo sido sepultados com ele no batismo, no qual também fostes ressuscitados pela fé no poder de Deus, que o ressuscitou dentre os mortos;"
+      },
+      {
+       "ref": "Atos 2:39",
+       "text": "Porque a promessa vos pertence a vós, a vossos filhos, e a todos os que estão longe: a quantos o Senhor nosso Deus chamar."
+      }
+     ]
+    }
+   ],
+   "comum": {
+    "resumo": "As duas concordam: o batismo é ordenado por Jesus, expressa união com Cristo e a entrada na comunidade da fé. \"Há um só batismo\", e a salvação é pela graça mediante a fé, não pelo rito em si.",
+    "refs": [
+     {
+      "ref": "Efésios 4:5",
+      "text": "um só Senhor, uma só fé, um só batismo;"
+     },
+     {
+      "ref": "Gálatas 3:27",
+      "text": "Porque todos quantos fostes batizados em Cristo vos revestistes de Cristo."
+     }
+    ]
+   }
+  },
+  "aplicacao": [
+   {
+    "q": "Se você crê em Jesus, já deu esse passo público de obediência?",
+    "ref": "Atos 2:38",
+    "orient": "O batismo é uma ordem ligada à fé. Se você crê e ainda não foi batizado, converse com sua igreja sobre dar esse passo.",
+    "ref_text": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo."
+   },
+   {
+    "q": "O que, na prática, significa para você \"andar em novidade de vida\"?",
+    "ref": "Romanos 6:4",
+    "orient": "O batismo simboliza morte para o velho. Aponte um \"velho\" hábito ou atitude que precisa ficar no passado e dê um passo para deixá-lo.",
+    "ref_text": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim andemos nós também em novidade de vida."
+   },
+   {
+    "q": "Você consegue respeitar irmãos que praticam o batismo de forma diferente?",
+    "ref": "Efésios 4:5",
+    "orient": "\"Há um só batismo\" e um só Senhor. Sustente a sua convicção sem desprezar quem pensa diferente neste ponto.",
+    "ref_text": "um só Senhor, uma só fé, um só batismo;"
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pelo batismo, sinal de morte para o velho e vida nova em Ti. Ajuda-me a viver de fato essa novidade de vida e a obedecer-Te. Guarda-me do orgulho ao tratar deste tema com outros irmãos. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "Mateus 28:19",
+    "text": "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo;"
+   },
+   {
+    "ref": "Romanos 6:4",
+    "text": "Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo foi ressuscitado dentre os mortos pela glória do Pai, assim andemos nós também em novidade de vida."
+   }
+  ]
+ },
+ {
+  "id": "lei-graca",
+  "tema": "A lei e a graça",
+  "emoji": "⚖️",
+  "accent": "#8a6f5a",
+  "resumo": "Como lei e graça se relacionam.",
+  "oracao_abertura": "Senhor, eu fico entre dois perigos: o legalismo que tenta merecer-Te e o descuido que ignora a Tua vontade. Ensina-me a relação certa entre a lei e a graça. Que eu viva pela graça e ame a Tua vontade. Em nome de Jesus, amém.",
+  "texto_base": [
+   "João 1:17",
+   "Romanos 6:14"
+  ],
+  "observacao": [
+   {
+    "q": "Por meio de quem vieram a lei e a graça, segundo João?",
+    "a": "\"A lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo\". As duas têm origem em Deus, em momentos diferentes.",
+    "ref": "João 1:17",
+    "ref_text": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por Jesus Cristo."
+   },
+   {
+    "q": "Sob o que está o cristão, segundo Romanos 6?",
+    "a": "\"Não estais debaixo da lei, mas debaixo da graça\". A relação do crente com Deus se dá pela graça.",
+    "ref": "Romanos 6:14",
+    "ref_text": "Pois o pecado não terá domínio sobre vós, porquanto não estais debaixo da lei, mas debaixo da graça."
+   },
+   {
+    "q": "Para que serve a lei, segundo Romanos 3?",
+    "a": "\"Pela lei vem o conhecimento do pecado\". A lei mostra o erro, mas não tem poder de salvar.",
+    "ref": "Romanos 3:20",
+    "ref_text": "porquanto pelas obras da lei nenhum homem será justificado diante dele; pois o que vem pela lei é o pleno conhecimento do pecado."
+   },
+   {
+    "q": "Que papel a lei teve, segundo Gálatas 3?",
+    "a": "Foi \"aio\" (tutor) para nos conduzir a Cristo. A lei aponta a necessidade da graça.",
+    "ref": "Gálatas 3:24",
+    "ref_text": "De modo que a lei se tornou nosso aio, para nos conduzir a Cristo, a fim de que pela fé fôssemos justificados."
+   }
+  ],
+  "interpretacao": {
+   "comparativo": true,
+   "intro": "Como a lei de Deus e a graça se relacionam na vida do cristão é um debate antigo entre crentes fiéis. Veja as duas ênfases, ambas afirmando a salvação pela graça.",
+   "visoes": [
+    {
+     "nome": "A lei moral permanece, guiada pela graça",
+     "resumo": "A salvação é pela graça, mas a lei moral de Deus (resumida nos Dez Mandamentos) continua válida como guia de vida para o cristão. Ênfase forte entre adventistas e reformados.",
+     "refs": [
+      {
+       "ref": "Mateus 5:17",
+       "text": "Não penseis que vim destruir a lei ou os profetas; não vim destruir, mas cumprir."
+      },
+      {
+       "ref": "Romanos 3:31",
+       "text": "Anulamos, pois, a lei pela fé? De modo nenhum; antes estabelecemos a lei."
+      },
+      {
+       "ref": "Tiago 2:10",
+       "text": "Pois qualquer que guardar toda a lei, mas tropeçar em um só ponto, tem-se tornado culpado de todos."
+      },
+      {
+       "ref": "Êxodo 20:8",
+       "text": "Lembra-te do dia do sábado, para o santificar."
+      }
+     ]
+    },
+    {
+     "nome": "Vivemos sob a graça, a lei cumprida em Cristo",
+     "resumo": "Cristo cumpriu a lei e o cristão vive guiado pelo Espírito e pelo amor, que é o cumprimento da lei, não mais sob o sistema legal. Ênfase de boa parte do cristianismo evangélico.",
+     "refs": [
+      {
+       "ref": "Romanos 10:4",
+       "text": "Pois Cristo é o fim da lei para justificar a todo aquele que crê."
+      },
+      {
+       "ref": "Gálatas 5:18",
+       "text": "Mas, se sois guiados pelo Espírito, não estais debaixo da lei."
+      },
+      {
+       "ref": "Romanos 13:10",
+       "text": "O amor não faz mal ao próximo. De modo que o amor é o cumprimento da lei."
+      },
+      {
+       "ref": "Colossenses 2:14",
+       "text": "e havendo riscado o escrito de dívida que havia contra nós nas suas ordenanças, o qual nos era contrário, removeu-o do meio de nós, cravando-o na cruz;"
+      }
+     ]
+    }
+   ],
+   "comum": {
+    "resumo": "As duas concordam: ninguém é salvo por guardar a lei, mas pela graça mediante a fé; e a essência do que Deus quer é o amor a Ele e ao próximo. O desacordo é sobre o papel da lei, não sobre a graça que salva.",
+    "refs": [
+     {
+      "ref": "Mateus 22:37-40",
+      "text": "Respondeu-lhe Jesus: Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento. Este é o grande e primeiro mandamento. E o segundo, semelhante a este, é: Amarás ao teu próximo como a ti mesmo. Destes dois mandamentos dependem toda a lei e os profetas."
+     },
+     {
+      "ref": "Gálatas 5:14",
+      "text": "Pois toda a lei se cumpre numa só palavra, a saber: Amarás ao teu próximo como a ti mesmo."
+     }
+    ]
+   }
+  },
+  "aplicacao": [
+   {
+    "q": "Você tende mais ao legalismo (merecer Deus) ou ao descuido (ignorar a vontade Dele)?",
+    "ref": "Romanos 6:14",
+    "orient": "A graça liberta dos dois. Identifique para qual lado você pende e peça a Deus o equilíbrio: viver pela graça amando a vontade Dele.",
+    "ref_text": "Pois o pecado não terá domínio sobre vós, porquanto não estais debaixo da lei, mas debaixo da graça."
+   },
+   {
+    "q": "Independente da sua visão, como o amor resume o que Deus quer de você hoje?",
+    "ref": "Romanos 13:10",
+    "orient": "\"O amor é o cumprimento da lei.\" Escolha um gesto concreto de amor a Deus e ao próximo que expresse, na prática, a vontade Dele.",
+    "ref_text": "O amor não faz mal ao próximo. De modo que o amor é o cumprimento da lei."
+   },
+   {
+    "q": "O que o Senhor pede de você, de forma simples, segundo Miquéias?",
+    "ref": "Miquéias 6:8",
+    "orient": "Praticar a justiça, amar a misericórdia e andar humildemente com Deus. Aplique um desses três a uma situação real esta semana.",
+    "ref_text": "Ele te declarou, ó homem, o que é bom; e que é o que o Senhor requer de ti, senão que pratiques a justiça, e ames a benevolência, e andes humildemente com o teu Deus?"
+   }
+  ],
+  "oracao_fechamento": "Pai, obrigado pela graça que me salva e pela Tua vontade que me orienta. Guarda-me do legalismo e do descuido. Ensina-me a viver pela graça, amando-Te e amando o próximo, que é o cumprimento da Tua lei. Em nome de Jesus, amém.",
+  "texto_base_text": [
+   {
+    "ref": "João 1:17",
+    "text": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por Jesus Cristo."
+   },
+   {
+    "ref": "Romanos 6:14",
+    "text": "Pois o pecado não terá domínio sobre vós, porquanto não estais debaixo da lei, mas debaixo da graça."
+   }
+  ]
  }
 ];
