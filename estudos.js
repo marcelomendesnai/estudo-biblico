@@ -85,35 +85,39 @@ window.ESTUDOS = [
   "emoji": "🕊️",
   "accent": "#5a8a9a",
   "resumo": "Trocar a preocupação pela paz de Deus.",
-  "oracao_abertura": "Senhor, eu chego com a mente cheia e o coração apertado. Tu conheces cada preocupação que eu carrego antes mesmo de eu falar. Acalma o que está agitado dentro de mim e ajuda-me a ouvir a Tua voz acima do barulho do medo. Ensina-me, neste tempo, a entregar a Ti aquilo que eu não consigo controlar. Em nome de Jesus, amém.",
+  "oracao_abertura": "Pai, eu chego com a mente cheia e o peito apertado, e Tu já conheces cada preocupação antes mesmo de eu falar. Obrigado porque posso vir assim, sem precisar fingir que está tudo bem. Acalma o que está agitado dentro de mim e abre o meu entendimento para ouvir a Tua voz acima do barulho do medo. Ensina-me, neste tempo, a entregar a Ti aquilo que eu não consigo controlar, e a confiar que Tu cuidas de mim. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 4:6",
    "Filipenses 4:7"
   ],
   "observacao": [
    {
-    "q": "O que o texto manda fazer no lugar de andar ansioso?",
-    "a": "Levar tudo a Deus em oração e súplica, com ação de graças. A ansiedade é trocada por pedido entregue.",
-    "ref": "1 Pedro 5:7",
-    "ref_text": "lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós."
+    "ref": "Salmos 55:22",
+    "text": "Lança o teu fardo sobre o Senhor, e ele te susterá; nunca permitirá que o justo seja abalado.",
+    "contexto": "Salmo de Davi em meio a traição e perigo. Ele escreve perseguido, com o coração em tormento, e mesmo assim aconselha.",
+    "ensino": "Pense numa mochila pesada nas costas o dia inteiro: a dor só passa quando você a tira, não quando aperta mais as alças. A ansiedade é assim — Deus te convida a tirar o fardo e entregá-lo a Ele, em vez de carregá-lo sozinho até cansar.",
+    "reflexao": "Dá a imagem central: lançar o fardo sobre o Senhor, que sustenta. A ansiedade é um peso para entregar, não para carregar."
    },
    {
-    "q": "O que Deus promete dar em troca? E o que ela faz?",
-    "a": "A paz de Deus, que excede todo entendimento, que guarda o coração e a mente. É uma paz que não depende das circunstâncias.",
-    "ref": "João 14:27",
-    "ref_text": "Deixo-vos a paz, a minha paz vos dou; eu não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize."
+    "ref": "Mateus 6:25",
+    "text": "Por isso vos digo: Não estejais ansiosos quanto à vossa vida, pelo que haveis de comer, ou pelo que haveis de beber; nem, quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o alimento, e o corpo mais do que o vestuário?",
+    "contexto": "Parte do Sermão do Monte, Jesus falando a uma multidão simples, muitos preocupados com comida e roupa do dia a dia.",
+    "ensino": "Repare que a preocupação nunca pagou uma conta nem adiantou um problema; ela só rouba o sono de hoje por causa de um amanhã que talvez nem aconteça. Jesus aponta o exagero: a vida vale muito mais do que aquilo que tanto nos aflige.",
+    "reflexao": "Jesus ataca a raiz: a vida vale mais que aquilo que nos preocupa. A ansiedade perde de vista o que importa."
    },
    {
-    "q": "Por que o texto diz para não se inquietar com o amanhã?",
-    "a": "Porque cada dia já tem o seu cuidado; antecipar o futuro só multiplica o peso de hoje.",
-    "ref": "Mateus 6:34",
-    "ref_text": "Não vos inquieteis, pois, pelo dia de amanhã; porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal."
+    "ref": "Isaías 41:10",
+    "text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.",
+    "contexto": "Deus fala a um povo amedrontado, diante de ameaça e exílio, prometendo presença.",
+    "ensino": "Criança no escuro tem menos medo quando sente a mão do pai. Deus não promete apagar o escuro, e sim segurar a sua mão dentro dele: “eu sou contigo” é a presença que acalma antes mesmo de a situação mudar.",
+    "reflexao": "O antídoto do medo é a presença: \"eu sou contigo\". Não é ausência de perigo, é companhia no perigo."
    },
    {
-    "q": "Qual a origem da coragem que substitui o medo?",
-    "a": "Não vem de nós: Deus dá espírito de poder, amor e moderação, não de covardia.",
-    "ref": "2 Timóteo 1:7",
-    "ref_text": "Porque Deus não nos deu o espírito de covardia, mas de poder, de amor e de moderação."
+    "ref": "Salmos 94:19",
+    "text": "Quando os cuidados do meu coração se multiplicam, as tuas consolações recreiam a minha alma.",
+    "contexto": "Salmo que clama por justiça em tempos de opressão, reconhecendo o consolo de Deus no meio da angústia.",
+    "ensino": "Quando os pensamentos se multiplicam de madrugada, é como uma sala cheia de vozes falando ao mesmo tempo. O consolo de Deus é a voz que abaixa o volume das outras e devolve a paz à alma.",
+    "reflexao": "Reconhece que os cuidados se multiplicam, mas as consolações de Deus recreiam a alma. Ele encontra a pessoa na ansiedade."
    }
   ],
   "interpretacao": {
@@ -121,32 +125,6 @@ window.ESTUDOS = [
     "Paulo escreve esta carta preso, e ainda assim o tema de Filipenses é a alegria. Ele não fala de fora: ensina a paz como quem a vive numa cela.",
     "O remédio para a ansiedade não é fingir que está tudo bem, e sim transferir o peso: em vez de remoer, levar cada coisa a Deus em oração, somando gratidão pelo que já se tem.",
     "A promessa não é que o problema some, mas que a paz de Deus passa a guardar o coração como um sentinela, mesmo antes da situação mudar."
-   ],
-   "refs": [
-    {
-     "ref": "Salmos 55:22",
-     "ctx": "Salmo de Davi em meio a traição e perigo. Ele escreve perseguido, com o coração em tormento, e mesmo assim aconselha.",
-     "exp": "Dá a imagem central: lançar o fardo sobre o Senhor, que sustenta. A ansiedade é um peso para entregar, não para carregar.",
-     "ref_text": "Lança o teu fardo sobre o Senhor, e ele te susterá; nunca permitirá que o justo seja abalado."
-    },
-    {
-     "ref": "Mateus 6:25",
-     "ctx": "Parte do Sermão do Monte, Jesus falando a uma multidão simples, muitos preocupados com comida e roupa do dia a dia.",
-     "exp": "Jesus ataca a raiz: a vida vale mais que aquilo que nos preocupa. A ansiedade perde de vista o que importa.",
-     "ref_text": "Por isso vos digo: Não estejais ansiosos quanto à vossa vida, pelo que haveis de comer, ou pelo que haveis de beber; nem, quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o alimento, e o corpo mais do que o vestuário?"
-    },
-    {
-     "ref": "Isaías 41:10",
-     "ctx": "Deus fala a um povo amedrontado, diante de ameaça e exílio, prometendo presença.",
-     "exp": "O antídoto do medo é a presença: \"eu sou contigo\". Não é ausência de perigo, é companhia no perigo.",
-     "ref_text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
-    },
-    {
-     "ref": "Salmos 94:19",
-     "ctx": "Salmo que clama por justiça em tempos de opressão, reconhecendo o consolo de Deus no meio da angústia.",
-     "exp": "Reconhece que os cuidados se multiplicam, mas as consolações de Deus recreiam a alma. Ele encontra a pessoa na ansiedade.",
-     "ref_text": "Quando os cuidados do meu coração se multiplicam, as tuas consolações recreiam a minha alma."
-    }
    ]
   },
   "aplicacao": [
@@ -169,7 +147,7 @@ window.ESTUDOS = [
     "ref_text": "Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algum louvor, nisso pensai."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu cuidas de mim de verdade. Eu entrego nas Tuas mãos as preocupações que eu vinha carregando sozinho. Guarda o meu coração e a minha mente com a Tua paz, essa que não depende de tudo dar certo. Quando o medo voltar a gritar, lembra-me de que Tu estás comigo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu cuidas de mim de verdade e me convidas a lançar sobre Ti todo o meu fardo. Eu entrego agora nas Tuas mãos as preocupações que eu vinha carregando sozinho. Guarda o meu coração e a minha mente com a Tua paz, essa que não depende de tudo dar certo. Quando o medo voltar a gritar, lembra-me de que Tu estás comigo e não me soltas. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 4:6",
@@ -187,35 +165,39 @@ window.ESTUDOS = [
   "emoji": "🙌",
   "accent": "#c97f3c",
   "resumo": "Enxergar e agradecer o que já se tem.",
-  "oracao_abertura": "Senhor, tão fácil é reparar no que falta e esquecer o quanto Tu já me deste. Abre os meus olhos neste tempo para enxergar a Tua bondade nas coisas que eu já nem percebo. Ensina o meu coração a agradecer não só quando tudo vai bem, mas como um jeito de viver. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é tão fácil reparar no que falta e esquecer o quanto Tu já me deste. Obrigado por mais este dia e por esta oportunidade de parar diante de Ti. Abre os meus olhos neste tempo para enxergar a Tua bondade nas coisas que eu já nem percebo. Ensina o meu coração a agradecer não só quando tudo vai bem, mas como um jeito de viver. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Tessalonicenses 5:18",
    "Salmos 100:4"
   ],
   "observacao": [
    {
-    "q": "Em quais circunstâncias o texto manda dar graças?",
-    "a": "Em tudo, não por tudo. A gratidão não depende de a situação ser boa; é uma postura constante.",
-    "ref": "Efésios 5:20",
-    "ref_text": "sempre dando graças por tudo a Deus, o Pai, em nome de nosso Senhor Jesus Cristo,"
+    "ref": "Salmos 103:2",
+    "text": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum dos seus benefícios.",
+    "contexto": "Salmo de Davi de louvor pessoal, em que ele fala consigo mesmo, com a própria alma.",
+    "ensino": "O coração é como peneira: a reclamação fica, a bênção escorre. Por isso o salmista precisa MANDAR a própria alma “não esquecer”. Gratidão é um esforço de memória — lembrar de propósito do bem que já recebemos.",
+    "reflexao": "Mostra o esforço da gratidão: lembrar de propósito. \"Não te esqueças\" assume que esquecer os benefícios é o padrão."
    },
    {
-    "q": "O texto diz que isso é opcional ou é vontade de Deus?",
-    "a": "É a vontade de Deus em Cristo Jesus. Gratidão não é só sentimento bom, é chamado.",
-    "ref": "Colossenses 3:15",
-    "ref_text": "E a paz de Cristo, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos."
+    "ref": "Lucas 17:15",
+    "text": "Um deles, vendo que fora curado, voltou glorificando a Deus em alta voz;",
+    "contexto": "Jesus cura dez leprosos, mas só um volta para agradecer. Cena de estrada, a caminho de Jerusalém.",
+    "ensino": "Dez foram curados, só um voltou para agradecer. É o retrato da vida: receber é comum, agradecer é decisão rara. Vale a pergunta — quantas vezes você foi um dos nove que seguiram em frente sem olhar para trás?",
+    "reflexao": "Ilustra o quanto a gratidão é rara: nove receberam e seguiram; um voltou. Receber é comum, agradecer é decisão."
    },
    {
-    "q": "Como o Salmo 100 manda entrar na presença de Deus?",
-    "a": "Com ação de graças e louvor. A porta de entrada para Deus é o agradecimento.",
-    "ref": "Salmos 107:1",
-    "ref_text": "Dai graças ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre;"
+    "ref": "Colossenses 2:7",
+    "text": "arraigados e edificados nele, e confirmados na fé, assim como fostes ensinados, abundando em ação de graças.",
+    "contexto": "Paulo escreve a cristãos tentados por filosofias estranhas, lembrando a base da fé deles.",
+    "ensino": "Árvore de raiz firme dá fruto o ano todo, não só na primavera. Quem está “arraigado” em Cristo abunda em gratidão até nos meses secos: ela vira fruto constante, e não humor que depende do dia.",
+    "reflexao": "Liga gratidão a maturidade: quem está firme na fé \"abunda em ação de graças\". É fruto de raiz, não de humor."
    },
    {
-    "q": "De onde vem tudo aquilo que temos de bom?",
-    "a": "Toda boa dádiva vem do alto, do Pai. Reconhecer a origem é o começo da gratidão.",
-    "ref": "Tiago 1:17",
-    "ref_text": "Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, em quem não há mudança nem sombra de variação."
+    "ref": "Salmos 136:1",
+    "text": "Dai graças ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre.",
+    "contexto": "Salmo cantado de forma responsiva, repetindo o refrão da bondade de Deus por toda a história do povo.",
+    "ensino": "Agradecemos a Deus não só pelo que Ele dá, mas por quem Ele é: bom, de uma bondade que “dura para sempre”. Presentes acabam; o caráter de Deus, não. Essa é a base mais firme da gratidão.",
+    "reflexao": "Fundamenta o motivo da gratidão: a benignidade de Deus que dura para sempre. Agradecemos por quem Ele é, não só pelo que dá."
    }
   ],
   "interpretacao": {
@@ -223,32 +205,6 @@ window.ESTUDOS = [
     "Paulo escreve a uma igreja jovem, sob pressão e perseguição. O \"em tudo dai graças\" não é otimismo ingênuo: é dito a quem sofre.",
     "A diferença é fina mas importante: o texto não pede para agradecer POR tudo (inclusive o mal), e sim EM tudo, em qualquer circunstância. A gratidão convive com a dor.",
     "O Salmo 100 mostra que agradecer é também a forma de se aproximar de Deus: entrar pelas portas com ação de graças. A gratidão reorienta o olhar para a bondade que já existe."
-   ],
-   "refs": [
-    {
-     "ref": "Salmos 103:2",
-     "ctx": "Salmo de Davi de louvor pessoal, em que ele fala consigo mesmo, com a própria alma.",
-     "exp": "Mostra o esforço da gratidão: lembrar de propósito. \"Não te esqueças\" assume que esquecer os benefícios é o padrão.",
-     "ref_text": "Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum dos seus benefícios."
-    },
-    {
-     "ref": "Lucas 17:15",
-     "ctx": "Jesus cura dez leprosos, mas só um volta para agradecer. Cena de estrada, a caminho de Jerusalém.",
-     "exp": "Ilustra o quanto a gratidão é rara: nove receberam e seguiram; um voltou. Receber é comum, agradecer é decisão.",
-     "ref_text": "Um deles, vendo que fora curado, voltou glorificando a Deus em alta voz;"
-    },
-    {
-     "ref": "Colossenses 2:7",
-     "ctx": "Paulo escreve a cristãos tentados por filosofias estranhas, lembrando a base da fé deles.",
-     "exp": "Liga gratidão a maturidade: quem está firme na fé \"abunda em ação de graças\". É fruto de raiz, não de humor.",
-     "ref_text": "arraigados e edificados nele, e confirmados na fé, assim como fostes ensinados, abundando em ação de graças."
-    },
-    {
-     "ref": "Salmos 136:1",
-     "ctx": "Salmo cantado de forma responsiva, repetindo o refrão da bondade de Deus por toda a história do povo.",
-     "exp": "Fundamenta o motivo da gratidão: a benignidade de Deus que dura para sempre. Agradecemos por quem Ele é, não só pelo que dá.",
-     "ref_text": "Dai graças ao Senhor, porque ele é bom; porque a sua benignidade dura para sempre."
-    }
    ]
   },
   "aplicacao": [
@@ -271,7 +227,7 @@ window.ESTUDOS = [
     "ref_text": "Um deles, vendo que fora curado, voltou glorificando a Deus em alta voz;"
    }
   ],
-  "oracao_fechamento": "Pai, perdoa-me por tantas vezes só reparar no que falta. Obrigado por tudo o que Tu já fizeste e que eu nem percebo. Ensina-me a viver agradecendo, não só quando tudo dá certo, mas em qualquer circunstância. Que a gratidão mude o meu olhar e me aproxime de Ti. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, perdoa-me por tantas vezes só reparar no que falta. Obrigado por tudo o que Tu já fizeste e por aquilo que eu nem percebo todos os dias. Ensina-me a viver agradecendo, em qualquer circunstância, e a expressar a gratidão que muitas vezes fica só por dentro. Que o agradecer mude o meu olhar e me aproxime mais de Ti. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Tessalonicenses 5:18",
@@ -935,35 +891,39 @@ window.ESTUDOS = [
   "emoji": "☀️",
   "accent": "#5d8a6a",
   "resumo": "Firmeza para o que ainda virá.",
-  "oracao_abertura": "Senhor, quando o futuro parece fechado, lembra-me de que Tu seguras o amanhã. Enche o meu coração de esperança que não vem das circunstâncias, mas de Ti. Tira de mim o desânimo e ensina-me a esperar em Ti com confiança. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, quando o futuro parece fechado, eu me esqueço de que Tu seguras o amanhã. Obrigado porque a minha esperança não depende das circunstâncias, mas de Ti. Abre o meu entendimento e enche o meu coração de uma esperança que não vem do otimismo, e sim da Tua fidelidade. Tira de mim o desânimo e ensina-me a esperar em Ti com confiança. Em nome de Jesus, amém.",
   "texto_base": [
    "Romanos 15:13",
    "Romanos 8:24"
   ],
   "observacao": [
    {
-    "q": "De onde vem a esperança, segundo Paulo?",
-    "a": "Do \"Deus de esperança\", que enche de alegria e paz, e pelo poder do Espírito Santo. Não é otimismo humano: é dom de Deus.",
-    "ref": "Romanos 5:5",
-    "ref_text": "e a esperança não desaponta, porquanto o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado."
+    "ref": "1 Pedro 1:3",
+    "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que, segundo a sua grande misericórdia, nos regenerou para uma viva esperança, pela ressurreição de Jesus Cristo dentre os mortos,",
+    "contexto": "Pedro escreve a cristãos espalhados e perseguidos. Ele chama a esperança de \"viva\", porque nasce da ressurreição de Jesus.",
+    "ensino": "Há esperança morta (só torcer pra dar certo) e esperança viva (apoiada num fato). A nossa se apoia na ressurreição de Jesus: é como confiar numa ponte que já foi testada e aguentou. Não é torcida, é certeza fundamentada.",
+    "reflexao": "Mostra a base da esperança: não um desejo, mas um fato (a ressurreição) que garante o futuro."
    },
    {
-    "q": "A esperança bíblica se apoia no que se vê ou no que não se vê?",
-    "a": "No que não se vê. Por isso ela exige paciência: esperar com confiança aquilo que ainda não chegou.",
-    "ref": "Romanos 8:25",
-    "ref_text": "Mas, se esperamos o que não vemos, com paciência o aguardamos."
+    "ref": "Tito 2:13",
+    "text": "aguardando a bem-aventurada esperança e o aparecimento da glória do nosso grande Deus e Salvador Cristo Jesus,",
+    "contexto": "Paulo orienta Tito sobre a vida da igreja em Creta, apontando para a volta de Cristo.",
+    "ensino": "Quem espera uma visita querida arruma a casa com alegria. A volta de Cristo é a “bem-aventurada esperança” que organiza a vida do cristão: vivemos olhando para esse encontro, e isso muda o que fazemos hoje.",
+    "reflexao": "Chama a volta de Jesus de \"bem-aventurada esperança\": o horizonte que orienta a vida cristã."
    },
    {
-    "q": "Que imagem Hebreus usa para descrever a esperança?",
-    "a": "Uma âncora da alma, segura e firme. A esperança ancora o coração mesmo na tempestade.",
-    "ref": "Hebreus 6:19",
-    "ref_text": "a qual temos como âncora da alma, segura e firme, e que penetra até o interior do véu;"
+    "ref": "Jeremias 29:11",
+    "text": "Pois eu bem sei os planos que estou projetando para vós, diz o Senhor; planos de paz, e não de mal, para vos dar um futuro e uma esperança.",
+    "contexto": "Deus fala a um povo no exílio, longe de casa e sem perspectiva. Mesmo ali, promete futuro.",
+    "ensino": "Deus disse isso a um povo no exílio, longe de casa e sem perspectiva — não num dia de festa. A esperança bíblica não nega o exílio; ela afirma que, mesmo ali, os planos de Deus para você são de paz e futuro.",
+    "reflexao": "Lembra que os planos de Deus são de paz e futuro, mesmo quando o presente é exílio."
    },
    {
-    "q": "Por que a alma do salmista não precisa ficar abatida?",
-    "a": "Porque ele decide esperar em Deus e ainda O louvará. A esperança é uma escolha de para onde olhar.",
-    "ref": "Salmos 42:11",
-    "ref_text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, a ele que é o meu socorro, e o meu Deus."
+    "ref": "Lamentações de Jeremias 3:22",
+    "text": "A benignidade do Senhor jamais acaba, as suas misericórdias não têm fim;",
+    "contexto": "Jeremias lamenta a destruição de Jerusalém; no meio da dor mais profunda, ele se agarra à fidelidade de Deus.",
+    "ensino": "No meio da pior dor, com a cidade destruída, Jeremias acha um chão firme: as misericórdias de Deus “se renovam a cada manhã”. Como o nascer do sol que volta todo dia, a bondade de Deus chega nova depois da noite mais escura.",
+    "reflexao": "Esperança no fundo do poço: as misericórdias de Deus não acabam, se renovam a cada manhã."
    }
   ],
   "interpretacao": {
@@ -971,28 +931,6 @@ window.ESTUDOS = [
     "Paulo encerra a carta aos Romanos abençoando a igreja com esperança. Note: ele chama Deus de \"Deus de esperança\", como se a esperança fizesse parte de quem Ele é.",
     "A esperança da Bíblia não é torcer para dar certo. É confiança baseada em promessas de Deus que ainda não se cumpriram, mas que são certas, ancoradas na ressurreição de Jesus.",
     "Por isso ela convive com a espera e com a dor: o cristão espera \"com paciência\" o que não vê, sabendo Quem prometeu."
-   ],
-   "refs": [
-    {
-     "ref": "1 Pedro 1:3",
-     "ctx": "Pedro escreve a cristãos espalhados e perseguidos. Ele chama a esperança de \"viva\", porque nasce da ressurreição de Jesus.",
-     "exp": "Mostra a base da esperança: não um desejo, mas um fato (a ressurreição) que garante o futuro."
-    },
-    {
-     "ref": "Tito 2:13",
-     "ctx": "Paulo orienta Tito sobre a vida da igreja em Creta, apontando para a volta de Cristo.",
-     "exp": "Chama a volta de Jesus de \"bem-aventurada esperança\": o horizonte que orienta a vida cristã."
-    },
-    {
-     "ref": "Jeremias 29:11",
-     "ctx": "Deus fala a um povo no exílio, longe de casa e sem perspectiva. Mesmo ali, promete futuro.",
-     "exp": "Lembra que os planos de Deus são de paz e futuro, mesmo quando o presente é exílio."
-    },
-    {
-     "ref": "Lamentações de Jeremias 3:22",
-     "ctx": "Jeremias lamenta a destruição de Jerusalém; no meio da dor mais profunda, ele se agarra à fidelidade de Deus.",
-     "exp": "Esperança no fundo do poço: as misericórdias de Deus não acabam, se renovam a cada manhã."
-    }
    ]
   },
   "aplicacao": [
@@ -1015,7 +953,7 @@ window.ESTUDOS = [
     "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque a minha esperança não depende de eu enxergar a saída, mas de Ti, que seguras o futuro. Renova as minhas forças, ancora o meu coração na Tua promessa e enche-me de alegria e paz no crer. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a minha esperança não depende de eu enxergar a saída, mas de Ti, que conduzes o futuro. Renova as minhas forças quando eu canso e ancora o meu coração na Tua promessa quando tudo balança. Lembra-me, nos dias difíceis, de que as Tuas misericórdias se renovam a cada manhã. Enche-me de alegria e paz no crer. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Romanos 15:13",
@@ -1033,35 +971,39 @@ window.ESTUDOS = [
   "emoji": "❤️",
   "accent": "#c0556b",
   "resumo": "Amar como Deus nos amou.",
-  "oracao_abertura": "Senhor, Tu és amor, e tudo o que eu sei de amar verdadeiro vem de Ti. Tira de mim o egoísmo e o amor só de palavras. Enche-me do Teu amor para que eu ame as pessoas como Tu me amas, mesmo as difíceis. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, Tu és amor, e tudo o que eu sei de amar verdadeiro vem de Ti. Obrigado por me amares primeiro, mesmo quando eu não tinha nada a oferecer. Abre o meu entendimento e tira de mim o egoísmo e o amor só de palavras. Enche-me do Teu amor, para que eu ame as pessoas como Tu me amas, inclusive as difíceis. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Coríntios 13:4",
    "1 Coríntios 13:13"
   ],
   "observacao": [
    {
-    "q": "Quais atitudes o texto diz que o amor TEM?",
-    "a": "É paciente e benigno. O amor começa não no sentimento, mas em como tratamos o outro.",
-    "ref": "1 Coríntios 13:5",
-    "ref_text": "não se porta inconvenientemente, não busca os seus próprios interesses, não se irrita, não suspeita mal;"
+    "ref": "1 João 4:8",
+    "text": "Aquele que não ama não conhece a Deus; porque Deus é amor.",
+    "contexto": "João escreve para firmar cristãos contra falsos mestres, apontando o teste do amor.",
+    "ensino": "Não é só que Deus “tem” amor; Ele “é” amor. Tudo o que sabemos de amar de verdade é reflexo Dele, como a luz da lua é reflexo do sol. Por isso, quem não ama mostra que ainda não conheceu de fato quem Deus é.",
+    "reflexao": "Define a fonte: Deus é amor. Amar não é um extra da fé, é sinal de conhecer a Deus."
    },
    {
-    "q": "Qual o novo mandamento que Jesus dá?",
-    "a": "Que nos amemos uns aos outros como Ele nos amou. A medida do amor cristão é o amor de Cristo.",
-    "ref": "João 13:34",
-    "ref_text": "Um novo mandamento vos dou: que vos ameis uns aos outros; assim como eu vos amei a vós, que também vós vos ameis uns aos outros."
+    "ref": "Romanos 5:8",
+    "text": "Mas Deus dá prova do seu amor para conosco, em que, quando éramos ainda pecadores, Cristo morreu por nós.",
+    "contexto": "Paulo explica o evangelho aos romanos: Cristo morreu por nós.",
+    "ensino": "O amor humano costuma esperar o outro merecer. O de Deus fez o contrário: Cristo morreu por nós quando ainda éramos pecadores, sem nada a oferecer. É amor que dá o primeiro passo, antes de qualquer mudança nossa.",
+    "reflexao": "Mostra o tipo de amor de Deus: amou-nos quando ainda éramos pecadores, sem merecermos."
    },
    {
-    "q": "Como as pessoas saberão que somos discípulos de Jesus?",
-    "a": "Pelo amor que tivermos uns pelos outros. O amor é a marca, não o discurso.",
-    "ref": "João 13:35",
-    "ref_text": "Nisto conhecerão todos que sois meus discípulos, se tiverdes amor uns aos outros."
+    "ref": "Mateus 22:39",
+    "text": "E o segundo, semelhante a este, é: Amarás ao teu próximo como a ti mesmo.",
+    "contexto": "Jesus responde qual o maior mandamento, resumindo toda a lei.",
+    "ensino": "Jesus une amar a Deus e amar o próximo como duas faces da mesma moeda. Dizer que ama a Deus (que não se vê) e tratar mal o próximo (que se vê) é como cuidar da raiz e pisar no fruto. Um amor prova o outro.",
+    "reflexao": "Liga amar a Deus e amar o próximo: o segundo brota do primeiro."
    },
    {
-    "q": "Por que conseguimos amar, segundo João?",
-    "a": "Porque Ele nos amou primeiro. Nosso amor é resposta, não iniciativa.",
-    "ref": "1 João 4:19",
-    "ref_text": "Nós amamos, porque ele nos amou primeiro."
+    "ref": "1 João 4:18",
+    "text": "No amor não há medo antes o perfeito amor lança fora o medo; porque o medo envolve castigo; e quem tem medo não está aperfeiçoado no amor.",
+    "contexto": "João contrasta amor e medo na vida do cristão.",
+    "ensino": "Medo e amor disputam o mesmo espaço no coração. Quem se sabe amado por Deus teme menos: é como a criança que dorme tranquila sabendo que o pai está em casa. Saber-se amado é o antídoto do medo.",
+    "reflexao": "O amor perfeito lança fora o medo: quem se sabe amado por Deus teme menos."
    }
   ],
   "interpretacao": {
@@ -1069,28 +1011,6 @@ window.ESTUDOS = [
     "Paulo escreve isso a uma igreja dividida e cheia de disputas por dons. No meio dessa briga, ele diz: sem amor, nada disso vale nada.",
     "O \"amor\" aqui não é sentimento que vai e vem, mas decisão e ação: paciência, bondade, ausência de inveja e orgulho. É algo que se faz, não só que se sente.",
     "E a fonte é Deus: \"Deus é amor\". Quem não ama mostra que não conhece a Deus de verdade, porque o amor define quem Ele é."
-   ],
-   "refs": [
-    {
-     "ref": "1 João 4:8",
-     "ctx": "João escreve para firmar cristãos contra falsos mestres, apontando o teste do amor.",
-     "exp": "Define a fonte: Deus é amor. Amar não é um extra da fé, é sinal de conhecer a Deus."
-    },
-    {
-     "ref": "Romanos 5:8",
-     "ctx": "Paulo explica o evangelho aos romanos: Cristo morreu por nós.",
-     "exp": "Mostra o tipo de amor de Deus: amou-nos quando ainda éramos pecadores, sem merecermos."
-    },
-    {
-     "ref": "Mateus 22:39",
-     "ctx": "Jesus responde qual o maior mandamento, resumindo toda a lei.",
-     "exp": "Liga amar a Deus e amar o próximo: o segundo brota do primeiro."
-    },
-    {
-     "ref": "1 João 4:18",
-     "ctx": "João contrasta amor e medo na vida do cristão.",
-     "exp": "O amor perfeito lança fora o medo: quem se sabe amado por Deus teme menos."
-    }
    ]
   },
   "aplicacao": [
@@ -1113,7 +1033,7 @@ window.ESTUDOS = [
     "ref_text": "Respondeu-lhe Jesus: Amarás ao Senhor teu Deus de todo o teu coração, de toda a tua alma, e de todo o teu entendimento."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado por me amares primeiro, mesmo sem eu merecer. Enche-me do Teu amor para que ele transborde em paciência, bondade e perdão. Que as pessoas vejam Jesus pelo jeito como eu amo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado por me amares antes de eu merecer e por me ensinares o que é amar de verdade. Enche-me do Teu amor para que ele transborde em paciência, bondade e perdão com as pessoas ao meu redor. Tira de mim o medo, porque o Teu amor o lança fora. Que as pessoas vejam Jesus pelo jeito como eu amo. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Coríntios 13:4",
@@ -1131,35 +1051,39 @@ window.ESTUDOS = [
   "emoji": "🦁",
   "accent": "#6b7a9a",
   "resumo": "Coragem na presença de Deus.",
-  "oracao_abertura": "Senhor, Tu conheces os meus medos, até os que eu não falo em voz alta. Lembra-me de que Tu estás comigo e que não me deixas. Troca o meu medo pela confiança na Tua presença, e dá-me coragem para o que eu preciso enfrentar. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, Tu conheces os meus medos, até os que eu não falo em voz alta. Obrigado porque posso trazê-los a Ti sem vergonha. Lembra-me, neste tempo, de que Tu estás comigo e que não me deixas sozinho. Troca o meu medo pela confiança na Tua presença e dá-me coragem para enfrentar o que eu preciso. Em nome de Jesus, amém.",
   "texto_base": [
    "Isaías 41:10",
    "2 Timóteo 1:7"
   ],
   "observacao": [
    {
-    "q": "Qual o motivo que Deus dá para não temermos, em Isaías?",
-    "a": "Porque Ele está conosco e é o nosso Deus; Ele fortalece, ajuda e sustenta. O antídoto do medo é a presença Dele.",
-    "ref": "Salmos 23:4",
-    "ref_text": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam."
+    "ref": "João 14:27",
+    "text": "Deixo-vos a paz, a minha paz vos dou; eu não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize.",
+    "contexto": "Jesus se despede dos discípulos antes da cruz, sabendo que eles vão ter medo.",
+    "ensino": "Jesus deu essa paz justamente na véspera da cruz, quando tudo ia desabar. Logo, a paz que vence o medo não é ausência de problemas, mas presença no meio deles — calmaria por dentro mesmo com tempestade por fora.",
+    "reflexao": "Ele deixa a Sua paz, diferente da do mundo, justamente para o coração não se turbar nem atemorizar."
    },
    {
-    "q": "Que tipo de espírito Deus nos deu, segundo Paulo?",
-    "a": "De poder, amor e moderação, não de covardia. O medo paralisante não vem de Deus.",
-    "ref": "2 Timóteo 1:7",
-    "ref_text": "Porque Deus não nos deu o espírito de covardia, mas de poder, de amor e de moderação."
+    "ref": "Deuteronômio 31:6",
+    "text": "Sede fortes e corajosos; não temais, nem vos atemorizeis diante deles; porque o Senhor vosso Deus é quem vai convosco. Não vos deixará, nem vos desamparará.",
+    "contexto": "Moisés encoraja Israel a entrar numa terra cheia de inimigos.",
+    "ensino": "Coragem não é não sentir medo; é avançar sabendo quem vai com você. Como a criança que entra no escuro segurando a mão do pai, o “esforça-te” vem amarrado ao “o Senhor é o que vai contigo”.",
+    "reflexao": "\"Esforça-te e tem bom ânimo\": a coragem vem de saber que Deus não desampara."
    },
    {
-    "q": "Por que o salmista não teme, mesmo no vale da sombra da morte?",
-    "a": "Porque Deus está com ele. A companhia de Deus tira o medo até diante da morte.",
-    "ref": "Salmos 27:1",
-    "ref_text": "O Senhor é a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?"
+    "ref": "Provérbios 29:25",
+    "text": "O receio do homem lhe arma laços; mas o que confia no Senhor está seguro.",
+    "contexto": "Provérbio sobre o perigo de viver para agradar pessoas.",
+    "ensino": "O medo do que os outros vão pensar é uma das prisões mais comuns: faz você calar, fingir e decidir errado só para agradar. A Bíblia chama isso de “laço”. Confiar em Deus é o que solta esse nó.",
+    "reflexao": "O \"temor dos homens\" arma um laço; confiar no Senhor liberta dessa prisão."
    },
    {
-    "q": "A quem devemos temer mais do que aos homens?",
-    "a": "A Deus. O temor certo (reverência a Deus) cura o medo errado (das pessoas e circunstâncias).",
-    "ref": "Mateus 10:28",
-    "ref_text": "E não temais os que matam o corpo, e não podem matar a alma; temei antes aquele que pode fazer perecer no inferno tanto a alma como o corpo."
+    "ref": "Salmos 56:3",
+    "text": "No dia em que eu temer, hei de confiar em ti.",
+    "contexto": "Davi escreve perseguido e com medo real, fugindo de inimigos.",
+    "ensino": "Davi não diz “eu nunca tenho medo”; ele diz “no dia em que eu temer, confiarei em ti”. É um modelo honesto: a coragem não espera o medo sumir, ela transforma o medo em oração no exato momento em que ele aparece.",
+    "reflexao": "Modelo honesto: ele sente medo E decide confiar. Coragem não é não sentir medo, é confiar apesar dele."
    }
   ],
   "interpretacao": {
@@ -1167,28 +1091,6 @@ window.ESTUDOS = [
     "Isaías fala a um povo amedrontado, diante de inimigos e exílio. Deus não promete ausência de perigo, e sim presença no perigo: \"eu sou contigo\".",
     "A Bíblia distingue dois medos: o terror que paralisa (que Deus quer tirar) e o temor reverente a Deus (que liberta dos outros medos).",
     "Paulo lembra a Timóteo, um jovem tímido, que o medo covarde não vem de Deus; Ele dá poder, amor e domínio próprio."
-   ],
-   "refs": [
-    {
-     "ref": "João 14:27",
-     "ctx": "Jesus se despede dos discípulos antes da cruz, sabendo que eles vão ter medo.",
-     "exp": "Ele deixa a Sua paz, diferente da do mundo, justamente para o coração não se turbar nem atemorizar."
-    },
-    {
-     "ref": "Deuteronômio 31:6",
-     "ctx": "Moisés encoraja Israel a entrar numa terra cheia de inimigos.",
-     "exp": "\"Esforça-te e tem bom ânimo\": a coragem vem de saber que Deus não desampara."
-    },
-    {
-     "ref": "Provérbios 29:25",
-     "ctx": "Provérbio sobre o perigo de viver para agradar pessoas.",
-     "exp": "O \"temor dos homens\" arma um laço; confiar no Senhor liberta dessa prisão."
-    },
-    {
-     "ref": "Salmos 56:3",
-     "ctx": "Davi escreve perseguido e com medo real, fugindo de inimigos.",
-     "exp": "Modelo honesto: ele sente medo E decide confiar. Coragem não é não sentir medo, é confiar apesar dele."
-    }
    ]
   },
   "aplicacao": [
@@ -1211,7 +1113,7 @@ window.ESTUDOS = [
     "ref_text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo e me sustentas com a Tua mão. Tira de mim o medo que paralisa e dá-me o espírito de poder, amor e equilíbrio que vem de Ti. Quando o medo voltar, ajuda-me a confiar em Ti. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo e me sustentas com a Tua mão. Tira de mim o medo que paralisa e dá-me o espírito de poder, amor e equilíbrio que vem de Ti. Liberta-me do medo do que os outros pensam e firma o meu coração em Ti. Quando o medo voltar, ajuda-me a transformá-lo em confiança. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Isaías 41:10",
@@ -1229,35 +1131,39 @@ window.ESTUDOS = [
   "emoji": "🕊️",
   "accent": "#6a9aa0",
   "resumo": "A paz que vem de Deus.",
-  "oracao_abertura": "Senhor, no meio do barulho e da pressa, eu busco a Tua paz. Aquieta o que está agitado dentro de mim. Que eu não corra atrás da paz que o mundo promete e não cumpre, mas receba a Tua, que guarda o coração. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, no meio do barulho e da pressa, eu venho buscar a Tua paz. Obrigado porque ela não depende de tudo estar resolvido. Aquieta o que está agitado dentro de mim e abre o meu coração para receber a paz que só Tu dás. Que eu não corra atrás da paz que o mundo promete e não cumpre, mas descanse na Tua. Em nome de Jesus, amém.",
   "texto_base": [
    "João 14:27",
    "Filipenses 4:6"
   ],
   "observacao": [
    {
-    "q": "A paz que Jesus dá é igual à do mundo?",
-    "a": "Não. A paz de Jesus não depende das circunstâncias; a do mundo, sim. Por isso a Dele permanece na tempestade.",
-    "ref": "João 16:33",
-    "ref_text": "Tenho-vos dito estas coisas, para que em mim tenhais paz. No mundo tereis tribulações; mas tende bom ânimo, eu venci o mundo."
+    "ref": "Colossenses 3:15",
+    "text": "E a paz de Cristo, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos.",
+    "contexto": "Paulo orienta a vida em comunidade da igreja em Colossos.",
+    "ensino": "A imagem é a de um juiz que apita e encerra a confusão. Paulo pede que a paz de Cristo “arbitre” no coração: quando os pensamentos brigam e a ansiedade grita, é essa paz que dá o veredito e acalma o jogo interno.",
+    "reflexao": "A paz de Cristo deve \"arbitrar\" no coração, como um juiz que decide e acalma os conflitos internos."
    },
    {
-    "q": "Como, segundo Filipenses, trocar a ansiedade pela paz?",
-    "a": "Levando tudo a Deus em oração, com gratidão. A paz vem quando se entrega, não quando se controla tudo.",
-    "ref": "Filipenses 4:7",
-    "ref_text": "e a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos pensamentos em Cristo Jesus."
+    "ref": "Salmos 4:8",
+    "text": "Em paz me deitarei e dormirei, porque só tu, Senhor, me fazes habitar em segurança.",
+    "contexto": "Salmo de Davi à noite, em meio a inimigos e aflição.",
+    "ensino": "Davi dorme em paz cercado de inimigos, não porque o perigo sumiu, mas porque a segurança dele não vinha das circunstâncias, e sim de Deus. Dormir tranquilo é, no fundo, um ato de confiança: posso descansar porque Tu não dormes.",
+    "reflexao": "Ele dorme em paz porque confia: a segurança vem de Deus, não da ausência de ameaças."
    },
    {
-    "q": "Em quem Deus conserva em paz, segundo Isaías?",
-    "a": "Naquele cuja mente está firme Nele e que Nele confia. A paz acompanha a confiança.",
-    "ref": "Isaías 26:3",
-    "ref_text": "Tu conservarás em paz aquele cuja mente está firme em ti; porque ele confia em ti."
+    "ref": "Romanos 8:6",
+    "text": "Porque a inclinação da carne é morte; mas a inclinação do Espírito é vida e paz.",
+    "contexto": "Paulo contrasta viver segundo a carne e segundo o Espírito.",
+    "ensino": "A mente é como um rádio: o que ela sintoniza define o clima de dentro. Fixada nas preocupações, gera angústia; voltada para Deus, gera “vida e paz”. Mudar a estação muda o estado do coração.",
+    "reflexao": "A mente voltada para o Espírito é vida e paz; onde a mente se fixa muda o estado do coração."
    },
    {
-    "q": "Como temos paz com Deus, segundo Romanos?",
-    "a": "Pela fé, por meio de Jesus. A paz interior nasce primeiro da paz com Deus.",
-    "ref": "Romanos 5:1",
-    "ref_text": "Justificados, pois, pela fé, tenhamos paz com Deus, por nosso Senhor Jesus Cristo,"
+    "ref": "Mateus 5:9",
+    "text": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus.",
+    "contexto": "Parte das bem-aventuranças no Sermão do Monte.",
+    "ensino": "A paz que recebemos de Deus transborda em fazer as pazes com os outros. Por isso Jesus chama os pacificadores de “filhos de Deus”: quem foi reconciliado vira ponte de reconciliação, e não fonte de briga.",
+    "reflexao": "Quem tem a paz de Deus se torna pacificador: a paz recebida transborda em fazer as pazes."
    }
   ],
   "interpretacao": {
@@ -1265,28 +1171,6 @@ window.ESTUDOS = [
     "Jesus promete paz na véspera da cruz, justamente quando tudo ia desabar para os discípulos. Logo, a paz Dele não é ausência de problemas.",
     "Paulo, preso, escreve sobre paz a partir de uma cela. A receita não é mudar as circunstâncias, mas mudar para onde se leva a preocupação: à oração.",
     "Há uma ordem: primeiro paz COM Deus (pela fé em Jesus), depois a paz DE Deus guardando o coração. Uma nasce da outra."
-   ],
-   "refs": [
-    {
-     "ref": "Colossenses 3:15",
-     "ctx": "Paulo orienta a vida em comunidade da igreja em Colossos.",
-     "exp": "A paz de Cristo deve \"arbitrar\" no coração, como um juiz que decide e acalma os conflitos internos."
-    },
-    {
-     "ref": "Salmos 4:8",
-     "ctx": "Salmo de Davi à noite, em meio a inimigos e aflição.",
-     "exp": "Ele dorme em paz porque confia: a segurança vem de Deus, não da ausência de ameaças."
-    },
-    {
-     "ref": "Romanos 8:6",
-     "ctx": "Paulo contrasta viver segundo a carne e segundo o Espírito.",
-     "exp": "A mente voltada para o Espírito é vida e paz; onde a mente se fixa muda o estado do coração."
-    },
-    {
-     "ref": "Mateus 5:9",
-     "ctx": "Parte das bem-aventuranças no Sermão do Monte.",
-     "exp": "Quem tem a paz de Deus se torna pacificador: a paz recebida transborda em fazer as pazes."
-    }
    ]
   },
   "aplicacao": [
@@ -1309,7 +1193,7 @@ window.ESTUDOS = [
     "ref_text": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pela paz que Tu dás, que o mundo não pode dar nem tirar. Aquieta o meu coração, firma a minha mente em Ti e faze de mim alguém que leva paz aonde vai. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pela paz que Tu dás, que o mundo não pode dar nem tirar. Aquieta o meu coração, firma a minha mente em Ti e guarda os meus pensamentos quando a ansiedade voltar. Faze de mim alguém que leva paz aonde vai, e não tensão. Que a Tua paz arbitre dentro de mim hoje. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "João 14:27",
@@ -1327,35 +1211,39 @@ window.ESTUDOS = [
   "emoji": "🌱",
   "accent": "#b06a6a",
   "resumo": "Confiar no tempo de Deus.",
-  "oracao_abertura": "Senhor, eu tenho pressa, mas Tu trabalhas no Teu tempo. Ensina-me a esperar sem desanimar e a suportar sem amargar. Produz em mim a paciência que confia em Ti mesmo quando a resposta demora. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu tenho pressa, mas Tu trabalhas no Teu tempo, que é sempre o melhor. Obrigado por seres tantas vezes paciente comigo. Ensina-me, neste tempo, a esperar sem desanimar e a suportar sem amargar. Produz em mim a paciência que confia em Ti mesmo quando a resposta demora. Em nome de Jesus, amém.",
   "texto_base": [
    "Tiago 1:3",
    "Romanos 12:12"
   ],
   "observacao": [
    {
-    "q": "O que, segundo Tiago, produz a paciência (perseverança)?",
-    "a": "A prova da fé, as dificuldades. A paciência não nasce no conforto, mas no que nos testa.",
-    "ref": "Tiago 1:4",
-    "ref_text": "e a perseverança tenha a sua obra perfeita, para que sejais perfeitos e completos, não faltando em coisa alguma."
+    "ref": "Hebreus 10:36",
+    "text": "Porque necessitais de perseverança, para que, depois de haverdes feito a vontade de Deus, alcanceis a promessa.",
+    "contexto": "Carta a cristãos tentados a desistir sob pressão.",
+    "ensino": "Entre a promessa e o cumprimento quase sempre há um intervalo, e é nele que a paciência trabalha. É como a fila: desistir um passo antes da vez perde tudo. “Tendes necessidade de paciência” para receber o que já foi prometido.",
+    "reflexao": "Liga paciência e promessa: é preciso perseverar para receber o que foi prometido."
    },
    {
-    "q": "O que o cansado não deve fazer ao praticar o bem?",
-    "a": "Não desanimar; a seu tempo colherá. A paciência é continuar quando o resultado demora.",
-    "ref": "Gálatas 6:9",
-    "ref_text": "E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido."
+    "ref": "Lamentações de Jeremias 3:25",
+    "text": "Bom é o Senhor para os que esperam por ele, para a alma que o busca.",
+    "contexto": "Jeremias, no meio da ruína de Jerusalém, reafirma a bondade de Deus.",
+    "ensino": "Esperar parece tempo perdido, mas a Bíblia diz que “bom é o Senhor para os que esperam por Ele”. A espera em Deus não é sala vazia: é onde a confiança amadurece. Quem espera Nele não está parado, está confiando.",
+    "reflexao": "\"Bom é o Senhor para os que esperam por Ele\": a espera paciente não é tempo perdido, é confiança."
    },
    {
-    "q": "Como o salmista descreve esperar em Deus?",
-    "a": "Descansar e esperar com paciência, sem se irritar com quem prospera no mal. Paciência é também não se comparar.",
-    "ref": "Salmos 37:7",
-    "ref_text": "Descansa no Senhor, e espera nele; não te enfades por causa daquele que prospera em seu caminho, por causa do homem que executa maus desígnios."
+    "ref": "Colossenses 1:11",
+    "text": "corroborados com toda a fortaleza, segundo o poder da sua glória, para toda a perseverança e longanimidade com gozo;",
+    "contexto": "Paulo ora pela igreja em Colossos para que sejam fortalecidos.",
+    "ensino": "Repare que Paulo ORA por paciência — sinal de que ela não vem só da força de vontade. A paciência com pessoas e situações é fruto do poder que Deus dá; quando falta, o caminho é pedir, não só apertar os dentes.",
+    "reflexao": "Pede que tenham \"toda a paciência\": ela é fruto da força que Deus dá, não só do nosso esforço."
    },
    {
-    "q": "Por que é melhor o fim de uma coisa do que o seu princípio?",
-    "a": "Porque o paciente de espírito vale mais que o orgulhoso. O valor aparece em quem persevera até o fim.",
-    "ref": "Eclesiastes 7:8",
-    "ref_text": "Melhor é o fim duma coisa do que o princípio; melhor é o paciente do que o arrogante."
+    "ref": "Tiago 5:7",
+    "text": "Portanto, irmãos, sede pacientes até a vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba as primeiras e as últimas chuvas.",
+    "contexto": "Tiago compara a espera cristã à do agricultor.",
+    "ensino": "O agricultor planta e não fica desenterrando a semente todo dia para ver se cresceu; ele confia no tempo. A fé é assim: faz a sua parte e aguarda o tempo de Deus, sem a ansiedade do resultado imediato.",
+    "reflexao": "O lavrador espera a colheita com paciência; a fé também planta e aguarda o tempo de Deus."
    }
   ],
   "interpretacao": {
@@ -1363,28 +1251,6 @@ window.ESTUDOS = [
     "Tiago escreve a cristãos sob provações e diz algo difícil: tratem as dificuldades como matéria-prima. É nelas que a paciência amadurece.",
     "A paciência bíblica tem dois lados: esperar (aguentar o tempo de Deus) e suportar (aguentar pessoas e situações) sem amargar.",
     "E ela está ligada à esperança: espera-se com paciência aquilo que se crê que Deus fará, mesmo sem ver ainda."
-   ],
-   "refs": [
-    {
-     "ref": "Hebreus 10:36",
-     "ctx": "Carta a cristãos tentados a desistir sob pressão.",
-     "exp": "Liga paciência e promessa: é preciso perseverar para receber o que foi prometido."
-    },
-    {
-     "ref": "Lamentações de Jeremias 3:25",
-     "ctx": "Jeremias, no meio da ruína de Jerusalém, reafirma a bondade de Deus.",
-     "exp": "\"Bom é o Senhor para os que esperam por Ele\": a espera paciente não é tempo perdido, é confiança."
-    },
-    {
-     "ref": "Colossenses 1:11",
-     "ctx": "Paulo ora pela igreja em Colossos para que sejam fortalecidos.",
-     "exp": "Pede que tenham \"toda a paciência\": ela é fruto da força que Deus dá, não só do nosso esforço."
-    },
-    {
-     "ref": "Tiago 5:7",
-     "ctx": "Tiago compara a espera cristã à do agricultor.",
-     "exp": "O lavrador espera a colheita com paciência; a fé também planta e aguarda o tempo de Deus."
-    }
    ]
   },
   "aplicacao": [
@@ -1407,7 +1273,7 @@ window.ESTUDOS = [
     "ref_text": "corroborados com toda a fortaleza, segundo o poder da sua glória, para toda a perseverança e longanimidade com gozo;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu és bom para quem espera em Ti. Produz em mim paciência para esperar o Teu tempo e para suportar sem amargura. Que eu não desanime no bem, sabendo que a Teu tempo colherei. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu és bom para quem espera em Ti, e a Tua espera nunca é tempo perdido. Produz em mim paciência para aguardar o Teu tempo e para suportar as pessoas sem amargura. Que eu não desanime no bem, sabendo que a seu tempo colherei. Fortalece-me com a Tua paciência, que não vem só de mim. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Tiago 1:3",
@@ -1425,35 +1291,39 @@ window.ESTUDOS = [
   "emoji": "🤲",
   "accent": "#8a6fa0",
   "resumo": "Soltar o peso de quem nos feriu.",
-  "oracao_abertura": "Senhor, perdoar é difícil quando a ferida é real. Lembra-me do quanto Tu já me perdoaste. Tira de mim o rancor que me aprisiona e dá-me coragem para soltar quem me feriu. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, perdoar é difícil quando a ferida é real e ninguém pediu desculpas. Obrigado porque Tu me perdoaste primeiro, muito além do que eu mereço. Abre o meu entendimento e tira de mim o rancor que me aprisiona por dentro. Dá-me coragem para soltar quem me feriu e confiar a Ti a justiça. Em nome de Jesus, amém.",
   "texto_base": [
    "Efésios 4:32",
    "Colossenses 3:13"
   ],
   "observacao": [
    {
-    "q": "Qual a medida e o motivo do perdão, segundo Paulo?",
-    "a": "Perdoar como Deus, em Cristo, nos perdoou. O perdão recebido é a régua do perdão dado.",
-    "ref": "Colossenses 3:13",
-    "ref_text": "suportando-vos e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como o Senhor vos perdoou, assim fazei vós também."
+    "ref": "Mateus 18:21",
+    "text": "Então Pedro, aproximando-se dele, lhe perguntou: Senhor, até quantas vezes pecará meu irmão contra mim, e eu hei de perdoar? Até sete?",
+    "contexto": "Pedro pergunta a Jesus quantas vezes deve perdoar o irmão.",
+    "ensino": "Pedro achou generoso perdoar sete vezes; Jesus respondeu “setenta vezes sete” — ou seja, pare de contar. Perdão que fica fazendo a conta das ofensas ainda não é perdão; é uma dívida anotada esperando cobrança.",
+    "reflexao": "Pedro acha generoso perdoar 7 vezes; Jesus mostra que o perdão não se conta, se vive."
    },
    {
-    "q": "O que Jesus liga ao perdoarmos os outros?",
-    "a": "Ao perdão que recebemos do Pai. Quem não perdoa, fecha a porta do próprio perdão.",
-    "ref": "Mateus 6:14",
-    "ref_text": "Porque, se perdoardes aos homens as suas ofensas, também vosso Pai celestial vos perdoará a vós;"
+    "ref": "Marcos 11:25",
+    "text": "Quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que também vosso Pai que está no céu, vos perdoe as vossas ofensas.",
+    "contexto": "Jesus ensina sobre oração e fé.",
+    "ensino": "Jesus liga oração e perdão: levar rancor para a oração é como tentar falar ao telefone com a linha cortada. Guardar mágoa trava a comunhão com Deus; soltar a ofensa reabre o canal.",
+    "reflexao": "Liga oração e perdão: levar rancor para a oração trava a comunhão com Deus."
    },
    {
-    "q": "Quantas vezes devemos perdoar?",
-    "a": "\"Setenta vezes sete\": ou seja, sem ficar contando. O perdão cristão não tem cota.",
-    "ref": "Mateus 18:22",
-    "ref_text": "Respondeu-lhe Jesus: Não te digo que até sete; mas até setenta vezes sete."
+    "ref": "Lucas 6:37",
+    "text": "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis perdoados.",
+    "contexto": "Parte do ensino de Jesus sobre não julgar.",
+    "ensino": "A medida que usamos com os outros volta para nós: “perdoai, e sereis perdoados”. É como um eco — o que se solta no vale é o que retorna. Reter o perdão é, no fundo, fechar a porta do próprio alívio.",
+    "reflexao": "\"Perdoai, e sereis perdoados\": a medida que usamos com os outros volta para nós."
    },
    {
-    "q": "O que Deus faz com os nossos pecados perdoados?",
-    "a": "Afasta-os de nós quanto o Oriente do Ocidente. O perdão de Deus é completo e definitivo.",
-    "ref": "Salmos 103:12",
-    "ref_text": "Quanto o oriente está longe do ocidente, tanto tem ele afastado de nós as nossas transgressões."
+    "ref": "Lucas 23:34",
+    "text": "Jesus, porém, dizia: Pai, perdoa-lhes; porque não sabem o que fazem. Então repartiram as vestes dele, deitando sortes sobre elas.",
+    "contexto": "Jesus na cruz, sendo executado injustamente.",
+    "ensino": "Na cruz, sendo executado injustamente, Jesus ora “Pai, perdoa-lhes”. É o limite máximo do perdão: alcança até quem fere de propósito. Se Ele perdoou ali, o nosso “impossível de perdoar” ganha outra medida.",
+    "reflexao": "O maior exemplo: Ele perdoa quem O mata. O perdão cristão alcança até a injustiça extrema."
    }
   ],
   "interpretacao": {
@@ -1461,28 +1331,6 @@ window.ESTUDOS = [
     "Paulo escreve a comunidades onde havia atritos reais. A base do perdão não é a pessoa merecer, mas o quanto fomos perdoados por Deus.",
     "Perdoar não é dizer que o erro não doeu ou não importou. É decidir não cobrar mais a dívida, entregando a Deus a justiça.",
     "Jesus é direto: o perdão que recebemos e o que damos estão ligados. Guardar rancor é viver preso à dívida que Deus já quer cancelar."
-   ],
-   "refs": [
-    {
-     "ref": "Mateus 18:21",
-     "ctx": "Pedro pergunta a Jesus quantas vezes deve perdoar o irmão.",
-     "exp": "Pedro acha generoso perdoar 7 vezes; Jesus mostra que o perdão não se conta, se vive."
-    },
-    {
-     "ref": "Marcos 11:25",
-     "ctx": "Jesus ensina sobre oração e fé.",
-     "exp": "Liga oração e perdão: levar rancor para a oração trava a comunhão com Deus."
-    },
-    {
-     "ref": "Lucas 6:37",
-     "ctx": "Parte do ensino de Jesus sobre não julgar.",
-     "exp": "\"Perdoai, e sereis perdoados\": a medida que usamos com os outros volta para nós."
-    },
-    {
-     "ref": "Lucas 23:34",
-     "ctx": "Jesus na cruz, sendo executado injustamente.",
-     "exp": "O maior exemplo: Ele perdoa quem O mata. O perdão cristão alcança até a injustiça extrema."
-    }
    ]
   },
   "aplicacao": [
@@ -1505,7 +1353,7 @@ window.ESTUDOS = [
     "ref_text": "Quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que também vosso Pai que está no céu, vos perdoe as vossas ofensas."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu afastaste de mim os meus pecados, longe como o Oriente do Ocidente. Dá-me coragem para perdoar como fui perdoado. Tira o rancor do meu coração e cura as feridas que ele guardou. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu afastaste de mim os meus pecados, longe como o Oriente do Ocidente. Dá-me coragem para perdoar como fui perdoado, sem ficar contando as ofensas. Tira o rancor do meu coração, cura as feridas que ele guardou e liberta a minha oração de qualquer mágoa. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Efésios 4:32",
@@ -4919,35 +4767,39 @@ window.ESTUDOS = [
   "emoji": "⚖️",
   "accent": "#8a6f5a",
   "resumo": "Como lei e graça se relacionam.",
-  "oracao_abertura": "Senhor, eu fico entre dois perigos: o legalismo que tenta merecer-Te e o descuido que ignora a Tua vontade. Ensina-me a relação certa entre a lei e a graça. Que eu viva pela graça e ame a Tua vontade. Em nome de Jesus, amém.",
+  "oracao_abertura": "Pai, eu venho a Ti com gratidão, porque a Tua graça me alcançou antes de eu merecer e a Tua Palavra me orienta quando eu me perco. Obrigado por não me deixares nem no legalismo que tenta Te comprar, nem no descuido que Te ignora. Abre o meu entendimento neste tema delicado, em que pessoas fiéis discordam: guarda-me da arrogância e do orgulho de quem acha que já sabe tudo. Ensina-me o que a Tua Palavra revela e dá-me um coração que ame a Tua vontade e descanse na Tua graça. Em nome de Jesus, amém.",
   "texto_base": [
    "João 1:17",
    "Romanos 6:14"
   ],
   "observacao": [
    {
-    "q": "Por meio de quem vieram a lei e a graça, segundo João?",
-    "a": "\"A lei foi dada por Moisés; a graça e a verdade vieram por Jesus Cristo\". As duas têm origem em Deus, em momentos diferentes.",
     "ref": "João 1:17",
-    "ref_text": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por Jesus Cristo."
+    "contexto": "João abre o seu evangelho apresentando Jesus como a Palavra que se fez carne. Logo em seguida ele contrasta dois grandes momentos da história de Deus: a lei, dada por Moisés, e a graça e a verdade, que vieram por meio de Cristo.",
+    "ensino": "Lei e graça não são inimigas; são capítulos da mesma história. A lei funciona como um espelho que mostra a sujeira no rosto; a graça é a água que lava. O espelho é bom e necessário, mas ele não limpa ninguém. Por isso precisamos dos dois: a lei para enxergar a necessidade, e a graça para suprir aquilo que sozinhos não conseguimos.",
+    "reflexao": "Você tem usado as regras para tentar se limpar, ou para reconhecer que precisa da graça? O espelho aponta o problema; só Cristo o resolve.",
+    "text": "Porque a lei foi dada por meio de Moisés; a graça e a verdade vieram por Jesus Cristo."
    },
    {
-    "q": "Sob o que está o cristão, segundo Romanos 6?",
-    "a": "\"Não estais debaixo da lei, mas debaixo da graça\". A relação do crente com Deus se dá pela graça.",
     "ref": "Romanos 6:14",
-    "ref_text": "Pois o pecado não terá domínio sobre vós, porquanto não estais debaixo da lei, mas debaixo da graça."
+    "contexto": "Paulo escreve aos romanos respondendo a uma dúvida séria: se a graça perdoa tudo, então tanto faz pecar? No capítulo 6 ele explica a vida nova do cristão, alguém que morreu para o pecado e vive para Deus.",
+    "ensino": "Estar “debaixo da graça” não é ganhar passe livre para errar; é trocar de senhor. Antes o pecado mandava como um patrão duro; agora a graça liberta para uma vida nova. É a diferença entre obedecer com medo da punição e viver por amor a Quem te libertou.",
+    "reflexao": "A graça que você recebeu te deixou mais leve para o bem, ou virou desculpa para o mal? Graça verdadeira liberta do pecado, e não para ele.",
+    "text": "Pois o pecado não terá domínio sobre vós, porquanto não estais debaixo da lei, mas debaixo da graça."
    },
    {
-    "q": "Para que serve a lei, segundo Romanos 3?",
-    "a": "\"Pela lei vem o conhecimento do pecado\". A lei mostra o erro, mas não tem poder de salvar.",
     "ref": "Romanos 3:20",
-    "ref_text": "porquanto pelas obras da lei nenhum homem será justificado diante dele; pois o que vem pela lei é o pleno conhecimento do pecado."
+    "contexto": "No começo de Romanos, Paulo demonstra que todos pecaram, judeus e gentios, sem exceção. É nesse contexto que ele explica para que serve a lei diante do nosso fracasso.",
+    "ensino": "A lei é como o exame de sangue: revela a doença, mas não cura. “Pela lei vem o conhecimento do pecado” — ela mostra onde erramos, porém não tem poder de salvar. Quem tenta se acertar com Deus só guardando regras é como quem espera sarar relendo o resultado do exame.",
+    "reflexao": "Você tem confiado no seu esforço de cumprir regras para estar certo com Deus? A lei diagnostica; a cura é a graça em Cristo.",
+    "text": "porquanto pelas obras da lei nenhum homem será justificado diante dele; pois o que vem pela lei é o pleno conhecimento do pecado."
    },
    {
-    "q": "Que papel a lei teve, segundo Gálatas 3?",
-    "a": "Foi \"aio\" (tutor) para nos conduzir a Cristo. A lei aponta a necessidade da graça.",
     "ref": "Gálatas 3:24",
-    "ref_text": "De modo que a lei se tornou nosso aio, para nos conduzir a Cristo, a fim de que pela fé fôssemos justificados."
+    "contexto": "Paulo escreve a igrejas da Galácia que estavam voltando a tentar se salvar pela lei. Ele usa a imagem do “aio”: o tutor que, na cultura antiga, conduzia a criança pela mão até o mestre.",
+    "ensino": "A lei foi o tutor que nos levou até Cristo. Assim como o professor do primário prepara o aluno para etapas maiores, a lei nos prepara mostrando que precisamos de um Salvador. Cumprido esse papel, o destino é Cristo, não o tutor.",
+    "reflexao": "Você parou no “tutor” (as regras) ou chegou ao Mestre (Cristo)? A lei é boa, mas o destino dela é te conduzir à graça.",
+    "text": "De modo que a lei se tornou nosso aio, para nos conduzir a Cristo, a fim de que pela fé fôssemos justificados."
    }
   ],
   "interpretacao": {
@@ -5033,7 +4885,7 @@ window.ESTUDOS = [
     "ref_text": "Ele te declarou, ó homem, o que é bom; e que é o que o Senhor requer de ti, senão que pratiques a justiça, e ames a benevolência, e andes humildemente com o teu Deus?"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pela graça que me salva e pela Tua vontade que me orienta. Guarda-me do legalismo e do descuido. Ensina-me a viver pela graça, amando-Te e amando o próximo, que é o cumprimento da Tua lei. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pela graça que me salva e pela Tua vontade que me orienta o caminho. Guarda-me dos dois perigos: o de tentar Te merecer pelo esforço e o de tratar a Tua graça como desculpa para o erro. Ajuda-me a viver pela graça, amando-Te e amando o próximo, que é o resumo de tudo o que pedes. E onde eu ainda discordo de irmãos sobre estes assuntos, dá-me humildade para sustentar a minha convicção sem quebrar a comunhão. Que a minha vida seja resposta de amor à Tua bondade. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "João 1:17",
