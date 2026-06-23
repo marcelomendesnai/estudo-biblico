@@ -1488,4 +1488,22 @@ function ligarInterativos(){
 }
 
 /* ===== TRILHA DE PIANO (arquivo real trilha.mp3, composto p/ o app — sem copyright) ===== */
-const trilha=$('#trilha'); let running=false, fadeT=null; const V
+const trilha=$('#trilha'); let running=false, fadeT=null; const VOL=0.6;
+function fadeTo(target,done){
+  clearInterval(fadeT);
+  fadeT=setInterval(()=>{
+    let v=trilha.volume;
+    if(Math.abs(v-target)<0.05){ trilha.volume=target; clearInterval(fadeT); if(done)done(); }
+    else trilha.volume=Math.min(1,Math.max(0, v+(target>v?0.05:-0.05)));
+  },70);
+}
+function startMusic(){ trilha.volume=0; const p=trilha.play(); if(p&&p.catch)p.catch(()=>{}); running=true; ico(); fadeTo(VOL); }
+function pauseMusic(){ running=false; ico(); fadeTo(0, ()=>{ try{trilha.pause();}catch(e){} }); }
+function ico(){ $('#trilhaIco').innerHTML=running?'&#10074;&#10074;':'&#9658;'; $('#trilhaTxt').textContent=running?'piano':'pausado'; }
+$('#trilhaBtn').onclick=()=> running?pauseMusic():startMusic();
+
+/* ===== service worker (offline / instalável) ===== */
+if('serviceWorker' in navigator){ window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{})); }
+</script>
+</body>
+</html>
