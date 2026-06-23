@@ -5,75 +5,71 @@ window.ESTUDOS = [
   "emoji": "✨",
   "accent": "#c9a227",
   "resumo": "Confiar no que ainda não se vê.",
-  "oracao_abertura": "Senhor, antes de qualquer palavra, aquieta o meu coração. Há tantas vozes disputando a minha atenção; faze silêncio dentro de mim. Abre os meus olhos para enxergar maravilhas na Tua Palavra, e tira de mim as ideias prontas que eu trago comigo. Que eu não venha buscar aquilo que já quero ouvir, mas aquilo que Tu queres me dizer. Em nome de Jesus, amém.",
+  "oracao_abertura": "Pai, eu venho a Ti com gratidão, porque antes de eu Te buscar, Tu já me buscaste, e antes de eu crer, Tu já me amavas. Obrigado por me receberes como eu sou, com a fé que tenho e com as dúvidas que ainda carrego. Abre agora o meu entendimento: tira de mim as ideias prontas e o costume de ler sem ver, e dá-me olhos para enxergar maravilhas na Tua Palavra. Fala ao meu coração naquilo que eu mais preciso ouvir hoje, mesmo que não seja o que eu queria ouvir. E não me deixes sair deste tempo do mesmo jeito que entrei: que cada verdade que eu encontrar aqui desça da minha cabeça para a minha vida. Em nome de Jesus, amém.",
   "texto_base": [
    "Hebreus 11:1",
    "Hebreus 11:6"
   ],
   "observacao": [
    {
-    "q": "Como o autor define a fé? Quais duas palavras ele usa?",
-    "a": "Como \"firme fundamento\" das coisas que se esperam e \"prova\" das coisas que não se vêem: confiança no que Deus prometeu e convicção do que ainda não se enxerga.",
-    "ref": "Romanos 8:24-25",
-    "ref_text": "Porque na esperança fomos salvos. Ora, a esperança que se vê não é esperança; pois o que alguém vê, como o espera? Mas, se esperamos o que não vemos, com paciência o aguardamos."
+    "ref": "Hebreus 11:1",
+    "ensino": "Repare nas duas palavras que o texto usa: a fé é “fundamento” e “prova”. Fundamento é a base que sustenta; prova é a certeza que convence. No dia a dia você já vive assim: senta numa cadeira confiando que ela aguenta antes de testá-la, e trabalha o mês inteiro contando com um salário que ainda não caiu na conta. A fé em Deus é esse mesmo movimento, levado ao nível mais alto: agir hoje firmado em promessas Dele que ainda não se cumpriram diante dos seus olhos.",
+    "text": "Ora, a fé é o firme fundamento das coisas que se esperam, e a prova das coisas que não se vêem."
    },
    {
-    "q": "A fé se liga a coisas vistas ou não vistas? Por que importa?",
-    "a": "Às não vistas. Importa porque o que é eterno justamente não se vê: a fé treina o olhar para além do imediato.",
-    "ref": "2 Coríntios 4:18",
-    "ref_text": "não atentando nós nas coisas que se vêem, mas sim nas que se não vêem; porque as que se vêem são temporais, enquanto as que se não vêem são eternas."
+    "ref": "Romanos 10:17",
+    "ensino": "A fé não nasce do nada, nem de tentar “forçar” a crença apertando os olhos. Ela cresce pelo ouvir a palavra de Cristo. É como a confiança numa pessoa: você passa a confiar à medida que a conhece e ouve o que ela diz. Por isso, quando a sua fé está fraca, o caminho não é se esforçar mais para sentir, e sim chegar mais perto da Palavra, onde a fé é alimentada e desperta de novo.",
+    "text": "Logo a fé é pelo ouvir, e o ouvir pela palavra de Cristo."
    },
    {
-    "q": "No versículo 6, o que se torna impossível sem fé?",
-    "a": "Agradar a Deus. Sem fé, nem as boas ações alcançam esse fim, porque tudo nasce da confiança Nele.",
-    "ref": "Romanos 14:23",
-    "ref_text": "Mas aquele que tem dúvidas, se come está condenado, porque o que faz não provém da fé; e tudo o que não provém da fé é pecado."
+    "ref": "Tiago 2:17",
+    "ensino": "Aqui está o equilíbrio: a fé verdadeira não fica parada na cabeça, ela se move nas mãos. Dizer que confia no médico, mas não tomar o remédio que ele receitou, não é confiança de verdade. Crer em Deus e nunca dar um passo de obediência é uma fé só de palavra. As obras não compram nada diante de Deus, mas mostram que a fé está viva, assim como o fruto mostra que a árvore tem raiz.",
+    "text": "Assim também a fé, se não tiver obras, é morta em si mesma."
    },
    {
-    "q": "O que o texto diz que Deus faz com os que O buscam?",
-    "a": "Ele é \"galardoador\": recompensa quem O procura. Buscar a Deus de verdade não fica sem resposta.",
-    "ref": "Jeremias 29:13",
-    "ref_text": "Buscar-me-eis, e me achareis, quando me buscardes de todo o vosso coração."
+    "ref": "Mateus 17:20",
+    "ensino": "Jesus não elogia o tamanho da fé, mas a sua direção. Uma fé do tamanho de um grão de mostarda já move montanhas, porque o poder não está na intensidade do seu sentimento, e sim em Quem você confia. Uma chave pequena abre uma porta enorme. Então não espere ter uma fé gigante para começar: traga a fé pequena que você tem e coloque-a no Deus grande a quem você serve.",
+    "text": "Disse-lhes ele: Por causa da vossa pouca fé; pois em verdade vos digo que, se tiverdes fé como um grão de mostarda direis a este monte: Passa daqui para acolá, e ele há de passar; e nada vos será impossível."
    }
   ],
   "interpretacao": {
    "comentario": [
-    "A carta aos Hebreus foi escrita a cristãos cansados, pressionados e tentados a abandonar a fé. O capítulo 11 é a resposta: uma galeria de pessoas que confiaram em Deus sem ver o resultado de imediato.",
-    "Antes de citar os exemplos, o autor define a fé. Não é um sentimento vago nem otimismo: é confiança firme naquilo que Deus prometeu e convicção do que ainda não se vê.",
-    "O versículo 6 completa: aproximar-se de Deus exige crer que Ele existe e que recompensa quem O busca. Fé, aqui, é movimento em direção a Deus."
+    "A carta aos Hebreus foi escrita a cristãos cansados, pressionados e tentados a abandonar a fé e voltar atrás. O capítulo 11 é a resposta do autor: uma verdadeira galeria de pessoas comuns que confiaram em Deus sem ver o resultado de imediato.",
+    "Antes de citar qualquer exemplo, porém, ele define o que é a fé. Não é um sentimento que vai e vem, nem otimismo: é confiança firme naquilo que Deus prometeu e convicção do que ainda não se vê.",
+    "E o versículo 6 fecha o raciocínio: aproximar-se de Deus exige crer que Ele existe e que recompensa quem O busca. Fé, aqui, não é uma ideia parada na cabeça, é movimento em direção a Deus."
    ],
    "refs": [
     {
-     "ref": "Romanos 10:17",
-     "ctx": "Paulo escreve por volta do ano 57 a uma igreja em Roma que ainda não conhecia. No capítulo 10 trata da salvação para judeus e gentios e insiste que ninguém crê em quem nunca ouviu.",
-     "exp": "Mostra DE ONDE nasce a fé: do contato com a palavra de Deus. Ela é despertada pelo ouvir.",
-     "ref_text": "Logo a fé é pelo ouvir, e o ouvir pela palavra de Cristo."
+     "ref": "Hebreus 11:3",
+     "ctx": "Logo depois de definir a fé e de dizer que sem ela é impossível agradar a Deus, o autor começa a sua lista de exemplos. Mas, antes de citar qualquer pessoa, ele aponta para o ato mais antigo de todos: a própria criação. Escrevendo a cristãos judeus cansados e tentados a desistir, lembrá-los da fé desde a fundação do mundo era mostrar que confiar em Deus é mais antigo e mais firme do que as pressões do presente.",
+     "exp": "A fé enxerga a mão de Deus onde os olhos não alcançam: cremos que Ele formou o que vemos a partir do que não se via.",
+     "text": "Pela fé entendemos que os mundos foram criados pela palavra de Deus; de modo que o visível não foi feito daquilo que se vê."
     },
     {
-     "ref": "Tiago 2:17",
-     "ctx": "Carta atribuída a Tiago, líder da igreja de Jerusalém, a cristãos judeus dispersos. No capítulo 2 ele repreende quem despreza o pobre e deseja \"bom proveito\" a um faminto sem nada fazer.",
-     "exp": "Equilibra: a fé verdadeira não fica na teoria, prova-se em atitudes. Crer e agir andam juntos.",
-     "ref_text": "Assim também a fé, se não tiver obras, é morta em si mesma."
+     "ref": "Efésios 2:8",
+     "ctx": "Paulo escreve a cristãos em Éfeso, uma cidade rica e muito religiosa, cheia de templos e de gente tentando agradar aos deuses pelo próprio mérito. Contra essa cultura de “merecer o favor divino”, ele afirma que a salvação é dom de Deus, recebido pela fé, e não algo conquistado por obras das quais alguém possa se gabar.",
+     "exp": "Mostra a natureza da fé que salva: ela não é mais uma obra para nos orgulharmos, é a mão vazia que se abre para receber o presente de Deus.",
+     "text": "Porque pela graça sois salvos, por meio da fé, e isto não vem de vós, é dom de Deus;"
     },
     {
      "ref": "2 Coríntios 5:7",
-     "ctx": "Paulo defende seu ministério em meio a sofrimento. No capítulo 5 fala da esperança após a morte e do corpo como \"tenda\" provisória.",
-     "exp": "Resume o jeito de viver proposto: caminhar pela confiança em Deus, não só pelo que se enxerga.",
-     "ref_text": "{porque andamos por fé, e não por vista};"
+     "ctx": "Paulo escreve a uma igreja conturbada em Corinto, defendendo o seu ministério em meio a muito sofrimento, prisões e perseguição. No capítulo 5 ele fala da esperança que há depois da morte e descreve o corpo atual como uma “tenda” provisória; é nesse contexto de fragilidade e de olhar para o eterno que ele resume o seu modo de viver.",
+     "exp": "Resume a vida de fé: caminhar confiando em Deus e na realidade que não se vê, e não apenas no que os olhos enxergam agora.",
+     "text": "{porque andamos por fé, e não por vista};"
     },
     {
-     "ref": "Mateus 17:20",
-     "ctx": "Jesus diz isso após descer do monte da transfiguração, quando os discípulos não conseguiram libertar um menino atormentado.",
-     "exp": "O tamanho da fé importa menos que a direção. Uma fé pequena, posta no Deus certo, já basta.",
-     "ref_text": "Disse-lhes ele: Por causa da vossa pouca fé; pois em verdade vos digo que, se tiverdes fé como um grão de mostarda direis a este monte: Passa daqui para acolá, e ele há de passar; e nada vos será impossível."
+     "ref": "Romanos 4:20",
+     "ctx": "Para explicar a justificação pela fé, Paulo recorre a Abraão, o grande exemplo. Deus havia prometido a ele um filho quando já era idoso e a esposa, estéril; humanamente falando, impossível. Décadas se passaram entre a promessa e o cumprimento, e é a postura de Abraão nessa longa espera que Paulo destaca.",
+     "exp": "Mostra a fé madura: diante do impossível, Abraão não vacilou, mas se fortaleceu dando glória a Deus, convicto de que Ele é poderoso para cumprir o que promete.",
+     "text": "contudo, à vista da promessa de Deus, não vacilou por incredulidade, antes foi fortalecido na fé, dando glória a Deus,"
     }
    ]
   },
   "aplicacao": [
    {
-    "q": "Em que área da sua vida hoje você está andando \"por vista\", controlando tudo, e não por fé?",
+    "q": "Em que área da sua vida hoje você está andando “por vista”, controlando tudo, e não por fé?",
     "ref": "Provérbios 3:5-6",
-    "orient": "Seja qual for a área que você escreveu, o convite é confiar mais no Senhor do que no próprio controle. Em oração, entregue a parte que não depende de você e faça com fidelidade a parte que depende.",
+    "orient": "Seja qual for a área que você escreveu, o convite é o mesmo: confiar mais no Senhor do que no próprio controle. Em oração, entregue a parte que não depende de você e faça com fidelidade a parte que depende.",
     "ref_text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
    },
    {
@@ -89,7 +85,7 @@ window.ESTUDOS = [
     "ref_text": "E sede cumpridores da palavra e não somente ouvintes, enganando-vos a vós mesmos."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado por me lembrar que a fé não depende de eu enxergar todo o caminho. Tu és o firme fundamento quando tudo parece incerto. Perdoa as vezes em que tentei carregar sozinho o que era para entregar a Ti. Que eu Te busque de verdade, crendo que Tu existes e que recompensas quem Te procura. Firma o meu coração na Tua promessa hoje. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado por este tempo na Tua Palavra e por me lembrares de que a fé não depende de eu enxergar todo o caminho. Tu és o firme fundamento quando tudo ao meu redor parece incerto. Perdoa-me as vezes em que tentei carregar sozinho aquilo que era para entregar a Ti, e as vezes em que duvidei da Tua bondade. Hoje eu escolho confiar; ajuda a minha incredulidade onde ela ainda existe, e firma o meu coração na Tua promessa. Que eu saia daqui não apenas sabendo mais sobre a fé, mas vivendo por ela, andando por fé e não por vista. Guarda-me, guia-me e usa a minha vida para a Tua glória. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Hebreus 11:1",
