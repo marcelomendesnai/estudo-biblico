@@ -3176,7 +3176,7 @@ window.ESTUDOS = [
   "emoji": "🔄",
   "accent": "#b07a4a",
   "resumo": "Voltar para Deus de coração.",
-  "oracao_abertura": "Senhor, eu erro e muitas vezes só sinto culpa, sem mudar de verdade. Obrigado porque Tu recebes quem volta. Abre o meu entendimento e ensina-me o verdadeiro arrependimento: reconhecer, voltar para Ti e mudar de caminho. Cria em mim um coração quebrantado e disposto. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é difícil admitir os meus erros, e às vezes eu prefiro escondê-los a encará-los. Obrigado porque Tu não me afastas quando volto, mas corres ao meu encontro como o pai do filho pródigo. Abre o meu coração, neste tempo, e dá-me um arrependimento de verdade, que muda, e não só lamenta. Mostra-me o que eu preciso confessar e abandonar. E lembra-me de que sempre há caminho de volta para Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "Atos 3:19",
    "2 Crônicas 7:14"
@@ -3185,28 +3185,28 @@ window.ESTUDOS = [
    {
     "ref": "2 Coríntios 7:10",
     "text": "Porque a tristeza segundo Deus opera arrependimento para a salvação, o qual não traz pesar; mas a tristeza do mundo opera a morte.",
-    "contexto": "Paulo distingue dois tipos de tristeza pelo pecado.",
+    "contexto": "Paulo distingue dois tipos de tristeza pelo erro: a “tristeza segundo Deus opera arrependimento para a salvação”, enquanto a “tristeza do mundo opera a morte”. O arrependimento verdadeiro não é só lamentar; é a dor que produz mudança e leva de volta a Deus.",
     "ensino": "Há a tristeza que leva a Deus (arrependimento e vida) e a que só afunda em remorso (morte). A diferença é o destino: uma levanta e muda; a outra senta e se castiga. Arrependimento verdadeiro caminha, não só lamenta.",
     "reflexao": "A \"tristeza segundo Deus\" produz arrependimento para a salvação; a do mundo produz morte. O alvo é mudar, não só se culpar."
    },
    {
     "ref": "Lucas 15:18-20",
     "text": "Levantar-me-ei, irei ter com meu pai e dir-lhe-ei: Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado teu filho; trata-me como um dos teus empregados. Levantou-se, pois, e foi para seu pai. Estando ele ainda longe, seu pai o viu, encheu-se de compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou.",
-    "contexto": "O filho pródigo decide voltar para o pai.",
+    "contexto": "No clímax da parábola do filho pródigo, o rapaz arruinado decide voltar: “levantar-me-ei, e irei ter com meu pai, e dir-lhe-ei: Pai, pequei”. E o pai, vendo-o de longe, corre a abraçá-lo. É o retrato do arrependimento que reconhece o erro e do Deus que recebe de braços abertos.",
     "ensino": "O filho pródigo não só sentiu — ele levantou e voltou. E o pai correu ao seu encontro. Arrependimento completo tem três tempos: reconhecer, levantar e voltar. E sempre encontra um Pai que corre, não que cobra.",
     "reflexao": "Arrependimento completo: ele reconhece, levanta-se e volta; e o pai corre ao seu encontro. A volta é recebida com festa."
    },
    {
     "ref": "Joel 2:13",
     "text": "E rasgai o vosso coração, e não as vossas vestes; e convertei-vos ao Senhor vosso Deus; porque ele é misericordioso e compassivo, tardio em irar-se e grande em benignidade, e se arrepende do mal.",
-    "contexto": "O profeta chama o povo ao arrependimento.",
+    "contexto": "O profeta Joel convoca o povo ao arrependimento diante de um juízo iminente, mas pede o que é de verdade: “rasgai o vosso coração, e não as vossas vestes”. Critica o arrependimento de fachada e chama a um pesar interior, confiando que Deus é “misericordioso e compassivo”.",
     "ensino": "“Rasgai o vosso coração, e não as vossas vestes.” Deus não quer drama externo, quer mudança interna. Dá para parecer arrependido por fora e seguir igual por dentro. Ele olha o coração, não a encenação.",
     "reflexao": "\"Rasgai o vosso coração, e não as vossas vestes\": Deus quer mudança interior, não gesto externo de fachada."
    },
    {
     "ref": "Provérbios 28:13",
     "text": "O que encobre as suas transgressões nunca prosperará; mas o que as confessa e deixa, alcançará misericórdia.",
-    "contexto": "Provérbio sobre encobrir versus confessar.",
+    "contexto": "Provérbio que contrasta esconder e confessar: “o que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa alcançará misericórdia”. O arrependimento completo tem duas partes: confessar o erro e abandoná-lo, não apenas admiti-lo.",
     "ensino": "“Quem confessa e deixa os pecados alcançará misericórdia.” Repare nos dois verbos: confessar E deixar. Pedir perdão e continuar no mesmo erro é meio arrependimento. O outro meio é virar as costas para o que se confessou.",
     "reflexao": "\"Quem confessa e deixa os pecados alcançará misericórdia\": confessar E deixar, os dois lados do arrependimento."
    }
@@ -3238,7 +3238,7 @@ window.ESTUDOS = [
     "ref_text": "Deixe o ímpio o seu caminho, e o homem maligno os seus pensamentos; volte-se ao Senhor, que se compadecerá dele; e para o nosso Deus, porque é generoso em perdoar."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu recebes quem se volta para Ti e corres ao meu encontro. Dá-me um arrependimento que não só lamenta, mas muda de direção. Ajuda-me a confessar e a deixar o que Te entristece. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque és misericordioso e compassivo, e recebes quem volta arrependido. Dá-me a tristeza que leva à mudança, e não a que só me afunda. Ajuda-me a rasgar o coração, e não apenas as aparências, confessando e deixando o que está errado. Liberta-me da vergonha que me impede de voltar e da teimosia que me faz esconder. E ensina-me a viver a alegria de quem foi recebido de braços abertos. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Atos 3:19",
@@ -3256,7 +3256,7 @@ window.ESTUDOS = [
   "emoji": "🕊️",
   "accent": "#c0759a",
   "resumo": "O favor que não se merece.",
-  "oracao_abertura": "Senhor, eu vivo tentando merecer o que Tu já me dás de graça. Obrigado por me amares antes de eu fazer por merecer. Abre o meu entendimento e ajuda-me a descansar na Tua graça. Que ela não vire desculpa para o pecado, mas força para uma vida nova. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu tento tantas vezes merecer o Teu amor, como se ele dependesse do meu desempenho. Obrigado porque a Tua graça é maior do que qualquer erro meu. Abre o meu entendimento, neste tempo, e ajuda-me a receber o que não posso comprar nem merecer. Tira de mim o peso de ter que ser perfeito para ser aceito. E ensina-me a viver descansado na Tua graça, sem abusar dela. Em nome de Jesus, amém.",
   "texto_base": [
    "Efésios 2:8",
    "2 Coríntios 12:9"
@@ -3265,28 +3265,28 @@ window.ESTUDOS = [
    {
     "ref": "Romanos 5:20",
     "text": "Sobreveio, porém, a lei para que a ofensa abundasse; mas, onde o pecado abundou, superabundou a graça;",
-    "contexto": "Paulo explica o efeito da graça diante do pecado.",
+    "contexto": "No argumento central de Romanos sobre pecado e salvação, Paulo faz uma declaração impressionante: “onde o pecado abundou, superabundou a graça”. Por maior que seja a queda, a graça de Deus é sempre maior — não há erro que ela não possa cobrir.",
     "ensino": "“Onde o pecado abundou, superabundou a graça.” Não existe buraco tão fundo que a graça não alcance. Por pior que tenha sido, o perdão de Deus é maior. A graça sempre tem a última palavra sobre o pecado.",
     "reflexao": "\"Onde o pecado abundou, superabundou a graça\": não existe pecado maior que a graça de Deus."
    },
    {
     "ref": "Hebreus 4:16",
     "text": "Cheguemo-nos, pois, confiadamente ao trono da graça, para que recebamos misericórdia e achemos graça, a fim de sermos socorridos no momento oportuno.",
-    "contexto": "O autor convida a buscar a Deus com confiança.",
+    "contexto": "A carta apresenta Jesus como sumo sacerdote que entende as nossas fraquezas, e por isso convida: “cheguemos com confiança ao trono da graça, para que recebamos misericórdia e achemos graça”. O acesso a Deus é por graça, não por mérito, e pode ser buscado com ousadia.",
     "ensino": "“Cheguemos com confiança ao trono da graça.” Por causa de Jesus, dá para se aproximar de Deus sem medo, como filho que entra na sala do pai, e não como réu diante do juiz. A graça troca o tribunal pelo abraço.",
     "reflexao": "\"Cheguemos com confiança ao trono da graça\": por causa da graça, podemos nos achegar a Deus sem medo."
    },
    {
     "ref": "João 1:16",
     "text": "Pois todos nós recebemos da sua plenitude, e graça sobre graça.",
-    "contexto": "João descreve o que recebemos de Cristo.",
+    "contexto": "No prólogo do evangelho, João descreve a abundância trazida por Jesus: “todos nós recebemos da sua plenitude, e graça sobre graça”. A imagem é de uma graça que não se esgota, que vem em ondas sucessivas, sempre renovada.",
     "ensino": "“Da sua plenitude recebemos graça sobre graça.” A graça de Deus não é gota contada, é cachoeira contínua. Não acaba quando você erra de novo; vem em ondas, sempre nova. É abundância, não racionamento.",
     "reflexao": "\"Da sua plenitude recebemos graça sobre graça\": a graça de Deus é abundante e contínua, não escassa."
    },
    {
     "ref": "Romanos 6:1-2",
     "text": "Que diremos, pois? Permaneceremos no pecado, para que abunde a graça? De modo nenhum. Nós, que já morremos para o pecado, como viveremos ainda nele?",
-    "contexto": "Paulo responde a quem distorcia a graça.",
+    "contexto": "Sabendo que a graça é maior que o pecado, alguém poderia abusar dela. Paulo antecipa a objeção: “permaneceremos no pecado, para que a graça abunde? De modo nenhum!”. A graça não é licença para pecar, mas o poder que liberta de continuar no pecado.",
     "ensino": "“Continuaremos no pecado para que a graça abunde? De modo nenhum.” A graça que perdoa também transforma; não é licença para errar, é força para mudar. Quem entende a graça não a usa de desculpa, usa de combustível.",
     "reflexao": "\"Permaneceremos no pecado para que a graça abunde? De modo nenhum\": a graça liberta do pecado, não autoriza a ele."
    }
@@ -3318,7 +3318,7 @@ window.ESTUDOS = [
     "ref_text": "De modo nenhum. Nós, que já morremos para o pecado, como viveremos ainda nele?"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pela Tua graça, que eu não mereço e não consigo pagar. Ajuda-me a descansar nela e a não vivê-la como desculpa, mas como força para mudar. A Tua graça me basta. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque onde o meu pecado abundou, a Tua graça superabundou, e dela recebo graça sobre graça. Dá-me confiança para chegar ao Teu trono e ali achar misericórdia no tempo da necessidade. Guarda-me de transformar a Tua graça em desculpa para pecar, e usa-a para me libertar do pecado. Ensina-me a estender aos outros a mesma graça que recebo de Ti. E que eu nunca me canse de me admirar dela. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Efésios 2:8",
@@ -3336,7 +3336,7 @@ window.ESTUDOS = [
   "emoji": "✨",
   "accent": "#9a8ac0",
   "resumo": "Separado para Deus.",
-  "oracao_abertura": "Senhor, Tu és santo e me chamas a ser santo também — e isso me parece grande demais. Obrigado porque Tu mesmo operas isso em mim. Abre o meu entendimento e purifica o meu coração. Separa a minha vida para Ti, não pela minha força, mas pela Tua, que age em mim. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a santidade parece distante de mim, e às vezes eu nem sei por onde começar a mudar. Obrigado porque não me deixas sozinho nessa busca, e operas em mim o querer e o realizar. Abre o meu coração, neste tempo, e renova a minha mente, que tantas vezes copia os padrões do mundo. Purifica o que está sujo dentro de mim. E ajuda-me a buscar não a aparência de bom, mas um coração limpo diante de Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Pedro 1:15-16",
    "Hebreus 12:14"
@@ -3345,28 +3345,28 @@ window.ESTUDOS = [
    {
     "ref": "Filipenses 2:13",
     "text": "porque Deus é o que opera em vós tanto o querer como o efetuar, segundo a sua boa vontade.",
-    "contexto": "Paulo encoraja a igreja a viver a salvação.",
+    "contexto": "Paulo encoraja os filipenses a viverem a salvação na prática, lembrando quem está por trás disso: “Deus é o que opera em vós tanto o querer como o efetuar”. A santidade não é esforço solitário; é Deus trabalhando de dentro, dando até a vontade de mudar.",
     "ensino": "Santidade não é só força de vontade; Deus mesmo “opera em vós o querer e o efetuar”. É parceria: você se esforça, mas a energia vem Dele. Como a vela içada — você abre a vela, mas é o vento que move o barco.",
     "reflexao": "\"Deus é o que opera em vós tanto o querer como o efetuar\": a santidade é parceria, mas a força vem de Deus."
    },
    {
     "ref": "1 João 3:3",
     "text": "E todo o que nele tem esta esperança, purifica-se a si mesmo, assim como ele é puro.",
-    "contexto": "João fala da esperança de ver a Cristo.",
+    "contexto": "João fala da esperança de sermos transformados quando Jesus voltar, e tira disso uma consequência prática: “todo o que nele tem esta esperança purifica-se a si mesmo, assim como ele é puro”. A expectativa do encontro com Cristo motiva a busca pela pureza agora.",
     "ensino": "Quem espera encontrar Cristo se prepara, como quem arruma a casa antes da visita querida. A esperança de vê-Lo motiva uma vida mais limpa, não por medo, mas por amor a Quem se espera.",
     "reflexao": "\"Todo o que nele tem esta esperança purifica-se\": a esperança em Jesus motiva uma vida mais limpa."
    },
    {
     "ref": "Romanos 12:2",
     "text": "E não vos conformeis a este mundo, mas transformai-vos pela renovação da vossa mente, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.",
-    "contexto": "Paulo apela por transformação de vida.",
+    "contexto": "Após explicar a salvação, Paulo descreve como deve ser a vida transformada: “não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso entendimento”. A santidade começa na mente renovada, que deixa de copiar os padrões do mundo.",
     "ensino": "Há duas forças: o mundo te “molda” (conformar) e Deus te “transforma” (renovar a mente). Quem não escolhe é moldado por inércia. Santidade é decidir ser transformado em vez de copiar o que está em volta.",
     "reflexao": "\"Não vos conformeis com este mundo, mas transformai-vos\": santidade é não copiar o mundo, mas ser renovado por Deus."
    },
    {
     "ref": "Mateus 5:8",
     "text": "Bem-aventurados os limpos de coração, porque eles verão a Deus.",
-    "contexto": "Parte das bem-aventuranças.",
+    "contexto": "Nas Bem-aventuranças, Jesus declara: “bem-aventurados os limpos de coração, porque eles verão a Deus”. A santidade que importa não é a aparência externa, mas a pureza interior do coração, que abre os olhos para enxergar a Deus.",
     "ensino": "A santidade começa no coração, não na aparência. Dá para ter as mãos limpas e o coração sujo. O “limpo de coração” é o que cuida do que ninguém vê — e é esse que “verá a Deus”.",
     "reflexao": "\"Bem-aventurados os limpos de coração, porque verão a Deus\": a santidade é, no fundo, do coração para fora."
    }
@@ -3398,7 +3398,7 @@ window.ESTUDOS = [
     "ref_text": "porque Deus é o que opera em vós tanto o querer como o efetuar, segundo a sua boa vontade."
    }
   ],
-  "oracao_fechamento": "Pai santo, separa a minha vida para Ti. Purifica o meu coração e ajuda-me a não copiar o mundo, mas a ser transformado por Ti. Opera em mim o querer e o fazer, porque sozinho eu não consigo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque és Tu quem opera em mim tanto o querer quanto o realizar segundo a Tua vontade. Transforma-me pela renovação da minha mente, para que eu não me conforme com este mundo. Purifica o meu coração, para que eu te veja com clareza. Dá-me a esperança do encontro contigo como motivo para buscar a pureza hoje. E faze de mim, aos poucos, mais parecido com Jesus. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Pedro 1:15-16",
@@ -3416,7 +3416,7 @@ window.ESTUDOS = [
   "emoji": "🎯",
   "accent": "#b5783a",
   "resumo": "Para que Deus me criou.",
-  "oracao_abertura": "Senhor, às vezes me pergunto se a minha vida tem sentido e para onde vai. Obrigado porque Tu me criaste de propósito e tens planos para mim. Abre o meu entendimento e mostra-me as boas obras que preparaste. Ajuda-me a viver para aquilo que importa de verdade. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, às vezes eu me pergunto se a minha vida tem mesmo um sentido, ou se é só correria sem destino. Obrigado porque Tu me criaste com propósito, e não por acaso. Abre o meu entendimento, neste tempo, e mostra-me para que Tu me chamaste. Tira de mim a angústia de buscar sentido onde ele não está. E dá-me paz em saber que Tu diriges os meus passos, mesmo quando eu não vejo o caminho todo. Em nome de Jesus, amém.",
   "texto_base": [
    "Efésios 2:10",
    "Jeremias 29:11"
@@ -3425,28 +3425,28 @@ window.ESTUDOS = [
    {
     "ref": "Filipenses 1:6",
     "text": "tendo por certo isto mesmo, que aquele que em vós começou a boa obra a aperfeiçoará até o dia de Cristo Jesus,",
-    "contexto": "Paulo expressa confiança na obra de Deus na igreja.",
+    "contexto": "Paulo escreve aos filipenses com uma certeza encorajadora: “aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo”. O propósito de Deus na vida da pessoa não fica pela metade; Ele mesmo se compromete a concluir o que começou.",
     "ensino": "Deus não abandona obra pela metade: “o que começou aperfeiçoará”. Você pode estar inacabado, mas não está esquecido. Como o artista que não larga a tela no meio, Deus segue trabalhando em você.",
     "reflexao": "\"Aquele que começou a boa obra a aperfeiçoará\": Deus não desiste do propósito que iniciou em você."
    },
    {
     "ref": "Eclesiastes 12:13",
     "text": "Este é o fim do discurso; tudo já foi ouvido: Teme a Deus, e guarda os seus mandamentos; porque isto é todo o dever do homem.",
-    "contexto": "Conclusão do livro que buscou o sentido da vida.",
+    "contexto": "Depois de examinar todas as buscas humanas e chamá-las de vaidade, o autor do Eclesiastes chega à conclusão final: “teme a Deus e guarda os seus mandamentos; porque isto é o dever de todo o homem”. O sentido último da vida é encontrado em Deus, não nas conquistas.",
     "ensino": "Depois de buscar sentido em tudo, o Pregador conclui o básico: “teme a Deus e guarda os seus mandamentos”. O propósito de base, comum a todos, é viver para Deus. O resto se organiza a partir daí.",
     "reflexao": "\"Teme a Deus e guarda os seus mandamentos: este é o dever de todo homem\": o propósito de base, comum a todos."
    },
    {
     "ref": "Colossenses 1:16",
     "text": "porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades; tudo foi criado por ele e para ele.",
-    "contexto": "Paulo descreve a supremacia de Cristo.",
+    "contexto": "Paulo exalta a supremacia de Cristo afirmando que “todas as coisas foram criadas por ele e para ele”. Isso dá base ao propósito humano: fomos criados não por acaso, mas com intenção, e para algo maior do que nós mesmos.",
     "ensino": "Você não é acaso: foi criado “por Ele e para Ele”. Como um instrumento feito por um luthier tem finalidade, a sua vida aponta para Cristo. Encontrar propósito é descobrir para que (e para Quem) você foi feito.",
     "reflexao": "\"Tudo foi criado por Ele e para Ele\": o propósito último de tudo, inclusive da nossa vida, aponta para Cristo."
    },
    {
     "ref": "Provérbios 16:9",
     "text": "O coração do homem propõe o seu caminho; mas o Senhor lhe dirige os passos.",
-    "contexto": "Provérbio sobre planos e direção.",
+    "contexto": "Provérbio que equilibra planejamento e providência: “o coração do homem planeja o seu caminho, mas o Senhor lhe dirige os passos”. Não condena fazer planos, mas lembra que o propósito final está nas mãos de Deus, que conduz os passos.",
     "ensino": "Planejar é bom, mas o controle não é nosso: “o homem propõe, o Senhor lhe dirige os passos”. É como velejar: você ajusta as velas, Deus dá o vento. Propósito é fazer a sua parte e confiar a rota a Ele.",
     "reflexao": "\"O homem propõe... mas o Senhor lhe dirige os passos\": planejamos, mas é Deus quem conduz ao propósito."
    }
@@ -3478,7 +3478,7 @@ window.ESTUDOS = [
     "ref_text": "O coração do homem propõe o seu caminho; mas o Senhor lhe dirige os passos."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu me criaste de propósito e tens planos bons para mim. Mostra-me as boas obras que preparaste e dá-me coragem de andar nelas. Dirige os meus passos, porque o Teu propósito é o que permanece. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque começaste em mim uma boa obra e prometes completá-la. Fui criado por Ti e para Ti, e nisso encontro o meu propósito. Ajuda-me a fazer os meus planos confiando que és Tu quem dirige os meus passos. Liberta-me da pressa de descobrir tudo de uma vez e ensina-me a temer-Te e a te seguir um dia de cada vez. E que a minha vida cumpra aquilo para o que Tu me chamaste. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Efésios 2:10",
@@ -3496,7 +3496,7 @@ window.ESTUDOS = [
   "emoji": "🪞",
   "accent": "#5a8a9a",
   "resumo": "Quem eu sou em Cristo.",
-  "oracao_abertura": "Senhor, eu busco valor em tantas coisas que não me sustentam: desempenho, opinião dos outros, conquistas. Obrigado porque em Cristo eu sou amado, perdoado e Teu filho. Abre o meu entendimento e firma a minha identidade em Ti. Que eu viva a partir do Teu amor, e não para merecê-lo. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu construo a minha identidade no que faço, no que tenho e no que os outros pensam de mim, e isso me deixa inseguro. Obrigado porque, em Cristo, quem eu sou não depende do meu desempenho. Abre o meu coração, neste tempo, e ajuda-me a me ver como Tu me vês. Tira de mim a necessidade de provar o meu valor o tempo todo. E firma-me na verdade de que sou Teu filho, escolhido e amado. Em nome de Jesus, amém.",
   "texto_base": [
    "2 Coríntios 5:17",
    "João 1:12"
@@ -3505,28 +3505,28 @@ window.ESTUDOS = [
    {
     "ref": "Efésios 1:4-5",
     "text": "como também nos elegeu nele antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor; e nos predestinou para sermos filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade,",
-    "contexto": "Paulo descreve as bênçãos do cristão em Cristo.",
+    "contexto": "Paulo abre a carta aos Efésios celebrando quem o cristão é em Cristo: Deus “nos elegeu nele antes da fundação do mundo” e “nos predestinou para filhos de adoção”. A identidade do crente não se baseia em desempenho, mas em ter sido escolhido e adotado por Deus.",
     "ensino": "Antes de você fazer qualquer coisa, Deus já te escolheu e te adotou como filho. A sua identidade não foi conquistada, foi dada. Como a criança adotada, que não precisa “merecer” a família — ela já pertence.",
     "reflexao": "Fomos \"escolhidos\" e \"adotados como filhos\": a identidade vem da escolha e do amor de Deus, não do nosso mérito."
    },
    {
     "ref": "Romanos 8:16-17",
     "text": "O Espírito mesmo testifica com o nosso espírito que somos filhos de Deus; e, se filhos, também herdeiros, herdeiros de Deus e co-herdeiros de Cristo; se é certo que com ele padecemos, para que também com ele sejamos glorificados.",
-    "contexto": "Paulo fala da ação do Espírito no crente.",
+    "contexto": "No capítulo sobre a vida no Espírito, Paulo afirma que “o mesmo Espírito testifica com o nosso espírito que somos filhos de Deus; e, se filhos, também herdeiros”. A identidade cristã é de filho, com tudo o que isso implica de pertença e herança.",
     "ensino": "O Espírito “testifica que somos filhos” — e, “se filhos, também herdeiros”. Não somos empregados tentando agradar o patrão; somos filhos com herança garantida. Isso muda o tom da relação: de medo para confiança.",
     "reflexao": "O Espírito testifica que somos filhos, e \"se filhos, também herdeiros\": identidade e herança garantidas por Deus."
    },
    {
     "ref": "1 Pedro 2:9",
     "text": "Mas vós sois a geração eleita, o sacerdócio real, a nação santa, o povo todo seu para que proclameis as grandezas daquele que vos chamou das trevas para a sua maravilhosa luz,",
-    "contexto": "Pedro descreve quem os cristãos são.",
+    "contexto": "Pedro descreve a nova identidade coletiva dos cristãos com títulos antes reservados a Israel: “vós sois geração eleita, sacerdócio real, nação santa, povo adquirido”. Quem era “não povo” agora pertence a Deus, com dignidade e chamado próprios.",
     "ensino": "Pedro empilha títulos: “geração eleita, sacerdócio real, nação santa, povo de Deus”. Quando o mundo (ou a sua autocrítica) te diminui, lembre quem Deus diz que você é. A identidade certa vem de Deus, não dos rótulos dos outros.",
     "reflexao": "\"Geração eleita, sacerdócio real, nação santa, povo adquirido\": uma identidade de altíssimo valor diante de Deus."
    },
    {
     "ref": "Romanos 8:1",
     "text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus.",
-    "contexto": "Paulo conclui sobre a vida em Cristo.",
+    "contexto": "Após descrever a luta contra o pecado, Paulo anuncia a base da identidade liberta: “nenhuma condenação há para os que estão em Cristo Jesus”. A identidade do crente não é a de réu condenado, mas a de alguém absolvido e aceito.",
     "ensino": "“Nenhuma condenação há para os que estão em Cristo Jesus.” A voz que acusa (“você não presta”) não tem mais poder de sentença. Em Cristo, o veredito já foi dado: absolvido. A identidade em Cristo é livre de condenação.",
     "reflexao": "\"Nenhuma condenação há para os que estão em Cristo Jesus\": a identidade em Cristo é livre da condenação."
    }
@@ -3558,7 +3558,7 @@ window.ESTUDOS = [
     "ref_text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado por me fazeres nova criatura e Teu filho em Cristo. Firma a minha identidade em Ti, e não no que eu faço ou nos outros pensam. Silencia a voz que me condena e ajuda-me a viver a partir do Teu amor. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque me escolheste antes da fundação do mundo e me adotaste como Teu filho. Em Cristo não há condenação para mim, e o Teu Espírito confirma que eu te pertenço. Liberta-me de buscar a minha identidade no que é passageiro. Lembra-me, quando a insegurança bater, de que sou geração eleita e povo Teu. E que eu viva à altura de quem Tu dizes que eu sou. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "2 Coríntios 5:17",
@@ -3576,7 +3576,7 @@ window.ESTUDOS = [
   "emoji": "🧺",
   "accent": "#8a8a5a",
   "resumo": "Grandeza é servir.",
-  "oracao_abertura": "Senhor, eu prefiro ser servido a servir, e Tu sabes disso. Obrigado por Jesus, que veio servir. Abre o meu entendimento e quebra o orgulho em mim. Ensina-me a usar o que tenho para abençoar os outros, sem buscar reconhecimento. Dá-me um coração de servo. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu gosto mais de ser servido do que de servir, e busco o meu lugar antes do bem do próximo. Obrigado porque Jesus me mostrou que a verdadeira grandeza está em servir. Abre o meu coração, neste tempo, e tira de mim a vaidade que quer aparecer. Dá-me olhos para enxergar quem precisa de mim ao meu redor. E ensina-me a servir sem esperar reconhecimento, como quem serve a Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "Marcos 10:45",
    "Gálatas 5:13"
@@ -3585,28 +3585,28 @@ window.ESTUDOS = [
    {
     "ref": "Mateus 20:26-28",
     "text": "Não será assim entre vós; antes, qualquer que entre vós quiser tornar-se grande, será esse o que vos sirva; e qualquer que entre vós quiser ser o primeiro, será vosso servo; assim como o Filho do homem não veio para ser servido, mas para servir, e para dar a sua vida em resgate de muitos.",
-    "contexto": "Os discípulos disputavam quem seria o maior.",
+    "contexto": "Quando os discípulos disputam quem seria o maior, Jesus inverte a lógica do poder: “o que entre vós quiser ser grande seja vosso servo”. E aponta para o próprio exemplo: Ele veio “não para ser servido, mas para servir e dar a sua vida”. A grandeza, no Reino, mede-se pelo serviço.",
     "ensino": "Jesus inverte a lógica do mundo: grandeza é servir, não ser servido. O maior no Reino é o que mais serve. Como Ele mesmo, que “não veio para ser servido, mas para servir” — e definiu a própria vida assim.",
     "reflexao": "\"Quem quiser ser grande... seja vosso servo\": Jesus redefine grandeza como serviço, apontando para Si mesmo."
    },
    {
     "ref": "1 Pedro 4:10",
     "text": "servindo uns aos outros conforme o dom que cada um recebeu, como bons despenseiros da multiforme graça de Deus.",
-    "contexto": "Pedro orienta sobre o uso dos dons.",
+    "contexto": "Pedro ensina que cada cristão recebeu dons para um fim claro: “cada um administre aos outros o dom como o recebeu”. Os talentos não são para autopromoção, mas para servir; somos “bons despenseiros” de algo que recebemos para repartir.",
     "ensino": "Ninguém ficou de fora: “cada um” recebeu um dom para servir. Você tem algo — cozinhar, ouvir, ensinar, organizar — que pode abençoar alguém. Servir é usar o que Deus te deu para o bem do outro, não enterrar o talento.",
     "reflexao": "\"Cada um administre aos outros o dom que recebeu\": todos receberam algo para servir, ninguém está de fora."
    },
    {
     "ref": "Mateus 25:40",
     "text": "O Rei responderá: Em verdade vos digo que quantas vezes o fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes.",
-    "contexto": "Jesus descreve o juízo final e o cuidado com os necessitados.",
+    "contexto": "Na parábola do juízo final, o Rei identifica-Se com os necessitados: “quando o fizestes a um destes meus pequeninos, a mim o fizestes”. Servir os famintos, doentes e presos é apresentado como servir ao próprio Cristo, escondido neles.",
     "ensino": "Jesus se identifica com o necessitado: o que você faz ao pequenino, faz a Ele. Um prato de comida, uma visita, uma ajuda — é servir o próprio Cristo disfarçado. O serviço discreto tem destinatário ilustre.",
     "reflexao": "\"O que fizestes a um destes pequeninos, a mim o fizestes\": servir o necessitado é servir o próprio Cristo."
    },
    {
     "ref": "Filipenses 2:7",
     "text": "mas esvaziou-se a si mesmo, tomando a forma de servo, tornando-se semelhante aos homens;",
-    "contexto": "Paulo descreve a humilhação de Cristo.",
+    "contexto": "No grande hino sobre Cristo, Paulo descreve a humilhação de Jesus: “aniquilou-se a si mesmo, tomando a forma de servo”. O Filho de Deus escolheu o caminho de servo, e esse é o modelo que o cristão é chamado a imitar.",
     "ensino": "O modelo do serviço é Deus se fazendo servo: Jesus “esvaziou-se”, tomou “forma de servo”. A grandeza Dele apareceu em descer, não em subir. Servir não te diminui; te aproxima do jeito de Cristo.",
     "reflexao": "Ele \"tomou a forma de servo\": o modelo do serviço é o próprio Deus que se fez servo por amor."
    }
@@ -3638,7 +3638,7 @@ window.ESTUDOS = [
     "ref_text": "Porque vós, irmãos, fostes chamados à liberdade. Mas não useis da liberdade para dar ocasião à carne, antes pelo amor servi-vos uns aos outros."
    }
   ],
-  "oracao_fechamento": "Pai, quebra em mim o orgulho que prefere ser servido. Dá-me, como Jesus, um coração de servo, que usa o que tem para abençoar. Que eu encontre grandeza em servir, e não em ser reconhecido. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pelo exemplo de Jesus, que não veio para ser servido, mas para servir e dar a Sua vida. Ajuda-me a usar os dons que recebi para o bem dos outros, como bom despenseiro da Tua graça. Lembra-me de que, ao servir os pequeninos, é a Ti que sirvo. Tira de mim a sede de grandeza do mundo e dá-me a grandeza do Reino, que é servir. E faze do meu servir um reflexo do Teu amor. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Marcos 10:45",
