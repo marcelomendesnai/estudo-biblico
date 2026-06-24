@@ -1576,7 +1576,7 @@ window.ESTUDOS = [
   "emoji": "🌧️",
   "accent": "#5a6b8a",
   "resumo": "Deus perto de quem chora.",
-  "oracao_abertura": "Senhor, Tu vês a minha dor e contas as minhas lágrimas. Obrigado por não me pedires para fingir que está tudo bem. Chega perto do meu coração quebrado neste tempo e segura-me enquanto eu atravesso isto. Fala comigo com a Tua ternura e dá-me esperança no meio da tristeza. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a tristeza pesa, e às vezes eu nem consigo explicar de onde ela vem. Obrigado porque Tu não me mandas fingir que está tudo bem, e me recebes exatamente como eu estou. Abre o meu coração, neste tempo, e chega perto de mim no vale onde eu me encontro. Console-me como só Tu sabes consolar, sem pressa e sem cobrança. E ainda que a dor demore a passar, lembra-me de que Tu estás comigo e de que a alegria há de voltar. Em nome de Jesus, amém.",
   "texto_base": [
    "Salmos 34:18",
    "Mateus 5:4"
@@ -1585,28 +1585,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Tessalonicenses 4:13",
     "text": "Não queremos, porém, irmãos, que sejais ignorantes acerca dos que já dormem, para que não vos entristeçais como os outros que não têm esperança.",
-    "contexto": "Paulo conforta cristãos que perderam pessoas amadas e temiam não revê-las.",
+    "contexto": "Paulo escreve aos novos cristãos de Tessalônica, aflitos com a morte de irmãos da igreja, sem saber o que esperar. Ele não os manda parar de sofrer, mas explica que não devem se entristecer “como os que não têm esperança”: o luto cristão é real, mas carrega a esperança da ressurreição.",
     "ensino": "Paulo não proíbe a tristeza; ele a distingue. O cristão chora, mas não como quem perdeu tudo: chora com esperança, porque crê no reencontro. É a diferença entre um “adeus” e um “até logo”.",
     "reflexao": "Ele não proíbe a tristeza, mas a distingue: o cristão sofre COM esperança, por causa da ressurreição."
    },
    {
     "ref": "2 Coríntios 1:3-4",
     "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e Deus de toda a consolação, que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, pela consolação com que nós mesmos somos consolados por Deus.",
-    "contexto": "Paulo, que sofreu muito, escreve sobre o consolo de Deus.",
+    "contexto": "Paulo abre a segunda carta aos Coríntios falando das aflições que ele mesmo havia atravessado. Chama Deus de “Pai das misericórdias e Deus de toda consolação”, e revela um propósito na dor: quem é consolado por Deus aprende a consolar os outros com o mesmo consolo que recebeu.",
     "ensino": "A consolação de Deus não termina em nós: Ele nos consola para que sejamos consolo de outros. A cicatriz que doeu vira mapa para ajudar quem está na mesma dor. Nenhuma dor consolada por Deus é desperdiçada.",
     "reflexao": "Deus é o \"Pai das misericórdias\" que nos consola na dor, e depois nos torna capazes de consolar outros."
    },
    {
     "ref": "João 16:22",
     "text": "Assim também vós agora, na verdade, tendes tristeza; mas eu vos tornarei a ver, e alegrar-se-á o vosso coração, e a vossa alegria ninguém vo-la tirará.",
-    "contexto": "Jesus prepara os discípulos para a dor de O perderem.",
+    "contexto": "Nas palavras finais antes da cruz, Jesus prepara os discípulos para a tristeza iminente da Sua morte. Usa a imagem do parto: a dor é real, mas dará lugar a uma alegria que ninguém poderá tirar. A tristeza, aqui, é apresentada como passagem, não como destino.",
     "ensino": "Jesus compara à dor do parto: real e intensa, mas que dá lugar à alegria quando o filho nasce. Ele não promete que a tristeza não virá, e sim que ela não terá a última palavra.",
     "reflexao": "Promete que a tristeza deles se converterá em alegria que ninguém poderá tirar."
    },
    {
     "ref": "Salmos 23:4",
     "text": "Ainda que eu ande pelo vale da sombra da morte, não temerei mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam.",
-    "contexto": "Salmo de Davi sobre Deus como pastor.",
+    "contexto": "No coração do Salmo 23, Davi atravessa “o vale da sombra da morte” e declara não temer mal algum. O motivo não é a ausência da escuridão, mas a presença do Pastor: “porque Tu estás comigo”. É o consolo de quem sabe que não caminha sozinho pela dor.",
     "ensino": "Repare: é “pelo” vale, não “no” vale para sempre — é travessia, não morada. E o que tira o medo não é a ausência da sombra, mas a presença do Pastor: “Tu estás comigo”.",
     "reflexao": "Mesmo no \"vale da sombra da morte\", a presença de Deus (\"Tu estás comigo\") tira o medo da travessia."
    }
@@ -1638,7 +1638,7 @@ window.ESTUDOS = [
     "ref_text": "Vinde a mim, todos os que estai cansados e oprimidos, e eu vos aliviarei."
    }
   ],
-  "oracao_fechamento": "Pai das misericórdias, obrigado por estares perto do meu coração quebrado e por seres o Deus de toda consolação. Consola-me na minha dor e segura-me até a manhã chegar. Lembra-me de que o choro dura uma noite, mas a alegria vem pela manhã. Eu choro, mas não sem esperança, porque creio em Ti. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai das misericórdias e Deus de toda consolação, obrigado porque Tu me consolas em cada aflição. Chega perto do meu coração triste e enxuga, no Teu tempo, as lágrimas que eu venho derramando. Ensina-me a viver o luto com esperança, e não como quem não tem para onde olhar. Usa o consolo que recebo de Ti para que eu console outros que sofrem. E lembra-me de que, contigo, a tristeza dura uma noite, mas a alegria vem pela manhã. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Salmos 34:18",
@@ -1656,7 +1656,7 @@ window.ESTUDOS = [
   "emoji": "🏝️",
   "accent": "#7a8a9a",
   "resumo": "Nunca realmente sozinho.",
-  "oracao_abertura": "Senhor, às vezes me sinto só mesmo cercado de gente. Obrigado porque Tu estás comigo agora, mesmo quando eu não sinto. Lembra-me, neste tempo, de que Tu nunca me deixas nem me abandonas. Cura a minha solidão com a Tua presença e abre o meu coração para as pessoas que já colocaste por perto. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a solidão dói, mesmo quando há gente ao redor, e às vezes eu me sinto esquecido por todos. Obrigado porque Tu prometes não me deixar órfão e estar comigo aonde quer que eu vá. Abre o meu coração, neste tempo, para perceber a Tua presença que nunca me abandona. Chega perto de mim como quem acolhe, e cura o vazio que pessoa nenhuma consegue preencher. E usa este tempo para me aproximar mais de Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "Deuteronômio 31:6",
    "Salmos 139:7-10"
@@ -1665,28 +1665,28 @@ window.ESTUDOS = [
    {
     "ref": "Salmos 27:10",
     "text": "Se meu pai e minha mãe me abandonarem, então o Senhor me acolherá.",
-    "contexto": "Davi escreve sobre confiar em Deus mesmo no abandono.",
+    "contexto": "Davi escreve este salmo de confiança em meio a inimigos e abandono. Neste verso ele toca na ferida mais íntima: “ainda que meu pai e minha mãe me desamparem, o Senhor me recolherá”. É a certeza de que, mesmo no abandono mais próximo, Deus permanece como quem acolhe.",
     "ensino": "Há solidões que vêm justamente de quem deveria estar perto. Davi diz que, mesmo no abandono dos mais próximos, Deus “recolhe” — como quem acolhe o que foi deixado para trás. A pior solidão tem um colo garantido.",
     "reflexao": "\"Ainda que meu pai e minha mãe me desamparem, o Senhor me recolherá\": Deus acolhe quem foi deixado."
    },
    {
     "ref": "João 14:18",
     "text": "Não vos deixarei órfãos; voltarei a vós.",
-    "contexto": "Jesus consola os discípulos antes de partir.",
+    "contexto": "Na última ceia, despedindo-se dos discípulos, Jesus os vê prestes a ficar sem o Mestre e promete: “não vos deixarei órfãos; voltarei para vós”. A promessa aponta para o Espírito Santo, que viria habitar neles — Deus presente, mesmo quando Jesus já não estivesse fisicamente ali.",
     "ensino": "Jesus se despede dos discípulos, mas promete não os deixar sozinhos: envia o Espírito. “Órfão” é quem fica sem amparo; Ele garante o oposto. A presença de Deus não é visita ocasional, é companhia que fica.",
     "reflexao": "\"Não vos deixarei órfãos\": Ele promete voltar e enviar o Espírito, presença constante."
    },
    {
     "ref": "Gênesis 28:15",
     "text": "Eis que estou contigo, e te guardarei por onde quer que fores, e te farei tornar a esta terra; pois não te deixarei até que haja cumprido aquilo de que te tenho falado.",
-    "contexto": "Jacó foge sozinho e tem um sonho com Deus.",
+    "contexto": "Jacó foge de casa, sozinho e com medo do irmão que queria matá-lo, e dorme no deserto. Em sonho, Deus lhe promete: “eis que estou contigo e te guardarei por onde quer que fores”. É a descoberta de que, mesmo fugitivo e solitário, ele não estava só — Deus o acompanhava.",
     "ensino": "Jacó está sozinho, fugindo, dormindo sobre uma pedra — e é ali que Deus aparece. Muitas vezes a presença de Deus se revela mais clara na estrada solitária do que na multidão. Deus encontra quem está só.",
     "reflexao": "Deus aparece ao fugitivo solitário: \"estou contigo... não te deixarei\". Ele encontra quem está só na estrada."
    },
    {
     "ref": "Salmos 25:16",
     "text": "Olha para mim, e tem misericórdia de mim, porque estou desamparado e aflito.",
-    "contexto": "Oração de Davi em aflição.",
+    "contexto": "Salmo de Davi em tempo de angústia. Aqui ele ora com franqueza desarmada: “olha para mim e tem piedade de mim, porque estou solitário e aflito”. É a oração de quem leva a própria solidão diretamente a Deus, sem disfarce, confiando que Ele olha.",
     "ensino": "A Bíblia até ensina a orar a própria solidão: Davi diz a Deus, sem rodeio, “estou solitário e aflito”. Não precisa maquiar diante Dele. Falar a solidão para Deus já é o primeiro passo para não estar tão só.",
     "reflexao": "Modelo de oração honesta na solidão: \"estou solitário e aflito\" dito direto a Deus, sem disfarce."
    }
@@ -1718,7 +1718,7 @@ window.ESTUDOS = [
     "ref_text": "O homem que tem muitos amigos, tem-nos para a sua ruína; mas há um amigo que é mais chegado do que um irmão."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo em todo lugar e nunca me abandonas. Cura o sentimento de solidão com a Tua presença e coloca-me em comunidade, com gente que caminhe junto. Faze de mim também presença para quem está só. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque, ainda que todos me desamparem, Tu me recolhes e não me deixas só. Estás comigo aonde quer que eu vá, como prometeste a Jacó no deserto. Olha para mim na minha solidão e enche o meu vazio com a Tua presença. Coloca pessoas boas no meu caminho e faze de mim companhia para quem também se sente sozinho. E lembra-me, nos dias de silêncio, de que Tu nunca estás longe. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Deuteronômio 31:6",
@@ -1736,7 +1736,7 @@ window.ESTUDOS = [
   "emoji": "🔥",
   "accent": "#b5553a",
   "resumo": "Domínio sobre a ira.",
-  "oracao_abertura": "Senhor, a raiva sobe rápido em mim e às vezes me domina antes de eu pensar. Obrigado porque Tu és paciente comigo. Abre o meu entendimento e ensina-me a ouvir mais e reagir menos. Dá-me domínio sobre o meu próprio espírito e tira a amargura do meu coração. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a raiva sobe rápido em mim e muitas vezes eu falo e ajo antes de pensar. Obrigado porque Tu não me condenas por sentir, mas me ensinas a não pecar quando me irrito. Abre o meu entendimento, neste tempo, e dá-me domínio próprio para segurar o impulso de explodir. Mostra-me o que está por baixo da minha raiva, a ferida ou o medo que ela esconde. E ajuda-me a responder com calma onde eu costumava reagir com fogo. Em nome de Jesus, amém.",
   "texto_base": [
    "Tiago 1:19",
    "Efésios 4:26"
@@ -1745,28 +1745,28 @@ window.ESTUDOS = [
    {
     "ref": "Provérbios 29:11",
     "text": "O tolo derrama toda a sua ira; mas o sábio a reprime e aplaca.",
-    "contexto": "Provérbio que contrasta o tolo e o sábio.",
+    "contexto": "Provérbio da sabedoria prática de Israel que contrasta o tolo e o sábio no trato com a raiva: “o tolo derrama toda a sua ira, mas o sábio a contém”. Não condena sentir raiva, mas o descontrole de despejá-la inteira. A sabedoria está em segurar, não em explodir.",
     "ensino": "Conter não é engolir e adoecer; é não despejar tudo no calor do momento. Como uma panela de pressão: a válvula libera aos poucos, sem explodir. O sábio dá vazão à raiva no tempo e do jeito certos.",
     "reflexao": "O tolo derrama toda a sua ira; o sábio a contém. Conter não é reprimir, é dominar."
    },
    {
     "ref": "Eclesiastes 7:9",
     "text": "Não te apresses no teu espírito a irar-te, porque a ira abriga-se no seio dos tolos.",
-    "contexto": "Reflexão sobre o agir sábio.",
+    "contexto": "O Eclesiastes reúne observações francas sobre a vida. Aqui adverte: “não te apresses no teu espírito a irar-te, porque a ira repousa no íntimo dos tolos”. O alerta é contra a raiva que se instala e faz morada — não o lampejo passageiro, mas o rancor que vira hábito.",
     "ensino": "A pressa é aliada da raiva: respondemos antes de entender e nos arrependemos depois. Um respirar e contar até dez já tira o automático. “Não te apresses” é desarmar a reação no segundo em que ela quer disparar.",
     "reflexao": "\"Não te apresses a irar-te, porque a ira repousa no íntimo dos tolos\": pressa na raiva é marca de insensatez."
    },
    {
     "ref": "Provérbios 16:32",
     "text": "Melhor é o longânimo do que o valente; e o que domina o seu espírito do que o que toma uma cidade.",
-    "contexto": "Provérbio sobre o verdadeiro forte.",
+    "contexto": "Provérbio que reavalia o que é força de verdade: “melhor é o longânimo do que o herói da guerra, e o que domina o seu espírito do que o que toma uma cidade”. Para a sabedoria bíblica, vencer a própria raiva é uma conquista maior do que vencer exércitos.",
     "ensino": "A força que o mundo admira conquista cidades; a que Deus admira domina o próprio gênio. Aguentar uma provocação sem revidar é mais difícil que ganhar uma guerra. Autocontrole é a coragem dos fortes de verdade.",
     "reflexao": "Quem domina o seu espírito é melhor que quem conquista cidades. Autocontrole é força, não fraqueza."
    },
    {
     "ref": "Colossenses 3:8",
     "text": "mas agora despojai-vos também de tudo isto: da ira, da cólera, da malícia, da maledicência, das palavras torpes da vossa boca;",
-    "contexto": "Paulo lista o que o cristão deve \"despir\".",
+    "contexto": "Paulo ensina os colossenses a “despir” o velho jeito de viver como quem tira uma roupa suja. Na lista do que deixar para trás estão “a ira, a cólera, a malícia”. A raiva descontrolada é tratada como peça da vida antiga, incompatível com a nova vida em Cristo.",
     "ensino": "Paulo usa a imagem de tirar uma roupa velha. A raiva habitual é como uma roupa suja que vestimos sem pensar; o caminho é “despir” de propósito e vestir o novo. Mudar começa por decidir tirar o que não combina com Cristo.",
     "reflexao": "Manda largar a ira, o furor e a maledicência: tratar a raiva é parte de vestir o novo homem."
    }
@@ -1798,7 +1798,7 @@ window.ESTUDOS = [
     "ref_text": "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira de Deus, porque está escrito: Minha é a vingança, eu retribuirei, diz o Senhor."
    }
   ],
-  "oracao_fechamento": "Pai, dá-me domínio sobre a minha ira. Ajuda-me a ouvir antes de falar, a resolver no mesmo dia e a não guardar rancor. Que eu seja forte de verdade, dominando o meu próprio espírito, e que a minha reação revele a Tua mansidão em mim. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque dominar o próprio espírito vale mais do que conquistar cidades, e Tu podes me dar essa vitória. Tira de mim a ira que se instala e vira rancor, e ajuda-me a despir esse velho jeito de reagir. Dá-me paciência para não me irar depressa e sabedoria para conter, e não derramar, o que sinto. Cura as feridas que alimentam a minha raiva. E faze de mim alguém lento para a ira e cheio da Tua mansidão. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Tiago 1:19",
@@ -1816,7 +1816,7 @@ window.ESTUDOS = [
   "emoji": "👁️",
   "accent": "#6a8a5a",
   "resumo": "Contentar-se em vez de cobiçar.",
-  "oracao_abertura": "Senhor, é fácil olhar para o outro e querer o que ele tem. Obrigado por tudo o que Tu já me deste e que eu nem percebo. Abre o meu entendimento e cura em mim a inveja que rouba a minha paz. Ensina-me a me alegrar com o bem dos outros e a contentar-me com o que recebi das Tuas mãos. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu me comparo o tempo todo, e a inveja rouba a minha paz quando vejo o que os outros têm. Obrigado porque diante de Ti eu posso confessar isso sem vergonha, em vez de fingir que não sinto. Abre o meu coração, neste tempo, e cura a raiz dessa comparação que nunca me satisfaz. Ensina-me a me alegrar com o bem dos outros, e não a me amargurar com ele. E lembra-me do tanto que Tu já me deste, para que a gratidão tome o lugar da inveja. Em nome de Jesus, amém.",
   "texto_base": [
    "Tiago 3:16",
    "Provérbios 14:30"
@@ -1825,28 +1825,28 @@ window.ESTUDOS = [
    {
     "ref": "Gênesis 4:5-7",
     "text": "mas para Caim e para a sua oferta não atentou. Pelo que irou-se Caim fortemente, e descaiu-lhe o semblante. Então o Senhor perguntou a Caim: Por que te iraste? e por que está descaído o teu semblante? Porventura se procederes bem, não se há de levantar o teu semblante? e se não procederes bem, o pecado jaz à porta, e sobre ti será o seu desejo; mas sobre ele tu deves dominar.",
-    "contexto": "Caim inveja a aceitação da oferta de Abel.",
+    "contexto": "Logo no início da Bíblia, Caim se enche de inveja porque a oferta do irmão Abel foi aceita e a sua não. Deus o adverte antes do crime: “o pecado jaz à porta; sobre ti será o seu desejo, mas sobre ele deves dominar”. É o primeiro retrato de como a inveja, não dominada, leva à destruição.",
     "ensino": "A inveja de Caim começou pequena (um olhar) e terminou em morte. Deus o avisa que “o pecado jaz à porta” e manda dominá-lo. A inveja não administrada cresce: do incômodo ao ressentimento, do ressentimento ao dano. Melhor matá-la cedo.",
     "reflexao": "Mostra aonde a inveja leva quando não é dominada: do ciúme ao ódio e à violência. Deus alerta: \"domina-o\"."
    },
    {
     "ref": "Salmos 73:3",
     "text": "Pois eu tinha inveja dos soberbos, ao ver a prosperidade dos ímpios.",
-    "contexto": "O salmista Asafe confessa ter invejado os arrogantes que prosperavam.",
+    "contexto": "O salmista Asafe confessa com honestidade rara: quase tropeçou ao ter “inveja dos arrogantes, vendo a prosperidade dos ímpios”. O salmo todo é a travessia dessa inveja até reencontrar a perspectiva de Deus no santuário. Aqui ele apenas admite a ferida, sem disfarçar.",
     "ensino": "Até um salmista confessa ter invejado quem prosperava no mal — até entrar na presença de Deus e enxergar o fim deles. A inveja some quando trocamos a comparação pela perspectiva eterna. O problema não é o que o outro tem, é de onde eu olho.",
     "reflexao": "Honestidade rara: ele quase tropeça invejando os ímpios, até entender o fim deles diante de Deus."
    },
    {
     "ref": "Gálatas 5:26",
     "text": "Não nos tornemos vangloriosos, provocando-nos uns aos outros, invejando-nos uns aos outros.",
-    "contexto": "Paulo descreve a vida no Espírito versus na carne.",
+    "contexto": "Paulo ensina os gálatas a andar segundo o Espírito, e adverte contra um veneno comunitário: “não sejamos cobiçosos de vanglória, irritando-nos uns aos outros, invejando-nos uns aos outros”. A inveja aparece como inimiga da convivência saudável entre irmãos.",
     "ensino": "A inveja entre irmãos transforma o bem de um na dor do outro e racha a comunidade. É como torcer pelo time e vaiar o companheiro que fez o gol. Onde há inveja, o sucesso do próximo vira ameaça, e não alegria.",
     "reflexao": "\"Não sejamos... invejosos uns dos outros\": a inveja entre irmãos quebra a comunidade."
    },
    {
     "ref": "1 Pedro 2:1",
     "text": "Deixando, pois, toda a malícia, todo o engano, e fingimentos, e invejas, e toda a maledicência,",
-    "contexto": "Pedro lista o que o cristão deve abandonar.",
+    "contexto": "Pedro exorta os novos cristãos a “despojar-se” de atitudes que envenenam a vida em comunidade. Entre elas lista “todas as invejas”. Como quem tira uma roupa velha, o cristão deve se livrar da inveja para crescer no novo modo de viver.",
     "ensino": "Pedro coloca a inveja na lista do que se deve “deixar”, junto com malícia e engano. Ou seja, ela não é para administrar, é para descartar. Como lixo dentro de casa: não se organiza, joga-se fora.",
     "reflexao": "Coloca a inveja na lista do que deve ser \"deixado\", como malícia e engano: algo a despir, não administrar."
    }
@@ -1878,7 +1878,7 @@ window.ESTUDOS = [
     "ref_text": "Seja a vossa vida isenta de ganância, contentando-vos com o que tendes; porque ele mesmo disse: Não te deixarei, nem te desampararei."
    }
   ],
-  "oracao_fechamento": "Pai, tira de mim a inveja que me corrói por dentro. Ensina-me a contentar com o que Tu me deste e a alegrar-me de verdade com o bem dos outros. Que o meu olhar pare de comparar e volte para a Tua bondade comigo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu cuidas de mim de um jeito único e não me esqueces. Ajuda-me a despir toda inveja, como quem tira uma roupa velha, e a dominar esse desejo antes que ele cresça, como Caim não dominou. Tira os meus olhos da vida dos outros e fixa-os no que Tu fazes na minha. Ensina-me a celebrar as vitórias do próximo como se fossem minhas. E faze do contentamento em Ti o remédio da minha inveja. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Tiago 3:16",
@@ -1896,7 +1896,7 @@ window.ESTUDOS = [
   "emoji": "⛓️",
   "accent": "#8a7a6a",
   "resumo": "Do peso da culpa ao perdão.",
-  "oracao_abertura": "Senhor, eu carrego culpas que me acusam por dentro — algumas verdadeiras, outras que Tu já perdoaste e eu insisto em pagar. Obrigado porque em Ti há perdão completo. Abre o meu entendimento e lava o meu coração. Ajuda-me a confessar o que pesa e a receber o perdão que Tu já ofereces. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a culpa me persegue, e às vezes eu continuo me punindo por coisas que Tu já estás disposto a perdoar. Obrigado porque Tu não me afastas quando eu erro, mas me chamas para perto. Abre o meu coração, neste tempo, para confessar sem rodeios o que pesa sobre mim. Tira de mim a culpa que destrói e dá-me o arrependimento que liberta. E lembra-me de que, lavado por Ti, eu posso recomeçar limpo. Em nome de Jesus, amém.",
   "texto_base": [
    "Salmos 32:5",
    "1 João 1:9"
@@ -1905,28 +1905,28 @@ window.ESTUDOS = [
    {
     "ref": "Salmos 32:1",
     "text": "Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.",
-    "contexto": "Davi escreve depois de um grande pecado e do perdão recebido.",
+    "contexto": "Davi escreve este salmo após o pecado com Bate-Seba e o peso de tê-lo escondido. Ele começa celebrando o alívio do perdão: “bem-aventurado aquele cuja transgressão é perdoada e cujo pecado é coberto”. É a alegria de quem finalmente tirou a culpa das costas ao confessá-la a Deus.",
     "ensino": "Davi descreve o alívio de quem parou de esconder. Esconder pecado é como segurar uma bola debaixo d’água: cansa e uma hora estoura. Ser perdoado é soltar a bola — o alívio de quem não carrega mais o disfarce.",
     "reflexao": "\"Bem-aventurado aquele cujo pecado é coberto\": o alívio de quem para de esconder e é perdoado."
    },
    {
     "ref": "Miquéias 7:19",
     "text": "Tornará a apiedar-se de nós; pisará aos pés as nossas iniqüidades. Tu lançarás todos os nossos pecados nas profundezas do mar.",
-    "contexto": "O profeta exalta o perdão de Deus a um povo culpado.",
+    "contexto": "O profeta Miqueias encerra o livro maravilhado com o perdão de Deus. Usa uma imagem forte: Deus “lançará todos os nossos pecados nas profundezas do mar”. A culpa perdoada não fica boiando para ser relembrada; é afundada para nunca mais ser trazida à tona.",
     "ensino": "Deus não arquiva o pecado perdoado para usar depois; Ele o lança no fundo do mar. Continuar remoendo o que Ele afundou é mergulhar atrás daquilo que Deus fez questão de sumir.",
     "reflexao": "Deus \"lança os pecados nas profundezas do mar\": imagem do perdão que tira a dívida de vista."
    },
    {
     "ref": "2 Coríntios 7:10",
     "text": "Porque a tristeza segundo Deus opera arrependimento para a salvação, o qual não traz pesar; mas a tristeza do mundo opera a morte.",
-    "contexto": "Paulo distingue dois tipos de tristeza pelo pecado.",
+    "contexto": "Paulo distingue dois tipos de tristeza pelo erro: a “tristeza segundo Deus”, que leva ao arrependimento e à vida, e a “tristeza do mundo”, que só produz morte. A culpa saudável aponta para a mudança e o perdão; a culpa destrutiva apenas afunda a pessoa.",
     "ensino": "Há duas tristezas pelo erro: a que te leva a Deus (arrependimento e vida) e a que só te afunda em remorso (morte). A diferença é a direção: uma olha para cima e muda; a outra olha para si e paralisa.",
     "reflexao": "A \"tristeza segundo Deus\" leva ao arrependimento e à vida; a do mundo só afunda em culpa sem saída."
    },
    {
     "ref": "Isaías 1:18",
     "text": "Vinde, pois, e arrazoemos, diz o Senhor: ainda que os vossos pecados são como a escarlata, eles se tornarão brancos como a neve; ainda que são vermelhos como o carmesim, tornar-se-ão como a lã.",
-    "contexto": "Deus chama um povo culpado para a reconciliação.",
+    "contexto": "Isaías transmite o convite de Deus a um povo manchado pelo pecado: “ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve”. É a promessa de uma limpeza completa, que troca a mancha da culpa pela pureza de quem foi perdoado.",
     "ensino": "Mancha de escarlata não sai com sabão comum. Deus promete o impossível: deixar branco como a neve. A culpa diz “não tem mais jeito”; a graça responde “tem, e o jeito sou eu”.",
     "reflexao": "\"Ainda que os vossos pecados sejam como a escarlata, se tornarão brancos como a neve\": o perdão transforma."
    }
@@ -1958,7 +1958,7 @@ window.ESTUDOS = [
     "ref_text": "porque se o coração nos condena, maior é Deus do que o nosso coração, e conhece todas as coisas."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu és fiel para perdoar e purificar, e afastas de mim os meus pecados. Eu confesso o que pesa e recebo o Teu perdão. Ajuda-me a parar de pagar o que Tu já cancelaste e a viver livre da condenação, com o coração leve. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque, quando confesso, Tu perdoas e lanças os meus pecados nas profundezas do mar, para nunca mais os lembrar. Liberta-me da culpa que insiste em voltar mesmo depois do Teu perdão. Troca a tristeza que só me afunda pela tristeza que me leva a mudar. Lava o que está manchado em mim e torna branco como a neve o que era escarlate. E ensina-me a viver como alguém perdoado, e não como um condenado. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Salmos 32:5",
