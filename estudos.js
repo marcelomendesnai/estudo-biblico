@@ -1496,7 +1496,7 @@ window.ESTUDOS = [
   "emoji": "🙇",
   "accent": "#7a8a6a",
   "resumo": "Menos de mim, mais de Deus.",
-  "oracao_abertura": "Senhor, o orgulho se esconde bem dentro de mim, disfarçado de razão e de mérito. Obrigado por me receberes mesmo assim. Abre o meu entendimento e ensina-me a humildade verdadeira, que não é me diminuir, mas Te colocar no lugar certo. Dá-me um coração que serve e que aprende. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é difícil admitir que eu não dou conta de tudo sozinho, mas Tu resistes ao orgulhoso e dás graça ao humilde. Obrigado porque diante de Ti eu posso baixar a guarda e ser sincero sobre as minhas fraquezas. Abre o meu entendimento, neste tempo, e tira de mim a vaidade que me cega e a necessidade de aparecer. Ensina-me a Tua mansidão, a de quem é forte mas não precisa se impor. E ajuda-me a colocar os outros à frente sem me diminuir nem me exaltar. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 2:3",
    "Tiago 4:6"
@@ -1505,28 +1505,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Pedro 5:6",
     "text": "Humilhai-vos, pois, debaixo da potente mão de Deus, para que a seu tempo vos exalte;",
-    "contexto": "Pedro orienta cristãos sob pressão a confiarem em Deus.",
+    "contexto": "Pedro escreve a cristãos espalhados e perseguidos pela Ásia Menor, encorajando-os a permanecer firmes sob pressão. Aqui ele os exorta a se humilharem “sob a potente mão de Deus”, confiando que é Ele, no tempo certo, quem levanta — e não a autopromoção. A humildade aparece como confiança em Deus, não como fraqueza.",
     "ensino": "Quem se promove sozinho cansa de segurar o próprio palco. A Bíblia inverte: abaixa-te, e Deus te levanta no tempo certo. É a diferença entre arrancar a planta para forçá-la a crescer e regá-la, deixando que Deus a faça crescer.",
     "reflexao": "\"Humilhai-vos... para que Ele vos exalte a seu tempo\": a humildade espera o tempo de Deus, sem se promover."
    },
    {
     "ref": "Provérbios 11:2",
     "text": "Quando vem a soberba, então vem a desonra; mas com os humildes está a sabedoria.",
-    "contexto": "Provérbio que contrasta soberba e humildade.",
+    "contexto": "Provérbio da coletânea de sabedoria de Israel, boa parte de Salomão, formulado como contraste direto: onde entra a soberba, vem a desonra; mas com os humildes está a sabedoria. É um diagnóstico prático: o orgulho cega e derruba, a humildade abre espaço para aprender.",
     "ensino": "O orgulhoso já “sabe tudo”, por isso para de aprender. O humilde pergunta, ouve e admite que errou — e por isso cresce. A humildade é a porta por onde a sabedoria entra; o orgulho a tranca por dentro.",
     "reflexao": "Com a soberba vem a desonra; com a humildade, a sabedoria. O orgulho cega, a humildade ensina."
    },
    {
     "ref": "Mateus 11:29",
     "text": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para as vossas almas.",
-    "contexto": "Jesus convida os cansados a aprenderem Dele.",
+    "contexto": "Jesus dirige este convite às multidões cansadas sob o peso das exigências religiosas. Ele se descreve como “manso e humilde de coração” e oferece o Seu “jugo” — imagem do boi que aprende a puxar a carga ao lado de outro. Aprender com Ele é, antes de tudo, aprender a Sua humildade.",
     "ensino": "Jesus, sendo Deus, se descreve como “manso e humilde de coração”. Se a humildade cabe Nele, o nosso orgulho não tem desculpa. Aprender “Dele” é deixar o Mestre, e não o ego, definir o nosso jeito.",
     "reflexao": "Ele se descreve como \"manso e humilde de coração\": a humildade é traço do próprio Cristo."
    },
    {
     "ref": "Provérbios 22:4",
     "text": "O galardão da humildade e do temor do Senhor é riquezas, e honra e vida.",
-    "contexto": "Provérbio que liga humildade e temor a Deus.",
+    "contexto": "Outro provérbio prático que liga humildade e temor do Senhor à bênção. Na sabedoria hebraica, “temor do Senhor” é a reverência que reconhece o lugar de Deus; a humildade é a postura que daí decorre. O texto aponta que reconhecer o próprio lugar diante de Deus é caminho de vida, não de perda.",
     "ensino": "O mundo associa humildade a fraqueza; a Bíblia, a vida e honra. Como a espiga cheia de trigo, que se curva pelo peso do fruto: quanto mais cheia, mais inclinada. A verdadeira grandeza abaixa a cabeça.",
     "reflexao": "Humildade e temor do Senhor andam juntos e trazem vida; reconhecer a Deus nos põe no lugar certo."
    }
@@ -1558,7 +1558,7 @@ window.ESTUDOS = [
     "ref_text": "Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e achareis descanso para as vossas almas."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu dás graça aos humildes. Tira de mim o orgulho escondido e ensina-me a servir e a aprender, sem precisar aparecer. Que eu ande humildemente Contigo, dando-Te o crédito do que dá certo e dependendo de Ti no que me falta. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu Te aproximas dos humildes e levantas, no tempo certo, quem se coloca debaixo da Tua mão. Tira de mim a soberba que desonra e dá-me a sabedoria que anda com os humildes. Ensina-me a aprender de Jesus, manso e humilde de coração, e a carregar o Teu jugo no lugar do peso que eu carregava sozinho. Que eu sirva sem buscar aplauso e reconheça o meu lugar diante de Ti com alegria. E que a humildade me faça mais parecido com Ele. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 2:3",
@@ -3656,7 +3656,7 @@ window.ESTUDOS = [
   "emoji": "😊",
   "accent": "#d0a93a",
   "resumo": "Alegria que não depende de tudo dar certo.",
-  "oracao_abertura": "Senhor, a minha alegria sobe e desce conforme o dia. Obrigado porque a Tua não depende das circunstâncias. Abre o meu entendimento e ensina-me a alegria que vem de Ti. Que eu encontre em Ti uma fonte que não seca, mesmo nos dias difíceis. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a alegria de verdade não está nas coisas que passam, mas em Ti, que não mudas. Obrigado porque posso me alegrar em Ti mesmo quando a vida está difícil, porque a minha alegria não depende de tudo dar certo. Abre o meu coração, neste tempo, e enche-me da alegria que vem do Teu Espírito, e não das circunstâncias. Tira de mim a tristeza que me rouba as forças e lembra-me de que o choro dura uma noite, mas a alegria vem pela manhã. Ensina-me a achar gozo em Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 4:4",
    "Neemias 8:10"
@@ -3665,28 +3665,28 @@ window.ESTUDOS = [
    {
     "ref": "Tiago 1:2",
     "text": "Meus irmãos, tende por motivo de grande gozo o passardes por várias provações,",
-    "contexto": "Tiago escreve a cristãos sob provações.",
+    "contexto": "Tiago escreve a cristãos dispersos e sob provação, e abre a carta com uma frase chocante: “tende grande gozo” ao passarem por várias tentações. Ele não manda fingir felicidade na dor; explica logo a seguir que a provação, bem atravessada, produz perseverança e maturidade. A alegria nasce do que a prova produz, não da prova em si.",
     "ensino": "Tiago manda “ter gozo” nas provações — não porque a dor seja boa, mas porque ela amadurece. É como o exercício que dói e fortalece. A alegria cristã consegue conviver até com a dificuldade, vendo além dela.",
     "reflexao": "\"Tende grande gozo quando cairdes em várias tentações\": a alegria cristã consegue conviver até com a dificuldade."
    },
    {
     "ref": "Habacuque 3:17-18",
     "text": "Ainda que a figueira não floresça, nem haja fruto nas vides; ainda que falhe o produto da oliveira, e os campos não produzam mantimento; ainda que o rebanho seja exterminado da malhada e nos currais não haja gado. todavia eu me alegrarei no Senhor, exultarei no Deus da minha salvação.",
-    "contexto": "O profeta diante da ruína econômica iminente.",
+    "contexto": "O profeta Habacuque viveu às vésperas da invasão babilônica e travou um diálogo cru com Deus sobre a injustiça. O livro termina com este voto: ainda que a figueira não floresça e falte tudo no campo, ele se alegrará no Senhor. É a alegria mais radical da Bíblia — a que permanece quando tudo o mais falha.",
     "ensino": "O profeta lista tudo dando errado — sem figos, sem rebanho — e ainda assim decide: “eu me alegrarei no Senhor”. É alegria que não depende do que está na mesa, e sim de Quem está com a gente. Escolha, não circunstância.",
     "reflexao": "\"Ainda que a figueira não floresça... eu me alegrarei no Senhor\": alegria que decide louvar mesmo sem nada dar certo."
    },
    {
     "ref": "Gálatas 5:22",
     "text": "Mas o fruto do Espírito é: o amor, o gozo, a paz, a longanimidade, a benignidade, a bondade, a fidelidade.",
-    "contexto": "Paulo lista o fruto do Espírito.",
+    "contexto": "Paulo lista o “fruto do Espírito” em contraste com as obras da carne. A alegria aparece logo após o amor, como algo que o Espírito produz na vida de quem anda com Deus. Não é fruto do esforço nem das circunstâncias, mas do que cresce de dentro quando Deus habita a pessoa.",
     "ensino": "Alegria é “fruto do Espírito” — cresce, não se fabrica. Você não a produz apertando os dentes; ela brota da vida com Deus, como a fruta brota da árvore saudável. Cuide da raiz e o fruto vem.",
     "reflexao": "A alegria é fruto do Espírito: não a fabricamos sozinhos, ela cresce da vida com Deus."
    },
    {
     "ref": "Salmos 30:5",
     "text": "Porque a sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite; pela manhã, porém, vem o cântico de júbilo.",
-    "contexto": "Salmo de Davi sobre a fidelidade de Deus.",
+    "contexto": "Salmo de Davi cantado na dedicação da casa, celebrando uma libertação. Neste verso ele contrasta a passageira ira com o duradouro favor de Deus: “o choro pode durar uma noite, mas a alegria vem pela manhã”. É a esperança de quem já viu Deus transformar o luto em dança.",
     "ensino": "“O choro pode durar uma noite, mas a alegria vem pela manhã.” A tristeza é real, mas tem prazo; não é a última palavra. Como a noite que dá lugar ao amanhecer, a dor consolada por Deus encontra a manhã.",
     "reflexao": "\"O choro pode durar uma noite, mas a alegria vem pela manhã\": a tristeza é real, mas não tem a última palavra."
    }
@@ -3718,7 +3718,7 @@ window.ESTUDOS = [
     "ref_text": "Tu me farás conhecer a vereda da vida; na tua presença há plenitude de alegria; à tua mão direita há delícias perpetuamente."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque a alegria que vem de Ti não depende de tudo dar certo. Que ela seja a minha força nos dias difíceis. Enche-me da Tua presença, onde há plenitude de alegria. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a alegria é fruto do Teu Espírito em mim, e não algo que eu preciso fabricar. Enche-me dessa alegria que permanece mesmo quando falta o que eu queria ter. Ensina-me, como Habacuque, a me alegrar em Ti ainda que a figueira não floresça. Transforma o meu choro em dança, no Teu tempo, e faze da minha alegria um testemunho da Tua bondade. E que essa alegria seja a minha força nos dias difíceis. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 4:4",
@@ -3736,7 +3736,7 @@ window.ESTUDOS = [
   "emoji": "🦁",
   "accent": "#b5553a",
   "resumo": "Firmeza para enfrentar.",
-  "oracao_abertura": "Senhor, há coisas que eu preciso enfrentar e me falta coragem. Obrigado porque Tu vais à minha frente. Abre o meu entendimento e lembra-me de que Tu estás comigo. Dá-me ânimo para dar o passo que tenho evitado, confiando em Ti. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu preciso de coragem, não a que ignora o medo, mas a que age apesar dele. Obrigado porque Tu me mandas ser forte e corajoso e, no mesmo fôlego, prometes ir comigo. Abre o meu entendimento, neste tempo, e tira de mim a covardia que me faz recuar do que é certo. Dá-me ousadia para fazer e dizer o que devo, mesmo quando der medo. E lembra-me, quando eu fraquejar, de que Tu me seguras pela mão e não me desamparas. Em nome de Jesus, amém.",
   "texto_base": [
    "Josué 1:9",
    "Salmos 27:14"
@@ -3745,28 +3745,28 @@ window.ESTUDOS = [
    {
     "ref": "Deuteronômio 31:6",
     "text": "Sede fortes e corajosos; não temais, nem vos atemorizeis diante deles; porque o Senhor vosso Deus é quem vai convosco. Não vos deixará, nem vos desamparará.",
-    "contexto": "Moisés encoraja Israel antes de uma terra cheia de inimigos.",
+    "contexto": "Moisés, já idoso e prestes a morrer sem entrar na Terra Prometida, se despede de Israel. Diante de um povo que teria de enfrentar nações poderosas sem o seu líder, ele passa o bastão a Josué e encoraja a todos: a coragem deveria se apoiar não na própria força, mas na presença de Deus, que iria adiante deles e não os desampararia.",
     "ensino": "“Esforça-te... porque o Senhor é o que vai contigo.” A coragem não se apoia na ausência de perigo, mas na presença de Deus. Como a criança que enfrenta o escuro segurando a mão do pai: o medo diminui pela companhia.",
     "reflexao": "\"Esforçai-vos... não temais, porque o Senhor é o que vai contigo\": coragem baseada na companhia de Deus."
    },
    {
     "ref": "1 Coríntios 16:13",
     "text": "Vigiai, estai firmes na fé, portai-vos varonilmente, sede fortes.",
-    "contexto": "Paulo encerra a carta com exortações.",
+    "contexto": "Paulo encerra a primeira carta aos Coríntios, igreja cheia de divisões e imaturidade, com ordens curtas e firmes, quase militares: “vigiai, estai firmes na fé, portai-vos varonilmente, sede fortes”. É um chamado à coragem madura, enraizada na fé, para uma comunidade que precisava parar de vacilar.",
     "ensino": "Paulo manda “estar firmes na fé” e “portar-se varonilmente”. Coragem cristã não é bravata, é firmeza no que se crê quando dá medo. É ficar de pé pela verdade mesmo quando seria mais fácil recuar.",
     "reflexao": "\"Vigiai, estai firmes na fé, portai-vos varonilmente\": a coragem cristã é firmeza na fé, não bravata."
    },
    {
     "ref": "Atos 4:29",
     "text": "Agora pois, ó Senhor, olha para as suas ameaças, e concede aos teus servos que falem com toda a intrepidez a tua palavra,",
-    "contexto": "Os apóstolos, ameaçados, oram a Deus.",
+    "contexto": "Pedro e João acabavam de ser presos e ameaçados pelo Sinédrio, proibidos de pregar em nome de Jesus. Reunida, a igreja não ora pedindo proteção ou o fim da ameaça, mas pede a Deus “ousadia” para continuar anunciando. É a coragem pedida em oração, no calor da perseguição.",
     "ensino": "Ameaçados, os apóstolos não pedem segurança, pedem ousadia. A oração deles não é “tira o perigo”, é “dá coragem no perigo”. Às vezes Deus não muda a situação, muda a sua disposição de encará-la.",
     "reflexao": "Eles não pedem segurança, mas ousadia: \"concede que falemos com toda a confiança\". Coragem é fruto de oração."
    },
    {
     "ref": "Isaías 41:10",
     "text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.",
-    "contexto": "Deus fala a um povo amedrontado.",
+    "contexto": "Isaías fala a um povo prestes a enfrentar o exílio, com medo do futuro. Deus o conforta com uma das promessas mais repetidas da Bíblia: “não temas, porque eu sou contigo”. A base da coragem não é a ausência de perigo, mas a presença e o amparo de Deus, que segura pela mão direita.",
     "ensino": "“Não temas, porque eu sou contigo... eu te fortaleço, e te ajudo.” A coragem vem amarrada à promessa da presença e da ajuda de Deus. Você não enfrenta sozinho: há Quem fortaleça e segure pela mão.",
     "reflexao": "\"Não temas... eu te fortaleço, e te ajudo\": a coragem vem da promessa da presença e ajuda de Deus."
    }
@@ -3798,7 +3798,7 @@ window.ESTUDOS = [
     "ref_text": "Agora pois, ó Senhor, olha para as suas ameaças, e concede aos teus servos que falem com toda a intrepidez a tua palavra,"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu vais comigo e estás ao meu lado. Tira de mim a covardia e dá-me poder, amor e equilíbrio. Anima o meu coração e dá-me coragem para enfrentar o que preciso, confiando na Tua presença. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu és comigo e me firmas com a Tua destra, e por isso eu não preciso temer nem desanimar. Faze-me forte e corajoso para enfrentar o que está diante de mim, firme na fé como os que não vacilam. Dá-me, como à primeira igreja, ousadia para Te servir mesmo sob pressão. Tira de mim o medo que paralisa e troca-o pela confiança na Tua presença. E que a minha coragem nasça de saber que Tu vais à minha frente. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Josué 1:9",
@@ -3816,7 +3816,7 @@ window.ESTUDOS = [
   "emoji": "🌾",
   "accent": "#9a8a5a",
   "resumo": "Paz com o que se tem.",
-  "oracao_abertura": "Senhor, eu vivo querendo mais e raramente me sinto satisfeito. Obrigado por tudo o que já me deste. Abre o meu entendimento e ensina-me o contentamento que Paulo aprendeu, que não depende de ter muito ou pouco. Que a minha satisfação esteja em Ti, e não nas coisas. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu vivo querendo mais e raramente paro para agradecer o que já tenho. Obrigado porque o contentamento não vem de ter tudo, mas de confiar que, contigo como meu pastor, nada essencial me falta. Abre o meu coração, neste tempo, e cura em mim a sede de sempre querer o que não tenho. Ensina-me, como Paulo, a estar contente tanto na falta quanto na fartura. E livra-me da mentira de que a próxima conquista finalmente vai me satisfazer. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 4:11",
    "1 Timóteo 6:6"
@@ -3825,28 +3825,28 @@ window.ESTUDOS = [
    {
     "ref": "Filipenses 4:13",
     "text": "Posso todas as coisas naquele que me fortalece.",
-    "contexto": "Conclusão do trecho de Paulo sobre contentamento.",
+    "contexto": "Paulo escreve aos Filipenses estando preso, e este versículo famoso (“tudo posso naquele que me fortalece”) vem logo após ele dizer que aprendeu a viver tanto na fartura quanto na escassez. O “tudo posso” não é promessa de sucesso, mas força para se contentar e suportar em qualquer situação — inclusive na prisão.",
     "ensino": "No contexto, Paulo fala de se contentar tanto na fartura quanto na falta: “tudo posso” é poder se contentar em qualquer situação pela força de Cristo. Não é poder ter tudo; é ter paz mesmo sem tudo.",
     "reflexao": "\"Tudo posso naquele que me fortalece\": no contexto, é poder se contentar em qualquer situação pela força de Cristo."
    },
    {
     "ref": "Salmos 23:1",
     "text": "O Senhor é o meu pastor; nada me faltará.",
-    "contexto": "Salmo de Davi sobre Deus como pastor.",
+    "contexto": "Abertura do salmo mais conhecido de Davi, que foi pastor antes de ser rei e conhecia o ofício por dentro. “O Senhor é o meu pastor, nada me faltará” é a declaração de quem confia que, sob o cuidado de Deus, o essencial nunca falta. O contentamento brota dessa confiança no Pastor, não da abundância.",
     "ensino": "“Nada me faltará” não porque eu terei tudo, mas porque o Pastor cuida. O contentamento nasce de confiar em Quem provê, não de encher o armário. Quem tem o Pastor já tem o essencial.",
     "reflexao": "\"O Senhor é o meu pastor; nada me faltará\": o contentamento nasce de ter a Deus como provedor."
    },
    {
     "ref": "Eclesiastes 5:10",
     "text": "Quem ama o dinheiro não se fartará de dinheiro; nem o que ama a riqueza se fartará do ganho; também isso é vaidade.",
-    "contexto": "Reflexão sobre o vazio da ganância.",
+    "contexto": "O Eclesiastes, atribuído a um rei que teve de tudo, examina com franqueza a vaidade das buscas humanas. Aqui faz um diagnóstico certeiro sobre o dinheiro: “quem ama o dinheiro nunca se farta dele”. É a constatação de que o desejo por mais não se sacia com mais — só o contentamento o aquieta.",
     "ensino": "“Quem ama o dinheiro jamais dele se farta.” A ganância é um copo furado: enche e nunca enche. O oposto do contentamento é esse buraco sem fundo, onde “mais” nunca é suficiente.",
     "reflexao": "\"Quem ama o dinheiro jamais dele se farta\": o oposto do contentamento é um poço sem fundo."
    },
    {
     "ref": "Salmos 37:16",
     "text": "Mais vale o pouco que o justo tem, do que as riquezas de muitos ímpios.",
-    "contexto": "Salmo que contrasta o justo e o ímpio.",
+    "contexto": "Salmo de Davi que contrasta a sorte dos justos e dos ímpios. Este verso afirma que “vale mais o pouco do justo do que a abundância de muitos ímpios”. A medida do bem-estar não é o tamanho do que se tem, mas a paz de quem o possui com retidão diante de Deus.",
     "ensino": "“Vale mais o pouco do justo do que a riqueza de muitos ímpios.” Paz com pouco vale mais que abundância sem Deus. Não é o tamanho do que se tem, é a presença de Deus no que se tem.",
     "reflexao": "\"Vale mais o pouco que tem o justo do que a riqueza de muitos ímpios\": contentamento com Deus vale mais que abundância sem Ele."
    }
@@ -3878,7 +3878,7 @@ window.ESTUDOS = [
     "ref_text": "O Senhor é o meu pastor; nada me faltará."
    }
   ],
-  "oracao_fechamento": "Pai, ensina-me o contentamento que não depende de ter muito ou pouco. Tira de mim a ganância e a comparação, e firma a minha satisfação em Ti. Obrigado porque, Contigo, nada me faltará. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque o Senhor é o meu pastor e nada me há de faltar do que é realmente necessário. Ensina-me o segredo do contentamento, o de quem sabe viver na escassez e na fartura apoiado na Tua força. Tira de mim o amor ao dinheiro, que nunca se farta, e dá-me olhos para ver que vale mais o pouco com retidão do que muito sem paz. Faze-me grato pelo que tenho hoje. E que o meu contentamento seja prova de que Tu me bastas. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 4:11",
@@ -3896,7 +3896,7 @@ window.ESTUDOS = [
   "emoji": "😴",
   "accent": "#6a8a9a",
   "resumo": "Parar e confiar.",
-  "oracao_abertura": "Senhor, eu vivo cansado e com dificuldade de parar. Obrigado porque Tu ofereces descanso de verdade. Abre o meu entendimento e ensina-me a descansar no corpo, na mente e na alma. Que eu encontre em Ti o descanso que o mundo não dá. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu vivo cansado, correndo atrás de dar conta de tudo, e mal paro para respirar. Obrigado porque Tu me convidas a vir a Ti e prometes me aliviar do peso que eu carrego. Abre o meu coração, neste tempo, e ensina-me que descansar não é fraqueza nem preguiça, mas confiança em Ti. Aquieta a minha alma agitada e lembra-me de que és Tu quem sustenta o mundo, não eu. E ajuda-me a parar, de verdade, e a entregar a Ti o que não cabe nas minhas mãos. Em nome de Jesus, amém.",
   "texto_base": [
    "Mateus 11:28",
    "Salmos 23:2"
@@ -3905,28 +3905,28 @@ window.ESTUDOS = [
    {
     "ref": "Hebreus 4:9-10",
     "text": "Portanto resta ainda um repouso sabático para o povo de Deus. Pois aquele que entrou no descanso de Deus, esse também descansou de suas obras, assim como Deus das suas.",
-    "contexto": "O autor fala do repouso de Deus para o povo.",
+    "contexto": "A Carta aos Hebreus compara a jornada cristã à do povo no deserto rumo ao descanso prometido. Aqui o autor anuncia que “resta um repouso para o povo de Deus” e que quem nele entra “descansa das suas obras”, como Deus descansou das Suas. É o descanso profundo de quem para de tentar se salvar por esforço próprio.",
     "ensino": "Além do descanso do corpo, há um descanso da alma: parar de tentar se salvar pelas próprias obras e confiar na obra de Cristo. É soltar o peso de ter que dar conta de tudo. Quem descansa em Deus para de remar contra a correnteza.",
     "reflexao": "\"Resta um repouso para o povo de Deus\": além do descanso físico, há um descanso espiritual em cessar de confiar nas próprias obras."
    },
    {
     "ref": "Salmos 127:2",
     "text": "Inútil vos será levantar de madrugada, repousar tarde, comer o pão de dores, pois ele supre aos seus amados enquanto dormem.",
-    "contexto": "Salmo sobre depender de Deus.",
+    "contexto": "Salmo atribuído a Salomão sobre a futilidade de construir sem Deus. Este verso adverte os que “se levantam de madrugada e se deitam tarde”, exaustos pela ansiedade, lembrando que Deus “dá aos seus amados o sono”. O descanso é apresentado como dom de Deus, não como prêmio do excesso de trabalho.",
     "ensino": "O excesso ansioso de trabalho — “levantar de madrugada e deitar tarde” — muitas vezes é desconfiança disfarçada de esforço. Deus “dá aos seus amados o sono”: dormir tranquilo é confiar que Ele cuida enquanto você descansa.",
     "reflexao": "\"Inútil vos será levantar de madrugada... pois Ele dá aos seus amados o sono\": o excesso ansioso de trabalho é desconfiança."
    },
    {
     "ref": "Marcos 6:31",
     "text": "Ao que ele lhes disse: Vinde vós, à parte, para um lugar deserto, e descansai um pouco. Porque eram muitos os que vinham e iam, e não tinham tempo nem para comer.",
-    "contexto": "Jesus cuida dos discípulos exaustos do ministério.",
+    "contexto": "Os apóstolos voltam empolgados de uma missão, em meio a tanta gente que nem tempo de comer havia. Em vez de aproveitar a multidão, Jesus os chama: “vinde vós, à parte, para um lugar deserto, e repousai um pouco”. O próprio Mestre ensina, pelo exemplo, que descansar faz parte do servir.",
     "ensino": "O próprio Jesus mandou os discípulos exaustos: “vinde... e repousai um pouco”. Descanso não é preguiça nem fraqueza; é ordem de Quem nos fez. Parar faz parte do ritmo de uma vida saudável.",
     "reflexao": "\"Vinde... a um lugar deserto, e repousai um pouco\": o próprio Jesus mandou os seus descansarem."
    },
    {
     "ref": "Salmos 46:10",
     "text": "Aquietai-vos, e sabei que eu sou Deus; sou exaltado entre as nações, sou exaltado na terra.",
-    "contexto": "Salmo sobre a soberania de Deus em meio ao caos.",
+    "contexto": "Salmo cantado em tempo de turbulência entre as nações, com a imagem de Deus como refúgio. No clímax vem a ordem: “aquietai-vos e sabei que eu sou Deus”. O descanso aqui é interior: parar de se agitar e reconhecer quem está no controle, mesmo quando tudo treme ao redor.",
     "ensino": "“Aquietai-vos e sabei que eu sou Deus.” O descanso da alma começa em lembrar quem está no controle — e que não é você. Quando você se cala e reconhece que Deus é Deus, o peso de segurar o mundo sai dos seus ombros.",
     "reflexao": "\"Aquietai-vos e sabei que eu sou Deus\": o descanso da alma vem de reconhecer que Deus está no controle."
    }
@@ -3958,7 +3958,7 @@ window.ESTUDOS = [
     "ref_text": "Aquietai-vos, e sabei que eu sou Deus; sou exaltado entre as nações, sou exaltado na terra."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu ofereces descanso para o corpo e para a alma. Ensina-me a parar, a confiar que Tu cuidas e a achar em Ti o alívio que o mundo não dá. Aquieta o meu coração. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu dás aos Teus amados o sono e ofereces um repouso para a minha alma cansada. Ensina-me a aquietar-me e a saber que Tu és Deus, mesmo quando tudo ao redor parece fora de controle. Tira de mim a ansiedade que me faz trabalhar sem parar, como se tudo dependesse de mim. Dá-me a sabedoria de descansar, como o próprio Jesus se retirava para repousar. E que, em Ti, eu encontre o descanso que o mundo não consegue dar. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Mateus 11:28",
