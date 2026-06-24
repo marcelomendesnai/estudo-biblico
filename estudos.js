@@ -1976,7 +1976,7 @@ window.ESTUDOS = [
   "emoji": "⚠️",
   "accent": "#b08a3a",
   "resumo": "Vencer a hora da queda.",
-  "oracao_abertura": "Senhor, Tu conheces as minhas fraquezas e onde eu sou mais tentado. Obrigado porque com a tentação Tu sempre dás a saída. Abre o meu entendimento e dá-me forças para resistir e olhos para enxergar o caminho de fuga. Guarda o meu coração e ajuda-me a fugir do que me faz cair. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a tentação me cerca de jeitos que ninguém vê, e sozinho eu não tenho força para vencê-la. Obrigado porque Jesus também foi tentado e entende exatamente a minha luta. Abre o meu entendimento, neste tempo, e mostra-me a saída que Tu prometes oferecer em toda tentação. Dá-me coragem para fugir, como José fugiu, em vez de negociar com o que me derruba. E firma a minha vontade em Ti, para que eu resista. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Coríntios 10:13",
    "Tiago 1:14"
@@ -1985,28 +1985,28 @@ window.ESTUDOS = [
    {
     "ref": "Mateus 4:4",
     "text": "Mas Jesus lhe respondeu: Está escrito: Nem só de pão viverá o homem, mas de toda palavra que sai da boca de Deus.",
-    "contexto": "Jesus é tentado no deserto e responde ao tentador.",
+    "contexto": "Jesus, depois de 40 dias de jejum no deserto, é tentado pelo diabo a transformar pedras em pão. Ele responde citando Deuteronômio: “nem só de pão viverá o homem, mas de toda palavra que sai da boca de Deus”. Vence a tentação não por força, mas usando a Escritura como arma.",
     "ensino": "Tentado no deserto, Jesus não discute com o tentador: responde com a Palavra, “está escrito”. A Escritura guardada é como uma arma já carregada na hora do perigo. Quem não conhece a Palavra entra na luta desarmado.",
     "reflexao": "Ele vence citando a Escritura: \"está escrito\". A Palavra guardada é arma na hora da tentação."
    },
    {
     "ref": "Gênesis 39:12",
     "text": "Então ela, pegando-o pela capa, lhe disse: Deita-te comigo! Mas ele, deixando a capa na mão dela, fugiu, escapando para fora.",
-    "contexto": "José é assediado pela esposa de Potifar.",
+    "contexto": "José, escravo no Egito, é assediado repetidamente pela esposa de Potifar. No clímax, ela o agarra pela roupa, e ele “fugiu, e saiu para fora”, deixando a veste na mão dela. A sua vitória sobre a tentação foi literalmente correr, sem negociar nem se demorar diante dela.",
     "ensino": "Diante do assédio, José não tentou “resistir conversando”: ele correu. Há tentações que não se vencem ficando por perto para provar força — vencem-se saindo de cena. Às vezes a santidade tem pernas.",
     "reflexao": "A resposta dele à tentação foi fugir, literalmente. Às vezes vencer é sair de perto, não negociar."
    },
    {
     "ref": "Tiago 4:7",
     "text": "Sujeitai-vos, pois, a Deus; mas resisti ao Diabo, e ele fugirá de vós.",
-    "contexto": "Tiago ensina sobre submissão a Deus e resistência.",
+    "contexto": "Tiago dá uma ordem prática contra o pecado: “sujeitai-vos a Deus; resisti ao diabo, e ele fugirá de vós”. A sequência importa: primeiro a entrega a Deus, depois a resistência. A força para resistir nasce de estar submisso a Ele, não da vontade isolada.",
     "ensino": "Há uma ordem: primeiro “sujeitai-vos a Deus”, depois “resisti”. Resistir sem estar achegado a Deus é tentar segurar a porta sozinho. Ligado a Ele, a sua resistência tem peso, e é a tentação que recua.",
     "reflexao": "\"Resisti ao diabo, e ele fugirá\": a resistência ativa, ligada a se achegar a Deus, faz a tentação recuar."
    },
    {
     "ref": "Salmos 119:11",
     "text": "Escondi a tua palavra no meu coração, para não pecar contra ti.",
-    "contexto": "Salmo sobre o valor da Palavra de Deus.",
+    "contexto": "O Salmo 119 inteiro celebra o valor da Palavra de Deus. Neste verso o salmista revela uma estratégia íntima: “escondi a Tua palavra no meu coração, para não pecar contra Ti”. Guardar a Escritura por dentro é apresentado como defesa preventiva contra a tentação.",
     "ensino": "Repare no tempo do verbo: “escondi” — antes da tentação. A defesa se monta na paz, não no susto. Quem guarda a Palavra no coração tem o que sacar na hora da fraqueza; quem não guardou, fica sem munição.",
     "reflexao": "\"Escondi a tua palavra no coração, para não pecar contra ti\": prevenção, não só reação."
    }
@@ -2038,7 +2038,7 @@ window.ESTUDOS = [
     "ref_text": "Vigiai e orai, para que não entreis em tentação; o espírito, na verdade, está pronto, mas a carne é fraca."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu sempre ofereces a saída na hora da tentação. Dá-me olhos para enxergá-la e coragem para tomá-la. Guarda o meu coração, e que a Tua Palavra esteja em mim na hora da fraqueza. Liberta-me do que me escraviza. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque, quando me sujeito a Ti e resisto, o mal foge de mim. Esconde a Tua palavra no meu coração, para que eu não peque contra Ti. Dá-me discernimento para reconhecer a tentação cedo e pernas para correr dela quando preciso. Lembra-me de que Tu nunca permites uma prova maior do que eu possa suportar, e sempre abres uma saída. E faze-me forte na hora da escolha. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Coríntios 10:13",
@@ -2056,7 +2056,7 @@ window.ESTUDOS = [
   "emoji": "🌫️",
   "accent": "#7a7a8a",
   "resumo": "Forças renovadas em Deus.",
-  "oracao_abertura": "Senhor, eu cheguei aqui cansado e meio sem forças. Obrigado por me receberes assim, sem cobrança. Abre o meu entendimento e levanta o meu ânimo. Lembra-me de que Tu estás comigo e de que a Tua alegria é a minha força, mesmo quando a minha acaba. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, tem dias em que eu só queria desistir, sem forças nem ânimo para seguir. Obrigado porque Tu não me cobras quando estou no fundo do poço, mas cuidas de mim como cuidaste de Elias debaixo da árvore. Abre o meu coração, neste tempo, e renova as minhas forças. Lembra-me de que a Tua alegria é a minha força, mesmo quando a minha acabou. E sustenta-me um passo de cada vez até o ânimo voltar. Em nome de Jesus, amém.",
   "texto_base": [
    "Josué 1:9",
    "Salmos 42:11"
@@ -2065,28 +2065,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Reis 19:4-5",
     "text": "Ele, porém, entrou pelo deserto caminho de um dia, e foi sentar-se debaixo de um zimbro; e pediu para si a morte, dizendo: Já basta, ó Senhor; toma agora a minha vida, pois não sou melhor do que meus pais. E deitando-se debaixo do zimbro, dormiu; e eis que um anjo o tocou, e lhe disse: Levanta-te e come.",
-    "contexto": "Elias, exausto e com medo, pede para morrer debaixo de uma árvore.",
+    "contexto": "Logo após uma grande vitória sobre os profetas de Baal, o profeta Elias foge, ameaçado pela rainha Jezabel, exausto e querendo morrer: “basta; toma agora a minha vida”. Deus não o repreende; manda um anjo dar-lhe comida e descanso. É o retrato de que até o mais forte desanima — e de como Deus cuida primeiro do corpo cansado.",
     "ensino": "Elias, logo após uma grande vitória, quis morrer de cansaço — e Deus não o repreendeu: mandou-o dormir e comer. Às vezes o que parece crise espiritual é corpo exausto. Cuidar do básico (sono, comida, descanso) também é cuidado de Deus.",
     "reflexao": "Deus cuida do desanimado de forma concreta: deixa-o dormir e o alimenta antes de qualquer cobrança. Cansaço também é espiritual."
    },
    {
     "ref": "Salmos 42:5",
     "text": "Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei pela salvação que há na sua presença.",
-    "contexto": "O salmista conversa com a própria alma abatida.",
+    "contexto": "O salmista, longe do templo e oprimido, conversa com a própria alma: “por que estás abatida, ó minha alma? Espera em Deus”. Em vez de só afundar no desânimo, ele pratica o dizer a si mesmo a verdade, redirecionando a esperança para Deus.",
     "ensino": "O salmista faz algo curioso: conversa com a própria alma — “por que estás abatida? espera em Deus”. Falar a verdade para si mesmo, em vez de só ouvir o desânimo, muda o astral. Pregar esperança ao próprio coração é remédio.",
     "reflexao": "\"Por que estás abatida, ó minha alma? Espera em Deus\": falar a verdade para si mesmo combate o desânimo."
    },
    {
     "ref": "Neemias 8:10",
     "text": "Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque este dia é consagrado ao nosso Senhor. Portanto não vos entristeçais, pois a alegria do Senhor é a vossa força.",
-    "contexto": "O povo chora ao ouvir a Lei; Neemias os reanima.",
+    "contexto": "O povo de Israel, recém-voltado do exílio, chora ao ouvir a Lei lida em público, sentindo o peso das próprias falhas. Neemias os anima: “não vos entristeçais, porque a alegria do Senhor é a vossa força”. O remédio para o abatimento é achar força na alegria que vem de Deus.",
     "ensino": "Quando o povo chora desanimado, Neemias diz “a alegria do Senhor é a vossa força”. A força para seguir não vem de você se animar sozinho, vem da alegria que está em Deus. É bateria externa, não interna.",
     "reflexao": "\"A alegria do Senhor é a vossa força\": a força para seguir vem da alegria que está em Deus, não em nós."
    },
    {
     "ref": "Filipenses 4:13",
     "text": "Posso todas as coisas naquele que me fortalece.",
-    "contexto": "Paulo escreve preso, falando de contentamento em qualquer situação.",
+    "contexto": "Paulo escreve preso, e este versículo (“tudo posso naquele que me fortalece”) resume o segredo que ele aprendeu para enfrentar fartura e escassez. Contra o desânimo, ele não confia na própria garra, mas na força que recebe de Cristo para suportar qualquer situação.",
     "ensino": "“Tudo posso naquele que me fortalece” — Paulo escreve isso preso. Não é frase de autoajuda, é dependência. A capacidade de suportar vem de Cristo, não da sua energia. Quando a sua acaba, a Dele começa.",
     "reflexao": "\"Tudo posso naquele que me fortalece\": a capacidade de suportar vem de Cristo, não da própria energia."
    }
@@ -2118,7 +2118,7 @@ window.ESTUDOS = [
     "ref_text": "mas os que esperam no Senhor renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; andarão, e não se fatigarão."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu cuidas do cansado e renovas as forças de quem espera em Ti. Levanta o meu ânimo, lembra-me da Tua presença e enche-me da Tua alegria, que é a minha força. Quando eu quiser desistir, segura-me. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a Tua alegria é a minha força e em Ti eu posso suportar todas as coisas. Levanta a minha alma abatida e ensina-me a esperar em Ti, como o salmista falava à própria alma. Cuida do meu corpo cansado e da minha mente desanimada, com descanso e com a Tua presença. Renova a minha esperança quando ela parecer perdida. E não me deixes desistir do que vale a pena. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Josué 1:9",
@@ -2136,7 +2136,7 @@ window.ESTUDOS = [
   "emoji": "👑",
   "accent": "#9a7a4a",
   "resumo": "O perigo de confiar em si.",
-  "oracao_abertura": "Senhor, o orgulho me faz achar que não preciso de Ti nem de ninguém. Obrigado por me suportares com paciência. Abre o meu entendimento e quebra essa autossuficiência em mim. Ensina-me a depender de Ti e a reconhecer os meus limites com humildade. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, o orgulho se esconde bem em mim, disfarçado de segurança e de razão. Obrigado porque Tu me amas demais para me deixar preso na ilusão de que dou conta de tudo sozinho. Abre o meu entendimento, neste tempo, e mostra-me onde eu venho me achando dono da verdade. Tira de mim a vaidade que precede a queda e dá-me um coração ensinável. E ajuda-me a reconhecer que tudo o que tenho veio de Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "Provérbios 16:18",
    "Tiago 4:6"
@@ -2145,28 +2145,28 @@ window.ESTUDOS = [
    {
     "ref": "Daniel 4:30-31",
     "text": "falou o rei, e disse: Não é esta a grande Babilônia que eu edifiquei para a morada real, pela força do meu poder, e para a glória da minha majestade? Ainda estava a palavra na boca do rei, quando caiu uma voz do céu: A ti se diz, ó rei Nabucodonosor: Passou de ti o reino.",
-    "contexto": "O rei Nabucodonosor se gaba do próprio poder no auge.",
+    "contexto": "O rei Nabucodonosor, no auge do poder, olha para a Babilônia e se gaba: “não é esta a grande Babilônia que eu edifiquei?”. Ainda falava quando a sentença de Deus cai sobre ele, que perde a razão e vive como animal. É o retrato bíblico de como o orgulho precede a queda.",
     "ensino": "No auge da arrogância — “olhem a minha grandeza” — veio a queda de Nabucodonosor. O orgulho que rouba de Deus o crédito do que deu certo é justo o ponto onde tropeçamos. Dar a Deus a glória é, também, proteção.",
     "reflexao": "No instante da arrogância (\"a minha grandeza\"), vem o juízo. O orgulho que rouba de Deus a glória é confrontado."
    },
    {
     "ref": "1 Coríntios 10:12",
     "text": "Aquele, pois, que pensa estar em pé, olhe não caia.",
-    "contexto": "Paulo alerta os cristãos confiantes demais.",
+    "contexto": "Paulo adverte os coríntios, confiantes demais em si mesmos, usando os erros de Israel como exemplo. A frase é um alerta atemporal: “aquele que cuida estar em pé, olhe que não caia”. O excesso de autoconfiança é justamente o terreno onde o orgulho derruba.",
     "ensino": "“Quem pensa estar em pé, veja que não caia.” O ponto de maior risco não é a fraqueza que você vigia, é a área onde você se acha firme demais. Excesso de autoconfiança é onde o tombo costuma chegar.",
     "reflexao": "\"Aquele que pensa estar em pé, veja que não caia\": a autoconfiança orgulhosa é justamente o ponto de risco."
    },
    {
     "ref": "Provérbios 3:7",
     "text": "Não sejas sábio a teus próprios olhos; teme ao Senhor e aparta-te do mal.",
-    "contexto": "Provérbio sobre confiar em Deus e não em si.",
+    "contexto": "Provérbio da sabedoria de Israel que ataca a raiz do orgulho: “não sejas sábio a teus próprios olhos; teme ao Senhor e aparta-te do mal”. A humildade começa em não se achar a medida de tudo, reconhecendo que a sabedoria verdadeira vem de Deus.",
     "ensino": "“Não sejas sábio aos teus próprios olhos.” O orgulho é confiar na própria sabedoria em vez de em Deus e nos conselhos. Quem acha que já sabe tudo para de ouvir — e quem para de ouvir erra mais.",
     "reflexao": "\"Não sejas sábio aos teus próprios olhos\": o orgulho é confiar na própria sabedoria em vez de em Deus."
    },
    {
     "ref": "Gálatas 6:3",
     "text": "Pois, se alguém pensa ser alguma coisa, não sendo nada, engana-se a si mesmo.",
-    "contexto": "Paulo ensina sobre humildade entre irmãos.",
+    "contexto": "Paulo ensina os gálatas sobre carregar as cargas uns dos outros, e adverte contra a autoilusão: “se alguém cuida ser alguma coisa, não sendo nada, engana-se a si mesmo”. O orgulho é descrito como uma mentira que a pessoa conta para si mesma.",
     "ensino": "“Se alguém pensa ser alguma coisa, não sendo nada, engana-se.” O orgulho é, no fundo, um autoengano: a gente se vê maior do que é. A humildade não é se rebaixar, é se ver com verdade.",
     "reflexao": "\"Se alguém pensa ser alguma coisa, não sendo nada, engana-se\": o orgulho é, no fundo, autoengano."
    }
@@ -2198,7 +2198,7 @@ window.ESTUDOS = [
     "ref_text": "Aquele, pois, que pensa estar em pé, olhe não caia."
    }
   ],
-  "oracao_fechamento": "Pai, quebra em mim o orgulho que me faz confiar só em mim. Ensina-me a depender de Ti, a ouvir e a dar-Te o crédito do que dá certo. Guarda-me da queda que vem da soberba e dá-me a graça que reservas aos humildes. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado por me lembrares, como a Nabucodonosor, de que tudo o que sou e tenho vem de Ti. Guarda-me de confiar demais em mim mesmo, para que eu não caia justamente onde me acho firme. Dá-me a humildade de não ser sábio aos meus próprios olhos, mas de Te temer e me apartar do mal. Tira de mim a mentira de me achar mais do que sou. E faze-me grande apenas no servir. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Provérbios 16:18",
@@ -2216,7 +2216,7 @@ window.ESTUDOS = [
   "emoji": "💼",
   "accent": "#6a7a8a",
   "resumo": "Trabalhar como para Deus.",
-  "oracao_abertura": "Senhor, o meu trabalho ocupa boa parte da minha vida e da minha energia. Obrigado por me dares forças e por dar dignidade ao que eu faço. Abre o meu entendimento e ensina-me a trabalhar como para Ti, com excelência e sem transformar o trabalho num ídolo. Dá-me propósito no que faço e equilíbrio entre o esforço e o descanso. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu passo grande parte da vida trabalhando, e às vezes esqueço que isso também pode Te honrar. Obrigado porque o meu trabalho, por mais comum que pareça, tem valor diante de Ti. Abre o meu entendimento, neste tempo, e ensina-me a fazer tudo como para Ti, e não apenas para os homens. Dá-me diligência sem me tornar escravo da pressa. E abençoa a obra das minhas mãos, para que ela tenha sentido. Em nome de Jesus, amém.",
   "texto_base": [
    "Colossenses 3:23",
    "Provérbios 16:3"
@@ -2225,28 +2225,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Coríntios 10:31",
     "text": "Portanto, quer comais quer bebais, ou façais, qualquer outra coisa, fazei tudo para glória de Deus.",
-    "contexto": "Paulo orienta sobre como viver o dia a dia em Corinto.",
+    "contexto": "Paulo encerra uma discussão sobre liberdade cristã com um princípio que abrange tudo: “quer comais, quer bebais, ou façais outra coisa qualquer, fazei tudo para a glória de Deus”. Isso eleva o trabalho comum, por mais simples que seja, a um ato que pode honrar a Deus.",
     "ensino": "Não existe trabalho “sagrado” e “comum” para Deus: lavar prato, dirigir, atender cliente — tudo pode ser feito “para a glória de Deus”. Muda o porquê, não a tarefa. O mesmo serviço, feito como oferta a Deus, ganha outro peso.",
     "reflexao": "\"Quer comais, quer bebais... fazei tudo para a glória de Deus\": inclui o trabalho na lista do que glorifica a Deus."
    },
    {
     "ref": "Provérbios 22:29",
     "text": "Vês um homem hábil na sua obrar? esse perante reis assistirá; e não assistirá perante homens obscuros.",
-    "contexto": "Provérbio sobre o valor da competência.",
+    "contexto": "Provérbio que observa o valor da competência: “viste a um homem diligente na sua obra? Perante reis será posto”. A excelência no trabalho, feita com diligência, é apresentada como algo que naturalmente abre portas e dignifica quem o faz.",
     "ensino": "Excelência abre portas. O profissional que faz bem feito acaba notado, “posto perante reis”. Não é bajulação; é que o capricho fala por si. Fazer bem o pequeno é o caminho para chegar ao grande.",
     "reflexao": "O homem diligente no seu trabalho \"perante reis será posto\": a excelência abre portas e honra a Deus."
    },
    {
     "ref": "Êxodo 20:9",
     "text": "Seis dias trabalharás, e farás todo o teu trabalho;",
-    "contexto": "Parte do mandamento do sábado.",
+    "contexto": "Parte do quarto mandamento, dado a Israel no Sinai. Antes de ordenar o descanso do sábado, Deus diz: “seis dias trabalharás e farás toda a tua obra”. O trabalho não é castigo, mas parte do ritmo bom estabelecido por Deus, em equilíbrio com o descanso.",
     "ensino": "O mesmo Deus que ordenou o descanso ordenou o trabalho. Quem nunca para vira escravo; quem nunca trabalha foge do propósito. O equilíbrio entre os dois é mandamento, não sugestão.",
     "reflexao": "\"Seis dias trabalharás\": Deus ordena tanto o trabalho quanto o descanso. Trabalhar sem parar não é virtude."
    },
    {
     "ref": "Salmos 90:17",
     "text": "Seja sobre nós a graça do Senhor, nosso Deus; e confirma sobre nós a obra das nossas mãos; sim, confirma a obra das nossas mãos.",
-    "contexto": "Oração de Moisés sobre a brevidade da vida.",
+    "contexto": "Salmo atribuído a Moisés, uma oração sobre a brevidade da vida. Ele termina pedindo: “confirma sobre nós a obra das nossas mãos”. É o reconhecimento de que, para o trabalho ter sentido e permanência, precisa da bênção e da direção de Deus sobre ele.",
     "ensino": "Esforço sozinho cansa e nem sempre dá fruto. Moisés pede a Deus que “confirme a obra das nossas mãos” — que dê sentido e resultado ao trabalho. Trabalhar COM Deus é diferente de trabalhar SÓ.",
     "reflexao": "\"Confirma sobre nós a obra das nossas mãos\": pedir a Deus que dê sentido e fruto ao nosso trabalho."
    }
@@ -2278,7 +2278,7 @@ window.ESTUDOS = [
     "ref_text": "Entrega ao Senhor as tuas obras, e teus desígnios serão estabelecidos."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado por dares sentido ao meu trabalho. Ajuda-me a fazê-lo como para Ti, com capricho, sem idolatrá-lo nem desprezá-lo. Confirma a obra das minhas mãos e dá-me sabedoria para saber a hora de trabalhar e a hora de descansar. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque o trabalho faz parte do bom ritmo que Tu criaste, junto com o descanso. Ajuda-me a trabalhar com diligência e excelência, fazendo tudo para a Tua glória. Guarda-me do excesso que rouba a minha saúde e a minha família, e da preguiça que despreza o dom de poder trabalhar. Confirma sobre mim a obra das minhas mãos e dá-lhe propósito. E que o meu trabalho seja um culto a Ti. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Colossenses 3:23",
@@ -2296,7 +2296,7 @@ window.ESTUDOS = [
   "emoji": "💰",
   "accent": "#6a8a5a",
   "resumo": "Servo útil, senhor cruel.",
-  "oracao_abertura": "Senhor, o dinheiro mexe com o meu coração mais do que eu costumo admitir. Obrigado por suprir as minhas necessidades até aqui. Abre o meu entendimento e ensina-me a usá-lo sem ser usado por ele. Que ele seja servo nas minhas mãos, e não senhor do meu coração. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, o dinheiro mexe comigo mais do que eu gostaria de admitir, ora pela falta, ora pelo desejo de ter mais. Obrigado porque Tu não condenas quem tem, mas me adverte a não pôr nele a minha segurança. Abre o meu coração, neste tempo, e mostra-me onde está, de verdade, o meu tesouro. Liberta-me da ganância que nunca se sacia e da ansiedade que não confia em Ti. E ensina-me a usar o que tenho para o bem. Em nome de Jesus, amém.",
   "texto_base": [
    "1 Timóteo 6:10",
    "Mateus 6:24"
@@ -2305,28 +2305,28 @@ window.ESTUDOS = [
    {
     "ref": "Mateus 6:19-21",
     "text": "Não ajunteis para vós tesouros na terra; onde a traça e a ferrugem os consomem, e onde os ladrões minam e roubam; mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem os consumem, e onde os ladrões não minam nem roubam. Porque onde estiver o teu tesouro, aí estará também o teu coração.",
-    "contexto": "Parte do Sermão do Monte sobre tesouros.",
+    "contexto": "No Sermão do Monte, Jesus ensina sobre prioridades: “não ajunteis tesouros na terra... mas ajuntai tesouros no céu”. E conclui com o princípio que diagnostica o coração: “onde estiver o vosso tesouro, aí estará também o vosso coração”. O dinheiro revela o que a pessoa realmente ama.",
     "ensino": "Mostre o seu extrato e você verá o seu coração: onde o dinheiro vai, o coração segue. Jesus não condena ter, mas alerta sobre onde guardamos o tesouro. Investir no que é eterno protege o coração de virar refém da conta.",
     "reflexao": "\"Onde estiver o teu tesouro, ali estará o teu coração\": o dinheiro revela e arrasta o coração."
    },
    {
     "ref": "1 Timóteo 6:17-18",
     "text": "manda aos ricos deste mundo que não sejam altivos, nem ponham a sua esperança na incerteza das riquezas, mas em Deus, que nos concede abundantemente todas as coisas para delas gozarmos; que pratiquem o bem, que se enriqueçam de boas obras, que sejam liberais e generosos,",
-    "contexto": "Paulo orienta Timóteo sobre os ricos da igreja.",
+    "contexto": "Paulo orienta Timóteo sobre como pastorear os ricos da igreja. Não manda condená-los, mas adverte-os a não confiar “na incerteza das riquezas”, e sim em Deus, e a serem “ricos em boas obras”. A riqueza não é o problema; o problema é depositar nela a segurança.",
     "ensino": "A riqueza é “incerta” — sobe e desce. Apoiar a segurança nela é construir na areia. O antídoto que Paulo dá não é ter menos, é dar mais: a generosidade quebra o feitiço do dinheiro sobre o coração.",
     "reflexao": "Não confiar nas riquezas (incertas), mas em Deus, e ser generoso: o antídoto da ganância é a generosidade."
    },
    {
     "ref": "Lucas 12:15",
     "text": "E disse ao povo: Acautelai-vos e guardai-vos de toda espécie de cobiça; porque a vida do homem não consiste na abundância das coisas que possui.",
-    "contexto": "Jesus responde a um homem brigando por herança.",
+    "contexto": "Diante de um homem preocupado com uma herança, Jesus alerta a multidão: “acautelai-vos e guardai-vos da avareza, porque a vida de qualquer não consiste na abundância dos bens”. Ele desfaz a ilusão de que ter mais é o mesmo que viver mais.",
     "ensino": "Numa briga por herança, Jesus desvia o foco: “a vida não consiste na abundância”. Acumular não preenche; sempre falta mais um pouco. O valor da vida não se mede pelo tamanho do que se tem.",
     "reflexao": "\"Acautelai-vos da avareza, porque a vida não consiste na abundância\": valor de vida não se mede por posses."
    },
    {
     "ref": "Provérbios 3:9",
     "text": "Honra ao Senhor com os teus bens, e com as primícias de toda a tua renda;",
-    "contexto": "Provérbio sobre honrar a Deus com os bens.",
+    "contexto": "Provérbio que ensina uma postura concreta diante dos bens: “honra ao Senhor com a tua fazenda e com as primícias de toda a tua renda”. Dar a Deus o primeiro, e não as sobras, é apresentado como um jeito de reconhecer quem é a verdadeira fonte de tudo.",
     "ensino": "Dar a Deus a PRIMEIRA parte, não as sobras, reordena tudo. É como decidir, no começo do mês, quem manda no seu dinheiro. Honrar a Deus com os bens é dizer, na prática, que Ele vem antes deles.",
     "reflexao": "\"Honra ao Senhor com a tua fazenda\": dar a Deus a primeira parte reordena a relação com o dinheiro."
    }
@@ -2358,7 +2358,7 @@ window.ESTUDOS = [
     "ref_text": "O rico domina sobre os pobres; e o que toma emprestado é servo do que empresta."
    }
   ],
-  "oracao_fechamento": "Pai, tira do meu coração o amor ao dinheiro e a falsa segurança que ele promete. Ensina-me o contentamento e a generosidade. Que eu confie em Ti como provedor e use o que tenho para o bem, sem ser escravo dele. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a minha vida não consiste na abundância dos bens, mas em Ti. Guarda o meu coração da avareza e da ilusão de que ter mais é viver mais. Ajuda-me a honrar-Te com o primeiro do que recebo, e não com as sobras, reconhecendo que tudo vem de Ti. Faze-me rico em boas obras, generoso e pronto a repartir. E que o meu tesouro esteja onde a traça não corrói. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "1 Timóteo 6:10",
