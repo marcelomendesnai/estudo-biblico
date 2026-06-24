@@ -2776,7 +2776,7 @@ window.ESTUDOS = [
   "emoji": "⏳",
   "accent": "#7a8a9a",
   "resumo": "Viver dias que passam rápido.",
-  "oracao_abertura": "Senhor, os meus dias passam depressa e nem sempre no que importa. Obrigado por cada dia que me dás. Abre o meu entendimento e ensina-me a contar os meus dias para alcançar um coração sábio. Tira de mim a pressa ansiosa e a procrastinação, e dá-me sabedoria para priorizar. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, o tempo passa rápido e muitas vezes eu o desperdiço com o que não importa. Obrigado porque cada dia que recebo vem das Tuas mãos. Abre o meu entendimento, neste tempo, e ensina-me a contar os meus dias, para que eu viva com sabedoria. Tira de mim a ansiedade pelo amanhã e a distração que rouba o hoje. E ajuda-me a usar bem as horas que me dás, no que realmente vale. Em nome de Jesus, amém.",
   "texto_base": [
    "Salmos 90:12",
    "Efésios 5:16"
@@ -2785,28 +2785,28 @@ window.ESTUDOS = [
    {
     "ref": "Salmos 39:4",
     "text": "Faze-me conhecer, ó Senhor, o meu fim, e qual a medida dos meus dias, para que eu saiba quão frágil sou.",
-    "contexto": "Oração de Davi sobre a brevidade da vida.",
+    "contexto": "Davi, refletindo sobre a brevidade da vida em meio ao sofrimento, faz um pedido incomum: “faze-me conhecer, ó Senhor, o meu fim, e a medida dos meus dias”. Ele quer ter consciência de que a vida é curta, não para se desesperar, mas para vivê-la com sabedoria.",
     "ensino": "Davi pede consciência da finitude — não por mórbido, mas para viver bem. Lembrar que o tempo acaba é o que faz a gente priorizar o que importa. Quem encara o relógio decide melhor onde gastá-lo.",
     "reflexao": "\"Faze-me saber... a medida dos meus dias\": pedir consciência da finitude é caminho de sabedoria, não de medo."
    },
    {
     "ref": "Mateus 6:34",
     "text": "Não vos inquieteis, pois, pelo dia de amanhã; porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal.",
-    "contexto": "Jesus ensina sobre ansiedade no Sermão do Monte.",
+    "contexto": "No Sermão do Monte, Jesus encerra o ensino sobre a ansiedade com uma orientação prática sobre o tempo: “não vos inquieteis pelo dia de amanhã... basta a cada dia o seu mal”. Ele convida a viver o presente confiando em Deus, em vez de gastar hoje sofrendo por antecipação.",
     "ensino": "Gastar o hoje remoendo o amanhã é desperdício duplo: perde o presente e não resolve o futuro. Jesus chama a viver o dia de hoje fazendo a parte de hoje. O amanhã se cuida quando chegar.",
     "reflexao": "\"Não vos inquieteis pelo dia de amanhã\": viver bem o tempo inclui não desperdiçar o hoje com a ansiedade do amanhã."
    },
    {
     "ref": "Colossenses 4:5",
     "text": "Andai em sabedoria para com os que estão de fora, usando bem cada oportunidade.",
-    "contexto": "Paulo orienta sobre a vida diante dos de fora.",
+    "contexto": "Paulo orienta os cristãos sobre o testemunho diante de quem está “de fora”, e usa uma expressão reveladora: “remindo o tempo”. A imagem é de quem aproveita, ou resgata, cada oportunidade — tratando o tempo como recurso precioso a não desperdiçar.",
     "ensino": "O tempo é oportunidade, não só relógio. “Aproveitar o tempo” é usá-lo no que vale — relações, o bem, Deus — em vez de deixá-lo escorrer em distração. Tempo bem usado não é correria, é escolha sábia.",
     "reflexao": "\"Andai com sabedoria... aproveitando o tempo\": o tempo é oportunidade, inclusive de fazer o bem e testemunhar."
    },
    {
     "ref": "Eclesiastes 3:1",
     "text": "Tudo tem a sua ocasião própria, e há tempo para todo propósito debaixo do céu.",
-    "contexto": "Reflexão poética sobre os tempos da vida.",
+    "contexto": "Um dos textos mais conhecidos da Bíblia abre a famosa lista de tempos: “tudo tem o seu tempo determinado... há tempo para todo o propósito debaixo do céu”. Ensina a aceitar que a vida tem estações, e que há sabedoria em reconhecer o tempo certo de cada coisa.",
     "ensino": "Há tempo de plantar e de colher, de chorar e de rir. Aceitar os tempos da vida traz paz, em vez de brigar com o relógio querendo tudo agora. Sabedoria é discernir em que tempo você está e vivê-lo.",
     "reflexao": "Há tempo para tudo: aceitar os tempos (de plantar, colher, chorar, rir) traz paz em vez de luta contra o relógio."
    }
@@ -2838,7 +2838,7 @@ window.ESTUDOS = [
     "ref_text": "No entanto, não sabeis o que sucederá amanhã. Que é a vossa vida? Sois um vapor que aparece por um pouco, e logo se desvanece."
    }
   ],
-  "oracao_fechamento": "Pai, ensina-me a contar os meus dias para viver com sabedoria. Tira a pressa ansiosa e a procrastinação, e ajuda-me a investir o meu tempo no que tem valor eterno. Que eu viva bem o hoje que Tu me deste. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque há tempo para cada propósito debaixo do céu, e Tu governas as estações da minha vida. Ensina-me a remir o tempo, aproveitando as oportunidades em vez de deixá-las passar. Liberta-me da inquietação pelo amanhã, sabendo que basta a cada dia o seu cuidado. Dá-me sabedoria para distinguir o urgente do importante. E que eu invista a minha vida no que permanece. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Salmos 90:12",
@@ -2856,7 +2856,7 @@ window.ESTUDOS = [
   "emoji": "🎁",
   "accent": "#c97f3c",
   "resumo": "Mais feliz em dar.",
-  "oracao_abertura": "Senhor, tudo o que eu tenho veio de Ti. Obrigado por seres generoso comigo todos os dias. Abre o meu entendimento e liberta-me do aperto da mão fechada. Ensina-me a dar com alegria e a usar o que recebi para abençoar os outros. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu costumo segurar o que tenho com medo de que falte, e a generosidade me custa. Obrigado porque Tu és o doador de tudo o que possuo. Abre o meu coração, neste tempo, e cura em mim o apego que me fecha para o próximo. Ensina-me a dar com alegria, e não por obrigação, e em segredo, sem buscar aplauso. E faze de mim um canal das Tuas bênçãos para outros. Em nome de Jesus, amém.",
   "texto_base": [
    "2 Coríntios 9:7",
    "Atos 20:35"
@@ -2865,28 +2865,28 @@ window.ESTUDOS = [
    {
     "ref": "Lucas 6:38",
     "text": "Dai, e ser-vos-á dado; boa medida, recalcada, sacudida e transbordando vos deitarão no regaço; porque com a mesma medida com que medis, vos medirão a vós.",
-    "contexto": "Jesus ensina sobre a medida que usamos com os outros.",
+    "contexto": "Parte do Sermão da Planície, em que Jesus ensina sobre dar: “dai, e ser-vos-á dado... com a mesma medida com que medirdes vos medirão também”. Usa a imagem do grão derramado, recalcado e transbordando — a generosidade abre espaço para receber de volta com fartura.",
     "ensino": "“Dai, e ser-vos-á dado”, com a medida transbordando. É como o agricultor: quanto mais semeia, mais colhe. Generosidade não esvazia, abre espaço para receber. Mão fechada não solta nada, mas também não pega nada.",
     "reflexao": "\"Dai, e ser-vos-á dado... com a medida com que medirdes vos medirão\": a generosidade volta, transbordando."
    },
    {
     "ref": "Mateus 6:3-4",
     "text": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a direita; para que a tua esmola fique em secreto; e teu Pai, que vê em secreto, te recompensará.",
-    "contexto": "Jesus ensina sobre dar sem ostentar.",
+    "contexto": "No Sermão do Monte, Jesus ensina sobre a discrição ao dar: “não saiba a tua mão esquerda o que faz a direita”. Critica a esmola feita para ser vista e aplaudida, e valoriza a generosidade escondida, que busca a aprovação de Deus, não dos homens.",
     "ensino": "“Não saiba a tua mão esquerda o que faz a direita.” A generosidade que busca aplauso já recebeu o seu pagamento. O bem feito em segredo, só Deus vê — e é o que Ele recompensa. Dar sem palco é dar de verdade.",
     "reflexao": "\"Não saiba a tua mão esquerda o que faz a direita\": a generosidade verdadeira não busca aplauso."
    },
    {
     "ref": "2 Coríntios 9:6",
     "text": "Mas digo isto: Aquele que semeia pouco, pouco também ceifará; e aquele que semeia em abundância, em abundância também ceifará,",
-    "contexto": "Paulo motiva a igreja a contribuir.",
+    "contexto": "Paulo organiza uma coleta para os cristãos pobres de Jerusalém e ensina o princípio agrícola: “o que semeia pouco, pouco também ceifará; e o que semeia em abundância, em abundância também ceifará”. A generosidade é comparada a plantar: o que se reparte volta multiplicado.",
     "ensino": "“Quem semeia com fartura, com fartura também colherá.” A generosidade é semeadura, não desperdício. Quem dá pouco por medo de faltar colhe pouco; quem dá com fé colhe com alegria. O medo segura a mão; a fé a abre.",
     "reflexao": "\"Quem semeia com fartura, com fartura também colherá\": a generosidade é semeadura, não desperdício."
    },
    {
     "ref": "Hebreus 13:16",
     "text": "Mas não vos esqueçais de fazer o bem e de repartir com outros, porque com tais sacrifícios Deus se agrada.",
-    "contexto": "Exortações finais aos cristãos.",
+    "contexto": "Entre as instruções finais da carta, o autor lembra: “não vos esqueçais da beneficência e da repartição dos bens, porque com tais sacrifícios Deus se agrada”. A generosidade é tratada como uma forma de culto, um sacrifício que agrada a Deus tanto quanto o louvor.",
     "ensino": "“Não vos esqueçais da beneficência... com tais sacrifícios Deus se agrada.” Fazer o bem é uma forma de adoração tão real quanto cantar. Ajudar alguém em silêncio sobe a Deus como um louvor.",
     "reflexao": "\"Não vos esqueçais da beneficência... com tais sacrifícios Deus se agrada\": fazer o bem é uma forma de adoração."
    }
@@ -2918,7 +2918,7 @@ window.ESTUDOS = [
     "ref_text": "Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a direita;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu és generoso comigo sem medida. Abre a minha mão e o meu coração para dar com alegria, sem buscar aplauso. Que eu use o que tenho para o bem e reflita a Tua bondade aos que precisam. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque amas quem dá com alegria e prometes que quem semeia com fartura também colhe com fartura. Liberta-me do medo de que falte e da avareza que me fecha. Ensina-me a repartir em segredo, buscando a Tua aprovação e não a dos homens. Que a minha generosidade seja um culto que te agrada. E faze de mim alguém pelas mãos de quem Tu abençoas os outros. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "2 Coríntios 9:7",
@@ -2936,7 +2936,7 @@ window.ESTUDOS = [
   "emoji": "🙏",
   "accent": "#5d8a6a",
   "resumo": "Conversa constante com Deus.",
-  "oracao_abertura": "Senhor, ensina-me a orar — não palavras bonitas para os outros ouvirem, mas conversa real Contigo. Obrigado porque Tu me ouves. Abre o meu entendimento e tira de mim a pressa e a distração. Ajuda-me a buscar a Tua presença todos os dias. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu sei que preciso orar mais, mas a correria e a distração me afastam da Tua presença. Obrigado porque Tu não esperas palavras bonitas, mas um coração sincero. Abre o meu coração, neste tempo, e ensina-me a conversar contigo com simplicidade. Tira de mim a ideia de que orar é obrigação, e mostra-me que é o privilégio de falar com o meu Pai. E ajuda-me a buscar-Te primeiro, antes de tudo o mais. Em nome de Jesus, amém.",
   "texto_base": [
    "Filipenses 4:6",
    "1 Tessalonicenses 5:17"
@@ -2945,28 +2945,28 @@ window.ESTUDOS = [
    {
     "ref": "Mateus 6:7",
     "text": "E, orando, não useis de vãs repetições, como os gentios; porque pensam que pelo seu muito falar serão ouvidos.",
-    "contexto": "Jesus ensina sobre como orar.",
+    "contexto": "No Sermão do Monte, antes de ensinar o Pai Nosso, Jesus corrige um erro comum: “orando, não useis de vãs repetições... pensam que por muito falarem serão ouvidos”. Mostra que a oração não é fórmula nem quantidade de palavras, mas conversa sincera com um Pai que já conhece a necessidade.",
     "ensino": "“Não useis de vãs repetições.” Oração não é fórmula mágica nem quantidade de palavras; é conversa sincera com o Pai. Como falar com alguém que te ama: não precisa de roteiro decorado, precisa de verdade.",
     "reflexao": "\"Não useis de vãs repetições\": oração não é quantidade de palavras nem fórmula mágica, é conversa sincera."
    },
    {
     "ref": "João 15:7",
     "text": "Se vós permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será feito.",
-    "contexto": "Jesus fala sobre permanecer Nele.",
+    "contexto": "Na última ceia, Jesus usa a imagem da videira e dos ramos para falar de comunhão. A promessa sobre oração vem ligada a essa permanência: “se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis o que quiserdes”. A oração eficaz nasce de uma vida ligada a Ele.",
     "ensino": "“Se permanecerdes em mim... pedireis o que quiserdes.” Oração eficaz nasce da convivência, não do desespero de última hora. Quem anda perto de Deus pede diferente — já alinhado com o coração Dele.",
     "reflexao": "\"Se permanecerdes em mim... pedireis o que quiserdes\": oração eficaz nasce da comunhão constante com Cristo."
    },
    {
     "ref": "1 João 5:14",
     "text": "E esta é a confiança que temos nele, que se pedirmos alguma coisa segundo a sua vontade, ele nos ouve.",
-    "contexto": "João escreve sobre a confiança na oração.",
+    "contexto": "João escreve para dar segurança aos cristãos, e fala da confiança na oração: “se pedirmos alguma coisa, segundo a sua vontade, ele nos ouve”. A chave não é forçar a própria vontade, mas alinhar o pedido ao que Deus quer — e descansar em que Ele ouve.",
     "ensino": "Orar “segundo a Sua vontade” não é dobrar Deus à nossa, é alinhar a nossa à Dele. A oração não muda só as situações; muda quem ora. Às vezes a melhor resposta é Ele mudando o nosso pedido.",
     "reflexao": "\"Se pedirmos segundo a sua vontade, Ele nos ouve\": orar é alinhar o coração à vontade de Deus, não dobrar a Dele à nossa."
    },
    {
     "ref": "Marcos 1:35",
     "text": "De madrugada, ainda bem escuro, levantou-se, saiu e foi a um lugar deserto, e ali orava.",
-    "contexto": "Jesus, no auge do ministério, busca um tempo a sós.",
+    "contexto": "No auge do ministério, com multidões procurando Jesus, Marcos registra um hábito Dele: “de madrugada, ainda bem escuro... retirou-se a um lugar deserto, e ali orava”. Mesmo ocupadíssimo, Jesus priorizava a oração a sós — o exemplo de que ela vem antes da correria, não depois.",
     "ensino": "Jesus, no auge do ministério, levantou de madrugada para orar a sós. Se Ele, sendo o Filho, precisava reservar tempo, nós também. Oração não é o que sobra do dia; é prioridade que se separa.",
     "reflexao": "Ele se levantou de madrugada para orar num lugar deserto: se Jesus precisava desse tempo, nós também."
    }
@@ -2998,7 +2998,7 @@ window.ESTUDOS = [
     "ref_text": "Contou-lhes também uma parábola sobre o dever de orar sempre, e nunca desfalecer."
    }
   ],
-  "oracao_fechamento": "Pai, ensina-me a orar de verdade: com sinceridade, constância e confiança de filho. Que a oração não seja o último recurso, mas o meu jeito de andar Contigo o dia todo. Obrigado porque Tu sempre me ouves. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu me ouves quando peço segundo a Tua vontade e me convidas a permanecer em Ti. Ensina-me a orar sem vãs repetições, com sinceridade, sabendo que Tu já conheces a minha necessidade. Dá-me a disciplina de Jesus, que buscava a sós contigo antes da correria do dia. Alinha os meus pedidos ao que Tu queres e dá-me paz para confiar na Tua resposta. E faze da oração o meu primeiro recurso, não o último. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Filipenses 4:6",
@@ -3016,7 +3016,7 @@ window.ESTUDOS = [
   "emoji": "🦉",
   "accent": "#6a7a9a",
   "resumo": "Pedir e viver com sabedoria.",
-  "oracao_abertura": "Senhor, eu tenho conhecimento, mas muitas vezes me falta sabedoria para viver bem. Obrigado porque Tu a dás a quem pede, de boa vontade. Abre o meu entendimento e dá-me o Teu discernimento para as escolhas de hoje. Ensina-me a Te temer, porque aí começa o verdadeiro saber. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu tomo tantas decisões e nem sempre sei o caminho certo. Obrigado porque Tu prometes dar sabedoria a quem pede. Abre o meu entendimento, neste tempo, e dá-me, como a Salomão, um coração que discerne entre o bem e o mal. Tira de mim a confiança excessiva na minha própria razão. E ensina-me a buscar a Tua direção antes de seguir os meus planos. Em nome de Jesus, amém.",
   "texto_base": [
    "Tiago 1:5",
    "Provérbios 9:10"
@@ -3025,28 +3025,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Reis 3:9",
     "text": "Dá, pois, a teu servo um coração entendido para julgar o teu povo, para que prudentemente discirna entre o bem e o mal; porque, quem poderia julgar a este teu tão grande povo?",
-    "contexto": "Salomão, jovem rei, pode pedir o que quiser a Deus.",
+    "contexto": "Deus aparece em sonho ao jovem rei Salomão e oferece dar-lhe o que pedir. Em vez de riqueza ou vida longa, Salomão pede “um coração entendido para julgar o teu povo, para que discirna entre o bem e o mal”. O pedido por sabedoria, e não por poder, agrada tanto a Deus que Ele lhe dá ambos.",
     "ensino": "Salomão podia pedir o que quisesse e pediu “um coração que discirna”. O pedido sábio é por sabedoria, não por riqueza ou fama. O que você pediria se pudesse pedir uma coisa só? A resposta revela o coração.",
     "reflexao": "Ele pede \"um coração entendido\" para discernir, em vez de riqueza ou fama: o pedido sábio é por sabedoria."
    },
    {
     "ref": "Provérbios 3:5-6",
     "text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.",
-    "contexto": "Conselho central do livro de Provérbios.",
+    "contexto": "Um dos textos mais amados dos Provérbios sobre confiar em Deus: “confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento”. A sabedoria bíblica começa em reconhecer os limites da própria razão e buscar a direção de Deus em todos os caminhos.",
     "ensino": "“Confia no Senhor de todo o coração e não te estribes no teu entendimento.” Sabedoria não é ter todas as respostas; é depender de Quem tem. Como o GPS: você dirige, mas confia na rota de quem vê o mapa inteiro.",
     "reflexao": "Confiar no Senhor em vez de no próprio entendimento: a sabedoria é depender de Deus, não da própria cabeça."
    },
    {
     "ref": "Colossenses 2:3",
     "text": "no qual estão escondidos todos os tesouros da sabedoria e da ciência.",
-    "contexto": "Paulo aponta os cristãos para Cristo contra falsas filosofias.",
+    "contexto": "Paulo escreve para firmar os colossenses contra falsos mestres, e aponta onde está a verdadeira sabedoria: em Cristo “estão escondidos todos os tesouros da sabedoria e da ciência”. Buscar sabedoria, no fim, é buscar conhecer mais a Cristo, não acumular informação.",
     "ensino": "“Nele estão escondidos todos os tesouros da sabedoria.” A sabedoria máxima não é uma técnica, é uma Pessoa: conhecer Cristo. Quanto mais perto Dele, mais sábio o viver — porque a fonte é Ele.",
     "reflexao": "\"Nele estão escondidos todos os tesouros da sabedoria\": a sabedoria máxima se encontra em conhecer Jesus."
    },
    {
     "ref": "Salmos 119:105",
     "text": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho.",
-    "contexto": "Salmo sobre o valor da Palavra de Deus.",
+    "contexto": "Do grande salmo sobre a Palavra de Deus, este verso famoso a descreve como guia: “lâmpada para os meus pés é a tua palavra, e luz para o meu caminho”. A sabedoria para viver bem é encontrada na Escritura, que ilumina o passo a dar no escuro.",
     "ensino": "“Lâmpada para os meus pés é a tua palavra.” A Bíblia não ilumina o caminho todo de uma vez, mas o próximo passo. Sabedoria é dar o passo que a Palavra mostra agora, confiando que o resto se clareia adiante.",
     "reflexao": "\"Lâmpada para os meus pés é a tua palavra\": a Escritura é fonte prática de sabedoria para o caminho."
    }
@@ -3078,7 +3078,7 @@ window.ESTUDOS = [
     "ref_text": "Quem dentre vós é sábio e entendido? Mostre pelo seu bom procedimento as suas obras em mansidão de sabedoria."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu dás sabedoria a quem pede. Ensina-me a confiar em Ti mais do que no meu próprio entendimento e a buscar conselho. Que a minha vida mostre, nas atitudes, a sabedoria que vem do alto. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque em Cristo estão escondidos todos os tesouros da sabedoria, e a Tua palavra é lâmpada para os meus pés. Ajuda-me a confiar em Ti de todo o coração, sem me apoiar apenas no meu entendimento. Dá-me discernimento para as escolhas que tenho diante de mim e humildade para reconhecer quando não sei. Guia os meus passos pela luz da Tua palavra. E que buscar sabedoria me leve a te conhecer mais. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Tiago 1:5",
@@ -3096,7 +3096,7 @@ window.ESTUDOS = [
   "emoji": "✅",
   "accent": "#5d8a6a",
   "resumo": "Amar é obedecer.",
-  "oracao_abertura": "Senhor, é fácil Te chamar de Senhor e difícil fazer o que Tu dizes. Obrigado por seres paciente comigo. Abre o meu entendimento e ensina-me a obedecer não por medo, mas por amor. Dá-me um coração disposto a praticar a Tua Palavra, e não só ouvi-la. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é mais fácil concordar com o que Tu dizes do que realmente obedecer. Obrigado porque os Teus mandamentos não são pesados, mas para o meu bem. Abre o meu coração, neste tempo, e dá-me um espírito disposto a praticar, e não só a ouvir. Mostra-me onde eu venho adiando obedecer ao que já sei. E ajuda-me a construir a minha vida sobre a rocha de fazer a Tua vontade. Em nome de Jesus, amém.",
   "texto_base": [
    "João 14:15",
    "1 Samuel 15:22"
@@ -3105,28 +3105,28 @@ window.ESTUDOS = [
    {
     "ref": "Mateus 7:24",
     "text": "Todo aquele, pois, que ouve estas minhas palavras e as põe em prática, será comparado a um homem prudente, que edificou a casa sobre a rocha.",
-    "contexto": "Conclusão do Sermão do Monte.",
+    "contexto": "Jesus encerra o Sermão do Monte com a parábola dos dois construtores: quem ouve as Suas palavras “e as pratica” é como o que edificou a casa sobre a rocha, firme na tempestade. O ponto é claro: não basta ouvir o ensino; a obediência é o que dá firmeza à vida.",
     "ensino": "Quem ouve E pratica é a casa sobre a rocha; quem só ouve, sobre a areia. A diferença não aparece no sol, mas na tempestade. Obedecer é construir a vida num chão que aguenta quando a chuva vem.",
     "reflexao": "Quem ouve E pratica é a casa sobre a rocha; ouvir sem fazer é casa sobre a areia, que cai na tempestade."
    },
    {
     "ref": "1 João 5:3",
     "text": "Porque este é o amor de Deus, que guardemos os seus mandamentos; e os seus mandamentos não são penosos;",
-    "contexto": "João explica o que é amar a Deus.",
+    "contexto": "João define o amor a Deus de forma concreta: “este é o amor de Deus: que guardemos os seus mandamentos; e os seus mandamentos não são pesados”. A obediência não é apresentada como fardo, mas como expressão natural de quem ama a Deus.",
     "ensino": "“Os seus mandamentos não são pesados.” Obedecer por amor é diferente de obedecer por medo. O mesmo ato muda de peso conforme o motivo: o que se faz por amor a alguém não esmaga, liberta.",
     "reflexao": "\"O amor de Deus é este: que guardemos os seus mandamentos, e os seus mandamentos não são pesados\". Obedecer por amor não esmaga."
    },
    {
     "ref": "Hebreus 5:8",
     "text": "ainda que era Filho, aprendeu a obediência por meio daquilo que sofreu;",
-    "contexto": "O autor fala da humanidade de Jesus.",
+    "contexto": "A carta fala de Jesus como sumo sacerdote e revela algo surpreendente: “aprendeu a obediência, por aquilo que padeceu”. Mesmo sendo o Filho, Jesus viveu o caminho da obediência na dor — mostrando que obedecer muitas vezes se aprende nas provações.",
     "ensino": "“Ainda que era Filho, aprendeu a obediência.” Se o próprio Jesus viveu a obediência, ela não é humilhação, é caminho. Ele não pediu nada que não tenha andado primeiro.",
     "reflexao": "\"Ainda que era Filho, aprendeu a obediência\": o próprio Cristo viveu a obediência, dando exemplo."
    },
    {
     "ref": "João 13:17",
     "text": "Se sabeis estas coisas, bem-aventurados sois se as praticardes.",
-    "contexto": "Jesus depois de lavar os pés dos discípulos.",
+    "contexto": "Após lavar os pés dos discípulos, dando exemplo de serviço, Jesus conclui: “se sabeis estas coisas, bem-aventurados sois se as fizerdes”. A bênção não está em saber o que é certo, mas em colocá-lo em prática — conhecimento sem obediência não basta.",
     "ensino": "“Se sabeis estas coisas, bem-aventurados sois se as praticardes.” A bênção não está em saber, está em fazer. Conhecimento sem prática é como receita sem cozinhar: não alimenta ninguém.",
     "reflexao": "\"Se sabeis estas coisas, bem-aventurados sois se as praticardes\": a bênção está em fazer, não só em saber."
    }
@@ -3158,7 +3158,7 @@ window.ESTUDOS = [
     "ref_text": "E por que me chamais: Senhor, Senhor, e não fazeis o que eu vos digo?"
    }
   ],
-  "oracao_fechamento": "Pai, ensina-me a obedecer por amor, não por obrigação. Dá-me um coração que pratica a Tua Palavra e não só a aprova. Que eu construa a minha vida sobre a rocha de fazer o que Tu dizes. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque a obediência não é fardo, mas a prova do meu amor por Ti. Ajuda-me a não apenas ouvir a Tua palavra, mas a praticá-la, edificando a minha vida sobre a rocha. Dá-me força para obedecer mesmo quando custa, como Jesus aprendeu na dor. Tira de mim a religião só de palavras e dá-me uma fé que se mostra em atos. E que obedecer a Ti seja a minha alegria, não o meu peso. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "João 14:15",
