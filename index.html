@@ -489,7 +489,7 @@ function temaLivre(){ toast('Tema livre chega na próxima fase (com API)'); }
 let temaSel=null;
 function abrirModo(id){ temaSel=ESTUDOS.find(e=>e.id===id); $('#modo-tema').textContent=temaSel.tema; $('#modo').style.display='flex'; }
 function fecharModo(){ $('#modo').style.display='none'; }
-function voltarHome(){ $('#sessao').style.display='none'; $('#home').style.display='flex'; pauseMusic(); }
+async function voltarHome(){ $('#sessao').style.display='none'; pauseMusic(); await loadProgress(); renderHome(); $('#home').style.display='flex'; }
 
 /* ===== SESSÃO: monta as telas conforme o modo ===== */
 let i=0, total=0;
