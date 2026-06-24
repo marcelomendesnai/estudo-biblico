@@ -2376,7 +2376,7 @@ window.ESTUDOS = [
   "emoji": "👨‍👩‍👧",
   "accent": "#b07a4a",
   "resumo": "Casa edificada com Deus.",
-  "oracao_abertura": "Senhor, a minha família é um presente e também um desafio diário. Obrigado pelas pessoas que colocaste na minha casa. Abre o meu entendimento e edifica o meu lar, porque sem Ti eu trabalho em vão. Dá-me paciência, amor e perdão para com os meus, e faze do nosso lar um lugar onde Tu habitas. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a família é onde eu mais amo e também onde mais me machuco e machuco. Obrigado porque Tu te importas com o que acontece dentro da minha casa, e não só fora dela. Abre o meu coração, neste tempo, e ensina-me a amar os meus com paciência e a honrá-los de verdade. Cura o que está ferido entre nós e ajuda-me a ser presença boa para quem mora comigo. E que a minha casa seja um lugar onde Tu habitas. Em nome de Jesus, amém.",
   "texto_base": [
    "Josué 24:15",
    "Salmos 127:1"
@@ -2385,28 +2385,28 @@ window.ESTUDOS = [
    {
     "ref": "Provérbios 22:6",
     "text": "Instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele.",
-    "contexto": "Provérbio sobre formação dos filhos.",
+    "contexto": "Provérbio da sabedoria de Israel sobre criação: “instrui o menino no caminho em que deve andar, e até quando envelhecer não se desviará dele”. É um princípio sobre o peso formativo dos primeiros anos: o que se ensina cedo, com constância, marca a vida toda.",
     "ensino": "O que se planta na infância dá fruto a vida toda. “Instruir no caminho” não é cobrar perfeição, é apontar a direção com exemplo e palavra. Como dobrar uma árvore nova: depois de adulta, fica como cresceu.",
     "reflexao": "\"Instrui o menino no caminho em que deve andar\": a formação na infância marca a vida inteira."
    },
    {
     "ref": "Efésios 6:1-3",
     "text": "Vós, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo. Honra a teu pai e a tua mãe {que é o primeiro mandamento com promessa}, para que te vá bem, e sejas de longa vida sobre a terra.",
-    "contexto": "Paulo orienta as relações dentro da família cristã.",
+    "contexto": "Paulo dá instruções práticas para as famílias da igreja de Éfeso. Aos filhos, ordena obedecer aos pais “no Senhor”, e cita o mandamento de honrar pai e mãe, lembrando que vem “com promessa”. A vida familiar saudável é tratada como parte concreta da vida com Deus.",
     "ensino": "É o primeiro mandamento com promessa. A ordem dentro de casa — pais que orientam, filhos que honram — traz bênção, não por mágica, mas porque o respeito constrói relações que sustentam a vida.",
     "reflexao": "Filhos obedecem e honram; é o \"primeiro mandamento com promessa\". A ordem em casa traz bênção."
    },
    {
     "ref": "Atos 16:31",
     "text": "Responderam eles: Crê no Senhor Jesus e serás salvo, tu e tua casa.",
-    "contexto": "Paulo responde ao carcereiro de Filipos sobre salvação.",
+    "contexto": "Paulo e Silas estão presos em Filipos quando um terremoto abre a cadeia. O carcereiro, desesperado, pergunta como ser salvo, e ouve: “crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa”. A salvação alcança o indivíduo, mas seu efeito se espalha pela família inteira.",
     "ensino": "Ao carcereiro, Paulo diz: “crê, e serás salvo, tu e a tua casa”. O desejo de Deus alcança a família inteira. A fé tem endereço: começa transbordando para dentro de casa.",
     "reflexao": "\"Crê... e serás salvo, tu e a tua casa\": o desejo de Deus alcança a família inteira."
    },
    {
     "ref": "Romanos 12:10",
     "text": "Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros;",
-    "contexto": "Paulo descreve o amor cristão na prática.",
+    "contexto": "No capítulo das relações cristãs, Paulo resume o clima que deve reinar entre irmãos: “amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros”. É o retrato de uma convivência em que cada um se importa em honrar o outro primeiro — começando em casa.",
     "ensino": "É na convivência diária que o amor mais é testado — e onde a gente costuma tratar pior justamente quem mais ama. “Preferir o outro em honra” começa pelos que moram com você.",
     "reflexao": "\"Amai-vos com afeto fraternal, preferindo-vos em honra\": vale especialmente dentro de casa, onde a convivência é diária."
    }
@@ -2438,7 +2438,7 @@ window.ESTUDOS = [
     "ref_text": "e as ensinarás a teus filhos, e delas falarás sentado em tua casa e andando pelo caminho, ao deitar-te e ao levantar-te."
    }
   ],
-  "oracao_fechamento": "Pai, edifica a minha casa, porque sem Ti eu trabalho em vão. Ensina-me a amar, perdoar e ter paciência com os meus, e a investir tempo de verdade neles. Que a minha família sirva a Ti e que o nosso lar seja lugar da Tua presença. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pela família que me deste, com suas alegrias e seus defeitos. Ensina-me a amar os meus cordialmente, preferindo-os em honra, e a perdoar dentro de casa como Tu me perdoas. Abençoa cada pessoa da minha família e alcança com a Tua salvação toda a minha casa. Dá-me sabedoria para instruir, paciência para conviver e amor para permanecer. E faze do meu lar um reflexo do Teu cuidado. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Josué 24:15",
@@ -2456,7 +2456,7 @@ window.ESTUDOS = [
   "emoji": "💍",
   "accent": "#b0556b",
   "resumo": "Dois que se tornam um.",
-  "oracao_abertura": "Senhor, o casamento é ideia Tua e presente Teu, mas também exige entrega todos os dias. Obrigado pelo meu cônjuge. Abre o meu entendimento e ensina-me a amar, ceder e perdoar. Une o que Tu juntaste e dá-me graça para construir, e não só cobrar. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, o casamento é lindo e difícil ao mesmo tempo, e exige mais de mim do que eu imaginava. Obrigado porque Tu és o autor do amor e podes ensinar o meu a crescer. Abre o meu coração, neste tempo, e ajuda-me a amar e a respeitar como Tu pedes. Tira de mim o orgulho que me impede de ceder e de pedir perdão. E faze da minha relação uma parceria em que um levanta o outro. Em nome de Jesus, amém.",
   "texto_base": [
    "Gênesis 2:24",
    "Marcos 10:9"
@@ -2465,28 +2465,28 @@ window.ESTUDOS = [
    {
     "ref": "Efésios 5:33",
     "text": "Todavia também vós, cada um de per si, assim ame a sua própria mulher como a si mesmo, e a mulher reverencie a seu marido.",
-    "contexto": "Paulo resume as orientações ao casal.",
+    "contexto": "Paulo encerra o ensino sobre o casamento com um resumo equilibrado: que cada marido ame a esposa como a si mesmo, e que a esposa respeite o marido. As duas necessidades mais profundas, ser amado e ser respeitado, são distribuídas como responsabilidade mútua.",
     "ensino": "Paulo resume em duas palavras o que cada um mais precisa: amor e respeito. Muitas brigas são, no fundo, falta de um desses dois. Conhecer a necessidade do outro é meio caminho para servi-lo bem.",
     "reflexao": "Cada um ame a esposa e a esposa respeite o marido: amor e respeito, as duas necessidades centrais do casal."
    },
    {
     "ref": "Eclesiastes 4:9-10",
     "text": "Melhor é serem dois do que um, porque têm melhor paga do seu trabalho. Pois se caírem, um levantará o seu companheiro; mas ai do que estiver só, pois, caindo, não haverá outro que o levante.",
-    "contexto": "Reflexão sobre o valor da parceria.",
+    "contexto": "O Eclesiastes observa o valor da companhia: “melhores são dois do que um... se um cair, o outro levanta o seu companheiro”. Embora não fale só de casamento, descreve bem a força de uma parceria comprometida: ninguém atravessa a vida bem sozinho.",
     "ensino": "Casar não é só somar, é apoiar: “se um cair, o outro o levanta”. O propósito é socorro mútuo na queda, não cobrança na falha. Bom casamento é ter quem te estende a mão quando você está no chão.",
     "reflexao": "\"Melhor é serem dois do que um... se um cair, o outro o levanta\": o casamento como apoio mútuo na vida."
    },
    {
     "ref": "1 Pedro 3:7",
     "text": "Igualmente vós, maridos, vivei com elas segundo a ciência, como sendo vaso mulheril mais fraco, dando-lhes honra como a herdeiras juntamente convosco da graça da vida, para que as vossas orações não sejam impedidas.",
-    "contexto": "Pedro orienta os maridos.",
+    "contexto": "Pedro orienta os maridos a viverem com as esposas “com entendimento”, tratando-as com honra. E acrescenta um detalhe sério: para que “não sejam impedidas as vossas orações”. O modo como se trata o cônjuge afeta diretamente a própria comunhão com Deus.",
     "ensino": "Pedro liga o trato no casamento à vida espiritual: maltratar em casa “impede as orações”. Como você trata o seu cônjuge afeta a sua comunhão com Deus. Não dá para adorar bem e amar mal dentro de casa.",
     "reflexao": "Viver \"sabiamente\" com a esposa e honrá-la, \"para que não sejam impedidas as vossas orações\": o trato no casamento afeta a vida espiritual."
    },
    {
     "ref": "Colossenses 3:13",
     "text": "suportando-vos e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como o Senhor vos perdoou, assim fazei vós também.",
-    "contexto": "Paulo ensina sobre relações na comunidade, aplicável ao lar.",
+    "contexto": "Paulo ensina a comunidade a “suportar-se uns aos outros e perdoar-se”, assim como o Senhor os perdoou. Aplicado ao casamento, é a chave da convivência longa: relacionamentos duram não por ausência de falhas, mas pela prática constante do perdão.",
     "ensino": "Nenhum casamento sobrevive sem perdão frequente — são dois pecadores debaixo do mesmo teto. “Suportar e perdoar” não é fraqueza; é a manutenção diária que evita o acúmulo de mágoa.",
     "reflexao": "\"Suportando-vos e perdoando-vos\": nenhum casamento sobrevive sem perdão frequente."
    }
@@ -2518,7 +2518,7 @@ window.ESTUDOS = [
     "ref_text": "não olhe cada um somente para o que é seu, mas cada qual também para o que é dos outros."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pelo presente do casamento. Ensina-me a amar como Cristo amou, a respeitar, perdoar e priorizar o meu cônjuge. Une o que Tu ajuntaste e dá-me graça para construir todos os dias, mesmo quando for difícil. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque dois são melhores do que um e Tu colocas companhia no caminho da vida. Ensina-me a viver com entendimento e honra, sabendo que isso afeta até as minhas orações. Dá-me um coração disposto a suportar e a perdoar, como Tu me perdoaste. Renova o amor onde ele esfriou e a paciência onde ela acabou. E que o meu casamento seja sinal do Teu amor fiel. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Gênesis 2:24",
@@ -2536,7 +2536,7 @@ window.ESTUDOS = [
   "emoji": "🤝",
   "accent": "#5a8a7a",
   "resumo": "Amigos que afiam e sustentam.",
-  "oracao_abertura": "Senhor, obrigado pelas amizades que colocas na minha vida. Abre o meu entendimento e ensina-me a ser um amigo leal, presente nas horas difíceis e verdadeiro mesmo quando dói. Dá-me amigos que me aproximem de Ti e ajuda-me a ser esse tipo de amigo para alguém. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu preciso de amigos de verdade, e também preciso ser esse tipo de amigo para alguém. Obrigado porque Tu mesmo te chamas de amigo dos que andam contigo. Abre o meu coração, neste tempo, e dá-me discernimento para escolher boas companhias, que me puxem para cima. Ensina-me a ser leal como Jônatas, sem inveja, e presente quando o outro precisar. E ajuda-me a carregar as cargas de quem amo. Em nome de Jesus, amém.",
   "texto_base": [
    "Provérbios 17:17",
    "Provérbios 18:24"
@@ -2545,28 +2545,28 @@ window.ESTUDOS = [
    {
     "ref": "1 Samuel 18:1",
     "text": "Ora, acabando Davi de falar com Saul, a alma de Jônatas ligou-se com a alma de Davi; e Jônatas o amou como à sua própria alma.",
-    "contexto": "Início da amizade entre Jônatas e Davi.",
+    "contexto": "Logo após Davi derrotar Golias, surge uma das amizades mais belas da Bíblia: “a alma de Jônatas se ligou com a alma de Davi”. Jônatas, filho do rei Saul e herdeiro do trono, ama Davi como a si mesmo, mesmo sabendo que Davi reinaria em seu lugar. É amizade sem inveja, leal até o sacrifício.",
     "ensino": "A amizade de Jônatas e Davi custou caro a Jônatas (abrir mão do trono) e mesmo assim permaneceu leal. Amizade de verdade não é interesse; é vínculo que resiste até quando contraria o próprio benefício.",
     "reflexao": "\"A alma de Jônatas se ligou à de Davi\": exemplo bíblico de amizade leal, que custou caro e permaneceu."
    },
    {
     "ref": "Provérbios 13:20",
     "text": "Quem anda com os sábios será sábio; mas o companheiro dos tolos sofre aflição.",
-    "contexto": "Provérbio sobre o efeito das companhias.",
+    "contexto": "Provérbio que alerta para o poder das companhias: “anda com os sábios e serás sábio, mas o companheiro dos tolos será afligido”. As amizades moldam quem nos tornamos; com quem se anda acaba determinando para onde se vai.",
     "ensino": "Você vira a média das pessoas com quem anda. As amizades moldam, devagar, o seu rumo e o seu caráter — para cima ou para baixo. Escolher amigos é, no fundo, escolher quem você vai se tornar.",
     "reflexao": "\"Quem anda com os sábios será sábio\": as amizades moldam quem nos tornamos. Escolher amigos é escolher rumo."
    },
    {
     "ref": "Eclesiastes 4:12",
     "text": "E, se alguém quiser prevalecer contra um, os dois lhe resistirão; e o cordão de três dobras não se quebra tão depressa.",
-    "contexto": "Reflexão sobre a força da parceria.",
+    "contexto": "Continuação do elogio à companhia: “se alguém quiser prevalecer contra um, os dois lhe resistirão; e o cordão de três dobras não se quebra depressa”. A imagem do cordão trançado mostra que a amizade dá força e proteção que a pessoa sozinha não tem.",
     "ensino": "Um fio se arrebenta fácil; trançados, resistem. A amizade firme dá força diante da vida, e quando Deus é a terceira dobra, o cordão fica ainda mais forte. Ninguém aguenta tudo sozinho.",
     "reflexao": "\"O cordão de três dobras não se quebra depressa\": amizade firme dá resistência diante da vida."
    },
    {
     "ref": "Gálatas 6:2",
     "text": "Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo.",
-    "contexto": "Paulo descreve a vida em comunidade.",
+    "contexto": "Paulo resume um dever central da vida cristã: “levai as cargas uns dos outros, e assim cumprireis a lei de Cristo”. A amizade verdadeira se prova quando se divide o peso do outro, e não apenas quando se compartilham os bons momentos.",
     "ensino": "A amizade cristã se prova no peso: “levai as cargas uns dos outros”. Não é só dividir a alegria, é ajudar a carregar o que pesa. Amigo de verdade aparece quando o fardo do outro fica pesado.",
     "reflexao": "\"Levai as cargas uns dos outros\": a amizade cristã se prova carregando o peso do outro."
    }
@@ -2598,7 +2598,7 @@ window.ESTUDOS = [
     "ref_text": "Fiéis são as feridas dum amigo; mas os beijos dum inimigo são enganosos."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pelos amigos que me deste. Faze de mim um amigo leal, presente e verdadeiro. Dá-me amizades que me afiem e me aproximem de Ti, e ajuda-me a carregar as cargas dos que amo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pelos amigos que colocaste na minha vida e pela força que vem de não andar sozinho. Ajuda-me a andar com os sábios, para me tornar sábio, e a me afastar do que me afasta de Ti. Faze de mim um cordão firme ao lado dos meus, que resiste junto na dificuldade. Ensina-me a levar as cargas dos outros e a deixar que levem as minhas. E que as minhas amizades me aproximem mais de Ti. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Provérbios 17:17",
@@ -2616,7 +2616,7 @@ window.ESTUDOS = [
   "emoji": "🧒",
   "accent": "#8a7aa0",
   "resumo": "Formar corações para Deus.",
-  "oracao_abertura": "Senhor, criar filhos é uma das tarefas mais altas e difíceis que me deste. Obrigado por confiá-los a mim. Abre o meu entendimento e dá-me sabedoria para instruir sem ferir, disciplinar com amor e apontá-los para Ti. Que eu seja, antes de tudo, um bom exemplo. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, criar filhos é uma das tarefas mais bonitas e mais pesadas que existem, e eu me sinto despreparado tantas vezes. Obrigado porque Tu não me deixas sozinho nessa missão. Abre o meu coração, neste tempo, e dá-me sabedoria para corrigir com amor e amar sem ceder ao que faz mal. Guarda-me de ferir o ânimo de quem está sob o meu cuidado. E ajuda-me a ensinar mais pelo exemplo do que pelas palavras. Em nome de Jesus, amém.",
   "texto_base": [
    "Provérbios 22:6",
    "Efésios 6:4"
@@ -2625,28 +2625,28 @@ window.ESTUDOS = [
    {
     "ref": "Provérbios 13:24",
     "text": "Aquele que poupa a vara aborrece a seu filho; mas quem o ama, a seu tempo o castiga.",
-    "contexto": "Provérbio sobre disciplina e amor.",
+    "contexto": "Provérbio sobre disciplina na criação: “o que retém a vara aborrece a seu filho, mas o que o ama, cedo o castiga”. Na linguagem da época, ensina que o amor de verdade inclui corrigir e dar limites — descuidar disso, longe de ser amor, é negligência.",
     "ensino": "Disciplinar não é o oposto de amar; segundo a Bíblia, é parte do amor. Criar sem limites parece bondade, mas é descuido. A correção firme e com carinho (não a violência) é um jeito de amar que cuida do futuro do filho.",
     "reflexao": "Liga disciplina a amor: criar sem limites não é bondade. Mas a disciplina bíblica é correção com cuidado, não violência."
    },
    {
     "ref": "2 Timóteo 1:5",
     "text": "trazendo à memória a fé não fingida que há em ti, a qual habitou primeiro em tua avó Loide, e em tua mãe Eunice e estou certo de que também habita em ti.",
-    "contexto": "Paulo lembra a fé sincera de Timóteo.",
+    "contexto": "Paulo lembra a Timóteo a fé que ele tem, a qual “habitou primeiro em tua avó Loide e em tua mãe Eunice”. É o retrato da fé transmitida de geração em geração dentro de casa: avó, mãe e neto, mostrando o poder do exemplo familiar na formação espiritual.",
     "ensino": "A fé de Timóteo veio “de berço”, passada por avó e mãe. A maior herança não é dinheiro, é fé transmitida no dia a dia. Filhos captam mais a fé que veem em casa do que a que ouvem na igreja.",
     "reflexao": "A fé \"habitou primeiro na tua avó e na tua mãe\": exemplo de fé transmitida em casa por gerações."
    },
    {
     "ref": "Colossenses 3:21",
     "text": "Vós, pais, não irriteis a vossos filhos, para que não fiquem desanimados.",
-    "contexto": "Paulo orienta os pais.",
+    "contexto": "Paulo equilibra a instrução aos pais com um cuidado: “pais, não irriteis a vossos filhos, para que não percam o ânimo”. A autoridade não pode virar opressão; criar bem inclui não esmagar o espírito da criança com dureza excessiva.",
     "ensino": "Disciplina sem carinho esmaga. Paulo alerta para não “irritar” os filhos a ponto de “perderem o ânimo”. Corrigir o erro sem destruir a autoestima — firmeza com ternura é a medida que forma sem ferir.",
     "reflexao": "\"Não irriteis os vossos filhos, para que não percam o ânimo\": disciplina não pode esmagar o coração da criança."
    },
    {
     "ref": "Provérbios 20:11",
     "text": "Até a criança se dá a conhecer pelas suas ações, se a sua conduta é pura e reta.",
-    "contexto": "Provérbio sobre o caráter desde cedo.",
+    "contexto": "Provérbio que observa que o caráter aparece cedo: “até a criança se dará a conhecer pelas suas ações, se a sua obra é pura e reta”. Reconhece que a formação dos filhos lida com algo que já se manifesta desde pequeno, exigindo atenção dos pais.",
     "ensino": "O caráter aparece cedo, nas pequenas escolhas da criança. Por isso a formação não pode esperar “ficar grande”. O que se rega na infância floresce na vida adulta.",
     "reflexao": "\"Até a criança se dá a conhecer pelas suas ações\": o caráter se forma cedo, daí a importância da boa instrução."
    }
@@ -2678,7 +2678,7 @@ window.ESTUDOS = [
     "ref_text": "trazendo à memória a fé não fingida que há em ti, a qual habitou primeiro em tua avó Loide, e em tua mãe Eunice e estou certo de que também habita em ti."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pelos filhos que me confiaste como herança Tua. Dá-me sabedoria para instruí-los com amor, corrigir sem feri-los e ser exemplo coerente. Aponta o coração deles para Ti, e a mim, ajuda a ser bom modelo. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pela fé que pode passar de geração em geração, como passou para Timóteo pela avó e pela mãe. Ajuda-me a instruir os filhos no caminho em que devem andar, com firmeza e ternura. Guarda-me de exasperá-los com dureza e dá-me paciência nos dias difíceis. Que eles vejam em mim um reflexo, ainda que imperfeito, do Teu amor. E confio a Ti o coração de cada um deles. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Provérbios 22:6",
@@ -2696,7 +2696,7 @@ window.ESTUDOS = [
   "emoji": "🗣️",
   "accent": "#b5783a",
   "resumo": "Vida e morte no poder da fala.",
-  "oracao_abertura": "Senhor, a minha língua faz muito bem e também muito estrago. Obrigado pela Palavra que pode encher o meu coração. Abre o meu entendimento e põe guarda à minha boca. Ensina-me a falar palavras que edificam, curam e abençoam, e a calar o que fere. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, a minha língua me mete em encrenca mais do que eu queria admitir, e palavras ditas no impulso já feriram quem eu amo. Obrigado porque Tu te importas até com o que eu falo. Abre o meu entendimento, neste tempo, e ensina-me a pensar antes de responder. Põe uma guarda à minha boca e ajuda-me a falar menos e melhor. E que as minhas palavras curem, em vez de machucar. Em nome de Jesus, amém.",
   "texto_base": [
    "Provérbios 18:21",
    "Tiago 3:5"
@@ -2705,28 +2705,28 @@ window.ESTUDOS = [
    {
     "ref": "Tiago 3:8-10",
     "text": "mas a língua, nenhum homem a pode domar. É um mal irrefreável; está cheia de peçonha mortal. Com ela bendizemos ao Senhor e Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus. Da mesma boca procede bênção e maldição. Não convém, meus irmãos, que se faça assim.",
-    "contexto": "Tiago expõe a incoerência da língua.",
+    "contexto": "Tiago dedica todo um trecho ao poder da língua, chamando-a de “mal que não se pode refrear”. Aponta a contradição: “com ela bendizemos a Deus, e com ela amaldiçoamos os homens”. O alerta é que a mesma boca que ora pode ferir, e isso não deveria ser assim.",
     "ensino": "Tiago aponta a incoerência: louvar a Deus e ferir o irmão com a MESMA boca. É como uma fonte que jorra água doce e amarga ao mesmo tempo. A fé verdadeira precisa chegar até a língua, não parar no domingo.",
     "reflexao": "\"Com ela bendizemos a Deus e amaldiçoamos os homens\": ele aponta a contradição de louvar e ferir com a mesma boca."
    },
    {
     "ref": "Mateus 12:36",
     "text": "Digo-vos, pois, que de toda palavra fútil que os homens disserem, hão de dar conta no dia do juízo.",
-    "contexto": "Jesus alerta sobre a responsabilidade pelas palavras.",
+    "contexto": "Jesus faz uma advertência séria sobre o peso das palavras: “de toda palavra ociosa que os homens disserem hão de dar conta no dia do juízo”. Mostra que nada do que falamos é descartável aos olhos de Deus — as palavras revelam e responsabilizam.",
     "ensino": "Tratamos a fala como descartável, mas Jesus diz que prestaremos contas até “da palavra ociosa”. Palavra não é vento: marca, fere ou cura, e fica. Pensar antes de falar é levar a sério o peso do que sai da boca.",
     "reflexao": "Daremos conta de \"toda palavra ociosa\": a fala não é descartável diante de Deus."
    },
    {
     "ref": "Provérbios 10:19",
     "text": "Na multidão de palavras não falta transgressão; mas o que refreia os seus lábios é prudente.",
-    "contexto": "Provérbio sobre o excesso de palavras.",
+    "contexto": "Provérbio direto sobre o falar demais: “na multidão de palavras não falta transgressão, mas o que modera os seus lábios é prudente”. Ensina que quem fala em excesso acaba errando; a prudência muitas vezes está em falar menos.",
     "ensino": "Quanto mais a gente fala, mais chance de errar. Às vezes a sabedoria é simplesmente falar menos. Quem segura a língua erra menos e escuta mais — e ouvir vale mais do que ter sempre a resposta.",
     "reflexao": "\"Na multidão de palavras não falta transgressão\": falar menos e melhor é sabedoria."
    },
    {
     "ref": "Salmos 141:3",
     "text": "Põe, ó Senhor, uma guarda à minha boca; vigia a porta dos meus lábios!",
-    "contexto": "Oração de Davi sobre o autocontrole.",
+    "contexto": "Davi faz uma oração que todos deveriam repetir: “põe, ó Senhor, uma guarda à minha boca; vigia a porta dos meus lábios”. É o reconhecimento de que controlar a língua é tão difícil que precisa da ajuda de Deus, como um porteiro que filtra o que sai.",
     "ensino": "Davi reconhece que sozinho não controla a língua e pede a Deus uma “guarda” à boca, como um porteiro que filtra o que sai. Dominar a fala é tão difícil que vale pedir ajuda divina, não só força de vontade.",
     "reflexao": "\"Põe, ó Senhor, uma guarda à minha boca\": reconhece que controlar a fala precisa da ajuda de Deus."
    }
@@ -2758,7 +2758,7 @@ window.ESTUDOS = [
     "ref_text": "Palavras suaves são como favos de mel, doçura para a alma e saúde para o corpo."
    }
   ],
-  "oracao_fechamento": "Pai, põe guarda à minha boca e enche o meu coração, de onde a boca fala. Ajuda-me a usar as palavras para edificar, curar e abençoar, e a segurar o que machuca. Que a minha fala revele a Tua graça. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque podes domar em mim aquilo que sozinho eu não consigo refrear. Põe uma guarda à minha boca e vigia a porta dos meus lábios. Tira de mim a língua que abençoa a Ti e fere as pessoas, e dá-me palavras que edificam. Ensina-me a prudência de moderar o falar e a consciência de que darei conta do que digo. E que a minha boca te honre no que fala. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Provérbios 18:21",
