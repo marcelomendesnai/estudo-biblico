@@ -1096,7 +1096,7 @@ window.ESTUDOS = [
   "emoji": "🦁",
   "accent": "#6b7a9a",
   "resumo": "Coragem na presença de Deus.",
-  "oracao_abertura": "Senhor, Tu conheces os meus medos, até os que eu não falo em voz alta. Obrigado porque posso trazê-los a Ti sem vergonha. Lembra-me, neste tempo, de que Tu estás comigo e que não me deixas sozinho. Troca o meu medo pela confiança na Tua presença e dá-me coragem para enfrentar o que eu preciso. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, Tu conheces os meus medos, até aqueles que eu não tenho coragem de falar em voz alta. Obrigado porque posso trazê-los a Ti sem vergonha e sem disfarce. Abre o meu entendimento, neste tempo, e lembra-me de que Tu estás comigo e que não me deixas enfrentar nada sozinho. Troca o meu medo pela confiança na Tua presença, que é mais real do que aquilo que me assusta. E dá-me coragem para dar o passo que eu venho evitando, sabendo que Tu vais à minha frente. Em nome de Jesus, amém.",
   "texto_base": [
    "Isaías 41:10",
    "2 Timóteo 1:7"
@@ -1105,28 +1105,28 @@ window.ESTUDOS = [
    {
     "ref": "João 14:27",
     "text": "Deixo-vos a paz, a minha paz vos dou; eu não vo-la dou como o mundo a dá. Não se turbe o vosso coração, nem se atemorize.",
-    "contexto": "Jesus se despede dos discípulos antes da cruz, sabendo que eles vão ter medo.",
+    "contexto": "João registra estas palavras de Jesus na última ceia, na noite anterior à crucificação. Os discípulos estavam prestes a vê-Lo preso e morto, e o medo tomaria conta deles. É justamente nesse cenário de despedida e colapso iminente que Jesus deixa a Sua paz, diferente da que o mundo oferece, para que o coração deles não se turbe nem se atemorize.",
     "ensino": "Jesus deu essa paz justamente na véspera da cruz, quando tudo ia desabar. Logo, a paz que vence o medo não é ausência de problemas, mas presença no meio deles — calmaria por dentro mesmo com tempestade por fora.",
     "reflexao": "Ele deixa a Sua paz, diferente da do mundo, justamente para o coração não se turbar nem atemorizar."
    },
    {
     "ref": "Deuteronômio 31:6",
     "text": "Sede fortes e corajosos; não temais, nem vos atemorizeis diante deles; porque o Senhor vosso Deus é quem vai convosco. Não vos deixará, nem vos desamparará.",
-    "contexto": "Moisés encoraja Israel a entrar numa terra cheia de inimigos.",
+    "contexto": "Moisés, já idoso e prestes a morrer sem entrar na Terra Prometida, se despede de Israel. Diante de um povo que teria de enfrentar nações poderosas sem o seu líder, ele passa o bastão a Josué e encoraja a todos: a coragem deveria se apoiar não na própria força, mas na presença de Deus, que iria adiante deles e não os desampararia.",
     "ensino": "Coragem não é não sentir medo; é avançar sabendo quem vai com você. Como a criança que entra no escuro segurando a mão do pai, o “esforça-te” vem amarrado ao “o Senhor é o que vai contigo”.",
     "reflexao": "\"Esforça-te e tem bom ânimo\": a coragem vem de saber que Deus não desampara."
    },
    {
     "ref": "Provérbios 29:25",
     "text": "O receio do homem lhe arma laços; mas o que confia no Senhor está seguro.",
-    "contexto": "Provérbio sobre o perigo de viver para agradar pessoas.",
+    "contexto": "Os Provérbios reúnem a sabedoria prática de Israel, boa parte atribuída a Salomão, para a vida cotidiana. Este diagnostica um medo muito comum: o de desagradar pessoas. Ele o chama de “laço” (uma armadilha que prende), contrastando-o com a segurança de quem confia no Senhor.",
     "ensino": "O medo do que os outros vão pensar é uma das prisões mais comuns: faz você calar, fingir e decidir errado só para agradar. A Bíblia chama isso de “laço”. Confiar em Deus é o que solta esse nó.",
     "reflexao": "O \"temor dos homens\" arma um laço; confiar no Senhor liberta dessa prisão."
    },
    {
     "ref": "Salmos 56:3",
     "text": "No dia em que eu temer, hei de confiar em ti.",
-    "contexto": "Davi escreve perseguido e com medo real, fugindo de inimigos.",
+    "contexto": "Davi escreve este salmo num momento real de terror: fugindo do rei Saul, caiu nas mãos dos filisteus, em Gate, cercado de inimigos. Não é poesia de gabinete, é oração de quem está com medo de verdade — e que, mesmo assim, decide confiar em Deus no exato instante do medo.",
     "ensino": "Davi não diz “eu nunca tenho medo”; ele diz “no dia em que eu temer, confiarei em ti”. É um modelo honesto: a coragem não espera o medo sumir, ela transforma o medo em oração no exato momento em que ele aparece.",
     "reflexao": "Modelo honesto: ele sente medo E decide confiar. Coragem não é não sentir medo, é confiar apesar dele."
    }
@@ -1158,7 +1158,7 @@ window.ESTUDOS = [
     "ref_text": "não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo e me sustentas com a Tua mão. Tira de mim o medo que paralisa e dá-me o espírito de poder, amor e equilíbrio que vem de Ti. Liberta-me do medo do que os outros pensam e firma o meu coração em Ti. Quando o medo voltar, ajuda-me a transformá-lo em confiança. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu estás comigo e me sustentas com a Tua mão. Tira de mim o medo que paralisa e enche-me do espírito de poder, amor e equilíbrio que vem de Ti. Liberta-me também do medo do que os outros pensam, que tantas vezes me prende, e firma o meu coração só em Ti. Ensina-me a transformar cada medo em oração, no instante em que ele aparecer. E quando o temor voltar, lembra-me de que, se Tu és por mim, eu não preciso temer. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Isaías 41:10",
@@ -1176,7 +1176,7 @@ window.ESTUDOS = [
   "emoji": "🕊️",
   "accent": "#6a9aa0",
   "resumo": "A paz que vem de Deus.",
-  "oracao_abertura": "Senhor, no meio do barulho e da pressa, eu venho buscar a Tua paz. Obrigado porque ela não depende de tudo estar resolvido. Aquieta o que está agitado dentro de mim e abre o meu coração para receber a paz que só Tu dás. Que eu não corra atrás da paz que o mundo promete e não cumpre, mas descanse na Tua. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, no meio do barulho, da pressa e das preocupações, eu venho buscar a Tua paz. Obrigado porque ela não depende de tudo estar resolvido nem de todos concordarem comigo. Aquieta o que está agitado dentro de mim e abre o meu coração para receber a paz que só Tu podes dar. Que eu não corra atrás da paz que o mundo promete e nunca cumpre, mas descanse na Tua, que guarda o coração e a mente. Ensina-me, neste tempo, a fixar a minha mente em Ti. Em nome de Jesus, amém.",
   "texto_base": [
    "João 14:27",
    "Filipenses 4:6"
@@ -1185,28 +1185,28 @@ window.ESTUDOS = [
    {
     "ref": "Colossenses 3:15",
     "text": "E a paz de Cristo, para a qual também fostes chamados em um corpo, domine em vossos corações; e sede agradecidos.",
-    "contexto": "Paulo orienta a vida em comunidade da igreja em Colossos.",
+    "contexto": "Paulo ensina os cristãos de Colossos, gente de origens diferentes aprendendo a conviver, a viver a vida nova em comunidade. Ele pede que “a paz de Cristo” atue como um árbitro no coração: a imagem é a de um juiz que, em meio aos conflitos internos e às tensões entre as pessoas, dá o veredito e restabelece a ordem.",
     "ensino": "A imagem é a de um juiz que apita e encerra a confusão. Paulo pede que a paz de Cristo “arbitre” no coração: quando os pensamentos brigam e a ansiedade grita, é essa paz que dá o veredito e acalma o jogo interno.",
     "reflexao": "A paz de Cristo deve \"arbitrar\" no coração, como um juiz que decide e acalma os conflitos internos."
    },
    {
     "ref": "Salmos 4:8",
     "text": "Em paz me deitarei e dormirei, porque só tu, Senhor, me fazes habitar em segurança.",
-    "contexto": "Salmo de Davi à noite, em meio a inimigos e aflição.",
+    "contexto": "Salmo de Davi, provavelmente escrito numa noite de aflição, cercado de adversários e de gente que duvidava dele. Mesmo sob ameaça, ele encerra deitando-se para dormir em paz — não porque o perigo passou, mas porque a sua segurança não dependia das circunstâncias, e sim de Deus, que o fazia habitar seguro.",
     "ensino": "Davi dorme em paz cercado de inimigos, não porque o perigo sumiu, mas porque a segurança dele não vinha das circunstâncias, e sim de Deus. Dormir tranquilo é, no fundo, um ato de confiança: posso descansar porque Tu não dormes.",
     "reflexao": "Ele dorme em paz porque confia: a segurança vem de Deus, não da ausência de ameaças."
    },
    {
     "ref": "Romanos 8:6",
     "text": "Porque a inclinação da carne é morte; mas a inclinação do Espírito é vida e paz.",
-    "contexto": "Paulo contrasta viver segundo a carne e segundo o Espírito.",
+    "contexto": "No capítulo 8 de Romanos, um dos pontos mais altos da carta, Paulo contrasta dois modos de viver: segundo a “carne” (a natureza voltada para si) e segundo o “Espírito”. Ele afirma que a mente fixada no Espírito é “vida e paz”, enquanto a mente presa às preocupações da carne leva à morte e à inquietação.",
     "ensino": "A mente é como um rádio: o que ela sintoniza define o clima de dentro. Fixada nas preocupações, gera angústia; voltada para Deus, gera “vida e paz”. Mudar a estação muda o estado do coração.",
     "reflexao": "A mente voltada para o Espírito é vida e paz; onde a mente se fixa muda o estado do coração."
    },
    {
     "ref": "Mateus 5:9",
     "text": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus.",
-    "contexto": "Parte das bem-aventuranças no Sermão do Monte.",
+    "contexto": "Parte das Bem-aventuranças, abertura do Sermão do Monte, em que Jesus descreve quem é feliz no Reino — quase sempre o oposto do que o mundo valoriza. Aqui Ele chama de “filhos de Deus” os pacificadores: não os que fogem do conflito por covardia, mas os que, tendo recebido a paz de Deus, trabalham para reconciliar.",
     "ensino": "A paz que recebemos de Deus transborda em fazer as pazes com os outros. Por isso Jesus chama os pacificadores de “filhos de Deus”: quem foi reconciliado vira ponte de reconciliação, e não fonte de briga.",
     "reflexao": "Quem tem a paz de Deus se torna pacificador: a paz recebida transborda em fazer as pazes."
    }
@@ -1238,7 +1238,7 @@ window.ESTUDOS = [
     "ref_text": "Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado pela paz que Tu dás, que o mundo não pode dar nem tirar. Aquieta o meu coração, firma a minha mente em Ti e guarda os meus pensamentos quando a ansiedade voltar. Faze de mim alguém que leva paz aonde vai, e não tensão. Que a Tua paz arbitre dentro de mim hoje. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado pela paz que Tu dás, essa que o mundo não pode dar nem tirar. Aquieta o meu coração, firma a minha mente em Ti e guarda os meus pensamentos quando a ansiedade voltar a bater. Faze de mim alguém que leva paz por onde passa, e não tensão nem conflito. Que a Tua paz arbitre dentro de mim, decidindo as brigas internas que me roubam o sossego. E que, tendo recebido a Tua paz, eu seja um pacificador. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "João 14:27",
@@ -1256,7 +1256,7 @@ window.ESTUDOS = [
   "emoji": "🌱",
   "accent": "#b06a6a",
   "resumo": "Confiar no tempo de Deus.",
-  "oracao_abertura": "Senhor, eu tenho pressa, mas Tu trabalhas no Teu tempo, que é sempre o melhor. Obrigado por seres tantas vezes paciente comigo. Ensina-me, neste tempo, a esperar sem desanimar e a suportar sem amargar. Produz em mim a paciência que confia em Ti mesmo quando a resposta demora. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, eu tenho pressa, mas Tu trabalhas no Teu tempo, que é sempre o melhor, ainda que eu nem sempre entenda. Obrigado por seres tão paciente comigo, esperando o meu amadurecimento sem desistir. Abre o meu entendimento, neste tempo, e ensina-me a esperar sem desanimar e a suportar sem amargurar. Produz em mim a paciência que confia em Ti mesmo quando a resposta demora a chegar. E ajuda-me a fazer a minha parte enquanto aguardo a Tua. Em nome de Jesus, amém.",
   "texto_base": [
    "Tiago 1:3",
    "Romanos 12:12"
@@ -1265,28 +1265,28 @@ window.ESTUDOS = [
    {
     "ref": "Hebreus 10:36",
     "text": "Porque necessitais de perseverança, para que, depois de haverdes feito a vontade de Deus, alcanceis a promessa.",
-    "contexto": "Carta a cristãos tentados a desistir sob pressão.",
+    "contexto": "A Carta aos Hebreus foi escrita a cristãos cansados e perseguidos, tentados a desistir e voltar atrás. Pouco antes, o autor os lembra de tudo o que já suportaram; aqui aponta o que ainda falta: “paciência” para, depois de fazerem a vontade de Deus, alcançarem a promessa. O intervalo entre obedecer e receber é o tempo da paciência.",
     "ensino": "Entre a promessa e o cumprimento quase sempre há um intervalo, e é nele que a paciência trabalha. É como a fila: desistir um passo antes da vez perde tudo. “Tendes necessidade de paciência” para receber o que já foi prometido.",
     "reflexao": "Liga paciência e promessa: é preciso perseverar para receber o que foi prometido."
    },
    {
     "ref": "Lamentações de Jeremias 3:25",
     "text": "Bom é o Senhor para os que esperam por ele, para a alma que o busca.",
-    "contexto": "Jeremias, no meio da ruína de Jerusalém, reafirma a bondade de Deus.",
+    "contexto": "Em meio aos poemas de luto pela destruição de Jerusalém pelos babilônios, o autor faz uma pausa no lamento e afirma uma certeza: “bom é o Senhor para os que esperam por Ele”. É paciência nascida no escombro — a confiança de que esperar em Deus, mesmo na ruína, não é tempo perdido.",
     "ensino": "Esperar parece tempo perdido, mas a Bíblia diz que “bom é o Senhor para os que esperam por Ele”. A espera em Deus não é sala vazia: é onde a confiança amadurece. Quem espera Nele não está parado, está confiando.",
     "reflexao": "\"Bom é o Senhor para os que esperam por Ele\": a espera paciente não é tempo perdido, é confiança."
    },
    {
     "ref": "Colossenses 1:11",
     "text": "corroborados com toda a fortaleza, segundo o poder da sua glória, para toda a perseverança e longanimidade com gozo;",
-    "contexto": "Paulo ora pela igreja em Colossos para que sejam fortalecidos.",
+    "contexto": "Paulo abre a carta aos Colossenses contando como ora por eles. Entre os pedidos, está que sejam “fortalecidos com todo o poder” para terem “toda a paciência”. O detalhe é precioso: a paciência aparece como fruto da força que Deus dá, não apenas de esforço humano — por isso ele a pede em oração.",
     "ensino": "Repare que Paulo ORA por paciência — sinal de que ela não vem só da força de vontade. A paciência com pessoas e situações é fruto do poder que Deus dá; quando falta, o caminho é pedir, não só apertar os dentes.",
     "reflexao": "Pede que tenham \"toda a paciência\": ela é fruto da força que Deus dá, não só do nosso esforço."
    },
    {
     "ref": "Tiago 5:7",
     "text": "Portanto, irmãos, sede pacientes até a vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba as primeiras e as últimas chuvas.",
-    "contexto": "Tiago compara a espera cristã à do agricultor.",
+    "contexto": "Tiago escreve a cristãos que sofriam injustiças e os exorta a serem pacientes até a vinda do Senhor. Usa o exemplo do agricultor, que planta e aguarda “a chuva temporã e a serôdia” sem desenterrar a semente: a fé, como a lavoura, faz a sua parte e confia no tempo de Deus para a colheita.",
     "ensino": "O agricultor planta e não fica desenterrando a semente todo dia para ver se cresceu; ele confia no tempo. A fé é assim: faz a sua parte e aguarda o tempo de Deus, sem a ansiedade do resultado imediato.",
     "reflexao": "O lavrador espera a colheita com paciência; a fé também planta e aguarda o tempo de Deus."
    }
@@ -1318,7 +1318,7 @@ window.ESTUDOS = [
     "ref_text": "corroborados com toda a fortaleza, segundo o poder da sua glória, para toda a perseverança e longanimidade com gozo;"
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu és bom para quem espera em Ti, e a Tua espera nunca é tempo perdido. Produz em mim paciência para aguardar o Teu tempo e para suportar as pessoas sem amargura. Que eu não desanime no bem, sabendo que a seu tempo colherei. Fortalece-me com a Tua paciência, que não vem só de mim. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu és bom para quem espera em Ti, e a espera em Ti nunca é tempo perdido. Produz em mim, pela Tua força, paciência para aguardar o Teu tempo e para suportar as pessoas sem amargura. Que eu não desanime de fazer o bem, sabendo que a seu tempo colherei se não desfalecer. Ensina-me a confiar como o agricultor confia na semente plantada. E que a minha paciência seja sinal da minha confiança em Ti. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Tiago 1:3",
@@ -1336,7 +1336,7 @@ window.ESTUDOS = [
   "emoji": "🤲",
   "accent": "#8a6fa0",
   "resumo": "Soltar o peso de quem nos feriu.",
-  "oracao_abertura": "Senhor, perdoar é difícil quando a ferida é real e ninguém pediu desculpas. Obrigado porque Tu me perdoaste primeiro, muito além do que eu mereço. Abre o meu entendimento e tira de mim o rancor que me aprisiona por dentro. Dá-me coragem para soltar quem me feriu e confiar a Ti a justiça. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, perdoar é difícil quando a ferida é real e quando ninguém pediu desculpas. Obrigado porque Tu me perdoaste primeiro, muito além do que eu mereço, sem que eu pudesse pagar nada. Abre o meu entendimento, neste tempo, e tira de mim o rancor que me aprisiona por dentro e envenena o meu coração. Dá-me coragem para soltar quem me feriu e para entregar a Ti a justiça que eu queria fazer com as minhas próprias mãos. Lembra-me do tamanho do perdão que eu recebi, para que eu consiga perdoar. Em nome de Jesus, amém.",
   "texto_base": [
    "Efésios 4:32",
    "Colossenses 3:13"
@@ -1345,28 +1345,28 @@ window.ESTUDOS = [
    {
     "ref": "Mateus 18:21",
     "text": "Então Pedro, aproximando-se dele, lhe perguntou: Senhor, até quantas vezes pecará meu irmão contra mim, e eu hei de perdoar? Até sete?",
-    "contexto": "Pedro pergunta a Jesus quantas vezes deve perdoar o irmão.",
+    "contexto": "Pedro pergunta a Jesus quantas vezes deve perdoar um irmão, sugerindo sete vezes — número que já parecia generoso para a época. A pergunta abre o ensino de Jesus sobre o perdão sem limite, logo ilustrado pela parábola do servo que, perdoado de uma dívida impagável, se recusa a perdoar uma bem pequena.",
     "ensino": "Pedro achou generoso perdoar sete vezes; Jesus respondeu “setenta vezes sete” — ou seja, pare de contar. Perdão que fica fazendo a conta das ofensas ainda não é perdão; é uma dívida anotada esperando cobrança.",
     "reflexao": "Pedro acha generoso perdoar 7 vezes; Jesus mostra que o perdão não se conta, se vive."
    },
    {
     "ref": "Marcos 11:25",
     "text": "Quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que também vosso Pai que está no céu, vos perdoe as vossas ofensas.",
-    "contexto": "Jesus ensina sobre oração e fé.",
+    "contexto": "Jesus ensina os discípulos sobre fé e oração, logo após a cena da figueira amaldiçoada, a caminho de Jerusalém na última semana. Ele liga diretamente a oração ao perdão: na hora de orar, é preciso perdoar quem nos ofendeu, pois guardar rancor compromete a nossa própria comunhão com o Pai.",
     "ensino": "Jesus liga oração e perdão: levar rancor para a oração é como tentar falar ao telefone com a linha cortada. Guardar mágoa trava a comunhão com Deus; soltar a ofensa reabre o canal.",
     "reflexao": "Liga oração e perdão: levar rancor para a oração trava a comunhão com Deus."
    },
    {
     "ref": "Lucas 6:37",
     "text": "Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; perdoai, e sereis perdoados.",
-    "contexto": "Parte do ensino de Jesus sobre não julgar.",
+    "contexto": "Parte do “Sermão da Planície”, em que Jesus ensina o jeito de viver do Reino a uma grande multidão. Aqui Ele estabelece uma medida recíproca: não julgar, não condenar e perdoar — e o que oferecemos aos outros nos será devolvido. O perdão que damos abre a porta do perdão que recebemos.",
     "ensino": "A medida que usamos com os outros volta para nós: “perdoai, e sereis perdoados”. É como um eco — o que se solta no vale é o que retorna. Reter o perdão é, no fundo, fechar a porta do próprio alívio.",
     "reflexao": "\"Perdoai, e sereis perdoados\": a medida que usamos com os outros volta para nós."
    },
    {
     "ref": "Lucas 23:34",
     "text": "Jesus, porém, dizia: Pai, perdoa-lhes; porque não sabem o que fazem. Então repartiram as vestes dele, deitando sortes sobre elas.",
-    "contexto": "Jesus na cruz, sendo executado injustamente.",
+    "contexto": "Lucas registra esta frase no momento da crucificação: Jesus, pregado na cruz por executores que zombavam Dele, ora “Pai, perdoa-lhes, porque não sabem o que fazem”. É o exemplo máximo do perdão, oferecido no auge da dor e da injustiça, a quem nem havia pedido desculpas.",
     "ensino": "Na cruz, sendo executado injustamente, Jesus ora “Pai, perdoa-lhes”. É o limite máximo do perdão: alcança até quem fere de propósito. Se Ele perdoou ali, o nosso “impossível de perdoar” ganha outra medida.",
     "reflexao": "O maior exemplo: Ele perdoa quem O mata. O perdão cristão alcança até a injustiça extrema."
    }
@@ -1398,7 +1398,7 @@ window.ESTUDOS = [
     "ref_text": "Quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que também vosso Pai que está no céu, vos perdoe as vossas ofensas."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu afastaste de mim os meus pecados, longe como o Oriente do Ocidente. Dá-me coragem para perdoar como fui perdoado, sem ficar contando as ofensas. Tira o rancor do meu coração, cura as feridas que ele guardou e liberta a minha oração de qualquer mágoa. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu afastaste de mim os meus pecados, tão longe quanto o Oriente está do Ocidente, e não os relembras mais. Dá-me coragem para perdoar como fui perdoado, sem ficar contando as ofensas nem cobrando dívidas. Tira o rancor do meu coração, cura as feridas que ele vinha guardando e liberta a minha oração de qualquer mágoa pendurada. Ajuda-me a dar o passo de reconciliação que Tu colocaste no meu caminho. Que o perdão me deixe livre. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Efésios 4:32",
@@ -1416,7 +1416,7 @@ window.ESTUDOS = [
   "emoji": "🏃",
   "accent": "#b5783a",
   "resumo": "Não desistir no meio do caminho.",
-  "oracao_abertura": "Senhor, é fácil começar e difícil terminar. Obrigado porque Tu não desistes de mim. Abre o meu entendimento e dá-me firmeza para não largar o que vale a pena quando o cansaço chegar. Fixa os meus olhos em Jesus e ensina-me a correr até o fim a corrida que puseste diante de mim. Em nome de Jesus, amém.",
+  "oracao_abertura": "Senhor, é fácil começar e difícil terminar, e Tu sabes quantas coisas eu deixei pelo caminho. Obrigado porque Tu nunca desistes de mim, mesmo quando eu quero desistir. Abre o meu entendimento, neste tempo, e dá-me firmeza para não largar o que vale a pena quando o cansaço chegar. Fixa os meus olhos em Jesus, que perseverou até a cruz por mim, e ensina-me a correr até o fim a corrida que puseste diante de mim. Tira do meu caminho os pesos que me atrasam. Em nome de Jesus, amém.",
   "texto_base": [
    "Hebreus 12:1",
    "Tiago 1:12"
@@ -1425,28 +1425,28 @@ window.ESTUDOS = [
    {
     "ref": "Gálatas 6:9",
     "text": "E não nos cansemos de fazer o bem, porque a seu tempo ceifaremos, se não houvermos desfalecido.",
-    "contexto": "Paulo encerra Gálatas exortando à prática do bem.",
+    "contexto": "Paulo encerra a carta aos Gálatas, igrejas que se desviavam do evangelho da graça, com exortações práticas. Aqui ele anima os cristãos cansados a não desistirem de fazer o bem, usando a imagem da colheita: a recompensa virá “a seu tempo”, desde que não desfaleçam no meio do caminho.",
     "ensino": "Quem planta hoje não colhe amanhã: há um tempo invisível embaixo da terra. Muita gente desiste do bem justo no período em que parece que nada acontece. “A seu tempo colheremos” — a colheita é real, só não é imediata.",
     "reflexao": "\"Não desfaleçamos\": a colheita vem a seu tempo para quem não desiste."
    },
    {
     "ref": "Filipenses 3:14",
     "text": "prossigo para o alvo pelo prêmio da vocação celestial de Deus em Cristo Jesus.",
-    "contexto": "Paulo, já maduro, fala de seguir adiante na fé.",
+    "contexto": "Paulo escreve aos Filipenses estando preso, e ainda assim com tom de alegria e foco. Ele se compara a um corredor: esquecendo o que ficou para trás (tanto os erros quanto os méritos), “prossegue para o alvo” a fim de alcançar o prêmio do chamado de Deus — a imagem da perseverança com os olhos na linha de chegada.",
     "ensino": "O corredor não olha para os concorrentes nem para os metros já corridos; olha para a linha de chegada. Paulo “prossegue para o alvo”, esquecendo o que ficou para trás. Perseverar é manter os olhos no destino, não nos tropeços do caminho.",
     "reflexao": "Ele \"prossegue para o alvo\": perseverança é seguir em frente, esquecendo o que ficou para trás."
    },
    {
     "ref": "1 Coríntios 15:58",
     "text": "Portanto, meus amados irmãos, sede firmes e constantes, sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor.",
-    "contexto": "Paulo encerra o capítulo da ressurreição.",
+    "contexto": "Este versículo encerra o grande capítulo da ressurreição. Depois de garantir que a morte foi vencida em Cristo e que os mortos ressuscitarão, Paulo conclui com uma aplicação prática: justamente porque há ressurreição, os cristãos devem permanecer “firmes e inabaláveis”, pois o trabalho feito no Senhor não é em vão.",
     "ensino": "Quando não vemos resultado, vem o “pra quê?”. Paulo responde: no Senhor, “o trabalho não é vão”. É como semear num solo que você não vê — Deus garante que nada feito por amor a Ele se perde.",
     "reflexao": "\"Firmes, inabaláveis\": o trabalho no Senhor não é em vão, o que sustenta a constância."
    },
    {
     "ref": "Apocalipse 2:10",
     "text": "Não temas o que hás de padecer. Eis que o Diabo está para lançar alguns de vós na prisão, para que sejais provados; e tereis uma tribulação de dez dias. Sê fiel até a morte, e dar-te-ei a coroa da vida.",
-    "contexto": "Carta de Jesus à igreja de Esmirna, que sofria perseguição.",
+    "contexto": "Faz parte da carta de Jesus à igreja de Esmirna, comunidade pobre e perseguida, prestes a sofrer ainda mais, com alguns indo para a prisão. Jesus não promete o fim do sofrimento, mas pede fidelidade “até à morte”, com a promessa da “coroa da vida” para quem perseverar.",
     "ensino": "Jesus diz isso a uma igreja perseguida. Fidelidade não é um sprint, é maratona até o fim. A coroa não é de quem começou bem, mas de quem permaneceu — como o diploma, que vem por terminar o curso, não por ir à primeira aula.",
     "reflexao": "\"Sê fiel até a morte\": a perseverança até o fim recebe a coroa da vida."
    }
@@ -1478,7 +1478,7 @@ window.ESTUDOS = [
     "ref_text": "fitando os olhos em Jesus, autor e consumador da nossa fé, o qual, pelo gozo que lhe está proposto, suportou a cruz, desprezando a ignomínia, e está assentado à direita do trono de Deus."
    }
   ],
-  "oracao_fechamento": "Pai, obrigado porque Tu sustentas quem persevera e nada feito em Ti é em vão. Tira de mim os pesos que me prendem e renova o meu ânimo quando eu quiser parar. Ajuda-me a olhar para o alvo, e não para os tropeços, e a ser fiel até o fim. Em nome de Jesus, amém.",
+  "oracao_fechamento": "Pai, obrigado porque Tu sustentas quem persevera e porque nada feito em Ti é em vão. Tira de mim os pesos e os hábitos que me prendem, e renova o meu ânimo cada vez que eu quiser parar. Ajuda-me a olhar para o alvo, e não para os tropeços, e a seguir em frente esquecendo o que ficou para trás. Dá-me a fidelidade dos que permanecem até o fim, confiando na recompensa que vem de Ti. E que a minha constância seja prova da minha fé. Em nome de Jesus, amém.",
   "texto_base_text": [
    {
     "ref": "Hebreus 12:1",
