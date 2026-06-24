@@ -1,6 +1,6 @@
 // Helpers das Functions (auth, hash de senha, sessões em D1)
 export function json(data, status = 200) {
-  return new Response(JSON.stringify(data), { status, headers: { 'Content-Type': 'application/json' } })
+  return new Response(JSON.stringify(data), { status, headers: { 'Content-Type': 'application/json', 'Cache-Control': 'no-store' } })
 }
 const enc = new TextEncoder()
 const buf2hex = (buf) => [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('')
