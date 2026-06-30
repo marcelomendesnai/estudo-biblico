@@ -26,16 +26,16 @@
    capitalização reverente só na Gaveta 2; texto bíblico intocável.
    =========================================================== */
 :root{
-  --azul-inst:#3a4a6b; --tinta:#2b3242; --tinta-suave:#5a6275; --nota:#8b93a6;
-  --palavra-bg:#fbf6ec; --palavra-borda:#c9a227;
-  --reflexao-bg:#ffffff; --reflexao-borda:#cdd6e6; --chip-bg:#eef2f9;
-  --sombra:0 6px 22px rgba(58,74,107,.12);
-  --creme:#f1e5d2; --madeira:#9A6638; --madeira-esc:#7E5230; --carvao:#2D2A26; --m2:#A0673C;
+  --azul-inst:#2f5bb7; --tinta:#1e2a44; --tinta-suave:#566179; --nota:#93a0b8;
+  --palavra-bg:#eef4fd; --palavra-borda:#2f5bb7;
+  --reflexao-bg:#ffffff; --reflexao-borda:#d8e3f5; --chip-bg:#eaf1fc;
+  --sombra:0 8px 24px rgba(47,91,183,.12);
+  --creme:#eef4fd; --madeira:#2f5bb7; --madeira-esc:#234a93; --carvao:#1e2a44; --m2:#2f5bb7;
 }
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%}
 body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; color:var(--tinta);
-  -webkit-font-smoothing:antialiased; font-variant-numeric:tabular-nums; background:#ece3d2; overflow:hidden}
+  -webkit-font-smoothing:antialiased; font-variant-numeric:tabular-nums; background:#dce6f5; overflow:hidden}
 .phone{position:relative; height:100vh; width:100%; max-width:430px; margin:0 auto; overflow:hidden; display:flex; flex-direction:column; background:#fff}
 
 /* ===== SPLASH (auto, sem botão) ===== */
@@ -99,12 +99,12 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 /* fim splash oficial */
 
 /* ===== HOME ===== */
-#auth{position:absolute; inset:0; z-index:150; display:none; flex-direction:column; align-items:center; justify-content:center; padding:24px; background:linear-gradient(170deg,#fcf8f1,#f1e3cd); overflow-y:auto}
-.auth-card{background:#fff; border:1px solid #ece3d3; border-radius:16px; box-shadow:var(--sombra); padding:26px 22px; width:100%; max-width:360px; display:flex; flex-direction:column; align-items:center}
+#auth{position:absolute; inset:0; z-index:150; display:none; flex-direction:column; align-items:center; justify-content:center; padding:24px; background:linear-gradient(175deg,#ffffff,#e4ecfa); overflow-y:auto}
+.auth-card{background:#fff; border:1px solid #e6eefb; border-radius:16px; box-shadow:var(--sombra); padding:26px 22px; width:100%; max-width:360px; display:flex; flex-direction:column; align-items:center}
 .auth-ic{width:64px; height:64px; border-radius:16px; margin-bottom:8px}
 .auth-h{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:18pt; color:var(--tinta)}
 .auth-sub{font-size:9pt; color:var(--tinta-suave); margin:2px 0 16px}
-.auth-tabs{display:flex; gap:6px; width:100%; margin-bottom:14px; background:#f1eadd; border-radius:10px; padding:4px}
+.auth-tabs{display:flex; gap:6px; width:100%; margin-bottom:14px; background:#eef3fc; border-radius:10px; padding:4px}
 .auth-tab{flex:1; border:none; background:none; font-family:"DM Sans",sans-serif; font-weight:600; font-size:9.5pt; color:var(--tinta-suave); padding:8px; border-radius:8px; cursor:pointer}
 .auth-tab.on{background:#fff; color:var(--azul-inst); box-shadow:0 1px 4px rgba(0,0,0,.06)}
 .auth-in{width:100%; border:1px solid var(--reflexao-borda); border-radius:10px; padding:12px 13px; font-family:inherit; font-size:10pt; color:var(--tinta); margin-bottom:10px; background:#fff}
@@ -114,14 +114,14 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .trad-opt{flex:1; border:1px solid var(--reflexao-borda); background:#fff; border-radius:9px; padding:10px 4px; font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; color:var(--tinta); cursor:pointer; transition:.15s}
 .trad-opt.on{background:var(--madeira); color:#fff; border-color:var(--madeira)}
 .auth-hint{font-size:7.5pt; color:var(--nota); line-height:1.4; margin-bottom:6px}
-.auth-go{width:100%; background:var(--madeira); color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:11pt; border:none; border-radius:12px; padding:13px; cursor:pointer; margin-top:6px; box-shadow:0 8px 22px rgba(122,82,48,.26)}
+.auth-go{width:100%; background:var(--madeira); color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:11pt; border:none; border-radius:12px; padding:13px; cursor:pointer; margin-top:6px; box-shadow:0 8px 22px rgba(47,91,183,.26)}
 .auth-go:disabled{opacity:.6}
 .auth-err{color:#9a3a3a; font-size:8.5pt; margin-top:10px; min-height:12px; text-align:center}
 .m2-user{font-size:7.5pt; color:var(--nota); margin-top:4px}
 .m2-user a{color:var(--madeira-esc); font-weight:700}
-#home{flex:1; overflow-y:auto; padding:30px 20px 30px; display:none; flex-direction:column; background:linear-gradient(170deg,#fcf8f1,#f3eadb)}
+#home{flex:1; overflow-y:auto; padding:30px 20px 30px; display:none; flex-direction:column; background:linear-gradient(175deg,#ffffff,#e9f0fb)}
 .home-acts{display:flex; gap:7px}
-.btn-mini{background:#fff; border:1px solid #e0d5c2; color:var(--madeira-esc); font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; padding:7px 13px; border-radius:18px; cursor:pointer}
+.btn-mini{background:#fff; border:1px solid #cfe0f7; color:var(--madeira-esc); font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; padding:7px 13px; border-radius:18px; cursor:pointer}
 .btn-mini:active{transform:scale(.97)}
 .tema-card.done{border-color:#cfe3d4}
 .tema-card .done-badge{position:absolute; top:9px; right:10px; font-size:12pt}
@@ -132,18 +132,18 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 #trocavis{position:absolute; inset:0; z-index:160; background:rgba(43,50,66,.5); backdrop-filter:blur(3px); display:none; align-items:flex-end}
 .home-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:16px}
 .home-trad{font-size:8pt; color:var(--tinta-suave); font-weight:600}
-.home-sair{background:#fff; border:1px solid #e0d5c2; color:var(--madeira-esc); font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; padding:7px 15px; border-radius:18px; cursor:pointer}
+.home-sair{background:#fff; border:1px solid #cfe0f7; color:var(--madeira-esc); font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; padding:7px 15px; border-radius:18px; cursor:pointer}
 .home-sair:active{transform:scale(.97)}
 .home-h{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:22pt; color:var(--tinta); line-height:1.15}
 .home-h .it{font-style:italic; color:var(--madeira)}
 .home-sub{font-size:9pt; color:var(--tinta-suave); margin-top:6px; margin-bottom:20px}
 .btn-sortear{display:flex; align-items:center; justify-content:center; gap:9px; width:100%; background:var(--madeira); color:#fff;
   font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:14pt; letter-spacing:.2px; border:none; border-radius:14px; padding:15px 16px; cursor:pointer;
-  box-shadow:0 10px 26px rgba(122,82,48,.28); transition:.15s}
+  box-shadow:0 10px 26px rgba(47,91,183,.28); transition:.15s}
 .btn-sortear:active{transform:scale(.98)}
 .grid-titulo{font-size:7.5pt; font-weight:700; letter-spacing:1.5px; text-transform:uppercase; color:var(--nota); margin:24px 0 12px}
 .grid{display:grid; grid-template-columns:1fr 1fr; gap:11px}
-.tema-card{background:#fff; border:1px solid #ece3d3; border-radius:14px; padding:15px 14px; cursor:pointer; box-shadow:var(--sombra);
+.tema-card{background:#fff; border:1px solid #e6eefb; border-radius:14px; padding:15px 14px; cursor:pointer; box-shadow:var(--sombra);
   transition:.15s; position:relative; overflow:hidden}
 .tema-card:active{transform:scale(.97)}
 .tema-card .em{font-size:21pt; line-height:1}
@@ -152,18 +152,18 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .tema-card .faixa{height:4px; border-radius:4px; width:34px; margin-top:10px}
 .tema-card.locked{opacity:.55}
 .tema-card .breve{position:absolute; top:10px; right:10px; font-size:6.5pt; font-weight:700; text-transform:uppercase; letter-spacing:.5px;
-  background:#efe7d8; color:#a98a63; padding:3px 7px; border-radius:10px}
-.btn-livre{margin-top:14px; width:100%; background:#fff; border:1px dashed #d8ccb6; color:var(--madeira-esc);
+  background:#e7eefb; color:#5a76b5; padding:3px 7px; border-radius:10px}
+.btn-livre{margin-top:14px; width:100%; background:#fff; border:1px dashed #c7d6f0; color:var(--madeira-esc);
   font-family:"DM Sans",sans-serif; font-weight:600; font-size:9.5pt; border-radius:14px; padding:14px; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:8px}
 .btn-livre small{display:block; font-weight:400; color:var(--nota); font-size:7.5pt}
 
-/* assinatura M2Labs (rodapé home) */
-.m2-foot{margin-top:30px; padding-top:18px; border-top:1px solid #e8ddc9; display:flex; flex-direction:column; align-items:center; gap:6px}
-.m2-row{display:flex; align-items:center; gap:8px}
-.m2-row img{width:26px; height:26px; border-radius:50%}
-.m2-row .w{font-family:"DM Sans",sans-serif; font-weight:700; font-size:11pt; color:var(--carvao)}
-.m2-row .w span{color:var(--m2)}
-.m2-by{font-family:"Fraunces",Georgia,serif; font-style:italic; font-size:8.5pt; color:#a98a63}
+/* identidade do app (rodapé home) */
+.app-foot{margin-top:30px; padding-top:18px; border-top:1px solid #e6eefb; display:flex; flex-direction:column; align-items:center; gap:5px}
+.app-row{display:flex; align-items:center; gap:9px}
+.app-row img{width:30px; height:30px; border-radius:9px}
+.app-row .w{font-family:"Fraunces",Georgia,serif; font-weight:600; font-size:13pt; color:var(--azul-inst)}
+.app-tag{font-family:"Fraunces",Georgia,serif; font-style:italic; font-size:8.5pt; color:var(--tinta-suave); text-align:center}
+.app-user{font-size:7.5pt; color:var(--nota); margin-top:2px}
 
 /* ===== SELEÇÃO DE MODO ===== */
 #modo{position:absolute; inset:0; z-index:120; background:rgba(43,50,66,.5); backdrop-filter:blur(3px); display:none; align-items:flex-end}
@@ -235,7 +235,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .ob-body .esel{font-size:6.5pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--tinta-suave); display:block; margin-bottom:7px}
 .ob-body p{font-size:9.5pt; line-height:1.65; color:var(--tinta)}
 .ob-body .osec+.osec{margin-top:12px; padding-top:11px; border-top:1px dashed var(--reflexao-borda)}
-.ob-body .osec.ctx .esel{color:#9a7b2e}
+.ob-body .osec.ctx .esel{color:#3f6bd0}
 .ob-body .osec.ctx p{color:var(--tinta-suave)}
 .refs-titulo{font-size:7pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--tinta-suave); margin:4px 0 0}
 .chips{display:flex; flex-wrap:wrap; gap:8px}
@@ -249,7 +249,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .chip-texto .exp{margin-top:11px; padding-top:10px; border-top:1px dashed var(--palavra-borda)}
 .chip-texto .exp .esel{font-size:6.5pt; font-weight:700; letter-spacing:1px; text-transform:uppercase; color:var(--tinta-suave); display:block; margin-bottom:4px}
 .chip-texto .exp .etxt{font-size:9pt; line-height:1.5; color:var(--tinta-suave); font-style:italic}
-.chip-texto .exp.ctxblock .esel{color:#9a7b2e}
+.chip-texto .exp.ctxblock .esel{color:#3f6bd0}
 .chip-texto .exp.ctxblock .etxt{font-style:normal}
 
 /* interpretação comparativa (visões lado a lado) */
@@ -286,7 +286,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .fim .em{font-size:40pt}
 .fim h2{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:18pt; color:var(--tinta)}
 .fim p{font-size:9.5pt; color:var(--tinta-suave); line-height:1.5; max-width:280px}
-.fim .btn-home{background:var(--madeira); color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:10pt; border:none; border-radius:24px; padding:12px 30px; cursor:pointer; box-shadow:0 10px 24px rgba(122,82,48,.28)}
+.fim .btn-home{background:var(--madeira); color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:10pt; border:none; border-radius:24px; padding:12px 30px; cursor:pointer; box-shadow:0 10px 24px rgba(47,91,183,.28)}
 
 .rodape{position:absolute; bottom:0; left:0; right:0; z-index:10; padding:12px 18px 16px; background:linear-gradient(to top, rgba(255,255,255,.94), rgba(255,255,255,0))}
 .barra{height:3px; background:rgba(58,74,107,.15); border-radius:3px; overflow:hidden; margin-bottom:9px}
@@ -310,6 +310,52 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
   .reflexao p,.ap-q,.anota{font-size:10pt}
   .oracao p{font-size:13pt}
   .tela{padding:70px 26px 100px}
+}
+
+/* ===== TABLET (>=768): mais largo, grade 3 col, conteúdo centrado ===== */
+@media (min-width:768px){
+  .phone{max-width:720px; box-shadow:0 0 60px rgba(31,42,68,.10)}
+  #home{padding:42px 40px}
+  .home-h{font-size:27pt}
+  .grid{grid-template-columns:repeat(3,1fr); gap:14px}
+  .btn-sortear{max-width:560px}
+  .tela{align-items:center}
+  .tela>*{max-width:620px; width:100%}
+  .fim p{max-width:420px}
+}
+/* ===== DESKTOP (>=1024): sessão em 2 painéis (índice lateral + conteúdo) ===== */
+@media (min-width:1024px){
+  .phone{max-width:1120px}
+  #home{padding:54px 72px}
+  .home-h{font-size:32pt}
+  .home-sub{font-size:11pt; margin-bottom:26px}
+  .grid{grid-template-columns:repeat(4,1fr); gap:16px}
+  .btn-sortear{max-width:520px}
+  .app-foot{margin-top:46px}
+
+  .sidenav{display:flex; flex-direction:column; position:absolute; left:0; top:0; bottom:0; width:312px; z-index:20;
+    background:linear-gradient(180deg,#2f5bb7,#22407c); color:#fff; padding:30px 24px; overflow-y:auto}
+  .sidenav .sn-back{background:rgba(255,255,255,.16); border:none; color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:9pt; padding:8px 14px; border-radius:18px; cursor:pointer; align-self:flex-start; margin-bottom:20px}
+  .sidenav .sn-tema{font-family:"Fraunces",Georgia,serif; font-weight:500; font-size:21pt; line-height:1.15; margin-bottom:6px}
+  .sidenav .sn-modo{font-size:8.5pt; font-weight:700; letter-spacing:.5px; text-transform:uppercase; color:#cfe0ff; margin-bottom:24px}
+  .sidenav .sn-step{display:flex; align-items:center; gap:11px; padding:11px 12px; border-radius:11px; cursor:pointer; color:#dde7fb; font-family:"DM Sans",sans-serif; font-weight:600; font-size:10pt; transition:.15s}
+  .sidenav .sn-step:hover{background:rgba(255,255,255,.10)}
+  .sidenav .sn-step.on{background:#fff; color:var(--azul-inst)}
+  .sidenav .sn-step .sn-n{width:24px; height:24px; border-radius:50%; background:rgba(255,255,255,.22); color:#fff; display:inline-flex; align-items:center; justify-content:center; font-size:8.5pt; flex:none}
+  .sidenav .sn-step.on .sn-n{background:var(--azul-inst); color:#fff}
+  .sidenav .sn-step.done .sn-n{background:#9fd2ad; color:#1f3a24}
+  .sidenav .sn-foot{margin-top:auto; padding-top:18px; font-family:"Fraunces",Georgia,serif; font-style:italic; font-size:8.5pt; color:#cfe0ff}
+
+  #sessao .topo{left:312px; background:none; backdrop-filter:none; justify-content:flex-end; padding:18px 30px}
+  #sessao .topo .voltar{display:none}
+  #sessao .tema-top{display:none}
+  .trilha-ctrl{right:30px; top:18px}
+  .trilho{margin-left:312px; width:calc(100% - 312px)}
+  .tela{align-items:center; padding:80px 50px 120px}
+  .tela>*{max-width:740px; width:100%}
+  .rodape{left:312px; background:linear-gradient(to top, rgba(255,255,255,.96), rgba(255,255,255,0))}
+  .etapa-titulo{font-size:20pt}
+  .palavra .versiculo{font-size:15pt}
 }
 </style>
 </head>
@@ -366,10 +412,10 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
     <div class="grid-titulo">Temas <span id="prog-count"></span></div>
     <div class="grid" id="grid"></div>
     <button class="btn-livre" onclick="temaLivre()">✍️ Tema livre<small>digite qualquer assunto (em breve, requer API)</small></button>
-    <div class="m2-foot">
-      <div class="m2-row"><img src="icon-192.png" alt=""><span class="w">M<span>2</span>Labs</span></div>
-      <div class="m2-by">por Marcelo Mendes</div>
-      <div class="m2-user"><span id="user-info"></span> · <a href="#" onclick="logout();return false;">Sair</a></div>
+    <div class="app-foot">
+      <div class="app-row"><img src="icon-192.png" alt="Estudo Bíblico"><span class="w">Estudo Bíblico</span></div>
+      <div class="app-tag">"Lâmpada para os meus pés é a Tua palavra."</div>
+      <div class="app-user"><span id="user-info"></span></div>
     </div>
   </div>
 
@@ -406,6 +452,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 
   <!-- SESSÃO -->
   <div id="sessao">
+    <div class="sidenav" id="sidenav"></div>
     <div class="topo">
       <button class="voltar" onclick="voltarHome()" title="Voltar">&#8592;</button>
       <div class="tema-top" id="sessao-tema">Tema</div>
@@ -504,6 +551,7 @@ function iniciar(modo){
   // dots
   const dotsBox=$('#dots'); dotsBox.innerHTML='';
   for(let k=0;k<total;k++){const d=document.createElement('span');d.className='dot';dotsBox.appendChild(d);}
+  montarSidenav(e,modo);
   ligarInterativos();
   $('#home').style.display='none'; $('#sessao').style.display='flex';
   render();
@@ -580,6 +628,19 @@ function telaFim(e){
     <button class="btn-mark" onclick="marcarConcluido('${e.id}',this)">Marcar como concluído ✅</button>
     <button class="btn-home" onclick="voltarHome()">Voltar ao início</button></section>`;
 }
+function rotulos(modo){ return modo==='rapido'
+  ? ['Oração de abertura','Texto base','Aplicação','Oração de fechamento','Conclusão']
+  : ['Oração de abertura','Texto base','Observação','Interpretação','Aplicação','Oração de fechamento','Conclusão']; }
+function montarSidenav(e,modo){
+  const sn=$('#sidenav'); if(!sn) return;
+  const labs=rotulos(modo);
+  sn.innerHTML='<button class="sn-back" onclick="voltarHome()">\u2190 Início</button>'
+    +'<div class="sn-tema">'+esc(e.tema)+'</div>'
+    +'<div class="sn-modo">'+(modo==='rapido'?'Modo rápido':'Modo profundo')+'</div>'
+    +labs.map((l,k)=>'<div class="sn-step" data-k="'+k+'" onclick="goTo('+k+')"><span class="sn-n">'+(k+1)+'</span><span>'+l+'</span></div>').join('')
+    +'<div class="sn-foot">"Lâmpada para os meus pés é a Tua palavra."</div>';
+}
+function goTo(k){ if(k>=0 && k<total){ i=k; render(); } }
 function montarTelas(e,modo){
   if(modo==='rapido'){
     return [
@@ -605,6 +666,7 @@ function montarTelas(e,modo){
 function render(){
   $('#trilho').style.transform=`translateX(-${i*100}%)`;
   [...$('#dots').children].forEach((d,k)=>d.classList.toggle('on',k===i));
+  document.querySelectorAll('#sidenav .sn-step').forEach((st,k)=>{ st.classList.toggle('on',k===i); st.classList.toggle('done',k<i); });
   $('#barra').style.width=((i+1)/total*100)+'%';
   $('#passoTxt').textContent=`Etapa ${i+1} de ${total}`;
   $('#btnPrev').disabled=(i===0);

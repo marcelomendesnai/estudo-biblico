@@ -1,7 +1,7 @@
 {
   "name": "Estudo Bíblico",
   "short_name": "Estudo",
-  "description": "Estudos bíblicos guiados — M2Labs",
+  "description": "Estudos bíblicos guiados — uma jornada na Palavra.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#faf6ef",
