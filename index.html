@@ -635,7 +635,6 @@ function telaInterp(e){
 }
 function telaAplica(e){
   let aps=e.aplicacao.map(o=>`<div class="ap"><div class="ap-q">${esc(o.q)}</div>
-    <textarea class="anota" placeholder="Sua resposta (fica só no seu aparelho)..."></textarea>
     <button class="ap-toggle">Ver orientação <span class="seta">&#9662;</span></button>
     <div class="ap-a"><div class="a-verso"><div class="selo">&#10022; Palavra</div><div class="ref">${o.ref}</div><div class="v">${esc(o.ref_text)}</div></div>
     <div class="ap-orient"><span class="esel">&#9670; Orientação</span><span class="otxt">${esc(o.orient)}</span></div></div></div>`).join('');
@@ -700,21 +699,31 @@ $('#trilho').addEventListener('touchend',e=>{ if(x0===null)return; const dx=e.ch
   if(dx<-40&&i<total-1){i++;render();} if(dx>40&&i>0){i--;render();} x0=null;});
 
 /* ===== interativos (acordeões + refs) ligados após montar ===== */
+function kickScroll(el){
+  /* forca o container .tela a recalcular a altura de rolagem depois que uma caixa expande/recolhe.
+     sem isso, no iOS a barra de rolagem fica com o tamanho de quando tudo estava fechado e o
+     conteudo revelado pelo accordion fica preso, sem rolar. */
+  const tela=el.closest('.tela'); if(!tela) return;
+  tela.style.overflowY='hidden';
+  void tela.offsetHeight;
+  tela.style.overflowY='auto';
+}
 function ligarInterativos(){
-  document.querySelectorAll('#trilho .qa .q').forEach(q=> q.onclick=()=> q.parentElement.classList.toggle('aberto'));
-  document.querySelectorAll('#trilho .ob-head').forEach(b=> b.onclick=()=> b.parentElement.classList.toggle('aberto'));
-  document.querySelectorAll('#trilho .ap .ap-toggle').forEach(b=> b.onclick=()=> b.parentElement.classList.toggle('aberto'));
+  document.querySelectorAll('#trilho .qa .q').forEach(q=> q.onclick=()=>{ q.parentElement.classList.toggle('aberto'); kickScroll(q); });
+  document.querySelectorAll('#trilho .ob-head').forEach(b=> b.onclick=()=>{ b.parentElement.classList.toggle('aberto'); kickScroll(b); });
+  document.querySelectorAll('#trilho .ap .ap-toggle').forEach(b=> b.onclick=()=>{ b.parentElement.classList.toggle('aberto'); kickScroll(b); });
   document.querySelectorAll('#trilho .chips').forEach(box=>{
     const ct=box.querySelector('.chip-texto');
     box.querySelectorAll('.chip').forEach(c=> c.onclick=()=>{
       const ja=c.classList.contains('aberto');
       box.querySelectorAll('.chip').forEach(x=>x.classList.remove('aberto'));
-      if(ja){ct.classList.remove('aberto');return;}
+      if(ja){ct.classList.remove('aberto');kickScroll(c);return;}
       c.classList.add('aberto');
       ct.innerHTML=`<div class="ref">${c.dataset.ref}</div><div class="v">${c.dataset.v}</div>`+
         `<div class="exp ctxblock"><span class="esel">&#128220; Contexto — onde e a quem</span><span class="etxt">${c.dataset.ctx}</span></div>`+
         `<div class="exp"><span class="esel">&#9670; Reflexão — por que entra aqui</span><span class="etxt">${c.dataset.exp}</span></div>`;
       ct.classList.add('aberto');
+      kickScroll(c);
     });
   });
 }
