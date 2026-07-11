@@ -5,6 +5,7 @@ export async function onRequestPost({ request, env }) {
     const { email, password, tradicao } = await request.json()
     const e = (email || '').trim().toLowerCase()
     if (!e || !password || password.length < 6) return json({ error: 'E-mail e senha (mín. 6 caracteres) são obrigatórios.' }, 400)
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e)) return json({ error: 'Digite um e-mail válido.' }, 400)
     if (!tradOk(tradicao)) return json({ error: 'Escolha uma tradição válida.' }, 400)
     if (await env.DB.prepare('SELECT id FROM users WHERE email = ?').bind(e).first()) return json({ error: 'E-mail já cadastrado.' }, 409)
     const now = Date.now()

@@ -121,7 +121,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .m2-user a{color:var(--madeira-esc); font-weight:700}
 #home{flex:1; overflow-y:auto; padding:30px 20px 30px; display:none; flex-direction:column; background:linear-gradient(175deg,#ffffff,#e9f0fb)}
 .home-acts{display:flex; gap:2px}
-.btn-mini{background:#eef3fc; border:none; color:var(--azul-inst); width:33px; height:33px; border-radius:50%; display:flex; align-items:center; justify-content:center; cursor:pointer; transition:.15s}
+.btn-mini{background:#eef3fc; border:none; color:var(--azul-inst); width:44px; height:44px; border-radius:50%; display:flex; align-items:center; justify-content:center; cursor:pointer; transition:.15s}
 .btn-mini svg{width:15px; height:15px; stroke-width:2.2}
 .btn-mini:active{background:#dde8fa; transform:scale(.92)}
 .tema-card.done{border-color:#cfe3d4}
@@ -133,9 +133,6 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 #trocavis{position:absolute; inset:0; z-index:160; background:rgba(43,50,66,.5); backdrop-filter:blur(3px); display:none; align-items:flex-end}
 .home-bar{display:flex; justify-content:space-between; align-items:center; gap:10px; margin-bottom:22px}
 .home-bar-solo{justify-content:flex-end}
-.home-brand{display:flex; align-items:center}
-.home-brand span{font-family:"DM Sans",sans-serif; font-weight:700; font-size:7.5pt; letter-spacing:1.4px; text-transform:uppercase; color:#a9b6cc}
-.home-top{display:flex; justify-content:space-between; align-items:center; margin-bottom:16px}
 .home-trad{font-size:8pt; color:var(--tinta-suave); font-weight:600; display:block; margin-bottom:14px}
 .home-sair{background:#fff; border:1px solid #cfe0f7; color:var(--madeira-esc); font-family:"DM Sans",sans-serif; font-weight:600; font-size:8.5pt; padding:7px 15px; border-radius:18px; cursor:pointer}
 .home-sair:active{transform:scale(.97)}
@@ -158,9 +155,10 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .tema-card.locked{opacity:.55}
 .tema-card .breve{position:absolute; top:10px; right:10px; font-size:6.5pt; font-weight:700; text-transform:uppercase; letter-spacing:.5px;
   background:#e7eefb; color:#5a76b5; padding:3px 7px; border-radius:10px}
-.btn-livre{margin-top:14px; width:100%; background:#fff; border:1px dashed #c7d6f0; color:var(--madeira-esc);
-  font-family:"DM Sans",sans-serif; font-weight:600; font-size:9.5pt; border-radius:14px; padding:14px; cursor:pointer; display:flex; align-items:center; justify-content:center; gap:8px}
+.btn-livre{margin-top:14px; width:100%; background:#f7f9fc; border:1px dashed #c7d6f0; color:var(--tinta-suave); opacity:.7;
+  font-family:"DM Sans",sans-serif; font-weight:600; font-size:9.5pt; border-radius:14px; padding:14px; cursor:not-allowed; display:flex; align-items:center; justify-content:center; gap:8px}
 .btn-livre small{display:block; font-weight:400; color:var(--nota); font-size:7.5pt}
+.btn-livre .breve-tag{font-size:6.5pt; font-weight:700; text-transform:uppercase; letter-spacing:.5px; background:#e7eefb; color:#5a76b5; padding:3px 7px; border-radius:10px}
 
 /* identidade do app (rodapé home) — assinatura M2Labs oficial (padrao dos apps do Marcelo) */
 .app-foot{margin-top:34px; padding-top:22px; border-top:1px solid #e6eefb; display:flex; flex-direction:column; align-items:center; gap:14px}
@@ -337,7 +335,6 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 @media (min-width:1024px){
   .phone{max-width:1120px}
   #home{padding:30px 72px 54px}
-  .home-brand span{font-size:8.5pt}
   .home-h{font-size:32pt}
   .home-sub{font-size:11pt; margin-bottom:26px}
   .grid{grid-template-columns:repeat(4,1fr); gap:16px}
@@ -425,7 +422,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
     <button class="btn-sortear" onclick="sortear()">Sortear um tema</button>
     <div class="grid-titulo">Temas <span id="prog-count"></span></div>
     <div class="grid" id="grid"></div>
-    <button class="btn-livre" onclick="temaLivre()">Tema livre<small>digite qualquer assunto (em breve, requer API)</small></button>
+    <button class="btn-livre" onclick="temaLivre()">Tema livre <span class="breve-tag">Em breve</span><small>digite qualquer assunto (requer API própria)</small></button>
     <div class="app-foot">
       <div class="app-tag">"Lâmpada para os meus pés é a Tua palavra."</div>
       <footer class="m2-sig">
@@ -443,10 +440,10 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
     <div class="modo-sheet">
       <h3>Mudar visão</h3>
       <div class="mt-sub">Escolha qual corrente você quer ver nos temas com visões diferentes.</div>
-      <div class="auth-trads">
-        <button type="button" class="trad-opt" onclick="setVisao('catolica')">Católico</button>
-        <button type="button" class="trad-opt" onclick="setVisao('evangelica')">Evangélico</button>
-        <button type="button" class="trad-opt" onclick="setVisao('ambos')">Ambos</button>
+      <div class="auth-trads" id="trocavis-opts">
+        <button type="button" class="trad-opt" data-t="catolica" onclick="setVisao('catolica')">Católico</button>
+        <button type="button" class="trad-opt" data-t="evangelica" onclick="setVisao('evangelica')">Evangélico</button>
+        <button type="button" class="trad-opt" data-t="ambos" onclick="setVisao('ambos')">Ambos</button>
       </div>
       <button class="modo-cancel" onclick="document.getElementById('trocavis').style.display='none'">Cancelar</button>
     </div>
@@ -504,15 +501,31 @@ window.ESTUDOS = [{"id": "fe", "tema": "Fé", "emoji": "✨", "accent": "#c9a227
 /* ===== util ===== */
 const $=s=>document.querySelector(s);
 window.USER=null; window.PROGRESS={}; let authMode='login', tradSel=null;
-function authTab(m){authMode=m;document.getElementById('tab-login').classList.toggle('on',m==='login');document.getElementById('tab-signup').classList.toggle('on',m==='signup');document.getElementById('auth-trad-wrap').style.display=m==='signup'?'block':'none';document.getElementById('auth-go').textContent=m==='signup'?'Criar conta':'Entrar';document.getElementById('auth-sub').textContent=m==='signup'?'Crie sua conta':'Entre para começar';document.getElementById('auth-err').textContent='';}
+function authTab(m){authMode=m;document.getElementById('tab-login').classList.toggle('on',m==='login');document.getElementById('tab-signup').classList.toggle('on',m==='signup');document.getElementById('auth-trad-wrap').style.display=m==='signup'?'block':'none';document.getElementById('auth-go').textContent=m==='signup'?'Criar conta':'Entrar';document.getElementById('auth-sub').textContent=m==='signup'?'Crie sua conta':'Entre para começar';document.getElementById('auth-err').textContent='';document.getElementById('auth-pass').autocomplete=m==='signup'?'new-password':'current-password';}
 function pickTrad(b){tradSel=b.dataset.t;document.querySelectorAll('.trad-opt').forEach(x=>x.classList.remove('on'));b.classList.add('on');}
-async function authSubmit(){var email=document.getElementById('auth-email').value.trim();var password=document.getElementById('auth-pass').value;var err=document.getElementById('auth-err');err.textContent='';if(!email||!password){err.textContent='Preencha e-mail e senha.';return;}var go=document.getElementById('auth-go');go.disabled=true;var lbl=authMode==='signup'?'Criar conta':'Entrar';go.textContent='...';try{var body={email:email,password:password},url='/api/login';if(authMode==='signup'){if(!tradSel){err.textContent='Escolha uma tradição.';go.disabled=false;go.textContent=lbl;return;}body.tradicao=tradSel;url='/api/signup';}var r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});var j=await r.json();if(!r.ok){err.textContent=j.error||'Erro.';go.disabled=false;go.textContent=lbl;return;}localStorage.setItem('eb_token',j.token);window.USER=j.user;showHome();}catch(e){err.textContent='Falha de conexão.';}go.disabled=false;go.textContent=lbl;}
-async function bootApp(){var token=localStorage.getItem('eb_token');if(token){try{var r=await fetch('/api/me',{cache:'no-store',headers:{Authorization:'Bearer '+token}});if(r.ok){var j=await r.json();window.USER=j.user;showHome();return;}}catch(e){}localStorage.removeItem('eb_token');}showAuth();}
+async function authSubmit(){var email=document.getElementById('auth-email').value.trim();var password=document.getElementById('auth-pass').value;var err=document.getElementById('auth-err');err.textContent='';if(!email||!password){err.textContent='Preencha e-mail e senha.';return;}if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){err.textContent='Digite um e-mail válido.';return;}var go=document.getElementById('auth-go');go.disabled=true;var lbl=authMode==='signup'?'Criar conta':'Entrar';go.textContent='...';try{var body={email:email,password:password},url='/api/login';if(authMode==='signup'){if(!tradSel){err.textContent='Escolha uma tradição.';go.disabled=false;go.textContent=lbl;return;}body.tradicao=tradSel;url='/api/signup';}var r=await fetch(url,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});var j=await r.json();if(!r.ok){err.textContent=j.error||'Erro.';go.disabled=false;go.textContent=lbl;return;}localStorage.setItem('eb_token',j.token);window.USER=j.user;showHome();}catch(e){err.textContent='Falha de conexão.';}go.disabled=false;go.textContent=lbl;}
+async function bootApp(){
+  var token=localStorage.getItem('eb_token');
+  if(token){
+    try{
+      var r=await fetch('/api/me',{cache:'no-store',headers:{Authorization:'Bearer '+token}});
+      if(r.ok){ var j=await r.json(); window.USER=j.user; showHome(); return; }
+      if(r.status===401||r.status===403){ localStorage.removeItem('eb_token'); }
+    }catch(e){
+      toast('Sem conexão. Tente novamente.');
+    }
+  }
+  showAuth();
+}
 function showAuth(){document.getElementById('auth').style.display='flex';document.getElementById('home').style.display='none';}
 async function loadProgress(){var tk=localStorage.getItem('eb_token');if(!tk){window.PROGRESS={};return;}try{var r=await fetch('/api/progress',{cache:'no-store',headers:{Authorization:'Bearer '+tk}});if(r.ok){var j=await r.json();window.PROGRESS=j.done||{};}}catch(e){window.PROGRESS=window.PROGRESS||{};}}
-async function marcarConcluido(id,btn){var tk=localStorage.getItem('eb_token');try{var r=await fetch('/api/progress',{method:'POST',headers:{'Content-Type':'application/json',Authorization:'Bearer '+tk},body:JSON.stringify({id:id,done:true})});var j=await r.json();if(r.ok){window.PROGRESS=window.PROGRESS||{};window.PROGRESS[id]=j.done_at||Date.now();if(btn){btn.innerHTML='Concluído';btn.classList.add('feito');btn.disabled=true;}toast('Estudo marcado como concluído');}}catch(e){toast('Não consegui salvar agora');}}
-function abrirTroca(){document.getElementById('trocavis').style.display='flex';}
-async function setVisao(t){var tk=localStorage.getItem('eb_token');try{var r=await fetch('/api/tradicao',{method:'POST',headers:{'Content-Type':'application/json',Authorization:'Bearer '+tk},body:JSON.stringify({tradicao:t})});if(r.ok){window.USER.tradicao=t;document.getElementById('trocavis').style.display='none';showHome();toast('Visão atualizada');}}catch(e){}}
+async function marcarConcluido(id,btn){var tk=localStorage.getItem('eb_token');try{var r=await fetch('/api/progress',{method:'POST',headers:{'Content-Type':'application/json',Authorization:'Bearer '+tk},body:JSON.stringify({id:id,done:true})});var j=await r.json();if(r.ok){window.PROGRESS=window.PROGRESS||{};window.PROGRESS[id]=j.done_at||Date.now();if(btn){btn.innerHTML='Concluído';btn.classList.add('feito');btn.disabled=true;}toast('Estudo marcado como concluído.');}else{toast('Não consegui salvar. Tente de novo.');}}catch(e){toast('Sem conexão agora. Tente de novo.');}}
+function abrirTroca(){
+  document.getElementById('trocavis').style.display='flex';
+  var atual=window.USER&&window.USER.tradicao;
+  document.querySelectorAll('#trocavis-opts .trad-opt').forEach(function(b){ b.classList.toggle('on', b.dataset.t===atual); });
+}
+async function setVisao(t){var tk=localStorage.getItem('eb_token');try{var r=await fetch('/api/tradicao',{method:'POST',headers:{'Content-Type':'application/json',Authorization:'Bearer '+tk},body:JSON.stringify({tradicao:t})});if(r.ok){window.USER.tradicao=t;document.getElementById('trocavis').style.display='none';showHome();toast('Visão atualizada.');}else{toast('Não consegui salvar. Tente de novo.');}}catch(e){toast('Sem conexão agora. Tente de novo.');}}
 async function showHome(){document.getElementById('auth').style.display='none';document.getElementById('home').style.display='flex';await loadProgress();renderHome();var lbl=window.USER?(({catolica:'Católico',evangelica:'Evangélico',ambos:'Ambos'}[window.USER.tradicao])||window.USER.tradicao):'';var u=document.getElementById('user-info');if(u&&window.USER)u.textContent=window.USER.email+' · '+lbl;var ht=document.getElementById('home-trad');if(ht&&window.USER)ht.textContent='Tradição: '+lbl;}
 function logout(){var t=localStorage.getItem('eb_token');if(t)fetch('/api/logout',{method:'POST',headers:{Authorization:'Bearer '+t}}).catch(function(){});localStorage.removeItem('eb_token');window.USER=null;showAuth();}
 function toast(t){const el=$('#toast');el.textContent=t;el.classList.add('on');setTimeout(()=>el.classList.remove('on'),2200);}
@@ -549,7 +562,7 @@ function sortear(){
   const e=livres[Math.floor(Math.random()*livres.length)];
   abrirModo(e.id);
 }
-function temaLivre(){ toast('Tema livre chega na próxima fase (com API)'); }
+function temaLivre(){ toast('Tema livre chega na próxima fase (com API).'); }
 
 /* ===== MODO ===== */
 let temaSel=null;
@@ -643,9 +656,13 @@ function telaAplica(e){
     ${aps}</section>`;
 }
 function telaFim(e){
+  const done=(window.PROGRESS||{})[e.id];
+  const btn=done
+    ? `<button class="btn-mark feito" disabled>Concluído${done?` em ${fmtData(done)}`:''}</button>`
+    : `<button class="btn-mark" onclick="marcarConcluido('${e.id}',this)">Marcar como concluído</button>`;
   return `<section class="tela fim"><div class="em">${e.emoji}</div><h2>Estudo concluído</h2>
     <p>Que a Palavra de hoje sobre ${e.tema.toLowerCase()} caminhe com você. Volte quando quiser.</p>
-    <button class="btn-mark" onclick="marcarConcluido('${e.id}',this)">Marcar como concluído</button>
+    ${btn}
     <button class="btn-home" onclick="voltarHome()">Voltar ao início</button></section>`;
 }
 function rotulos(modo){ return modo==='rapido'
