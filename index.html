@@ -298,7 +298,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
 .fim p{font-size:9.5pt; color:var(--tinta-suave); line-height:1.5; max-width:280px}
 .fim .btn-home{background:var(--madeira); color:#fff; font-family:"DM Sans",sans-serif; font-weight:600; font-size:10pt; border:none; border-radius:24px; padding:12px 30px; cursor:pointer; box-shadow:0 10px 24px rgba(47,91,183,.28)}
 
-.rodape{position:absolute; bottom:0; left:0; right:0; z-index:10; padding:12px 18px 16px; background:linear-gradient(to top, rgba(255,255,255,.94), rgba(255,255,255,0))}
+.rodape{position:absolute; bottom:0; left:0; right:0; z-index:10; padding:22px 18px 16px; background:linear-gradient(to top, #fff 62%, rgba(255,255,255,0))}
 .barra{height:3px; background:rgba(58,74,107,.15); border-radius:3px; overflow:hidden; margin-bottom:9px}
 .barra span{display:block; height:100%; background:var(--azul-inst); border-radius:3px; transition:width .45s}
 .passo-txt{font-size:7pt; color:var(--nota); font-weight:700; text-align:center; margin-bottom:6px}
@@ -364,7 +364,7 @@ body{font-family:"Segoe UI",-apple-system,system-ui,sans-serif; font-size:8pt; c
   .trilho{margin-left:312px; width:calc(100% - 312px)}
   .tela{align-items:center; padding:80px 50px 120px}
   .tela>*{max-width:740px; width:100%}
-  .rodape{left:312px; background:linear-gradient(to top, rgba(255,255,255,.96), rgba(255,255,255,0))}
+  .rodape{left:312px; background:linear-gradient(to top, #fff 62%, rgba(255,255,255,0))}
   .etapa-titulo{font-size:20pt}
   .palavra .versiculo{font-size:15pt}
 }
@@ -583,11 +583,12 @@ function telaOracao(rot,titulo,texto){
 }
 function telaTexto(e){
   let v=e.texto_base_text.map(t=>`<div class="ref">${t.ref}</div><div class="versiculo">${esc(t.text)}</div>`).join('');
-  return `<section class="tela"><div class="etapa-rotulo">Texto base</div>
-    
+  return `<section class="tela"><div class="etapa-rotulo">Observação</div>
+    <div class="etapa-titulo">O que o texto diz</div>
     <div class="palavra"><div class="selo">&#10022; Palavra</div>${v}</div></section>`;
 }
 function telaObserva(e){
+  let vb=e.texto_base_text.map(t=>`<div class="ref">${t.ref}</div><div class="versiculo">${esc(t.text)}</div>`).join('');
   const novo = e.observacao[0] && e.observacao[0].ensino;
   let corpo;
   if(novo){
@@ -597,6 +598,7 @@ function telaObserva(e){
   }
   return `<section class="tela"><div class="etapa-rotulo">Observação</div>
     <div class="etapa-titulo">O que o texto diz</div>
+    <div class="palavra"><div class="selo">&#10022; Palavra</div>${vb}</div>
     ${corpo}</section>`;
 }
 function vrefs(list){ return list.map(r=>`<div class="vref"><div class="selo">&#10022; Palavra</div><div class="ref">${r.ref}</div><div class="v">${esc(r.text)}</div></div>`).join(''); }
@@ -648,8 +650,8 @@ function telaFim(e){
     <button class="btn-home" onclick="voltarHome()">Voltar ao início</button></section>`;
 }
 function rotulos(modo){ return modo==='rapido'
-  ? ['Oração de abertura','Texto base','Aplicação','Oração de fechamento','Conclusão']
-  : ['Oração de abertura','Texto base','Observação','Interpretação','Aplicação','Oração de fechamento','Conclusão']; }
+  ? ['Oração de abertura','Observação','Aplicação','Oração de fechamento','Conclusão']
+  : ['Oração de abertura','Observação','Interpretação','Aplicação','Oração de fechamento','Conclusão']; }
 function montarSidenav(e,modo){
   const sn=$('#sidenav'); if(!sn) return;
   const labs=rotulos(modo);
@@ -672,7 +674,6 @@ function montarTelas(e,modo){
   }
   return [
     telaOracao('Oração de abertura','',e.oracao_abertura),
-    telaTexto(e),
     telaObserva(e),
     telaInterp(e),
     telaAplica(e),
